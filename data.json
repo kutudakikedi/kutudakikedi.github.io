@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-16T09:08:34+00:00",
+  "site": {
+    "name": "Kutudaki Kedi",
+    "tagline": "Sorgula. Gözlemle. Keşfet.",
+    "description": "Yeni yayımlanan bilimsel makaleleri kısa videolara çeviriyorum. Her videonun kaynağı ve biraz daha uzun anlatımı burada.",
+    "channels": {
+      "YouTube": "https://www.youtube.com/@kutudaki-kedi"
+    },
+    "about": {
+      "heading": "Kutudaki Kedi hakkında",
+      "paragraphs": [
+        "Bu sitedeki yazılar ve videolar, bilimsel dergilerde ve araştırma kurumlarının kendi yayınlarında çıkmış çalışmalara dayanıyor. Her sayfanın altında kaynağın künyesi ve bağlantısı var; dilediğiniz an asıl makaleye gidip kendiniz okuyabilirsiniz.",
+        "Bilimsel makalelerin dili çoğu zaman ağırdır ve alan dışından birine kapalıdır. Biz bu dili gündelik Türkçeye indirirken yapay zekâdan yararlanıyoruz. Bu süreçte anlam kayması, fazla basitleştirme ya da yerini tam tutmayan bir benzetme ortaya çıkabilir. Amacımız bulguyu olduğundan büyük göstermek değil, merak uyandıracak kadar sadeleştirmek.",
+        "Bir içerikte hata olduğunu düşünüyorsanız bize yazın: kutudakikedistudio@gmail.com. Düzeltmeleri ciddiye alıyor, gerekirse sayfayı güncelliyoruz.",
+        "Hedefimiz popüler bilimin Türkiye'de ve dünyada yaygınlaşması, bilime duyulan ilginin ve güvenin artması."
+      ]
+    }
+  },
+  "categories": [
+    {
+      "slug": "fizik",
+      "label": "Fizik",
+      "count": 1,
+      "url": "kategori/fizik.html"
+    }
+  ],
+  "tags": [
+    {
+      "slug": "deney",
+      "label": "deney",
+      "count": 1,
+      "url": "etiket/deney.html"
+    },
+    {
+      "slug": "feynman",
+      "label": "feynman",
+      "count": 1,
+      "url": "etiket/feynman.html"
+    },
+    {
+      "slug": "foton",
+      "label": "foton",
+      "count": 1,
+      "url": "etiket/foton.html"
+    },
+    {
+      "slug": "kuantum",
+      "label": "kuantum",
+      "count": 1,
+      "url": "etiket/kuantum.html"
+    },
+    {
+      "slug": "parcacik-fizigi",
+      "label": "parçacık fiziği",
+      "count": 1,
+      "url": "etiket/parcacik-fizigi.html"
+    }
+  ],
+  "articles": [
+    {
+      "id": "proj_2a9944663d",
+      "slug": "2026-09-16-bir-fotonun-ayni-anda-1-4-milyon-yolu-denedigi-ilk-kez-goste",
+      "url": "yazi/2026-09-16-bir-fotonun-ayni-anda-1-4-milyon-yolu-denedigi-ilk-kez-goste.html",
+      "date": "2026-09-16T09:08:32.831280+00:00",
+      "date_text": "16 Eylül 2026",
+      "draft": false,
+      "title": "Bir Fotonun Aynı Anda 1,4 Milyon Yolu Denediği İlk Kez Gösterildi",
+      "standfirst": "Çin'deki bir deney, tek bir fotonun 1,4 milyon farklı yolu aynı anda izlediğini, Feynman'ın 1948 kuralını yaklaşık yüzde 95 doğrulukla doğrulayarak gösterdi.",
+      "paragraphs": [
+        "Kuantum dünyasında bir parçacığın A noktasından B noktasına nasıl gittiğini sormak, aslında doğru soru olmayabilir. 1948'de fizikçi Richard Feynman, tuhaf bir fikir öne sürdü: bir parçacık A'dan B'ye giderken tek bir yol izlemez, aradaki bütün olası yolları aynı anda, birbirine karışmış biçimde dener. Feynman'ın kuralına göre bu yolların hepsi sonuca eşit ağırlıkta katkı verir; aralarındaki tek fark, her yolun taşıdığı 'faz' denen bir tür saat konumudur. Bu fikir 78 yıl boyunca kuantum fiziğinde bir hesaplama yöntemi olarak kullanıldı, ama kimse bu iki varsayımı -tüm yolların toplandığını ve her yolun eşit ağırlıkta olduğunu- doğrudan bir deneyle sınamamıştı.",
+        "Guangzhou'daki Güney Çin Normal Üniversitesi'nden Yong-Li Wen ve ekibi, Shi-Liang Zhu önderliğinde, bu sınamayı Science Advances dergisinde 26 Ağustos 2026'da yayımladı. Deneyde tek tek fotonlar -dalga boyu 795 nanometre olan, kırmızıya yakın bir ışık- art arda dizilmiş, her biri 15 mikrometre genişliğinde yarıklardan geçirildi. Foton, beş ayrı zaman adımının her birinde 17 farklı konumdan birinde bulunabiliyordu; bu da toplam 1.419.857, yani 1,4 milyondan fazla farklı yolu ortaya çıkardı. Araştırmacılar bu yolların temel yapı taşı olan 85 adımı yüzde 98,5 duyarlılıkla ölçtü - önceki rekor yüzde 87,6'ydı - ve ışığın gerçekten tek tek fotonlardan oluştuğunu da ayrıca doğruladı.",
+        "Sonuç, Feynman'ın iki varsayımını da destekledi: ölçülen olasılık genlikleri, kuralın öngördüğü değerlerle yaklaşık yüzde 95 uyum gösterdi. Yani bir foton gerçekten de 1,4 milyon yolun hepsini aynı anda dener ve bu yolların her biri sonuca eşit ağırlıkta katkı sağlar, aynen Feynman'ın 1948'de öne sürdüğü gibi. Burada iki farklı sayıyı karıştırmamak gerekiyor: yüzde 98,5 deneyin ne kadar hassas ölçüldüğünü gösteriyordu, yüzde 95 ise ölçülen sonuçların kuralla ne kadar örtüştüğünü gösteriyor.",
+        "Yüzde 95 gibi bir uyum oranı, kuralın büyük ölçüde doğrulandığını gösteriyor ama mutlak bir kanıt anlamına gelmiyor; her deneyde olduğu gibi burada da bir miktar belirsizlik payı var. Yine de çalışmanın değeri şurada: 1948'den beri yalnızca kağıt üzerinde bir hesaplama yöntemi olarak kullanılan bu fikir, ilk kez doğrudan bir deneyle sınandı. Feynman'ın önerdiği 'bütün yollar aynı anda' resmi, artık laboratuvarda ölçülmüş bir sonuç haline geldi."
+      ],
+      "takeaway": "Doğa, tek bir fotonun 1,4 milyon yolu aynı anda izlediğini yüzde 95 doğrulukla gösterdi.",
+      "impact": "Yol integrali, parçacık fiziğinden kuantum alan teorisine kadar kuantum hesaplamalarının temelini oluşturuyor; bu deney, o temelin sadece matematiksel bir kolaylık değil, doğanın gerçek davranışı olabileceğini gösteriyor. Kaynak makale somut bir teknoloji ya da uygulama öne sürmüyor; bulgu şimdilik temel fizik anlayışını güçlendiren bir doğrulama olarak kalıyor.",
+      "category": {
+        "slug": "fizik",
+        "label": "Fizik",
+        "url": "kategori/fizik.html"
+      },
+      "tags": [
+        {
+          "slug": "kuantum",
+          "label": "kuantum",
+          "url": "etiket/kuantum.html"
+        },
+        {
+          "slug": "foton",
+          "label": "foton",
+          "url": "etiket/foton.html"
+        },
+        {
+          "slug": "feynman",
+          "label": "feynman",
+          "url": "etiket/feynman.html"
+        },
+        {
+          "slug": "parcacik-fizigi",
+          "label": "parçacık fiziği",
+          "url": "etiket/parcacik-fizigi.html"
+        },
+        {
+          "slug": "deney",
+          "label": "deney",
+          "url": "etiket/deney.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aeh1011"
+        }
+      ],
+      "image_credits": [
+        "NASA's Scientific Visualization Studio / Mark SubbaRao"
+      ],
+      "video": {
+        "youtube": "cvtZFwHNtAU"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/cvtZFwHNtAU"
+        }
+      ]
+    }
+  ]
+}
