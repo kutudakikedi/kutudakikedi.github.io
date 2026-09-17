@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T13:48:27+00:00",
+  "generated_at": "2026-09-17T13:53:30+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -29,11 +29,17 @@
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 1,
+      "count": 2,
       "url": "kategori/biyoloji.html"
     }
   ],
   "tags": [
+    {
+      "slug": "beyin",
+      "label": "beyin",
+      "count": 2,
+      "url": "etiket/beyin.html"
+    },
     {
       "slug": "ahtapot",
       "label": "ahtapot",
@@ -41,10 +47,16 @@
       "url": "etiket/ahtapot.html"
     },
     {
-      "slug": "beyin",
-      "label": "beyin",
+      "slug": "arilar",
+      "label": "arılar",
       "count": 1,
-      "url": "etiket/beyin.html"
+      "url": "etiket/arilar.html"
+    },
+    {
+      "slug": "bilissel-bilim",
+      "label": "bilişsel bilim",
+      "count": 1,
+      "url": "etiket/bilissel-bilim.html"
     },
     {
       "slug": "deney",
@@ -89,6 +101,18 @@
       "url": "etiket/rem-uykusu.html"
     },
     {
+      "slug": "sayisal-bilis",
+      "label": "sayısal biliş",
+      "count": 1,
+      "url": "etiket/sayisal-bilis.html"
+    },
+    {
+      "slug": "sifir",
+      "label": "sıfır",
+      "count": 1,
+      "url": "etiket/sifir.html"
+    },
+    {
       "slug": "uyku",
       "label": "uyku",
       "count": 1,
@@ -96,6 +120,64 @@
     }
   ],
   "articles": [
+    {
+      "id": "proj_5dba0552dd",
+      "slug": "2026-09-17-bal-arisi-beyni-sifiri-bile-en-az-diye-siralayabiliyor",
+      "url": "yazi/2026-09-17-bal-arisi-beyni-sifiri-bile-en-az-diye-siralayabiliyor.html",
+      "date": "2026-09-17T13:53:25.292703+00:00",
+      "date_text": "17 Eylül 2026",
+      "draft": false,
+      "title": "Bal arısı beyni sıfırı bile 'en az' diye sıralayabiliyor",
+      "standfirst": "Avustralyalı araştırmacılar, hiç görmediği boş bir kartı bal arılarının diğer tüm sayılı kartlardan 'daha az' olarak seçtiğini buldu.",
+      "paragraphs": [
+        "Sıfır kavramı matematik tarihine oldukça geç girdi ve uzun süre yalnızca gelişmiş, büyük beyinlerin kavrayabileceği soyut bir fikir sanıldı. İnsanlar ve bazı primatlar sıfırı sayısal bir sırada 'en az' olarak tanıyabiliyor, ama bunun için ne kadar karmaşık bir sinir sistemi gerektiği uzun süre açık bir soruydu. Howard ve arkadaşlarının Science dergisinde yayımladığı çalışma bu soruyu çok daha küçük bir beyinle, bal arısıyla test etti. Arı beyninde yaklaşık bir milyon nöron bulunuyor; bu da onu insan beynine kıyasla son derece sade bir sinir ağı yapıyor.",
+        "Araştırmacılar önce arıları basit bir kuralla eğitti: iki kart arasından üzerinde daha az şekil olanı seçen arıya ödül olarak şekerli su verildi. Eğitimde kullanılan kartlarda birden altıya kadar şekil vardı, boş kart hiçbir zaman gösterilmedi. Test aşamasında ise arılara ilk kez, hiç görmedikleri boş bir kart, sayılı kartların yanında sunuldu. Arılar bu boş kartı, öğrenmeden tanımadıkları halde, rastlantı düzeyinin üzerinde bir oranda 'daha az' olarak seçti; boş kart tek şekilli kartla karşılaştırıldığında bile doğruluk yüzde 64'e ulaştı.",
+        "Sonuçlarda insan ve maymun çalışmalarından bilinen bir örüntü de ortaya çıktı: arılar sıfırı altı şekilli kartla karşılaştırdığında, bire yakın kartlarla karşılaştırdığından çok daha az yanıldı. Sayısal uzaklık etkisi denen bu örüntüye göre, iki sayı arasındaki fark büyüdükçe ayırt etmek kolaylaşıyor. Araştırmacılara göre bu, yaklaşık bir milyon nörona sahip bir böcek beyninin bile sıfırı sayısal bir sıralamanın en altına yerleştirebildiğini gösteriyor. Ama makale bunun sıfırın tam anlamıyla kavrandığı anlamına gelmediğini özellikle belirtiyor; gösterilen şey, boş kümenin sayısal sırada işlenebildiği, insan matematiğindeki soyut sıfır fikriyle bir tutulmaması gerekiyor."
+      ],
+      "takeaway": "Bal arısı beyni, hiç görmediği boş kartı diğer tüm sayılardan 'daha az' olarak seçti.",
+      "impact": "Bu çalışma şimdilik doğrudan bir uygulamadan çok temel bir soruya cevap arıyor: soyut sayısal fikirler için ne kadar karmaşık bir beyin gerekiyor? Yaklaşık bir milyon nöronla çalışan bir böcek beyninin sıfırı sıralayabilmesi, sayısal biliş ve hayvan zekâsı araştırmalarına yeni bir karşılaştırma noktası sunuyor.",
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "arilar",
+          "label": "arılar",
+          "url": "etiket/arilar.html"
+        },
+        {
+          "slug": "sifir",
+          "label": "sıfır",
+          "url": "etiket/sifir.html"
+        },
+        {
+          "slug": "sayisal-bilis",
+          "label": "sayısal biliş",
+          "url": "etiket/sayisal-bilis.html"
+        },
+        {
+          "slug": "bilissel-bilim",
+          "label": "bilişsel bilim",
+          "url": "etiket/bilissel-bilim.html"
+        },
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science (2018)",
+          "url": "https://doi.org/10.1126/science.aar4975"
+        }
+      ],
+      "image_credits": [],
+      "video": {},
+      "watch": []
+    },
     {
       "id": "proj_071c72fef3",
       "slug": "2026-09-17-uyuyan-ahtapotlarda-renk-degistiren-gizemli-uyku-evresi",
