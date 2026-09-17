@@ -1,12 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T13:46:29+00:00",
+  "generated_at": "2026-09-17T13:48:27+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
     "description": "Yeni yayımlanan bilimsel makaleleri kısa videolara çeviriyorum. Her videonun kaynağı ve biraz daha uzun anlatımı burada.",
     "channels": {
-      "YouTube": "https://www.youtube.com/@kutudaki-kedi"
+      "YouTube": "https://www.youtube.com/@kutudaki-kedi",
+      "TikTok": "https://www.tiktok.com/@kutudaki_kedi"
     },
     "about": {
       "heading": "Kutudaki Kedi hakkında",
