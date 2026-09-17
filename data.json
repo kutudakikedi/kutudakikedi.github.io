@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T13:53:30+00:00",
+  "generated_at": "2026-09-17T14:00:03+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -175,8 +175,15 @@
         }
       ],
       "image_credits": [],
-      "video": {},
-      "watch": []
+      "video": {
+        "youtube": "jw0nVbpOjSo"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/jw0nVbpOjSo"
+        }
+      ]
     },
     {
       "id": "proj_071c72fef3",
@@ -236,8 +243,15 @@
         "Pophale ve ekibi, Nature 2023 (CC BY 4.0)",
         "OIST (CC BY 4.0)"
       ],
-      "video": {},
-      "watch": []
+      "video": {
+        "youtube": "AzKKCUFm0H4"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/AzKKCUFm0H4"
+        }
+      ]
     },
     {
       "id": "proj_2a9944663d",
