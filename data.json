@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T09:08:34+00:00",
+  "generated_at": "2026-09-17T07:53:36+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -24,14 +24,38 @@
       "label": "Fizik",
       "count": 1,
       "url": "kategori/fizik.html"
+    },
+    {
+      "slug": "biyoloji",
+      "label": "Biyoloji",
+      "count": 1,
+      "url": "kategori/biyoloji.html"
     }
   ],
   "tags": [
+    {
+      "slug": "ahtapot",
+      "label": "ahtapot",
+      "count": 1,
+      "url": "etiket/ahtapot.html"
+    },
+    {
+      "slug": "beyin",
+      "label": "beyin",
+      "count": 1,
+      "url": "etiket/beyin.html"
+    },
     {
       "slug": "deney",
       "label": "deney",
       "count": 1,
       "url": "etiket/deney.html"
+    },
+    {
+      "slug": "deniz-biyolojisi",
+      "label": "deniz biyolojisi",
+      "count": 1,
+      "url": "etiket/deniz-biyolojisi.html"
     },
     {
       "slug": "feynman",
@@ -56,6 +80,18 @@
       "label": "parçacık fiziği",
       "count": 1,
       "url": "etiket/parcacik-fizigi.html"
+    },
+    {
+      "slug": "rem-uykusu",
+      "label": "rem uykusu",
+      "count": 1,
+      "url": "etiket/rem-uykusu.html"
+    },
+    {
+      "slug": "uyku",
+      "label": "uyku",
+      "count": 1,
+      "url": "etiket/uyku.html"
     }
   ],
   "articles": [
@@ -126,6 +162,67 @@
           "url": "https://www.youtube.com/shorts/cvtZFwHNtAU"
         }
       ]
+    },
+    {
+      "id": "proj_071c72fef3",
+      "slug": "2026-09-17-uyuyan-ahtapotlarda-renk-degistiren-gizemli-uyku-evresi",
+      "url": "yazi/2026-09-17-uyuyan-ahtapotlarda-renk-degistiren-gizemli-uyku-evresi.html",
+      "date": "2026-09-17T07:53:35.480739+00:00",
+      "date_text": "17 Eylül 2026",
+      "draft": false,
+      "title": "Uyuyan Ahtapotlarda Renk Değiştiren Gizemli Uyku Evresi",
+      "standfirst": "Nature dergisinde yayımlanan yeni bir araştırma, ahtapotların uyurken de deri rengini değiştirdiğini ve bu anların insan REM uykusuna benzediğini gösteriyor.",
+      "paragraphs": [
+        "Şimdiye kadar ahtapotların renk değiştirmesi hep uyanıklıkla ilişkilendiriliyordu: kayalara karışmak, avdan kaçmak ya da av yakalamak için derilerindeki hücreleri anında değiştirdikleri biliniyordu. Nature dergisinde yayımlanan yeni bir çalışma bu tabloyu değiştiriyor. Pophale ve ekibi ahtapotları uyurken kameraya aldı ve hayvanların gözleri kapalıyken de deri renginin değiştiğini gördü.",
+        "Kayıtlarda dikkat çeken şey, bu renk değişiminin rastgele değil düzenli aralıklarla ortaya çıkmasıydı: ahtapotlar saatte bir, kısa bir süreliğine farklı bir uyku evresine giriyor. Bu evrede vücut hareketsiz kalıyor ama deri, pigment hücrelerinin art arda devreye girmesiyle hızlı bir renk dizisine dönüşüyor. Araştırmacılar bu sırada beyin etkinliğini de izledi ve bu evrenin uyanıklığa benzer bir sinyal düzeni taşıdığını buldu; bu örüntü insanlarda rüya görülen REM uykusundaki kayıtlara benziyor.",
+        "Bu benzerlik akla hemen 'ahtapotlar rüya mı görüyor' sorusunu getiriyor ama bunu kanıtlamak kolay değil. Bir hayvanın zihninden geçeni doğrudan ölçecek bir yöntem yok, bu yüzden araştırmacılar bulguyu temkinli aktarıyor: ahtapotlar bu evrede rüya görüyor olabilir, kesin görüyor demiyorlar. Yine de omurgasız, yani omurgası olmayan ve bizden evrimsel olarak çok uzak bir canlıda, insan rüyalarına şaşırtıcı derecede benzeyen bir beyin örüntüsü görülmesi tek başına dikkat çekici."
+      ],
+      "takeaway": "Uyuyan ahtapotlar saatte bir, kısa süreliğine derisinde hızlı bir renk gösterisi yapıyor.",
+      "impact": "Bulgunun bugün için somut bir uygulaması yok; değeri daha çok merak duygusunda ve uykunun hayvanlar aleminde nasıl evrimleştiğini anlamaya katkısında. Ahtapotlar insanlardan evrimsel olarak çok uzak bir canlı olduğu için, onlarda REM benzeri bir evrenin görülmesi, bu tür uyku biçimlerinin farklı canlı gruplarında birbirinden bağımsız ortaya çıkmış olabileceği fikrini destekliyor.",
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "ahtapot",
+          "label": "ahtapot",
+          "url": "etiket/ahtapot.html"
+        },
+        {
+          "slug": "uyku",
+          "label": "uyku",
+          "url": "etiket/uyku.html"
+        },
+        {
+          "slug": "rem-uykusu",
+          "label": "rem uykusu",
+          "url": "etiket/rem-uykusu.html"
+        },
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        },
+        {
+          "slug": "deniz-biyolojisi",
+          "label": "deniz biyolojisi",
+          "url": "etiket/deniz-biyolojisi.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2023)",
+          "url": "https://doi.org/10.1038/s41586-023-06203-4"
+        }
+      ],
+      "image_credits": [
+        "Pophale ve ekibi, Nature 2023 (CC BY 4.0)",
+        "OIST (CC BY 4.0)"
+      ],
+      "video": {},
+      "watch": []
     }
   ]
 }
