@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T14:00:03+00:00",
+  "generated_at": "2026-09-18T06:40:39+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -29,7 +29,7 @@
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 2,
+      "count": 3,
       "url": "kategori/biyoloji.html"
     }
   ],
@@ -59,6 +59,12 @@
       "url": "etiket/bilissel-bilim.html"
     },
     {
+      "slug": "bitkiler",
+      "label": "bitkiler",
+      "count": 1,
+      "url": "etiket/bitkiler.html"
+    },
+    {
       "slug": "deney",
       "label": "deney",
       "count": 1,
@@ -81,6 +87,12 @@
       "label": "foton",
       "count": 1,
       "url": "etiket/foton.html"
+    },
+    {
+      "slug": "kavitasyon",
+      "label": "kavitasyon",
+      "count": 1,
+      "url": "etiket/kavitasyon.html"
     },
     {
       "slug": "kuantum",
@@ -113,13 +125,85 @@
       "url": "etiket/sifir.html"
     },
     {
+      "slug": "ultrason",
+      "label": "ultrason",
+      "count": 1,
+      "url": "etiket/ultrason.html"
+    },
+    {
       "slug": "uyku",
       "label": "uyku",
       "count": 1,
       "url": "etiket/uyku.html"
+    },
+    {
+      "slug": "yapay-zeka",
+      "label": "yapay zeka",
+      "count": 1,
+      "url": "etiket/yapay-zeka.html"
     }
   ],
   "articles": [
+    {
+      "id": "proj_8b8ea51a17",
+      "slug": "2026-09-18-susuz-kalan-bitkiler-duyamadigimiz-seslerle-tikirdiyor",
+      "url": "yazi/2026-09-18-susuz-kalan-bitkiler-duyamadigimiz-seslerle-tikirdiyor.html",
+      "date": "2026-09-18T06:39:53.578761+00:00",
+      "date_text": "18 Eylül 2026",
+      "draft": false,
+      "title": "Susuz Kalan Bitkiler Duyamadığımız Seslerle Tıkırdıyor",
+      "standfirst": "Tel Aviv Üniversitesi ekibi, susuz kalan bitkilerin saatte 30-50 kez, duyulamayan 40-80 kilohertz frekansında tıkırtı çıkardığını ilk kez kaydetti.",
+      "paragraphs": [
+        "Saksıdaki bir bitkinin tamamen sessiz olduğunu düşünürüz. Oysa Tel Aviv Üniversitesi'nden Khait, Lewin-Epstein ve ekibinin Cell dergisinde 30 Mart 2023'te yayımladığı çalışma, bunun öyle olmadığını gösterdi. Lilach Hadany ve Yossi Yovel'in laboratuvarlarından araştırmacılar, susuz kalan ya da sapından kesilen bitkilerin insan kulağının asla yakalayamayacağı frekanslarda düzenli tıkırtılar çıkardığını ilk kez kayda geçirdi. Şimdiye kadar bitkilerin stres altında havadan yayılan, mikrofonla kaydedilebilir bir sinyal ürettiğine dair elde kanıt yoktu.",
+        "Ekip önce domates ve tütün bitkilerini ses yalıtımlı bir odada kaydetti, sonra aynı deneyi gürültülü bir serada tekrarladı; mısır, buğday, üzüm ve kaktüs gibi başka türleri de denedi. Bitkilerin bir kısmını susuz bıraktılar, bir kısmının sapını kestiler. Susuz kalan ya da kesilen bitkiler saatte yaklaşık 30 ila 50 kez tıkırdadı, stres altında olmayan bir bitkiden ise saatte birin bile altında ses geldi; aradaki fark göz ardı edilemeyecek kadar büyüktü. Sesler 40 ile 80 kilohertz arasındaydı, patlamış mısır tanesi ya da patlayan bir balon gibi kısa 'pat' sesleriydi ve mikrofonlar bunları bir metreden daha uzaktan bile yakalayabildi.",
+        "Kayıtları bir yapay öğrenme modeline dinlettiklerinde işler daha da ilginçleşti: model yalnızca susuz kalmayla kesilmeyi birbirinden ayırmakla kalmadı, domates ile tütünün tıkırtılarını da birbirinden ayırt edebildi. Bu, seslerin rastgele bir gürültü olmadığını, bitkinin içinde bulunduğu duruma göre değiştiğini gösteriyor. Araştırmacıların önerdiği olası mekanizma kavitasyon: bitkinin su taşıyan ince borularında küçük hava kabarcıkları oluşup patlıyor, bu patlamalar da tıkırtı olarak kaydediliyor. Ama ekip bitkilerin bu sesleri bilerek, bir tür iletişim amacıyla çıkardığını söylemiyor; bu soru hâlâ açık."
+      ],
+      "takeaway": "Susuz kalan bitkiler saatte 30-50 kez, duyamadığımız frekanslarda tıkırdıyor.",
+      "impact": "Çalışma bitkilerin neden ses çıkardığını değil, bu sesleri ölçüp birbirinden ayırt edebildiğimizi gösteriyor; bitkinin bunu bilerek yaptığı henüz kanıtlanmadı. Yapay zekânın tıkırtılardan susuzluğu ayırt edebilmesi, bu seslerin ileride tarlada su ihtiyacını uzaktan izlemek için bir sinyal olarak araştırılabileceğine işaret ediyor, ama bu şimdilik yalnızca bir olasılık.",
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "bitkiler",
+          "label": "bitkiler",
+          "url": "etiket/bitkiler.html"
+        },
+        {
+          "slug": "ultrason",
+          "label": "ultrason",
+          "url": "etiket/ultrason.html"
+        },
+        {
+          "slug": "kavitasyon",
+          "label": "kavitasyon",
+          "url": "etiket/kavitasyon.html"
+        },
+        {
+          "slug": "yapay-zeka",
+          "label": "yapay zeka",
+          "url": "etiket/yapay-zeka.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Cell (2023)",
+          "url": "https://doi.org/10.1016/j.cell.2023.03.009"
+        }
+      ],
+      "image_credits": [],
+      "video": {
+        "youtube": "lUvpogfnup4"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/lUvpogfnup4"
+        }
+      ]
+    },
     {
       "id": "proj_5dba0552dd",
       "slug": "2026-09-17-bal-arisi-beyni-sifiri-bile-en-az-diye-siralayabiliyor",
