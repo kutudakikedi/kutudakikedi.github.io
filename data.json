@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T20:29:56+00:00",
+  "generated_at": "2026-09-18T21:30:31+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -31,6 +31,12 @@
       "label": "Biyoloji",
       "count": 7,
       "url": "kategori/biyoloji.html"
+    },
+    {
+      "slug": "yapay-zeka",
+      "label": "Yapay Zekâ",
+      "count": 1,
+      "url": "kategori/yapay-zeka.html"
     }
   ],
   "tags": [
@@ -41,16 +47,16 @@
       "url": "etiket/beyin.html"
     },
     {
+      "slug": "yapay-zeka",
+      "label": "yapay-zeka",
+      "count": 3,
+      "url": "etiket/yapay-zeka.html"
+    },
+    {
       "slug": "uyku",
       "label": "uyku",
       "count": 2,
       "url": "etiket/uyku.html"
-    },
-    {
-      "slug": "yapay-zeka",
-      "label": "yapay-zeka",
-      "count": 2,
-      "url": "etiket/yapay-zeka.html"
     },
     {
       "slug": "adenozin",
@@ -101,6 +107,12 @@
       "url": "etiket/deniz-biyolojisi.html"
     },
     {
+      "slug": "dil-modeli",
+      "label": "dil-modeli",
+      "count": 1,
+      "url": "etiket/dil-modeli.html"
+    },
+    {
       "slug": "dinozor",
       "label": "dinozor",
       "count": 1,
@@ -137,6 +149,12 @@
       "url": "etiket/izotop.html"
     },
     {
+      "slug": "jev",
+      "label": "jev",
+      "count": 1,
+      "url": "etiket/jev.html"
+    },
+    {
       "slug": "kavitasyon",
       "label": "kavitasyon",
       "count": 1,
@@ -165,6 +183,12 @@
       "label": "norobilim",
       "count": 1,
       "url": "etiket/norobilim.html"
+    },
+    {
+      "slug": "otomasyon",
+      "label": "otomasyon",
+      "count": 1,
+      "url": "etiket/otomasyon.html"
     },
     {
       "slug": "paleontoloji",
@@ -234,6 +258,74 @@
     }
   ],
   "articles": [
+    {
+      "id": "proj_5400869ae7",
+      "slug": "2026-09-18-konusmayan-yapay-zeka-metin-yerine-karar-ureten-bir-model",
+      "url": "yazi/2026-09-18-konusmayan-yapay-zeka-metin-yerine-karar-ureten-bir-model.html",
+      "date": "2026-09-18T21:30:29.770466+00:00",
+      "date_text": "18 Eylül 2026",
+      "draft": false,
+      "title": "Konuşmayan Yapay Zekâ: Metin Yerine Karar Üreten Bir Model",
+      "standfirst": "ChatGPT'nin arkasındaki yöntemleri kuran isimlerden biri, dil modellerinin otomasyon için yanlış araç olduğunu savunuyor ve hiç metin üretmeyen bir model duyurdu.",
+      "paragraphs": [
+        "Diogo Almeida, OpenAI'de dil modellerinin talimat takip etmesini ve insanlarla konuşmasını sağlayan yöntemlerin arkasındaki ekipteydi; bu çalışma ChatGPT'nin temelini oluşturdu. Ama kendi anlatımına göre sonuçtan memnun değildi. Şirkete göre sorun modellerin yeteneksizliği değil, neye göre eğitildikleri: insan diline göre optimize edilen bir model, işi yapan bilgisayarla aynı dili konuşmuyor. Almeida iki yıl önce ayrılıp TypeSafe AI'yı kurdu ve 15 Eylül 2026'da ilk modelini duyurdu.",
+        "Jev adı verilen model bir dil modeli değil. Metin üretmiyor; önceden tanımlanmış seçenekler arasından yapılandırılmış bir karar ve o karara ait bir olasılık üretiyor. Çıktının biçimi baştan sabit olduğu için model tip hatası yapamıyor ve tanım gereği uydurma bir yanıt veremiyor. Her cevabın yanında kalibre edilmiş bir güven değeri geliyor, yani modelin emin olduğunu söylediği durumlarda doğruluk oranı da yüksek oluyor.",
+        "İkinci fark hızda. Dil modelleri kelimeleri sırayla, her birini bir öncekine bakarak üretir. Jev tüm çıktıyı tek sorguda paralel olarak üretiyor. Şirketin verdiği rakamlara göre uçtan uca yanıt süresi 70 ile 500 milisaniye arasında, karşılaştırdıkları modellerde ise 3 ile 329 saniye arasında. Girdi milyon token başına 0,042 dolar, çıktı ücretsiz. Vercel adlı şirketin mühendisi, komutları güvenlik açısından denetleyen sınıflandırıcısını Jev'e taşıdığında işlemin 5 ila 18 kat hızlandığını söylüyor. Ekip modele Doom oynatan bir bot da yazmış; bot saniyede on karar veriyor ve bunun saatlik maliyeti yaklaşık yedi dolar.",
+        "Rakamlara temkinli yaklaşmak gerekiyor. Hız, maliyet ve hata oranı ölçümlerinin tamamı şirketin kendi yayımladığı veriler ve bağımsız bir doğrulama yok. Şirketin kendi dipnotu da açık: grafikteki sıfır hata payı ölçülmüş bir sonuç değil, çıktı şeması garanti edildiği için sıfır yazılmış. Karşılaştırılan dil modellerinin rakamlarının da bir yönlendirme servisinden alındığı ve yanlılık taşıyabileceği belirtiliyor. Yine de fikir tartışmaya değer: belki de sorun modellerin yeterince akıllı olmaması değil, her işte onlardan konuşmalarını beklememiz."
+      ],
+      "takeaway": "Belki de sorun modellerin akılsız olması değil, her işte konuşmalarını beklememiz.",
+      "impact": "Yazılımın içine gömülen sınıflandırma ve karar adımları bugün büyük ölçüde dil modelleriyle yapılıyor. Bu adımların metin üretmeyen, ucuz ve hızlı modellere kayması otomasyonun maliyetini ve gecikmesini belirgin biçimde düşürebilir.",
+      "category": {
+        "slug": "yapay-zeka",
+        "label": "Yapay Zekâ",
+        "url": "kategori/yapay-zeka.html"
+      },
+      "tags": [
+        {
+          "slug": "yapay-zeka",
+          "label": "yapay-zeka",
+          "url": "etiket/yapay-zeka.html"
+        },
+        {
+          "slug": "dil-modeli",
+          "label": "dil-modeli",
+          "url": "etiket/dil-modeli.html"
+        },
+        {
+          "slug": "otomasyon",
+          "label": "otomasyon",
+          "url": "etiket/otomasyon.html"
+        },
+        {
+          "slug": "jev",
+          "label": "jev",
+          "url": "etiket/jev.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "TypeSafe AI duyurusu (15 Eylül 2026)",
+          "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+        },
+        {
+          "label": "TechCrunch (18 Eylül 2026)",
+          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+        }
+      ],
+      "image_credits": [
+        "TypeSafe AI — Introducing System One Models & Jev (15 Eylül 2026)",
+        "TypeSafe AI — Jev Doom demosu (Introducing System One Models & Jev, 15 Eylül 2026)"
+      ],
+      "video": {
+        "youtube": "uxZAmddqyMo"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/uxZAmddqyMo"
+        }
+      ]
+    },
     {
       "id": "proj_dbe3fda2c7",
       "slug": "2026-09-18-renk-gormenin-susu-degil-bir-parcasi",
