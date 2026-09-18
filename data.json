@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T06:40:39+00:00",
+  "generated_at": "2026-09-18T12:37:23+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -29,7 +29,7 @@
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 3,
+      "count": 4,
       "url": "kategori/biyoloji.html"
     }
   ],
@@ -77,6 +77,12 @@
       "url": "etiket/deniz-biyolojisi.html"
     },
     {
+      "slug": "dinozor",
+      "label": "dinozor",
+      "count": 1,
+      "url": "etiket/dinozor.html"
+    },
+    {
       "slug": "feynman",
       "label": "feynman",
       "count": 1,
@@ -89,6 +95,12 @@
       "url": "etiket/foton.html"
     },
     {
+      "slug": "izotop",
+      "label": "izotop",
+      "count": 1,
+      "url": "etiket/izotop.html"
+    },
+    {
       "slug": "kavitasyon",
       "label": "kavitasyon",
       "count": 1,
@@ -99,6 +111,12 @@
       "label": "kuantum",
       "count": 1,
       "url": "etiket/kuantum.html"
+    },
+    {
+      "slug": "paleontoloji",
+      "label": "paleontoloji",
+      "count": 1,
+      "url": "etiket/paleontoloji.html"
     },
     {
       "slug": "parcacik-fizigi",
@@ -125,6 +143,12 @@
       "url": "etiket/sifir.html"
     },
     {
+      "slug": "tyrannosaurus-rex",
+      "label": "tyrannosaurus rex",
+      "count": 1,
+      "url": "etiket/tyrannosaurus-rex.html"
+    },
+    {
       "slug": "ultrason",
       "label": "ultrason",
       "count": 1,
@@ -137,6 +161,12 @@
       "url": "etiket/uyku.html"
     },
     {
+      "slug": "vucut-sicakligi",
+      "label": "vücut sıcaklığı",
+      "count": 1,
+      "url": "etiket/vucut-sicakligi.html"
+    },
+    {
       "slug": "yapay-zeka",
       "label": "yapay zeka",
       "count": 1,
@@ -144,6 +174,74 @@
     }
   ],
   "articles": [
+    {
+      "id": "proj_d4c93ad619",
+      "slug": "2026-09-18-bir-t-rex-disi-sahibinin-vucut-sicakligini-ele-verdi",
+      "url": "yazi/2026-09-18-bir-t-rex-disi-sahibinin-vucut-sicakligini-ele-verdi.html",
+      "date": "2026-09-18T12:37:15.618757+00:00",
+      "date_text": "18 Eylül 2026",
+      "draft": false,
+      "title": "Bir T. rex Dişi, Sahibinin Vücut Sıcaklığını Ele Verdi",
+      "standfirst": "Montana'da bulunan üç T. rex dişindeki izotop izleri, hayvanın vücudunu ortamından ve aynı katmandaki timsahlardan belirgin biçimde daha sıcak tuttuğunu gösteriyor.",
+      "paragraphs": [
+        "Bir hayvanın ateşini ölçmek için nabzına ya da derisine dokunman yeter, ama hayvan 66 milyon yıl önce öldüyse bu mümkün değil. Yine de diş minesi bu bilgiyi saklıyor: dişin oluştuğu sırada karbon-13 ve oksijen-18 atomları birbirine ne sıklıkla bağlanmışsa, o anki sıcaklığı da öyle kaydediyor. Ortam ne kadar soğuksa, bu ağır atomlar birbirine o kadar sık yapışıyor; kümelenmiş izotop termometrisi denen yöntem tam bu ilkeye dayanıyor. Yöntemin can alıcı tarafı, hayvanın vücut suyunun kimyasal bileşimini önceden bilmeye ihtiyaç duymaması, böylece ölçüm daha az varsayıma dayanıyor.",
+        "Science Advances dergisinde 18 Eylül 2026'da yayımlanan çalışmada araştırmacılar, Montana'daki Hell Creek Formasyonu'ndan çıkan üç T. rex dişini bu yöntemle incelemiş. Dişlerin ikisi, \"Thomas\" adıyla bilinen ve 3000 kilogramdan ağır genç bir bireye, katalog numarası LACM 150167 olan fosile ait. Üç diş sırasıyla 37,3, 35,9 ve 34,7 derece vermiş; ortalaması 36,3 derece, artı eksi 2,5 derecelik bir belirsizlikle.",
+        "Bu sayı tek başına pek bir şey anlatmıyor, çünkü karşılaştıracak bir zemin gerekiyor. İşte bu yüzden araştırmacılar aynı kaya katmanından beş timsah dişine de bakmış; ortalama 30,9 derece çıkmış, artı eksi 2,6 derece. Dönemin gerçek hava sıcaklığını gösteren midye kabukları ise ortalama 25,9 derece kaydetmiş, 22,6 ile 30,5 derece arasında değişen bir aralıkla. Yani T. rex, hem ortamından hem de soğukkanlı bilinen timsahlardan belirgin biçimde daha sıcak bir vücut taşımış; bu da ısısını güneşten ya da sudan pasif şekilde almadığını, bir yolla kendi ürettiğini düşündürüyor. Yine de üç diş ve tek bir tür üzerinden konuşuyoruz, bu yüzden bulgu T. rex'i kesin bir \"sıcakkanlı\" kutusuna yerleştirmiyor ve tüm dinozorlara genellenemez.",
+        "Araştırmacıların habitat modeli, bu iç ısı üretiminin T. rex'e bir avantaj sağladığını gösteriyor: Kuzey Amerika'nın soğuk, yüksek enlemli bölgeleri de bu hayvana kapalı değilmiş. Bu sonuç, ölçülen üç dişin de birbirine yakın bir aralıkta toplanmasıyla destekleniyor; 37,3 ile 34,7 derece arasındaki fark oldukça dar, yani tek bir garip diş değil, tutarlı bir örüntü söz konusu. Böylece milyonlarca yıl önce yaşamış bu tek tür için, iklimin sanıldığından daha az sınırlayıcı olabileceği ortaya çıkıyor."
+      ],
+      "takeaway": "Diş minesindeki izler, T. rex'in çevresindeki timsahlardan daha sıcak bir vücuda sahip olduğunu gösterdi.",
+      "impact": "Bu ölçümün günlük hayata doğrudan bir uygulaması yok; değeri, kümelenmiş izotop termometrisinin artık fosilleşmiş dişlerden hayvanların gerçek vücut sıcaklığını ölçmek için güvenilir bir araç olarak kullanılabileceğini göstermesinde.",
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "dinozor",
+          "label": "dinozor",
+          "url": "etiket/dinozor.html"
+        },
+        {
+          "slug": "tyrannosaurus-rex",
+          "label": "tyrannosaurus rex",
+          "url": "etiket/tyrannosaurus-rex.html"
+        },
+        {
+          "slug": "izotop",
+          "label": "izotop",
+          "url": "etiket/izotop.html"
+        },
+        {
+          "slug": "vucut-sicakligi",
+          "label": "vücut sıcaklığı",
+          "url": "etiket/vucut-sicakligi.html"
+        },
+        {
+          "slug": "paleontoloji",
+          "label": "paleontoloji",
+          "url": "etiket/paleontoloji.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13580596/"
+        }
+      ],
+      "image_credits": [
+        "Photo: S. Abramowicz, Dinosaur Institute, Natural History Museum of Los Angeles County — from Fig. 1B, Science Advances 2026, CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "so8SHLFIsjI"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/so8SHLFIsjI"
+        }
+      ]
+    },
     {
       "id": "proj_8b8ea51a17",
       "slug": "2026-09-18-susuz-kalan-bitkiler-duyamadigimiz-seslerle-tikirdiyor",
