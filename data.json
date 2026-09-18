@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T12:49:12+00:00",
+  "generated_at": "2026-09-18T13:29:52+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -29,7 +29,7 @@
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 4,
+      "count": 5,
       "url": "kategori/biyoloji.html"
     }
   ],
@@ -51,6 +51,12 @@
       "label": "arılar",
       "count": 1,
       "url": "etiket/arilar.html"
+    },
+    {
+      "slug": "avci-tehdidi",
+      "label": "avcı tehdidi",
+      "count": 1,
+      "url": "etiket/avci-tehdidi.html"
     },
     {
       "slug": "bilissel-bilim",
@@ -83,6 +89,12 @@
       "url": "etiket/dinozor.html"
     },
     {
+      "slug": "fareler",
+      "label": "fareler",
+      "count": 1,
+      "url": "etiket/fareler.html"
+    },
+    {
       "slug": "feynman",
       "label": "feynman",
       "count": 1,
@@ -105,6 +117,12 @@
       "label": "kavitasyon",
       "count": 1,
       "url": "etiket/kavitasyon.html"
+    },
+    {
+      "slug": "korku",
+      "label": "korku",
+      "count": 1,
+      "url": "etiket/korku.html"
     },
     {
       "slug": "kuantum",
@@ -131,10 +149,22 @@
       "url": "etiket/rem-uykusu.html"
     },
     {
+      "slug": "savunma-davranisi",
+      "label": "savunma davranışı",
+      "count": 1,
+      "url": "etiket/savunma-davranisi.html"
+    },
+    {
       "slug": "sayisal-bilis",
       "label": "sayısal biliş",
       "count": 1,
       "url": "etiket/sayisal-bilis.html"
+    },
+    {
+      "slug": "sosyal-rutbe",
+      "label": "sosyal rütbe",
+      "count": 1,
+      "url": "etiket/sosyal-rutbe.html"
     },
     {
       "slug": "sifir",
@@ -174,6 +204,74 @@
     }
   ],
   "articles": [
+    {
+      "id": "proj_705f10a0e1",
+      "slug": "2026-09-18-sosyal-rutbe-farelerin-korku-tepkisini-degistiriyor",
+      "url": "yazi/2026-09-18-sosyal-rutbe-farelerin-korku-tepkisini-degistiriyor.html",
+      "date": "2026-09-18T13:29:51.228266+00:00",
+      "date_text": "18 Eylül 2026",
+      "draft": false,
+      "title": "Sosyal Rütbe, Farelerin Korku Tepkisini Değiştiriyor",
+      "standfirst": "Fareler bir tehditle karşılaştığında yanlarında başka bir fare varsa korku tepkisi değişiyor, üstelik bu değişimden en çok grubun baskın bireyleri yararlanıyor.",
+      "paragraphs": [
+        "Farelerin doğuştan gelen savunma tepkileri, yanlarında başka bir fare olup olmamasına ve o farenin sosyal rütbesine göre değişiyor. Li ve ekibinin eLife dergisinde 15 Eylül 2026'da yayımladığı araştırma, bunu iki farklı doğal tehditle test etti: tepede hızla büyüyen görsel bir uyaran, yani yukarıdan gelen bir avcıyı taklit eden bir gölge, ve kafese sokulan canlı bir sıçan, yani sürekli devam eden gerçek bir avcı tehdidi. Araştırmacılar farelerin bu iki tehditle hem yalnızken hem de yanlarında başka bir fare varken nasıl tepki verdiğini karşılaştırdı.",
+        "Sonuçlar tek yönlü çıkmadı. Görsel uyaran karşısında yanında başka bir fare olan hayvanların hem anlık donma tepkisi hem de uyaran geçtikten sonraki kaygısı azaldı, fakat bu rahatlamadan en çok grubun baskın bireyleri yararlandı. Canlı sıçanla karşılaşmada fark daha da netleşti: yalnız fareler köşeye çekilip pasif savunmada kaldı, yanında arkadaşı olan baskın fareler ise pasiften aktif savunmaya geçti, saklanmak yerine sıçana yöneldi. Araştırmacılar ayrıca farelerin bir savunma durumundan diğerine geçiş sırasının da sosyal ortama göre değiştiğini kaydetti.",
+        "İlişki tersine de işledi: tehdidi yaşamak sosyal bağı güçlendirdi. Baskın fareler tehlike sonrasında daha girişken davrandı, alttaki fareler ise baskının başlattığı temasa daha kolay karşılık verdi. Yani sosyal ortam korkuyu şekillendirirken, korkunun kendisi de sosyal ilişkiyi güçlendiriyor; ikisi birbirini besleyen bir döngü oluşturuyor.",
+        "Çalışma laboratuvar farelerinde yapıldı ve bulgular şimdilik bu deney düzeneğiyle sınırlı; hangi sinirsel mekanizmanın bu değişimi sağladığı henüz açıklanmadı. Yine de aynı tehdide iki farklı biçimde, ani bir görüntü ve kalıcı canlı bir avcı ile bakması, araştırmayı hayvan davranışı alanında nadir kılıyor, çünkü korku tepkisinin sosyal bağlamdan ne kadar etkilendiğini iki farklı açıdan gösteriyor."
+      ],
+      "takeaway": "Yanında baskın bir arkadaşı olan fareler saklanmayı bırakıp sıçanın üstüne yürüdü.",
+      "impact": "Bu bulgu, sosyal ortamın stres ve korku tepkilerini nasıl şekillendirdiğini inceleyen temel davranış biyolojisi araştırmalarının bir parçası; çalışma şu an için uygulamaya dönük bir sonuç iddia etmiyor, salt merak amaçlı bir keşif.",
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "fareler",
+          "label": "fareler",
+          "url": "etiket/fareler.html"
+        },
+        {
+          "slug": "savunma-davranisi",
+          "label": "savunma davranışı",
+          "url": "etiket/savunma-davranisi.html"
+        },
+        {
+          "slug": "sosyal-rutbe",
+          "label": "sosyal rütbe",
+          "url": "etiket/sosyal-rutbe.html"
+        },
+        {
+          "slug": "korku",
+          "label": "korku",
+          "url": "etiket/korku.html"
+        },
+        {
+          "slug": "avci-tehdidi",
+          "label": "avcı tehdidi",
+          "url": "etiket/avci-tehdidi.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "eLife (2026)",
+          "url": "https://doi.org/10.7554/elife.109571"
+        }
+      ],
+      "image_credits": [
+        "Li LY, Gao X, Zhang J, Wu WW, Li YT, eLife 2026 (10.7554/eLife.109571), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "p5mXfTh5St0"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/p5mXfTh5St0"
+        }
+      ]
+    },
     {
       "id": "proj_d4c93ad619",
       "slug": "2026-09-18-bir-t-rex-disi-sahibinin-vucut-sicakligini-ele-verdi",
