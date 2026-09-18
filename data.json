@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T15:42:10+00:00",
+  "generated_at": "2026-09-18T20:29:56+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -29,7 +29,7 @@
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 6,
+      "count": 7,
       "url": "kategori/biyoloji.html"
     }
   ],
@@ -37,7 +37,7 @@
     {
       "slug": "beyin",
       "label": "beyin",
-      "count": 3,
+      "count": 4,
       "url": "etiket/beyin.html"
     },
     {
@@ -45,6 +45,12 @@
       "label": "uyku",
       "count": 2,
       "url": "etiket/uyku.html"
+    },
+    {
+      "slug": "yapay-zeka",
+      "label": "yapay-zeka",
+      "count": 2,
+      "url": "etiket/yapay-zeka.html"
     },
     {
       "slug": "adenozin",
@@ -119,6 +125,12 @@
       "url": "etiket/foton.html"
     },
     {
+      "slug": "gorme",
+      "label": "gorme",
+      "count": 1,
+      "url": "etiket/gorme.html"
+    },
+    {
       "slug": "izotop",
       "label": "izotop",
       "count": 1,
@@ -173,6 +185,12 @@
       "url": "etiket/rem-uykusu.html"
     },
     {
+      "slug": "renk",
+      "label": "renk",
+      "count": 1,
+      "url": "etiket/renk.html"
+    },
+    {
       "slug": "savunma-davranisi",
       "label": "savunma davranışı",
       "count": 1,
@@ -213,15 +231,70 @@
       "label": "vücut sıcaklığı",
       "count": 1,
       "url": "etiket/vucut-sicakligi.html"
-    },
-    {
-      "slug": "yapay-zeka",
-      "label": "yapay zeka",
-      "count": 1,
-      "url": "etiket/yapay-zeka.html"
     }
   ],
   "articles": [
+    {
+      "id": "proj_dbe3fda2c7",
+      "slug": "2026-09-18-renk-gormenin-susu-degil-bir-parcasi",
+      "url": "yazi/2026-09-18-renk-gormenin-susu-degil-bir-parcasi.html",
+      "date": "2026-09-18T20:29:55.253382+00:00",
+      "date_text": "18 Eylül 2026",
+      "draft": false,
+      "title": "Renk Görmenin Süsü Değil, Bir Parçası",
+      "standfirst": "Rengin taşıdığı ayrıntı, o rengin ne hızla değiştiğine göre değişiyor; aynı kural nesne tanımak için eğitilmiş yapay sinir ağlarında da kendiliğinden ortaya çıkıyor.",
+      "paragraphs": [
+        "Görme araştırmalarında uzun süre kabul edilen görüş şuydu: ayrıntıyı parlaklık farkları taşır, renk ise kabaca temsil edilir ve parlaklıktan ayrı işlenir. Science Advances'ta 11 Eylül 2026'da yayımlanan çalışma bu resmin eksik olduğunu gösteriyor. Rengin uzamsal çözünürlüğü sabit değil; zaman içinde ne hızla değiştiğine göre dönüşüyor.",
+        "Ekip, insan katılımcılara farklı hızlarda titreşen renkli desenler izletti ve durağan durum görsel uyarılmış potansiyellerini kaydetti. Desen yavaş değişirken görme sistemi orta incelikteki yapılara en güçlü tepkiyi verdi, yani ayrıntıyı yakaladı. Hız arttıkça bu seçicilik kayboldu ve geriye yalnızca geniş, kaba lekelere verilen tepki kaldı. Aynı geçiş, makak maymununun birincil görme korteksinden alınan yerel alan potansiyellerinde de görüldü.",
+        "Renk görme eksikliği olan katılımcılarda bu iki ayardan yalnızca biri eksikti. Bu seçici kayıp, iki davranışın tek bir düzeneğin iki ucu değil, farklı mekanizmalar olduğuna işaret ediyor.",
+        "Çalışmanın en dikkat çekici kısmı sonda geliyor. Araştırmacılar aynı testi, yalnızca görüntüden nesne tanımak için eğitilmiş derin sinir ağlarına uyguladı ve ağlarda da benzer bir dönüşüm buldular. Bu davranış ağlara tarif edilmemişti; nesne tanıma görevini çözmeye çalışırken kendiliğinden ortaya çıktı. Sonuç, rengin görmenin üstüne eklenmiş bir katman değil, görme probleminin çözümünün bir parçası olduğunu düşündürüyor."
+      ],
+      "takeaway": "Renk, görmenin süsü değil; görme probleminin çözümünün bir parçası.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "renk",
+          "label": "renk",
+          "url": "etiket/renk.html"
+        },
+        {
+          "slug": "gorme",
+          "label": "gorme",
+          "url": "etiket/gorme.html"
+        },
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        },
+        {
+          "slug": "yapay-zeka",
+          "label": "yapay-zeka",
+          "url": "etiket/yapay-zeka.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aec6658"
+        }
+      ],
+      "image_credits": [],
+      "video": {
+        "youtube": "CAHmL9m1Vgg"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/CAHmL9m1Vgg"
+        }
+      ]
+    },
     {
       "id": "proj_9f395aa24e",
       "slug": "2026-09-18-uykuyu-bir-arada-tutan-hucreler-noron-degil",
