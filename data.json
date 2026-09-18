@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T13:29:52+00:00",
+  "generated_at": "2026-09-18T15:42:10+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -29,7 +29,7 @@
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 5,
+      "count": 6,
       "url": "kategori/biyoloji.html"
     }
   ],
@@ -37,8 +37,20 @@
     {
       "slug": "beyin",
       "label": "beyin",
-      "count": 2,
+      "count": 3,
       "url": "etiket/beyin.html"
+    },
+    {
+      "slug": "uyku",
+      "label": "uyku",
+      "count": 2,
+      "url": "etiket/uyku.html"
+    },
+    {
+      "slug": "adenozin",
+      "label": "adenozin",
+      "count": 1,
+      "url": "etiket/adenozin.html"
     },
     {
       "slug": "ahtapot",
@@ -131,6 +143,18 @@
       "url": "etiket/kuantum.html"
     },
     {
+      "slug": "mikroglia",
+      "label": "mikroglia",
+      "count": 1,
+      "url": "etiket/mikroglia.html"
+    },
+    {
+      "slug": "norobilim",
+      "label": "norobilim",
+      "count": 1,
+      "url": "etiket/norobilim.html"
+    },
+    {
       "slug": "paleontoloji",
       "label": "paleontoloji",
       "count": 1,
@@ -185,12 +209,6 @@
       "url": "etiket/ultrason.html"
     },
     {
-      "slug": "uyku",
-      "label": "uyku",
-      "count": 1,
-      "url": "etiket/uyku.html"
-    },
-    {
       "slug": "vucut-sicakligi",
       "label": "vücut sıcaklığı",
       "count": 1,
@@ -204,6 +222,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "proj_9f395aa24e",
+      "slug": "2026-09-18-uykuyu-bir-arada-tutan-hucreler-noron-degil",
+      "url": "yazi/2026-09-18-uykuyu-bir-arada-tutan-hucreler-noron-degil.html",
+      "date": "2026-09-18T15:42:08.941767+00:00",
+      "date_text": "18 Eylül 2026",
+      "draft": false,
+      "title": "Uykuyu Bir Arada Tutan Hücreler Nöron Değil",
+      "standfirst": "Beynin bakım hücreleri sanılan mikroglia, uyanıklık ile uyku arasındaki geçişlere anında tepki veriyor ve uykunun parçalanmasını engelliyor.",
+      "paragraphs": [
+        "Uyanık geçen her saat, beyinde adenozin adlı bir molekülün birikmesine yol açıyor. Ne kadar birikirse uyku basıncı o kadar artıyor; kahvenin insanı ayakta tutmasının sebebi de bu molekülün yolunu kesmesi. Bu hesabı kimin tuttuğu sorusunun cevabı uzun süre nöronlar olarak görüldü. Science Advances'ta 11 Eylül 2026'da yayımlanan çalışma, hesabın tek başına nöronlarda tutulmadığını gösteriyor.",
+        "Zhao ve ekibi, serbestçe gezinen farelerde beyni görüntülemek için bir fare kafasına yerleştirilebilecek kadar küçültülmüş iki foton mikroskobu kullandı. Aynı anda EEG ve EMG kaydı alarak hayvanın uyanık mı, NREM uykusunda mı yoksa REM'de mi olduğunu takip ettiler. Beyin bu durumlar arasında her geçiş yaptığında mikroglia hücrelerinin kalsiyum etkinliği hızla değişti. Yani bu hücreler beynin hangi durumda olduğunu anlık olarak izliyor.",
+        "Tepkiyi taşıyan şeyin adenozinin A3 reseptörü olduğu, ilaçla yapılan deneylerle ortaya çıktı. Araştırmacılar bu reseptörü yalnızca mikroglia hücrelerinde sildiklerinde, hücrelerin duruma bağlı kalsiyum dalgalanması zayıfladı ve uyku-uyanıklık döngüsü boyunca şekil değiştirme yetenekleri bozuldu. Sonuç davranışa da yansıdı: fareler yine uyudu ama uykuları parçalandı, uyanıklıkla NREM uykusu arasındaki geçişler arttı.",
+        "Bulgu, mikrogliayı uykunun başlatıcısı değil dengeleyicisi olarak konumlandırıyor. Hücreler uykuyu kurmuyor, kurulduktan sonra dağılmasını engelliyor. Çalışma farelerde yapıldı ve insanda aynı mekanizmanın işlediği henüz gösterilmedi."
+      ],
+      "takeaway": "Mikroglia uykuyu başlatmıyor, başladıktan sonra dağılmasın diye tutuyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "uyku",
+          "label": "uyku",
+          "url": "etiket/uyku.html"
+        },
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        },
+        {
+          "slug": "mikroglia",
+          "label": "mikroglia",
+          "url": "etiket/mikroglia.html"
+        },
+        {
+          "slug": "adenozin",
+          "label": "adenozin",
+          "url": "etiket/adenozin.html"
+        },
+        {
+          "slug": "norobilim",
+          "label": "norobilim",
+          "url": "etiket/norobilim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aef3957"
+        }
+      ],
+      "image_credits": [
+        "Zhao Z ve ark., Science Advances 2026 (10.1126/sciadv.aef3957), CC BY 4.0",
+        "Li LY, Gao X, Zhang J, Wu WW, Li YT, eLife 2026 (10.7554/eLife.109571), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "8lLze4pCQIk"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/8lLze4pCQIk"
+        }
+      ]
+    },
     {
       "id": "proj_705f10a0e1",
       "slug": "2026-09-18-sosyal-rutbe-farelerin-korku-tepkisini-degistiriyor",
