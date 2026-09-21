@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T21:30:31+00:00",
+  "generated_at": "2026-09-21T10:47:29+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -29,7 +29,7 @@
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 7,
+      "count": 8,
       "url": "kategori/biyoloji.html"
     },
     {
@@ -89,10 +89,22 @@
       "url": "etiket/bilissel-bilim.html"
     },
     {
+      "slug": "bireysellik",
+      "label": "bireysellik",
+      "count": 1,
+      "url": "etiket/bireysellik.html"
+    },
+    {
       "slug": "bitkiler",
       "label": "bitkiler",
       "count": 1,
       "url": "etiket/bitkiler.html"
+    },
+    {
+      "slug": "davranis",
+      "label": "davranış",
+      "count": 1,
+      "url": "etiket/davranis.html"
     },
     {
       "slug": "deney",
@@ -135,6 +147,12 @@
       "label": "foton",
       "count": 1,
       "url": "etiket/foton.html"
+    },
+    {
+      "slug": "genetik",
+      "label": "genetik",
+      "count": 1,
+      "url": "etiket/genetik.html"
     },
     {
       "slug": "gorme",
@@ -255,9 +273,78 @@
       "label": "vücut sıcaklığı",
       "count": 1,
       "url": "etiket/vucut-sicakligi.html"
+    },
+    {
+      "slug": "ogrenme",
+      "label": "öğrenme",
+      "count": 1,
+      "url": "etiket/ogrenme.html"
     }
   ],
   "articles": [
+    {
+      "id": "proj_2e8ca2b25c",
+      "slug": "2026-09-21-karakteri-kuran-ucuncu-sey-ogrenmenin-kendisi",
+      "url": "yazi/2026-09-21-karakteri-kuran-ucuncu-sey-ogrenmenin-kendisi.html",
+      "date": "2026-09-21T10:44:08.712403+00:00",
+      "date_text": "21 Eylül 2026",
+      "draft": false,
+      "title": "Karakteri Kuran Üçüncü Şey: Öğrenmenin Kendisi",
+      "standfirst": "Genetik olarak aynı ve aynı koşullarda yetişmiş meyve sinekleri, yalnızca öğrenmeyi gerektiren görevlerde birbirinden kalıcı olarak ayrışıyor.",
+      "paragraphs": [
+        "Bireysel farklılıkların iki kaynağı olduğu uzun süredir biliniyor: genler ve çevre. Ama genetik olarak birbirinin aynı olan, aynı koşullarda yetiştirilen ve aynı anda aynı ortamda test edilen hayvanlar bile birbirinden farklı davranıyor. Bu artakalan farkın nereden geldiği açık bir soruydu.",
+        "Manna ve ekibi, doksan farklı genetik hattan binlerce meyve sineğini ölçtü. Sinekler Y biçimli küçük arenalara yerleştirildi ve aynı anda onlarcası kaydedildi. Deneyin kritik tarafı, sineklere iki farklı türde görev verilmesiydi: birinde doğuştan gelen tepki işi görüyordu, diğerinde sineğin öğrenmesi gerekiyordu.",
+        "Doğuştan gelen davranışa dayanan görevde bireyler arasındaki fark sınırlı kaldı. Öğrenme gerektiren görevde ise sinekler belirgin biçimde ayrıştı; her biri kendi çözümünü buldu ve bu fark görev bittikten sonra da sürdü. Araştırmacılar aynı düzeneği bilgisayar ortamında da kurdu. Yapay ajanlar ancak pekiştirmeli öğrenme açıkken gerçek sineklerinkine benzer bir bireysellik gösterdi; öğrenme kapalıyken bu fark ortaya çıkmadı.",
+        "Bir ayrıntı daha var. Deneyin başlangıç koşullarındaki çok küçük farklar, bireyler arasındaki ayrışmayı büyüttü, ama yalnızca öğrenmenin devrede olduğu durumlarda. Bu, öğrenmenin küçük rastlantıları kalıcı davranış farklarına çeviren bir mekanizma gibi çalıştığını düşündürüyor. Çalışma meyve sineklerinde yapıldı; insanda aynı mekanizmanın işlediği gösterilmiş değil."
+      ],
+      "takeaway": "Bir canlıyı o canlı yapan şey yalnızca genleri ve büyüdüğü yer değil, öğrenirken denk geldiği anlar da karakterini belirliyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "genetik",
+          "label": "genetik",
+          "url": "etiket/genetik.html"
+        },
+        {
+          "slug": "davranis",
+          "label": "davranış",
+          "url": "etiket/davranis.html"
+        },
+        {
+          "slug": "ogrenme",
+          "label": "öğrenme",
+          "url": "etiket/ogrenme.html"
+        },
+        {
+          "slug": "bireysellik",
+          "label": "bireysellik",
+          "url": "etiket/bireysellik.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "eLife (2026)",
+          "url": "https://doi.org/10.7554/eLife.111235"
+        }
+      ],
+      "image_credits": [
+        "Manna R ve ark., eLife 2026 (10.7554/eLife.111235), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "3pHxrdbWXII"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/3pHxrdbWXII"
+        }
+      ]
+    },
     {
       "id": "proj_5400869ae7",
       "slug": "2026-09-18-konusmayan-yapay-zeka-metin-yerine-karar-ureten-bir-model",
