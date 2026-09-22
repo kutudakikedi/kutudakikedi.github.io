@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T15:43:38+00:00",
+  "generated_at": "2026-09-22T06:11:30+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -26,6 +26,12 @@
       "label": "Fizik",
       "count": 1,
       "url": "kategori/fizik.html"
+    },
+    {
+      "slug": "uzay",
+      "label": "Uzay",
+      "count": 1,
+      "url": "kategori/uzay.html"
     },
     {
       "slug": "biyoloji",
@@ -82,6 +88,12 @@
       "label": "avcı tehdidi",
       "count": 1,
       "url": "etiket/avci-tehdidi.html"
+    },
+    {
+      "slug": "ay",
+      "label": "ay",
+      "count": 1,
+      "url": "etiket/ay.html"
     },
     {
       "slug": "bilissel-bilim",
@@ -162,6 +174,18 @@
       "url": "etiket/gorme.html"
     },
     {
+      "slug": "goktasi",
+      "label": "göktaşı",
+      "count": 1,
+      "url": "etiket/goktasi.html"
+    },
+    {
+      "slug": "gunes-sistemi",
+      "label": "güneş sistemi",
+      "count": 1,
+      "url": "etiket/gunes-sistemi.html"
+    },
+    {
       "slug": "izotop",
       "label": "izotop",
       "count": 1,
@@ -186,6 +210,12 @@
       "url": "etiket/korku.html"
     },
     {
+      "slug": "krater",
+      "label": "krater",
+      "count": 1,
+      "url": "etiket/krater.html"
+    },
+    {
       "slug": "kuantum",
       "label": "kuantum",
       "count": 1,
@@ -196,6 +226,12 @@
       "label": "mikroglia",
       "count": 1,
       "url": "etiket/mikroglia.html"
+    },
+    {
+      "slug": "nasa",
+      "label": "nasa",
+      "count": 1,
+      "url": "etiket/nasa.html"
     },
     {
       "slug": "norobilim",
@@ -283,6 +319,83 @@
     }
   ],
   "articles": [
+    {
+      "id": "proj_f66a5e5321",
+      "slug": "2026-09-22-bizim-cagimizda-acilan-en-buyuk-krater-ay-da",
+      "url": "yazi/2026-09-22-bizim-cagimizda-acilan-en-buyuk-krater-ay-da.html",
+      "date": "2026-09-22T06:11:29.050520+00:00",
+      "date_text": "22 Eylül 2026",
+      "draft": false,
+      "title": "Bizim Çağımızda Açılan En Büyük Krater Ay'da",
+      "standfirst": "2024 baharında Ay'a çarpan bir göktaşı parçası 222 metre çapında bir krater açtı; bu, oluşumu fotoğraflarla belgelenen en büyük yeni krater.",
+      "paragraphs": [
+        "NASA'nın Ay'ın çevresinde dönen aracı Lunar Reconnaissance Orbiter'daki geniş açılı kamera, 2010'dan beri her ay Ay'ın tamamını fotoğraflıyor. Benzer ışık koşullarında çekilmiş iki ayın görüntüleri karşılaştırıldığında yüzeydeki değişiklikler kendiliğinden ortaya çıkıyor. 2025 sonbaharındaki böyle bir karşılaştırma, 2024'ün Nisan ya da Mayıs ayında oluşmuş yeni bir krateri gösterdi. Ekip ardından aracın yüksek çözünürlüklü kamerasıyla bölgeyi ayrıntılı olarak görüntüledi.",
+        "Kraterin ortalama çapı 222 metre; tam yuvarlak değil, 213 ile 231 metre arasında değişiyor. Derinliği 43 metre, iç duvarları ortalama 24 derece eğimli. Bundan önce Ay'da bulunmuş en büyük yeni krater 70 metreydi. Araştırmacıların hesabına göre bu çarpmanın enerjisi, 70 metrelik krateri açan çarpmanınkinin on katından fazla. Bugünkü modellere göre bu büyüklükte bir çarpma Ay'da ortalama 132 yılda bir gerçekleşiyor.",
+        "Krater, Kriz Denizi'nin (Mare Crisium) dış kenarının hemen içinde, koyu bazalt düzlükle daha açık renkli dağlık zeminin buluştuğu bir sınıra düştü. Bu karışık zemin, bir çarpmanın nasıl bir krater açtığını ve etrafa malzemeyi nasıl saçtığını incelemek için ayrı bir fırsat sunuyor. Çarpmanın etkisi kraterin çok ötesine de uzanıyor: önceki ve sonraki görüntülerin karşılaştırılması, krater yarıçapının bin katından daha uzağa, yüz kilometreyi aşan bir alanda yüzey değişikliği gösteriyor.",
+        "Çarpan cismin kuyruklu yıldız parçası mı yoksa asteroit parçası mı olduğu bilinmiyor. Olayın değeri başka bir yerde: Ay'daki kraterlerin büyük çoğunluğu çok eskidir ve sonradan gelen çarpmalarla değişmiştir, bu ise öncesi ve sonrası fotoğraflanmış taze bir örnek. Böylece krater oluşumuna ve çarpma sıklığına dair modeller bu büyüklükte gerçek bir olayla sınanabiliyor."
+      ],
+      "takeaway": "Ay'ın yüzü donmuş bir fotoğraf değil; her ay çekilen görüntüler, bugün de değiştiğini gösteriyor.",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Uzay",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "ay",
+          "label": "ay",
+          "url": "etiket/ay.html"
+        },
+        {
+          "slug": "krater",
+          "label": "krater",
+          "url": "etiket/krater.html"
+        },
+        {
+          "slug": "goktasi",
+          "label": "göktaşı",
+          "url": "etiket/goktasi.html"
+        },
+        {
+          "slug": "nasa",
+          "label": "nasa",
+          "url": "etiket/nasa.html"
+        },
+        {
+          "slug": "gunes-sistemi",
+          "label": "güneş sistemi",
+          "url": "etiket/gunes-sistemi.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aeh7812"
+        }
+      ],
+      "image_credits": [
+        "Robinson MS ve ark., Science Advances 2026 (10.1126/sciadv.aeh7812), CC BY 4.0 · görüntü NASA/GSFC/LROC",
+        "NASA's Goddard Space Flight Center Conceptual Image Lab / Kim Dongjae",
+        "NASA's Scientific Visualization Studio / Ernie Wright",
+        "NASA's Scientific Visualization Studio / Tom Bridgman",
+        "NASA/GSFC / Dan Gallagher"
+      ],
+      "video": {
+        "youtube": "rZHnWl0YtQY",
+        "instagram": "https://www.instagram.com/reel/DdlD2xRE15b/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/rZHnWl0YtQY"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DdlD2xRE15b/"
+        }
+      ]
+    },
     {
       "id": "proj_2e8ca2b25c",
       "slug": "2026-09-21-karakteri-kuran-ucuncu-sey-ogrenmenin-kendisi",
@@ -671,12 +784,17 @@
         "Photo: S. Abramowicz, Dinosaur Institute, Natural History Museum of Los Angeles County — from Fig. 1B, Science Advances 2026, CC BY 4.0"
       ],
       "video": {
-        "youtube": "4nn26zAxsvE"
+        "youtube": "4nn26zAxsvE",
+        "instagram": "https://www.instagram.com/reel/DdlDwwEk4yz/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/4nn26zAxsvE"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DdlDwwEk4yz/"
         }
       ]
     },
@@ -796,12 +914,17 @@
       ],
       "image_credits": [],
       "video": {
-        "youtube": "jw0nVbpOjSo"
+        "youtube": "jw0nVbpOjSo",
+        "instagram": "https://www.instagram.com/reel/DdlCU3IE5z_/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/jw0nVbpOjSo"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DdlCU3IE5z_/"
         }
       ]
     },
@@ -864,12 +987,17 @@
         "OIST (CC BY 4.0)"
       ],
       "video": {
-        "youtube": "AzKKCUFm0H4"
+        "youtube": "AzKKCUFm0H4",
+        "instagram": "https://www.instagram.com/reel/DdlCISRk1xw/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/AzKKCUFm0H4"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DdlCISRk1xw/"
         }
       ]
     },
@@ -932,12 +1060,17 @@
         "NASA's Scientific Visualization Studio / Mark SubbaRao"
       ],
       "video": {
-        "youtube": "cvtZFwHNtAU"
+        "youtube": "cvtZFwHNtAU",
+        "instagram": "https://www.instagram.com/reel/Ddjhpakk2-u/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/cvtZFwHNtAU"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Ddjhpakk2-u/"
         }
       ]
     }
