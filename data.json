@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T06:11:30+00:00",
+  "generated_at": "2026-09-23T20:46:06+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -30,7 +30,7 @@
     {
       "slug": "uzay",
       "label": "Uzay",
-      "count": 1,
+      "count": 2,
       "url": "kategori/uzay.html"
     },
     {
@@ -58,6 +58,12 @@
       "label": "yapay-zeka",
       "count": 3,
       "url": "etiket/yapay-zeka.html"
+    },
+    {
+      "slug": "nasa",
+      "label": "nasa",
+      "count": 2,
+      "url": "etiket/nasa.html"
     },
     {
       "slug": "uyku",
@@ -168,6 +174,12 @@
       "url": "etiket/genetik.html"
     },
     {
+      "slug": "gezegen",
+      "label": "gezegen",
+      "count": 1,
+      "url": "etiket/gezegen.html"
+    },
+    {
       "slug": "gorme",
       "label": "gorme",
       "count": 1,
@@ -228,12 +240,6 @@
       "url": "etiket/mikroglia.html"
     },
     {
-      "slug": "nasa",
-      "label": "nasa",
-      "count": 1,
-      "url": "etiket/nasa.html"
-    },
-    {
       "slug": "norobilim",
       "label": "norobilim",
       "count": 1,
@@ -270,6 +276,12 @@
       "url": "etiket/renk.html"
     },
     {
+      "slug": "roman",
+      "label": "roman",
+      "count": 1,
+      "url": "etiket/roman.html"
+    },
+    {
       "slug": "savunma-davranisi",
       "label": "savunma davranışı",
       "count": 1,
@@ -294,6 +306,12 @@
       "url": "etiket/sifir.html"
     },
     {
+      "slug": "teleskop",
+      "label": "teleskop",
+      "count": 1,
+      "url": "etiket/teleskop.html"
+    },
+    {
       "slug": "tyrannosaurus-rex",
       "label": "tyrannosaurus rex",
       "count": 1,
@@ -304,6 +322,12 @@
       "label": "ultrason",
       "count": 1,
       "url": "etiket/ultrason.html"
+    },
+    {
+      "slug": "uzay",
+      "label": "uzay",
+      "count": 1,
+      "url": "etiket/uzay.html"
     },
     {
       "slug": "vucut-sicakligi",
@@ -319,6 +343,91 @@
     }
   ],
   "articles": [
+    {
+      "id": "proj_65735377bd",
+      "slug": "2026-09-23-roman-in-ilk-goruntusu-neden-yildizlarla-degil-halkalarla-do",
+      "url": "yazi/2026-09-23-roman-in-ilk-goruntusu-neden-yildizlarla-degil-halkalarla-do.html",
+      "date": "2026-09-23T20:45:36.708551+00:00",
+      "date_text": "23 Eylül 2026",
+      "draft": false,
+      "title": "Roman'ın İlk Görüntüsü Neden Yıldızlarla Değil, Halkalarla Dolu?",
+      "standfirst": "Roman'ın ilk test görüntüsünde yıldızlar nokta değil halka gibi görünüyor; teleskop bozuk değil, odağı henüz ayarlanmadı.",
+      "paragraphs": [
+        "NASA'nın yeni Nancy Grace Roman Uzay Teleskobu'ndan gelen ilk yıldız görüntüsüne baktığınızda bir şey hemen dikkat çekiyor: yıldızlar yıldız gibi görünmüyor. Normalde tek bir parlak nokta görmeyi beklediğimiz yerlerde yüzlerce halka var. Bazıları öylesine geniş ki bir yıldızın ışığı binlerce piksele yayılmış durumda. İlk bakışta bu, teleskobun optiğinde ciddi bir sorun varmış gibi görünebilir. Fakat NASA'ya göre görüntü tam da beklendiği gibi. Çünkü bu, Roman'ın bilim yapmak için çektiği ilk fotoğraf değil. Teleskobun gözlerini ilk kez açıp optik sistemini ayarlamaya başlamadan önce aldığı bir test görüntüsü.",
+        "Nancy Grace Roman Uzay Teleskobu 30 Ağustos 2026'da Florida'daki Kennedy Uzay Merkezi'nden bir Falcon Heavy roketiyle fırlatıldı. Yaklaşık 31 dakika sonra roketten ayrıldı. Bir buçuk saat içinde güneş panellerini açtı. Sonraki günlerde yüksek kazançlı anteni ve teleskobun Güneş'ten korunmasını sağlayan siperliği devreye alındı. Roman'ın hedefi Dünya çevresinde dönmek değil. Teleskop, Dünya'dan yaklaşık 1,6 milyon kilometre uzaktaki Güneş-Dünya L2 bölgesine doğru yol alıyor. NASA, aracın fırlatmadan yaklaşık 100 gün sonra, Aralık 2026'nın başlarında bu bölgeye ulaşmasını bekliyor. Bilim gözlemlerinin başlaması ise daha sonra gelecek. NASA'nın mevcut planına göre ilk bilim görüntülerinin 2027'nin başında yayımlanması bekleniyor.",
+        "Roman'ın ana bilim aracı Wide Field Instrument, yani Geniş Alan Aracı. Yaklaşık 300 megapiksellik bu kızılötesi kamera 18 ayrı dedektörden oluşuyor. Her dedektör yaklaşık bir tuzlu kraker büyüklüğünde ve yaklaşık 16,8 milyon piksel içeriyor. Dedektörlerin toplam algılama alanı kabaca bir dizüstü bilgisayar ekranı büyüklüğünde. Fakat bu sensörler günlük bir kameradaki gibi oda sıcaklığında çalışmıyor. Kamera fırlatmadan sonra yaklaşık on gün boyunca eksi 65 °C civarında kurutuldu. 11 Eylül'de eksi 143 °C'ye kadar soğutularak dedektörler etkinleştirildi. Sistem çalışma sıcaklığı olan yaklaşık eksi 183 °C'ye doğru soğumaya devam ediyor. 15 Eylül'de NASA, bu dedektörlere ulaşan ilk yıldız ışığını gösterdi. Ve ortaya o tuhaf halkalar çıktı.",
+        "Çünkü teleskobun odağı henüz ayarlanmış değil. Görüntü çekildiğinde 18 dedektör hâlâ fırlatma sırasında bulundukları konumdaydı ve optik sistem en iyi odaktan oldukça uzaktı. Bir teleskop doğru odaklandığında uzak bir yıldızın ışığı mümkün olduğunca küçük ve keskin bir noktada toplanır. Odak ciddi biçimde kaçtığında ise aynı ışık çok daha geniş bir alana yayılır. Roman'ın ilk görüntüsünde olan tam olarak bu. Bu nedenle görüntüdeki halkalar bir arıza işareti değil. Tam tersine, mühendislerin teleskobun optik sistemini ölçmek ve hizalamaya nereden başlayacaklarını belirlemek için ihtiyaç duyduğu başlangıç verisi. NASA yapılan ilk kontrollerin sistemlerin beklendiği gibi çalıştığını gösterdiğini bildiriyor. Şimdi sırada ince yönlendirme sistemini devreye almak ve odağı ayarlamak var. Bu süreç tamamlandığında bugün halka olarak gördüğümüz yıldızların ışığı keskin noktalara dönüşecek.",
+        "Roman'ın 2,4 metrelik ana aynası Hubble Uzay Teleskobu'nunkiyle aynı büyüklükte. Ama iki teleskobun güçlü olduğu alan aynı değil. Roman'ın görüntü keskinliği Hubble'a benzer olacak. Büyük fark, aynı anda ne kadar gökyüzünü görebildiğinde ortaya çıkıyor. Roman'ın tek bir görüntüsü Hubble'ınkinden en az 100 kat daha geniş bir gökyüzü alanını kapsayabiliyor. Tek karede gördüğü alan, gökyüzündeki dolunayın kapladığı alandan bile büyük. NASA'nın tahminine göre Roman, ilk beş yıllık ana görevi boyunca Hubble'ın yaklaşık 30 yılda taradığı gökyüzü alanının 50 katından fazlasını görüntüleyebilir. Başka bir ifadeyle Roman'ın amacı yalnızca çok uzağa bakmak değil. Çok geniş bir alanı, Hubble düzeyinde ayrıntıyla ve tekrar tekrar taramak. İşte görevin bilimsel gücü büyük ölçüde buradan geliyor.",
+        "Roman'ın ana hedeflerinden biri Samanyolu'ndaki gezegenleri araştırmak. Bunun için galaksimizin merkezine doğru yüz milyonlarca yıldızı izleyecek. Teleskop aynı bölgelere tekrar tekrar bakarken bir yıldızın ışığında kısa süreli bir parlaklık artışı görebilir. Bunun nedeni yıldızın kendisinin değişmesi olmayabilir. Önünden geçen başka bir cismin kütleçekimi, uzaktaki yıldızın ışığını büyütebilir. Buna kütleçekimsel mikromercekleme deniyor. Aradaki cismin bir gezegeni varsa, büyütme deseninde ek bir değişim bırakabilir. NASA yalnızca mikromercekleme taramasından binden fazla gezegen bulunabileceğini öngörüyor. Bunların arasında Mars kadar düşük kütleli gezegenler ve herhangi bir yıldıza bağlı olmadan galakside dolaşan serbest gezegenler de bulunabilir. Roman'ın farklı gözlem yöntemleri birlikte değerlendirildiğinde görev boyunca yaklaşık 100 bin yeni gezegen bulunması bekleniyor. Buradaki kelime önemli: bekleniyor. Roman henüz herhangi bir gezegen keşfetmedi.",
+        "Roman'ın ikinci büyük işi evrenin genişlemesini anlamaya çalışmak. Görev, gökyüzünün yaklaşık yüzde 12'sini kapsayacak geniş bir taramayla yüz milyonlarca galaksinin konumunu ve şeklini ölçecek. Bu veriler iki büyük soruya yardımcı olacak. Birincisi, galaksilerin ışığının önlerindeki madde tarafından nasıl büküldüğünü inceleyerek karanlık maddenin üç boyutlu dağılımını araştırmak. İkincisi ise evrenin genişleme hızının zaman içinde nasıl değiştiğini ölçmek. Bugünkü kozmolojiye göre evrenin enerji içeriğinin yaklaşık yüzde 68'i, doğasını hâlâ bilmediğimiz karanlık enerjiyle ilişkilendiriliyor. Roman'ın hedeflerinden biri bu etkinin zaman içindeki davranışını mevcut ölçümlere kıyasla çok daha hassas biçimde sınamak. NASA görevden yaklaşık on kat daha hassas ölçümler bekliyor. Yine burada Roman'ın “karanlık enerjiyi çözeceğini” söylemek doğru olmaz. Teleskop, karanlık enerjinin ne olduğuna ilişkin teorileri sınamak için çok daha büyük bir veri seti sağlayacak.",
+        "Roman'ın üçüncü önemli araştırma biçimi ise zamanı kullanıyor. Teleskop aynı gökyüzü bölgesine iki yıl boyunca yaklaşık beş günde bir geri dönecek. Bu sayede değişmeyen gökyüzünün fotoğrafını çekmek yerine, değişen gökyüzünü izleyecek. NASA bu taramada yaklaşık 100 bin kozmik patlamanın yakalanmasını bekliyor. Bunların arasında süpernovalar da bulunacak. Özellikle belirli süpernova türleri, evrenin geçmişte ne kadar hızlı genişlediğini ölçmek için kullanılan önemli kozmolojik araçlardan biri. Roman böylece yalnızca galaksilerin nerede olduğunu değil, evrenin zaman içinde nasıl değiştiğini de büyük ölçekli olarak takip edecek.",
+        "Bu kadar geniş alanı sürekli taramak doğal olarak muazzam miktarda veri üretecek. Roman'ın Dünya'ya her gün yaklaşık 1,4 terabayt ham veri göndermesi bekleniyor. Bu, NASA'nın astrofizik görevleri arasındaki en yüksek veri miktarlarından biri olacak. Beş yıllık ana görev boyunca işlenen veri miktarının yaklaşık 20 petabayta ulaşması bekleniyor. NASA'nın planına göre veriler işlendikçe bilim dünyasına ve halka açık olacak. Bu da Roman'ı yalnızca kendi bilim ekibinin kullandığı bir teleskop olmaktan çıkarıyor. Dünyanın dört bir yanındaki araştırmacılar aynı dev veri arşivinden tamamen farklı soruların peşine düşebilecek.",
+        "Roman'ın onaylanmış ana görevi beş yıl. Ancak fırlatma ve ilk rota düzeltmeleri beklenenden oldukça verimli gerçekleşti. NASA'nın verdiği bilgiye göre araçta kalan yakıt en az 22 yıllık çalışmaya yetecek miktarda. Bu, Roman'ın kesin olarak 22 yıl çalışacağı anlamına gelmiyor. Uzay görevlerinin ömrü yalnızca yakıtla belirlenmez; donanımın durumu, bütçe ve görev uzatmaları gibi birçok etken vardır. Dolayısıyla doğru ifade şu: Ana görev beş yıl, mevcut yakıt ise çok daha uzun bir çalışma süresine izin verebilir.",
+        "Roman'ın 15 Eylül 2026'da yayımlanan görüntüsünde henüz bir gezegen keşfi, yeni bir galaksi veya karanlık enerji ölçümü yok. Hatta yıldızların kendisi bile net değil. Ama tam da bu nedenle ilginç. Bu görüntü bitmiş bir bilim makinesinin zafer fotoğrafı değil. Uzaya yeni ulaşmış son derece karmaşık bir teleskobun gözlerini ilk kez açtığı an. Bugün halka gördüğümüz yıldızlar, optik sistem ayarlandıkça keskin noktalara dönüşecek. Ve eğer görev planlandığı gibi ilerlerse, bu 18 dedektör önümüzdeki yıllarda gökyüzünün şimdiye kadarki en büyük yüksek çözünürlüklü taramalarından birini gerçekleştirecek. Roman'ın ilk görüntüsü bize evren hakkında henüz yeni bir şey öğretmedi. Ama önümüzdeki yıllarda bunu yapacak aracın çalışmaya başladığını gösterdi."
+      ],
+      "takeaway": "Roman'ın ilk görüntüsü bir keşif değil, teleskobun gözlerini ilk kez açtığı an.",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Uzay",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "roman",
+          "label": "roman",
+          "url": "etiket/roman.html"
+        },
+        {
+          "slug": "nasa",
+          "label": "nasa",
+          "url": "etiket/nasa.html"
+        },
+        {
+          "slug": "teleskop",
+          "label": "teleskop",
+          "url": "etiket/teleskop.html"
+        },
+        {
+          "slug": "gezegen",
+          "label": "gezegen",
+          "url": "etiket/gezegen.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "NASA Roman Blogu, 15 Eylül 2026",
+          "url": "https://science.nasa.gov/blogs/roman/2026/09/15/nasa-activates-romans-primary-instrument-checks-out-coronagraph/"
+        }
+      ],
+      "image_credits": [
+        "NASA Goddard Space Flight Center / Tyler Desjardins (STScI)",
+        "NASA Goddard Space Flight Center",
+        "NASA Goddard Space Flight Center Conceptual Image Lab",
+        "M. Kornmesser(ESA/Hubble)",
+        "NASA, ESA, CSA, STScI, N. Bartmann (ESA/Webb)",
+        "ESA / Hubble (M. Kornmesser & L. L. Christensen)"
+      ],
+      "video": {
+        "instagram": "https://www.instagram.com/reel/DdpMpRGEwv5/",
+        "youtube": "dQMc3e8hjVs"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/dQMc3e8hjVs"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DdpMpRGEwv5/"
+        }
+      ]
+    },
     {
       "id": "proj_f66a5e5321",
       "slug": "2026-09-22-bizim-cagimizda-acilan-en-buyuk-krater-ay-da",
@@ -450,12 +559,17 @@
         "Manna R ve ark., eLife 2026 (10.7554/eLife.111235), CC BY 4.0"
       ],
       "video": {
-        "youtube": "3pHxrdbWXII"
+        "youtube": "3pHxrdbWXII",
+        "instagram": "https://www.instagram.com/reel/DdnzrR9k-LC/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/3pHxrdbWXII"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DdnzrR9k-LC/"
         }
       ]
     },
@@ -518,12 +632,17 @@
         "TypeSafe AI — Jev Doom demosu (Introducing System One Models & Jev, 15 Eylül 2026)"
       ],
       "video": {
-        "youtube": "uxZAmddqyMo"
+        "youtube": "uxZAmddqyMo",
+        "instagram": "https://www.instagram.com/reel/DdnyvImk9jp/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/uxZAmddqyMo"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DdnyvImk9jp/"
         }
       ]
     },
@@ -579,12 +698,17 @@
       ],
       "image_credits": [],
       "video": {
-        "youtube": "CAHmL9m1Vgg"
+        "youtube": "CAHmL9m1Vgg",
+        "instagram": "https://www.instagram.com/reel/Ddnz2rjE6XL/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/CAHmL9m1Vgg"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Ddnz2rjE6XL/"
         }
       ]
     },
@@ -648,12 +772,17 @@
         "Li LY, Gao X, Zhang J, Wu WW, Li YT, eLife 2026 (10.7554/eLife.109571), CC BY 4.0"
       ],
       "video": {
-        "youtube": "8lLze4pCQIk"
+        "youtube": "8lLze4pCQIk",
+        "instagram": "https://www.instagram.com/reel/Ddnyic4k2Ca/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/8lLze4pCQIk"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Ddnyic4k2Ca/"
         }
       ]
     },
@@ -716,12 +845,17 @@
         "Li LY, Gao X, Zhang J, Wu WW, Li YT, eLife 2026 (10.7554/eLife.109571), CC BY 4.0"
       ],
       "video": {
-        "youtube": "p5mXfTh5St0"
+        "youtube": "p5mXfTh5St0",
+        "instagram": "https://www.instagram.com/reel/DdnxwSyE6wB/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/p5mXfTh5St0"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DdnxwSyE6wB/"
         }
       ]
     },
@@ -849,12 +983,17 @@
       ],
       "image_credits": [],
       "video": {
-        "youtube": "lUvpogfnup4"
+        "youtube": "lUvpogfnup4",
+        "instagram": "https://www.instagram.com/reel/Ddnx7ZSE5WR/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/lUvpogfnup4"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Ddnx7ZSE5WR/"
         }
       ]
     },
