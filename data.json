@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T20:46:06+00:00",
+  "generated_at": "2026-09-24T12:09:34+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -29,7 +29,7 @@
     },
     {
       "slug": "uzay",
-      "label": "Uzay",
+      "label": "Astronomi",
       "count": 2,
       "url": "kategori/uzay.html"
     },
@@ -369,7 +369,7 @@
       "impact": null,
       "category": {
         "slug": "uzay",
-        "label": "Uzay",
+        "label": "Astronomi",
         "url": "kategori/uzay.html"
       },
       "tags": [
@@ -447,7 +447,7 @@
       "impact": null,
       "category": {
         "slug": "uzay",
-        "label": "Uzay",
+        "label": "Astronomi",
         "url": "kategori/uzay.html"
       },
       "tags": [
