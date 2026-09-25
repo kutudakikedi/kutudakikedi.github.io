@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T06:53:31+00:00",
+  "generated_at": "2026-09-25T21:57:17+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -24,7 +24,7 @@
     {
       "slug": "fizik",
       "label": "Fizik",
-      "count": 1,
+      "count": 2,
       "url": "kategori/fizik.html"
     },
     {
@@ -44,6 +44,18 @@
       "label": "Yapay Zekâ",
       "count": 1,
       "url": "kategori/yapay-zeka.html"
+    },
+    {
+      "slug": "cevre",
+      "label": "Çevre",
+      "count": 1,
+      "url": "kategori/cevre.html"
+    },
+    {
+      "slug": "teknoloji",
+      "label": "Teknoloji",
+      "count": 1,
+      "url": "kategori/teknoloji.html"
     }
   ],
   "tags": [
@@ -84,10 +96,28 @@
       "url": "etiket/ahtapot.html"
     },
     {
+      "slug": "antik",
+      "label": "antik",
+      "count": 1,
+      "url": "etiket/antik.html"
+    },
+    {
+      "slug": "arkeoloji",
+      "label": "arkeoloji",
+      "count": 1,
+      "url": "etiket/arkeoloji.html"
+    },
+    {
       "slug": "arilar",
       "label": "arılar",
       "count": 1,
       "url": "etiket/arilar.html"
+    },
+    {
+      "slug": "atmosfer",
+      "label": "atmosfer",
+      "count": 1,
+      "url": "etiket/atmosfer.html"
     },
     {
       "slug": "avci-tehdidi",
@@ -180,6 +210,12 @@
       "url": "etiket/gezegen.html"
     },
     {
+      "slug": "giyilebilir",
+      "label": "giyilebilir",
+      "count": 1,
+      "url": "etiket/giyilebilir.html"
+    },
+    {
       "slug": "gorme",
       "label": "gorme",
       "count": 1,
@@ -196,6 +232,12 @@
       "label": "güneş sistemi",
       "count": 1,
       "url": "etiket/gunes-sistemi.html"
+    },
+    {
+      "slug": "iklim",
+      "label": "iklim",
+      "count": 1,
+      "url": "etiket/iklim.html"
     },
     {
       "slug": "izotop",
@@ -234,10 +276,28 @@
       "url": "etiket/kuantum.html"
     },
     {
+      "slug": "kumas",
+      "label": "kumaş",
+      "count": 1,
+      "url": "etiket/kumas.html"
+    },
+    {
+      "slug": "manyetizma",
+      "label": "manyetizma",
+      "count": 1,
+      "url": "etiket/manyetizma.html"
+    },
+    {
       "slug": "mikroglia",
       "label": "mikroglia",
       "count": 1,
       "url": "etiket/mikroglia.html"
+    },
+    {
+      "slug": "nfc",
+      "label": "nfc",
+      "count": 1,
+      "url": "etiket/nfc.html"
     },
     {
       "slug": "norobilim",
@@ -282,6 +342,12 @@
       "url": "etiket/roman.html"
     },
     {
+      "slug": "sahte",
+      "label": "sahte",
+      "count": 1,
+      "url": "etiket/sahte.html"
+    },
+    {
       "slug": "savunma-davranisi",
       "label": "savunma davranışı",
       "count": 1,
@@ -292,6 +358,12 @@
       "label": "sayısal biliş",
       "count": 1,
       "url": "etiket/sayisal-bilis.html"
+    },
+    {
+      "slug": "sensor",
+      "label": "sensör",
+      "count": 1,
+      "url": "etiket/sensor.html"
     },
     {
       "slug": "sosyal-rutbe",
@@ -306,10 +378,22 @@
       "url": "etiket/sifir.html"
     },
     {
+      "slug": "teknoloji",
+      "label": "teknoloji",
+      "count": 1,
+      "url": "etiket/teknoloji.html"
+    },
+    {
       "slug": "teleskop",
       "label": "teleskop",
       "count": 1,
       "url": "etiket/teleskop.html"
+    },
+    {
+      "slug": "toz",
+      "label": "toz",
+      "count": 1,
+      "url": "etiket/toz.html"
     },
     {
       "slug": "tyrannosaurus-rex",
@@ -324,6 +408,12 @@
       "url": "etiket/ultrason.html"
     },
     {
+      "slug": "uydu",
+      "label": "uydu",
+      "count": 1,
+      "url": "etiket/uydu.html"
+    },
+    {
       "slug": "uzay",
       "label": "uzay",
       "count": 1,
@@ -336,6 +426,18 @@
       "url": "etiket/vucut-sicakligi.html"
     },
     {
+      "slug": "col",
+      "label": "çöl",
+      "count": 1,
+      "url": "etiket/col.html"
+    },
+    {
+      "slug": "comlek",
+      "label": "çömlek",
+      "count": 1,
+      "url": "etiket/comlek.html"
+    },
+    {
       "slug": "ogrenme",
       "label": "öğrenme",
       "count": 1,
@@ -343,6 +445,241 @@
     }
   ],
   "articles": [
+    {
+      "id": "proj_ec9a595f34",
+      "slug": "2026-09-25-dunya-21-yuzyilda-daha-az-tozlu",
+      "url": "yazi/2026-09-25-dunya-21-yuzyilda-daha-az-tozlu.html",
+      "date": "2026-09-25T21:57:15.581807+00:00",
+      "date_text": "25 Eylül 2026",
+      "draft": false,
+      "title": "Dünya 21. Yüzyılda Daha Az Tozlu",
+      "standfirst": "Lazer ölçümleri, uydu verileri ve yer istasyonları birlikte değerlendirildiğinde atmosferdeki çöl tozu son yirmi yılda yaklaşık yüzde on azalmış görünüyor.",
+      "paragraphs": [
+        "Çöl tozu yalnızca kum fırtınalarının yaşandığı bölgeleri ilgilendirmiyor. Atmosfere yükselen mineral parçacıkları binlerce kilometre taşınabiliyor; Dünya'nın enerji dengesini, bulutların oluşumunu ve kara ile okyanuslara taşınan mineralleri etkileyebiliyor.",
+        "Fakat son yıllarda temel bir soru net değildi: atmosferdeki çöl tozu artıyor mu, azalıyor mu? Farklı uydular ve atmosfer modelleri zaman zaman farklı sonuçlar veriyordu.",
+        "Gupta, Kok ve çalışma arkadaşları bu soruyu mümkün olduğunca çok bağımsız veri kaynağını aynı çerçevede değerlendirerek yeniden ele aldı. Uydu üzerindeki lidar ölçümleri, kızılötesi algılayıcılar, çok bantlı görüntüleyiciler, üç ayrı atmosfer yeniden analizi ve yeryüzündeki toz ölçüm istasyonları birlikte kullanıldı.",
+        "Ortak sonuç, atmosferdeki çöl tozunun 2003 ile 2023 arasında küresel ölçekte yaklaşık yüzde 10 azaldığını gösteriyor. Kuzey Afrika hâlâ dünyanın en büyük toz kaynağı olmasına rağmen burada da yaklaşık yüzde 10'luk bir düşüş görüldü. Asya'daki tahmin de benzer yönde.",
+        "Araştırmacılar yalnızca havada asılı duran toza bakmadı. Kalkan toz, atmosferdeki toplam toz ve tekrar yere çöken toz birlikte azaldı. Bu nedenle sonuç, toz döngüsünün genel olarak zayıfladığına işaret ediyor.",
+        "İşin iklim tarafı daha dikkatli yorumlanmalı. Mineral tozun bir bölümü Güneş ışığını geri yansıtarak soğutucu etki yapıyor. Toz azaldığında bu soğutucu etki de azalıyor. Ekip bunun yaklaşık +0,02 W/m² büyüklüğünde küçük bir ısıtıcı etki yaratmış olabileceğini hesapladı.",
+        "Fakat belirsizlik yaklaşık ±0,05 W/m². Yani belirsizlik, hesaplanan etkinin kendisinden daha büyük. Bu nedenle çalışma “son yirmi yılın ısınmasının nedeni tozun azalmasıdır” demiyor; ancak mütevazı ve belirsiz bir katkı olabileceğini söylüyor.",
+        "Bir başka açık nokta da neden. Çalışmanın özetlenen sonuçları tozun neden azaldığını belirlemiyor. Dolayısıyla bunu doğrudan iklim değişikliğine veya başka tek bir nedene bağlamak doğru değil.",
+        "Ana sonuç daha temel: birbirinden bağımsız ölçüm yöntemleri aynı yönde birleşiyor ve 21. yüzyılın ilk yirmi yılında Dünya atmosferinin yaklaşık yüzde 10 daha az çöl tozu içerdiğini gösteriyor."
+      ],
+      "takeaway": "Toz azaldıkça Dünya'nın güneş ışığını yansıtan perdesi inceliyor, ama bunun ısınmaya katkısı belirsiz.",
+      "impact": null,
+      "category": {
+        "slug": "cevre",
+        "label": "Çevre",
+        "url": "kategori/cevre.html"
+      },
+      "tags": [
+        {
+          "slug": "iklim",
+          "label": "iklim",
+          "url": "etiket/iklim.html"
+        },
+        {
+          "slug": "toz",
+          "label": "toz",
+          "url": "etiket/toz.html"
+        },
+        {
+          "slug": "col",
+          "label": "çöl",
+          "url": "etiket/col.html"
+        },
+        {
+          "slug": "atmosfer",
+          "label": "atmosfer",
+          "url": "etiket/atmosfer.html"
+        },
+        {
+          "slug": "uydu",
+          "label": "uydu",
+          "url": "etiket/uydu.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aef5691"
+        }
+      ],
+      "image_credits": [
+        "NASA/GSFC / Ryan Fitzgibbons",
+        "Gupta AK ve ark., Science Advances 2026 (10.1126/sciadv.aef5691), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "cCPzqwpc6gc",
+        "instagram": "https://www.instagram.com/reel/Dduedi8kxCZ/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/cCPzqwpc6gc"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dduedi8kxCZ/"
+        }
+      ]
+    },
+    {
+      "id": "proj_97d48786d7",
+      "slug": "2026-09-25-sahte-antik-eseri-manyetizma-ele-veriyor",
+      "url": "yazi/2026-09-25-sahte-antik-eseri-manyetizma-ele-veriyor.html",
+      "date": "2026-09-25T21:57:15.576577+00:00",
+      "date_text": "25 Eylül 2026",
+      "draft": false,
+      "title": "Sahte Antik Eseri Manyetizma Ele Veriyor",
+      "standfirst": "Pişmiş kilin yıllar içinde kazandığı ikinci bir manyetik iz, eserin bin yıllık mı yoksa yeni mi olduğunu ayırt etmeye yarıyor.",
+      "paragraphs": [
+        "Bir antik eserin gerçekten binlerce yıllık mı yoksa modern bir taklit mi olduğunu anlamak her zaman kolay değil. Pişmiş kil eserlerde kullanılan klasik yöntemlerden biri termolüminesans olsa da, sahteciler eski dönemlerde kullanılan yerel killeri kullanarak bu testi zorlayabiliyor.",
+        "Vaknin ve çalışma arkadaşları farklı bir fiziksel izden yararlandı: manyetizma.",
+        "Kil fırında pişirilip soğurken içindeki manyetik mineraller o anda Dünya'nın manyetik alanının yönünü kaydeder. Eser daha sonra başka bir konumda yüzyıllarca beklerken çok daha yavaş gelişen ikinci bir manyetik iz kazanır. Bu iz, viskoz kalıntı mıknatıslanma yani VRM olarak adlandırılıyor.",
+        "İz zamanla daha sağlam hâle geliyor. Bu yüzden araştırmacılar eserleri kontrollü biçimde adım adım ısıtıp sonradan oluşmuş manyetik izin hangi sıcaklıkta silindiğini ölçtü.",
+        "Bin yıldan eski olması beklenen eserler için çalışmada kullanılan kritik eşik 112 °C oldu. Ekip yöntemi 19 antik ve 26 modern nesne üzerinde denedi. Modern örneklerin tamamında iz 112 °C'nin altında silinirken antik örneklerin tamamında bu sıcaklığın üzerinde kaldı.",
+        "Daha sonra yöntem, İsrail Eski Eserler Kurumu'nun kaçakçılıkla mücadele birimince el konan ve gerçekliği tartışmalı üç esere uygulandı. Sonuçlar üçünün de antik olduğuyla uyumluydu.",
+        "Çalışmadaki küçük bir testide iz, eserin üretildikten sonra yaklaşık 350 °C'ye kadar yeniden ısındığını da düşündürdü. Araştırmacılar bunun eski bir yangınla ilişkili olabileceğini belirtiyor; testinin bir bölümündeki kararma da bu olasılıkla uyumlu.",
+        "Bu yöntem bir yaş tayini testi değil. “Bu eser tam olarak şu kadar yıllık” demiyor. Ayrıca bin yıldan genç eserler veya birkaç yüzyıl önce yapılmış eski sahteler için farklı eşikler gerekebilir.",
+        "Dolayısıyla tek başına kusursuz bir doğrulama yöntemi değil. Ancak müzeler, arkeologlar ve kaçak eser ticaretiyle mücadele eden kurumlar için bağımsız bir kanıt katmanı sağlayabilir."
+      ],
+      "takeaway": "Bir eserin geçmişini, üzerinde tek satır yazı olmasa bile içine kaydettiği manyetik iz ele verebiliyor.",
+      "impact": null,
+      "category": {
+        "slug": "fizik",
+        "label": "Fizik",
+        "url": "kategori/fizik.html"
+      },
+      "tags": [
+        {
+          "slug": "arkeoloji",
+          "label": "arkeoloji",
+          "url": "etiket/arkeoloji.html"
+        },
+        {
+          "slug": "manyetizma",
+          "label": "manyetizma",
+          "url": "etiket/manyetizma.html"
+        },
+        {
+          "slug": "antik",
+          "label": "antik",
+          "url": "etiket/antik.html"
+        },
+        {
+          "slug": "sahte",
+          "label": "sahte",
+          "url": "etiket/sahte.html"
+        },
+        {
+          "slug": "comlek",
+          "label": "çömlek",
+          "url": "etiket/comlek.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2620397123"
+        }
+      ],
+      "image_credits": [
+        "Vaknin Y ve ark., PNAS 2026 (10.1073/pnas.2620397123), CC BY 4.0",
+        "NASA's Scientific Visualization Studio / AJ Christensen"
+      ],
+      "video": {
+        "youtube": "IjbuZxfZzPw",
+        "instagram": "https://www.instagram.com/reel/DdueXXukxbG/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/IjbuZxfZzPw"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DdueXXukxbG/"
+        }
+      ]
+    },
+    {
+      "id": "proj_302313812c",
+      "slug": "2026-09-25-telefonun-gucunu-butun-vucuda-tasiyan-kiyafet",
+      "url": "yazi/2026-09-25-telefonun-gucunu-butun-vucuda-tasiyan-kiyafet.html",
+      "date": "2026-09-25T21:57:15.565933+00:00",
+      "date_text": "25 Eylül 2026",
+      "draft": false,
+      "title": "Telefonun Gücünü Bütün Vücuda Taşıyan Kıyafet",
+      "standfirst": "Telefon işlenmiş kumaşın bir ucuna konuyor, öbür uçtaki pilsiz sensör çalışmaya başlıyor; gücü taşıyan şey kıyafetin kendisi.",
+      "paragraphs": [
+        "Vücuda takılan sensörler sağlık desteğinden robot kontrolüne ve sanal gerçekliğe kadar pek çok alanda kullanılabiliyor. Fakat sensör sayısı arttıkça iki sorun büyüyor: her sensörün ayrı bir güç kaynağına ihtiyaç duyması ve kablosuz iletişimin vücut üzerinde verimsizleşebilmesi.",
+        "Zhang ve çalışma arkadaşları bu iki sorunu doğrudan kıyafetin kendisini kullanarak çözmeye çalıştı. Kumaşa, içinde sıvı metal lifler bulunan özel ipliklerle desenler işlendi. Bu metamateryal desenler elektromanyetik dalgaları vücut boyunca taşımak üzere tasarlandı.",
+        "Sistemde NFC özelliğine sahip telefon güç kaynağı görevi görüyor. Telefonun verdiği kablosuz enerji kumaş üzerindeki yapı boyunca ilerleyip kıyafetin başka bölgelerindeki pilsiz sensörlere ulaşıyor. Sensörlerin topladığı veriler de Bluetooth üzerinden telefona geri iletiliyor. Böylece telefon hem güç kaynağı hem de veri merkezi hâline geliyor.",
+        "Makalenin deney videolarında fikir doğrudan gösteriliyor: telefon işlenmiş kumaş şeridin bir ucuna konduğunda diğer uçtaki pilsiz sensör çalışmaya başlıyor ve telefona bağlanıyor.",
+        "Araştırmacılar sistemi pilsiz sensörlü bir eldivenle robot eli ve robot kolunu yönetmek, sanal gerçeklikte hareketleri algılamak ve bütün vücut hareketlerini takip eden bir dijital ikiz oluşturmak için de kullandı.",
+        "Performans tarafında sistem, benzer amaçla geliştirilmiş önceki akıllı kıyafet tasarımlarına göre 37,8 kat daha fazla veri aktarımı sağladı. Kablosuz güç aktarımının verimi de yaklaşık iki kat arttı. Buradaki 37,8 katlık fark sıradan Bluetooth'a karşı değil, önceki akıllı kıyafet sistemlerine karşı yapılan kıyas.",
+        "Çalışma henüz günlük hayatta satılan bir ürünü göstermiyor. Ayrıca NFC'li bir telefon gerekiyor. Kumaşın yıkama dayanıklılığı test edilmiş olsa da mevcut bilgi yalnızca test yapıldığını doğruluyor; “yıkandıktan sonra sorunsuz çalıştı” demek için yeterli değil.",
+        "Yine de fikir önemli: giyilebilir sensörleri tek tek pille beslemek yerine, gücü giysinin kendisinin taşıması."
+      ],
+      "takeaway": "Giyilebilir sensörleri tek tek pille beslemek yerine, gücü giysinin kendisi taşıyabilir.",
+      "impact": null,
+      "category": {
+        "slug": "teknoloji",
+        "label": "Teknoloji",
+        "url": "kategori/teknoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "teknoloji",
+          "label": "teknoloji",
+          "url": "etiket/teknoloji.html"
+        },
+        {
+          "slug": "giyilebilir",
+          "label": "giyilebilir",
+          "url": "etiket/giyilebilir.html"
+        },
+        {
+          "slug": "nfc",
+          "label": "nfc",
+          "url": "etiket/nfc.html"
+        },
+        {
+          "slug": "sensor",
+          "label": "sensör",
+          "url": "etiket/sensor.html"
+        },
+        {
+          "slug": "kumas",
+          "label": "kumaş",
+          "url": "etiket/kumas.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-77600-2"
+        }
+      ],
+      "image_credits": [
+        "Zhang Y ve ark., Nature Communications 2026 (10.1038/s41467-026-77600-2), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "STx4hiZONqA",
+        "instagram": "https://www.instagram.com/reel/DdueRG_kzrM/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/STx4hiZONqA"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DdueRG_kzrM/"
+        }
+      ]
+    },
     {
       "id": "proj_65735377bd",
       "slug": "2026-09-23-roman-in-ilk-goruntusu-neden-yildizlarla-degil-halkalarla-do",
@@ -633,7 +970,8 @@
       ],
       "video": {
         "youtube": "uxZAmddqyMo",
-        "instagram": "https://www.instagram.com/reel/DdnyvImk9jp/"
+        "instagram": "https://www.instagram.com/reel/DdnyvImk9jp/",
+        "tiktok_taslak": "v_inbox_file~v2.7689405528245798914"
       },
       "watch": [
         {
@@ -699,7 +1037,8 @@
       "image_credits": [],
       "video": {
         "youtube": "CAHmL9m1Vgg",
-        "instagram": "https://www.instagram.com/reel/Ddnz2rjE6XL/"
+        "instagram": "https://www.instagram.com/reel/Ddnz2rjE6XL/",
+        "tiktok_taslak": "v_inbox_file~v2.7689405512768620566"
       },
       "watch": [
         {
@@ -773,7 +1112,8 @@
       ],
       "video": {
         "youtube": "8lLze4pCQIk",
-        "instagram": "https://www.instagram.com/reel/Ddnyic4k2Ca/"
+        "instagram": "https://www.instagram.com/reel/Ddnyic4k2Ca/",
+        "tiktok_taslak": "v_inbox_file~v2.7689405366798518274"
       },
       "watch": [
         {
@@ -846,7 +1186,8 @@
       ],
       "video": {
         "youtube": "p5mXfTh5St0",
-        "instagram": "https://www.instagram.com/reel/DdnxwSyE6wB/"
+        "instagram": "https://www.instagram.com/reel/DdnxwSyE6wB/",
+        "tiktok_taslak": "v_inbox_file~v2.7689405123231270934"
       },
       "watch": [
         {
@@ -919,7 +1260,8 @@
       ],
       "video": {
         "youtube": "4nn26zAxsvE",
-        "instagram": "https://www.instagram.com/reel/DdlDwwEk4yz/"
+        "instagram": "https://www.instagram.com/reel/DdlDwwEk4yz/",
+        "tiktok_taslak": "v_inbox_file~v2.7689405123231057942"
       },
       "watch": [
         {
@@ -984,7 +1326,8 @@
       "image_credits": [],
       "video": {
         "youtube": "lUvpogfnup4",
-        "instagram": "https://www.instagram.com/reel/Ddnx7ZSE5WR/"
+        "instagram": "https://www.instagram.com/reel/Ddnx7ZSE5WR/",
+        "tiktok_taslak": "v_inbox_file~v2.7689404695757047830"
       },
       "watch": [
         {
@@ -1054,7 +1397,8 @@
       "image_credits": [],
       "video": {
         "youtube": "jw0nVbpOjSo",
-        "instagram": "https://www.instagram.com/reel/DdlCU3IE5z_/"
+        "instagram": "https://www.instagram.com/reel/DdlCU3IE5z_/",
+        "tiktok_elle": true
       },
       "watch": [
         {
@@ -1127,7 +1471,8 @@
       ],
       "video": {
         "youtube": "AzKKCUFm0H4",
-        "instagram": "https://www.instagram.com/reel/DdlCISRk1xw/"
+        "instagram": "https://www.instagram.com/reel/DdlCISRk1xw/",
+        "tiktok_elle": true
       },
       "watch": [
         {
@@ -1200,7 +1545,8 @@
       ],
       "video": {
         "youtube": "cvtZFwHNtAU",
-        "instagram": "https://www.instagram.com/reel/Ddjhpakk2-u/"
+        "instagram": "https://www.instagram.com/reel/Ddjhpakk2-u/",
+        "tiktok_elle": true
       },
       "watch": [
         {
