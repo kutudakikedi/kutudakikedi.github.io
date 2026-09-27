@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T21:57:17+00:00",
+  "generated_at": "2026-09-27T15:51:28+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -30,13 +30,13 @@
     {
       "slug": "uzay",
       "label": "Astronomi",
-      "count": 2,
+      "count": 5,
       "url": "kategori/uzay.html"
     },
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 8,
+      "count": 9,
       "url": "kategori/biyoloji.html"
     },
     {
@@ -64,6 +64,18 @@
       "label": "beyin",
       "count": 4,
       "url": "etiket/beyin.html"
+    },
+    {
+      "slug": "uzay",
+      "label": "uzay",
+      "count": 4,
+      "url": "etiket/uzay.html"
+    },
+    {
+      "slug": "gezegen",
+      "label": "gezegen",
+      "count": 3,
+      "url": "etiket/gezegen.html"
     },
     {
       "slug": "yapay-zeka",
@@ -150,6 +162,18 @@
       "url": "etiket/bitkiler.html"
     },
     {
+      "slug": "biyoloji",
+      "label": "biyoloji",
+      "count": 1,
+      "url": "etiket/biyoloji.html"
+    },
+    {
+      "slug": "bocek",
+      "label": "böcek",
+      "count": 1,
+      "url": "etiket/bocek.html"
+    },
+    {
       "slug": "davranis",
       "label": "davranış",
       "count": 1,
@@ -180,6 +204,12 @@
       "url": "etiket/dinozor.html"
     },
     {
+      "slug": "esa",
+      "label": "esa",
+      "count": 1,
+      "url": "etiket/esa.html"
+    },
+    {
       "slug": "fareler",
       "label": "fareler",
       "count": 1,
@@ -192,22 +222,28 @@
       "url": "etiket/feynman.html"
     },
     {
+      "slug": "fosil",
+      "label": "fosil",
+      "count": 1,
+      "url": "etiket/fosil.html"
+    },
+    {
       "slug": "foton",
       "label": "foton",
       "count": 1,
       "url": "etiket/foton.html"
     },
     {
+      "slug": "ganymede",
+      "label": "ganymede",
+      "count": 1,
+      "url": "etiket/ganymede.html"
+    },
+    {
       "slug": "genetik",
       "label": "genetik",
       "count": 1,
       "url": "etiket/genetik.html"
-    },
-    {
-      "slug": "gezegen",
-      "label": "gezegen",
-      "count": 1,
-      "url": "etiket/gezegen.html"
     },
     {
       "slug": "giyilebilir",
@@ -252,6 +288,24 @@
       "url": "etiket/jev.html"
     },
     {
+      "slug": "juice",
+      "label": "juice",
+      "count": 1,
+      "url": "etiket/juice.html"
+    },
+    {
+      "slug": "jura",
+      "label": "jura",
+      "count": 1,
+      "url": "etiket/jura.html"
+    },
+    {
+      "slug": "jupiter",
+      "label": "jüpiter",
+      "count": 1,
+      "url": "etiket/jupiter.html"
+    },
+    {
       "slug": "kavitasyon",
       "label": "kavitasyon",
       "count": 1,
@@ -282,10 +336,28 @@
       "url": "etiket/kumas.html"
     },
     {
+      "slug": "kuyrukluyildiz",
+      "label": "kuyrukluyıldız",
+      "count": 1,
+      "url": "etiket/kuyrukluyildiz.html"
+    },
+    {
+      "slug": "manto",
+      "label": "manto",
+      "count": 1,
+      "url": "etiket/manto.html"
+    },
+    {
       "slug": "manyetizma",
       "label": "manyetizma",
       "count": 1,
       "url": "etiket/manyetizma.html"
+    },
+    {
+      "slug": "mars",
+      "label": "mars",
+      "count": 1,
+      "url": "etiket/mars.html"
     },
     {
       "slug": "mikroglia",
@@ -366,6 +438,12 @@
       "url": "etiket/sensor.html"
     },
     {
+      "slug": "ses",
+      "label": "ses",
+      "count": 1,
+      "url": "etiket/ses.html"
+    },
+    {
       "slug": "sosyal-rutbe",
       "label": "sosyal rütbe",
       "count": 1,
@@ -414,16 +492,16 @@
       "url": "etiket/uydu.html"
     },
     {
-      "slug": "uzay",
-      "label": "uzay",
-      "count": 1,
-      "url": "etiket/uzay.html"
-    },
-    {
       "slug": "vucut-sicakligi",
       "label": "vücut sıcaklığı",
       "count": 1,
       "url": "etiket/vucut-sicakligi.html"
+    },
+    {
+      "slug": "yildiz",
+      "label": "yıldız",
+      "count": 1,
+      "url": "etiket/yildiz.html"
     },
     {
       "slug": "col",
@@ -445,6 +523,325 @@
     }
   ],
   "articles": [
+    {
+      "id": "proj_60cfad6c0e",
+      "slug": "2026-09-27-juice-neden-dunya-ya-geri-donuyor",
+      "url": "yazi/2026-09-27-juice-neden-dunya-ya-geri-donuyor.html",
+      "date": "2026-09-27T15:51:13.934386+00:00",
+      "date_text": "27 Eylül 2026",
+      "draft": false,
+      "title": "Juice Neden Dünya'ya Geri Dönüyor?",
+      "standfirst": "ESA'nın Jüpiter'e giden Juice sondası, 28 Eylül 2026'da Dünya'nın yalnızca 8.640 kilometre yakınından geçecek.",
+      "paragraphs": [
+        "Bir uzay aracını Jüpiter'e göndermek kulağa basit gelebilir: roketi ateşlersiniz, aracı hızlandırırsınız ve hedefe doğru yollarsınız. Gerçekte ise gezegenler arası yolculuklarda en büyük sorunlardan biri yakıttır. Jüpiter çok uzakta ve bir uzay aracını doğrudan oraya gönderecek kadar hızlandırmak büyük miktarda yakıt gerektirir. Daha fazla yakıt daha fazla kütle, daha büyük roket ve daha yüksek maliyet demektir. Bu yüzden ESA'nın Juice sondası daha farklı bir yol izliyor. Gezegenlerin çekimini kullanıyor.",
+        "Juice, 28 Eylül 2026'da Dünya'nın yaklaşık 8.640 kilometre yakınından geçecek. En yakın geçişin 11.45 UTC'de (Türkiye saatiyle 14.45), Hint Okyanusu üzerinde gerçekleşmesi planlanıyor. Bu yalnızca yakın bir uçuş değil. Dünya'nın kütleçekimi sondanın yörüngesini yaklaşık 20 derece bükecek ve hızını yaklaşık saniyede 3,5 kilometre artıracak. Bu değerler ESA'nın yaklaşık hesapları. Araç Dünya'ya çarpmıyor, rotasını kaybetmiyor ve kontrolden çıkmıyor. Tam tersine, bu geçiş yıllar öncesinden planlanan yolculuğun bir parçası.",
+        "Bu tekniğe kütleçekim yardımı ya da daha gündelik adıyla sapan manevrası deniyor. Bir uzay aracı hareket eden bir gezegenin yakınından doğru açıyla geçtiğinde, gezegenin çekim alanına girer ve onunla kısa süreli bir kütleçekimsel etkileşime girer. Aracın gezegene göre hızı girişte ve çıkışta büyük ölçüde benzer olabilir. Fakat Güneş'e göre baktığınızda aracın hız ve yönü değişmiş olur. Enerji yoktan üretilmez. Uzay aracı, çok küçük miktarda da olsa gezegenin yörüngesel enerjisinden pay alır. Gezegenin kütlesi araca göre o kadar büyüktür ki bunun gezegen üzerindeki etkisi pratikte ölçülemeyecek kadar küçüktür. Uzay görevleri bu yöntem sayesinde yanlarında taşımaları imkânsız miktarda yakıt harcamadan uzak hedeflere ulaşabilir.",
+        "Juice 14 Nisan 2023'te Fransız Guyanası'ndan bir Ariane 5 roketiyle fırlatıldı. Fırlatma sırasındaki toplam kütlesi 6.070 kilogramdı ve bunun yarısından fazlası yakıttı. Buna rağmen doğrudan Jüpiter'e gidecek kadar enerji taşıyamıyordu. Bu nedenle yolculuk baştan itibaren bir dizi kütleçekim yardımına göre tasarlandı. Ağustos 2024'te Juice önce Ay'ın, yaklaşık bir gün sonra da Dünya'nın yanından geçti. Bu, bir uzay aracının yaptığı ilk Ay-Dünya çift kütleçekim yardımıydı. Bu manevra aracın yönünü yaklaşık 100 derece değiştirdi ve ESA'ya göre yaklaşık 150 kilogram yakıt tasarrufu sağladı. 31 Ağustos 2025'te ise Venüs'ün yaklaşık 5.088 kilometre yakınından geçen Juice, hızını yaklaşık saniyede 5,1 kilometre artırdı. Şimdi sıra yeniden Dünya'da.",
+        "Çünkü gezegenler arası rota düz bir çizgi değil. Juice'un Jüpiter'e ulaşabilmesi için doğru zamanda doğru hızda ve doğru yönde olması gerekiyor. Dünya, Venüs ve tekrar Dünya üzerinden yapılan bu uzun rota, aracı adım adım Jüpiter'e uygun yörüngeye taşıyor. 28 Eylül'deki geçiş de bu zincirin üçüncü büyük kütleçekim yardımı. Üstelik bu son Dünya karşılaşması olmayacak. Juice, Ocak 2029'da bir kez daha Dünya'nın yanından geçecek. Bu son yardım, aracı Jüpiter'e doğru nihai rotasına yönlendirecek. Planlanan varış tarihi Temmuz 2031. Yani 2023'te başlayan yolculuk yaklaşık sekiz yıl sürecek.",
+        "Juice Dünya'ya yaklaşırken bilim araçları da çalışacak. 23 Eylül ile 3 Ekim arasında uzay aracındaki on bilim aracının tamamının açık olması planlanıyor. Dünya ve Ay, sondanın cihazları için büyük ve iyi bilinen birer test hedefi olacak. Araştırmacılar bu fırsatı aletleri ayarlamak ve bazı sistemlerin performansını kontrol etmek için kullanacak. Seyir kamerası Ay'ın ufkunda denenecek. Juice ayrıca birkaç gün boyunca Dünya'nın manyetik kuyruğunda ölçüm yapacak. Bu verilerin Avrupa ve Çin'in ortak Smile görevinin ölçümleriyle karşılaştırılması planlanıyor. Araçtaki gözlem kameraları da geçiş sırasında görüntü alacak. Son fotoğrafların 29 Eylül'de çekilmesi bekleniyor.",
+        "Yakın geçişin başka bir ilginç bölümü de Dünya'nın gölgesi. Juice'un 27 Eylül akşamından 28 Eylül sabahına kadar yaklaşık dokuz saat boyunca Dünya'nın gölgesinde kalması bekleniyor. Bu süre boyunca güneş panelleri enerji üretemeyecek ve araç bataryalarıyla çalışacak. Yörüngenin hassasiyeti ise oldukça yüksek. ESA'nın verdiği bilgiye göre planlanan düzeltme manevralarından yalnızca birine ihtiyaç duyuldu.",
+        "En yakın geçişten yaklaşık 15 ila 30 dakika önce Juice'un Avustralya üzerinden geçmesi bekleniyor. Ancak araç çıplak gözle görülebilecek kadar parlak olmayacak. Uygun konumdaki amatör gökbilimciler teleskop veya dürbün kullanarak aracı izlemeyi deneyebilir. Dolayısıyla gökyüzünde parlak bir “uzay aracı geçişi” beklemek doğru olmaz.",
+        "Juice'un tam adı Jupiter Icy Moons Explorer, yani Jüpiter Buzlu Uydular Kaşifi. Görevin ana hedefleri Jüpiter'in büyük uydularından Ganymede, Kallisto ve Europa. Bu uyduların buz kabuklarının altında büyük miktarda sıvı su bulunabileceği düşünülüyor. Juice bu okyanusları, buzlu yüzeyleri ve uyduların iç yapılarını inceleyecek. Özellikle Ganymede ayrıca ilginç, çünkü kendi manyetik alanına sahip olduğu bilinen tek uydu. Burada önemli bir ayrım var: Juice doğrudan yaşam arayan bir görev değil. Görevin amacı bu uyduların fiziksel ve kimyasal koşullarını anlamak ve yaşama uygun ortamlar sunup sunamayacaklarını araştırmak.",
+        "Juice Jüpiter'e ulaştıktan sonra görev hemen tek bir uyduya odaklanmayacak. Planlanan görev sırasında Ganymede, Kallisto ve Europa'nın yanından toplam 35 kez yakın geçiş yapılacak. Daha sonra, Aralık 2034'te Juice'un Ganymede'nin yörüngesine girmesi planlanıyor. Bu gerçekleşirse Juice, Dünya'nın Ay'ı dışında başka bir uydunun yörüngesine giren ilk uzay aracı olacak.",
+        "Juice'un Dünya'ya geri dönmesi ilk bakışta garip görünebilir. Sonuçta araç Jüpiter'e gidiyor. Ama uzayda yakıt tasarrufu bazen çok daha uzun görünen bir rotayı seçmek anlamına geliyor. Juice, yanında Jüpiter'e doğrudan ulaşacak kadar yakıt taşıyamıyor. Bunun yerine Ay'ın, Dünya'nın ve Venüs'ün hareketinden yararlanarak ihtiyacı olan hız ve yön değişimlerini adım adım kazanıyor. 28 Eylül'deki Dünya geçişi de bu uzun yolculuğun bir başka durağı. Jüpiter'e varmasına hâlâ yaklaşık beş yıl var. Ve asıl bilim, oraya ulaştığında başlayacak."
+      ],
+      "takeaway": "Juice Jüpiter'e yetecek yakıtı taşıyamıyor; gezegenlerin çekiminden hız ödünç alarak gidiyor.",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Astronomi",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "juice",
+          "label": "juice",
+          "url": "etiket/juice.html"
+        },
+        {
+          "slug": "esa",
+          "label": "esa",
+          "url": "etiket/esa.html"
+        },
+        {
+          "slug": "jupiter",
+          "label": "jüpiter",
+          "url": "etiket/jupiter.html"
+        },
+        {
+          "slug": "ganymede",
+          "label": "ganymede",
+          "url": "etiket/ganymede.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESA, Juice to fly past Earth for third gravity assist (Eylül 2026)",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
+        }
+      ],
+      "image_credits": [
+        "ESA",
+        "ESA/Juice/JMC",
+        "NASA Goddard Space Flight Center",
+        "NASA/JPL-Caltech/SwRI/MSSS",
+        "NASA/JPL-Caltech"
+      ],
+      "video": {
+        "youtube": "p9IjgzqSeyA"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/p9IjgzqSeyA"
+        }
+      ]
+    },
+    {
+      "id": "proj_b0374e5bc8",
+      "slug": "2026-09-27-genc-bir-yildizin-onunden-gecen-kuyruklu-yildizlar",
+      "url": "yazi/2026-09-27-genc-bir-yildizin-onunden-gecen-kuyruklu-yildizlar.html",
+      "date": "2026-09-27T15:51:13.929475+00:00",
+      "date_text": "27 Eylül 2026",
+      "draft": false,
+      "title": "Genç Bir Yıldızın Önünden Geçen Kuyruklu Yıldızlar",
+      "standfirst": "PDS 70, çevresinde hâlâ gezegenlerin oluştuğu bir disk bulunan genç bir yıldız.",
+      "paragraphs": [
+        "PDS 70, çevresinde hâlâ gezegenlerin oluştuğu bir disk bulunan genç bir yıldız. James Webb Uzay Teleskobu daha önce bu diskin iç bölgelerinde, kayalık gezegenlerin oluşabileceği alanda su tespit etmişti. Fakat bu suyun nereden geldiği açık değildi.",
+        "Novais ve çalışma arkadaşları başka bir ipucu buldu: yıldızın ışığında zaman içinde hızla değişen sodyum izleri.",
+        "Araştırmacılar Avrupa Güney Gözlemevi'nin Şili'deki 3,6 metrelik teleskobunda bulunan HARPS aygıtıyla daha önce toplanmış arşiv verilerini yeniden inceledi. Veri seti 2018, 2019 ve 2020 yıllarının ilk aylarında 22 ayrı gecede alınmış 52 tayftan oluşuyordu.",
+        "Bir yıldızın tayfı, ışığının farklı dalga boylarına ayrılmış hâlidir. Belirli elementler bu tayfta kendilerine özgü izler bırakır. PDS 70'in ışığında nötr sodyumun izleri görüldü.",
+        "Dikkat çekici olan bu sinyallerin sabit olmamasıydı. Günden güne güçleri, sayıları ve hızları değişiyordu. Ölçümler gazın yoğun olduğunu ve yıldızın diskini yalnızca kısmen örttüğünü gösteriyordu. Bu da yıldızın önünde geniş, düzgün bir gaz bulutundan çok daha küçük ve hareketli gaz bölgeleri bulunduğunu düşündürüyor.",
+        "Araştırmacılar farklı açıklamaları değerlendirdi ve en olası senaryonun çok basık yörüngelerde yıldızın yakınına gelen küçük kaya ve buz cisimleri olduğu sonucuna vardı. Bu cisimler yıldıza yaklaştıkça ısınıp malzeme kaybediyor olabilir. Ortaya çıkan gaz yıldızın önünden geçerken tayfta sodyum izleri bırakıyor.",
+        "Ancak bu cisimler doğrudan görüntülenmedi. Dolayısıyla “PDS 70'in etrafında kuyruklu yıldızlar fotoğraflandı” demek doğru değil. Gözlenen şey değişken sodyum işaretleri; buharlaşan kuyruklu yıldız benzeri cisimler bunları açıklayan en olası senaryo.",
+        "Çalışmanın bir başka bağlantısı da suyla ilgili. PDS 70'in iç diskinde daha önce su tespit edilmişti. Araştırmacılar buharlaşan küçük cisimlerin o suyun kaynaklarından biri olabileceğini düşünüyor. Bu da kesinleşmiş bir sonuç değil.",
+        "Çalışma Dünya'nın suyunun da aynı şekilde geldiğini söylemiyor. Buradaki soru yalnızca PDS 70 sisteminin iç bölgelerindeki suyun kaynağı."
+      ],
+      "takeaway": "Genç yıldız PDS 70'in ışığında günden güne değişen sodyum izleri bulundu; en olası açıklama, yıldızın önünden geçerken buharlaşan kuyruklu yıldız benzeri cisimler.",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Astronomi",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "kuyrukluyildiz",
+          "label": "kuyrukluyıldız",
+          "url": "etiket/kuyrukluyildiz.html"
+        },
+        {
+          "slug": "yildiz",
+          "label": "yıldız",
+          "url": "etiket/yildiz.html"
+        },
+        {
+          "slug": "gezegen",
+          "label": "gezegen",
+          "url": "etiket/gezegen.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-76880-y"
+        }
+      ],
+      "image_credits": [
+        "ESO/Digitized Sky Survey 2 (Davide De Martin), CC BY 4.0",
+        "ESO/A. Müller et al., CC BY 4.0",
+        "Novais A ve ark., Nature Communications 2026 (10.1038/s41467-026-76880-y), CC BY 4.0",
+        "Novais A ve ark., Nature Communications 2026 (10.1038/s41467-026-76880-y), CC BY 4.0 — Türkçe etiketler eklendi",
+        "ESO/L. Calçada, CC BY 4.0",
+        "ALMA (ESO/NAOJ/NRAO)/Benisty et al., CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "BzqJIhSSktI",
+        "instagram": "https://www.instagram.com/reel/Ddy8zcQE_qm/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/BzqJIhSSktI"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Ddy8zcQE_qm/"
+        }
+      ]
+    },
+    {
+      "id": "proj_9d17185fdd",
+      "slug": "2026-09-27-165-milyon-yil-onceki-ormanin-sesi",
+      "url": "yazi/2026-09-27-165-milyon-yil-onceki-ormanin-sesi.html",
+      "date": "2026-09-27T15:51:13.924519+00:00",
+      "date_text": "27 Eylül 2026",
+      "draft": false,
+      "title": "165 Milyon Yıl Önceki Ormanın Sesi",
+      "standfirst": "Dinozorların yaşadığı bir ormanın nasıl göründüğünü fosillerden az çok hayal edebiliyoruz.",
+      "paragraphs": [
+        "Dinozorların yaşadığı bir ormanın nasıl göründüğünü fosillerden az çok hayal edebiliyoruz. Peki nasıl ses çıkardığını?",
+        "Bu soru daha zor, çünkü sesin kendisi fosilleşmez. Birçok hayvanda ses üreten yumuşak dokular da milyonlarca yıl boyunca korunmaz. Fakat bazı böceklerde durum farklı.",
+        "Cırcır böcekleri ve uzun antenli çekirge akrabaları gibi bazı gruplar, kanatlarındaki özel yapıları birbirine sürterek ses çıkarır. Kanattaki tırtıklı sıra ve onu tarayan sert kenar, çıkacak sesin frekansıyla ilişkilidir. Bu yapılar fosilde korunursa eski bir böceğin nasıl ötmüş olabileceğine dair fiziksel bir iz de kalır.",
+        "Gu ve çalışma arkadaşları Çin'in İç Moğolistan bölgesindeki Jiulongshan Formasyonu'ndan dokuz türe ait toplam 20 fosili inceledi. Bu böcekler yaklaşık 165 ile 157 milyon yıl önce, Orta Jura döneminde yaşadı.",
+        "Türlerin aynı bölge ve aynı dönemden gelmesi, araştırmacıların tek tek böcekleri değil, bir arada yaşayan bir böcek topluluğunun ses ortamını yeniden kurmasına olanak verdi.",
+        "Ekip fosil kanatları, günümüz böceklerinde lazerle ölçülen kanat titreşimlerini, soy ağacı analizlerini, bilgisayar simülasyonlarını ve yapay zekaya dayalı bir yöntemi birlikte kullandı.",
+        "Sonuçta türlerin yaklaşık 5 kilohertzden ultrason bölgesine kadar uzanan farklı frekanslarda ses çıkardığı tahmin edildi. Türlerden biri 20 kilohertzin üzerinde ötüyordu; bu, insan kulağının yaklaşık duyma sınırının ötesinde.",
+        "Bu bulgu önemli çünkü yarasalar çok daha sonra ortaya çıktı. Araştırmacılar, o dönemde işitme yeteneği gelişmekte olan erken memelilerin böcekler üzerinde seçilim baskısı oluşturmuş olabileceğini düşünüyor. Ancak bu, doğrudan gözlenmiş bir tarihsel olay değil; araştırmacıların verilerle uyumlu gördüğü güçlü bir olasılık.",
+        "Buradaki sesler gerçek kayıtlar değil. 165 milyon yıl önce bir mikrofonun kaydettiği sesleri dinlemiyoruz. Fosilleşmiş mekanik yapılar ve modeller kullanılarak hangi frekanslarda ve hangi ritimlerde ötülmüş olabileceği yeniden kuruluyor.",
+        "Çalışma dinozorların sesini de ortaya çıkarmıyor; incelenen canlılar böcekler. Yine de fosillerin yalnızca canlıların şeklini değil, davranışlarının bazı fiziksel izlerini de taşıyabileceğini göstermesi açısından dikkat çekici."
+      ],
+      "takeaway": "Fosil böcek kanatlarından Orta Jura dönemindeki bir ormanın ses manzarası yeniden kuruldu; türlerden biri insanın duyamayacağı kadar tiz, ultrasonik ötüyordu — yarasalar ortaya çıkmadan çok önce.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "fosil",
+          "label": "fosil",
+          "url": "etiket/fosil.html"
+        },
+        {
+          "slug": "bocek",
+          "label": "böcek",
+          "url": "etiket/bocek.html"
+        },
+        {
+          "slug": "jura",
+          "label": "jura",
+          "url": "etiket/jura.html"
+        },
+        {
+          "slug": "ses",
+          "label": "ses",
+          "url": "etiket/ses.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2615107123"
+        }
+      ],
+      "image_credits": [
+        "Gu JJ ve ark., PNAS 2026 (10.1073/pnas.2615107123), CC BY 4.0",
+        "Gu JJ ve ark., PNAS 2026 (10.1073/pnas.2615107123), CC BY 4.0 — film: C. Woodrow"
+      ],
+      "video": {
+        "youtube": "m0Hgo3-zJAo",
+        "instagram": "https://www.instagram.com/reel/Ddy9TkKk3f_/",
+        "ses": {
+          "dosya": "assets/ses/jura-orman-sesi.mp3",
+          "baslik": "Yeniden kurulan Jura böcek sesleri (makalenin ek ses dosyası)",
+          "kredi": "Gu ve ark., PNAS (2026), ek dosya 7 · CC BY 4.0"
+        }
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/m0Hgo3-zJAo"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Ddy9TkKk3f_/"
+        }
+      ]
+    },
+    {
+      "id": "proj_1467dee228",
+      "slug": "2026-09-27-mars-in-guney-yarisinin-altinda-sicak-bir-manto",
+      "url": "yazi/2026-09-27-mars-in-guney-yarisinin-altinda-sicak-bir-manto.html",
+      "date": "2026-09-27T15:51:13.915443+00:00",
+      "date_text": "27 Eylül 2026",
+      "draft": false,
+      "title": "Mars'ın Güney Yarısının Altında Sıcak Bir Manto",
+      "standfirst": "Mars'ın kuzeyi ve güneyi yüzeyde birbirinden çok farklı.",
+      "paragraphs": [
+        "Mars'ın kuzeyi ve güneyi yüzeyde birbirinden çok farklı. Kuzey yarımkürede daha alçak, ince kabuklu ovalar bulunurken güneyde yüksek ve kalın kabuklu yaylalar uzanıyor. Gezegen biliminde bu büyük fark uzun zamandır Mars'ın kuzey-güney ikiliği olarak biliniyor.",
+        "Berne ve çalışma arkadaşları, bu yüzey farkının gezegenin derinlerinde de bir karşılığı olup olmadığını anlamak için Mars'ın çekim alanındaki çok küçük mevsimsel değişimleri inceledi.",
+        "Mars'ın yörüngesi tam bir çember değil ve ekseni eğik. Bu nedenle Güneş'in Mars üzerindeki çekim etkisi 687 Dünya günü süren Mars yılı boyunca değişiyor. Bu değişim gezegende küçük bir gelgit etkisi yaratıyor. Bir gezegenin bu etkiye nasıl tepki verdiği de iç yapısının ne kadar sert veya yumuşak olduğuna bağlı.",
+        "Araştırmacılar Mars Global Surveyor, Mars Odyssey ve Mars Reconnaissance Orbiter görevlerinden gelen toplam 16 yıllık veriyi kullandı. Çekim alanındaki bazı değişimler, Mars'ın iç yapısı her yönde aynı olsaydı beklenenden yüzde 300'e kadar farklı çıktı.",
+        "Bu fark, mantonun sertliğinin kuzey ile güney arasında yüzde 20'den fazla değişmesiyle açıklanabiliyor. Üstelik bu değişimin coğrafi deseni yüzeydeki kuzey-güney ayrımıyla büyük ölçüde örtüşüyor.",
+        "Buradan çıkan sonuç, güney yaylalarının altındaki mantonun bugün çevresinden yaklaşık 200 ile 400 °C daha sıcak olabileceği.",
+        "Bu sıcaklık doğrudan ölçülmedi. Mars'ın derinliklerine yerleştirilmiş bir termometre yok. Değer, çekim alanındaki mevsimsel değişimlerin fiziksel modellerle yorumlanmasından çıkarılıyor. Bu nedenle “Mars'ın içinde 400 derece ölçüldü” demek doğru olmaz.",
+        "Araştırmacılar sıcak bölgenin nedeni için iki olasılıktan söz ediyor. Birincisi bölgesel bir manto akıntısı. İkincisi ise güneydeki kalın kabuğun milyarlarca yıl boyunca alttaki ısının kaçmasını yavaşlatmış olması.",
+        "Şimdilik hangi mekanizmanın baskın olduğu bilinmiyor. Çalışmanın asıl söylediği, Mars'ın iç yapısının bugün bile kuzeyden güneye aynı olmayabileceği ve yüzeydeki büyük ikiliğin derinlerde termal bir karşılığı bulunabileceği."
+      ],
+      "takeaway": "Mars'ın Güneş'le yaşadığı mevsimsel gelgit etkisi, gezegenin güneydeki yaylalarının altındaki mantonun bugün hâlâ çevresinden 200–400 °C daha sıcak olduğunu gösteriyor.",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Astronomi",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "mars",
+          "label": "mars",
+          "url": "etiket/mars.html"
+        },
+        {
+          "slug": "manto",
+          "label": "manto",
+          "url": "etiket/manto.html"
+        },
+        {
+          "slug": "gezegen",
+          "label": "gezegen",
+          "url": "etiket/gezegen.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-10893-x"
+        }
+      ],
+      "image_credits": [
+        "Berne A ve ark., Nature 2026 (10.1038/s41586-026-10893-x), CC BY 4.0 — Türkçe etiketler eklendi",
+        "NASA/JPL-Caltech",
+        "NASA's Scientific Visualization Studio / Tom Bridgman",
+        "NASA's Goddard Space Flight Center Conceptual Image Lab / Jonathan North",
+        "Berne A ve ark., Nature 2026 (10.1038/s41586-026-10893-x), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "DELz0m82fbU",
+        "instagram": "https://www.instagram.com/reel/Ddy9BcNkwg0/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/DELz0m82fbU"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Ddy9BcNkwg0/"
+        }
+      ]
+    },
     {
       "id": "proj_ec9a595f34",
       "slug": "2026-09-25-dunya-21-yuzyilda-daha-az-tozlu",

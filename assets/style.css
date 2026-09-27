@@ -120,3 +120,4 @@ main.layout{grid-template-columns:minmax(0,1fr)}
 header.site img{width:48px;height:48px}
 }
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
+.audio{margin:1.5rem 0;padding:.9rem 1rem;border:1px solid var(--line,#333);border-radius:10px}.audio figcaption{font-weight:600;margin-bottom:.5rem}.audio audio{width:100%}.audio .credit{font-size:.8rem;opacity:.7;margin:.5rem 0 0}
