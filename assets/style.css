@@ -47,6 +47,15 @@ color:var(--muted);text-decoration:none}
 .card:hover,.card:focus-visible{background:var(--panel)}
 .card h2{font-size:1.45rem;margin:.45rem 0 .5rem}
 .card p{margin:0;color:var(--muted);font-size:.98rem}
+.lang{display:flex;gap:.4rem;margin-left:auto}
+.chan + .lang{margin-left:.75rem}
+.lang a{display:inline-flex;align-items:center;gap:.4rem;padding:.25rem .6rem;border:1px solid var(--line);border-radius:999px;font-family:var(--sans);font-size:.72rem;font-weight:700;color:var(--muted);text-decoration:none}
+.lang a:hover,.lang a:focus-visible{color:var(--ink);border-color:var(--ink)}
+.lang a[aria-current]{color:var(--gold);border-color:var(--gold)}
+.lang svg{width:18px;height:12px;border-radius:2px;display:block}
+.card.has-thumb{display:grid;grid-template-columns:90px minmax(0,1fr);gap:1.25rem;align-items:start}
+.card .thumb{width:90px;height:160px;object-fit:cover;border-radius:8px;border:1px solid var(--line);display:block}
+@media (max-width:560px){.card.has-thumb{grid-template-columns:64px minmax(0,1fr);gap:.9rem}.card .thumb{width:64px;height:114px}}
 article h1{font-size:clamp(1.9rem,6vw,2.6rem);margin:.6rem 0 1rem}
 article .lead{margin:0 0 2rem;border-left:3px solid var(--amber);padding:.15rem 0 .15rem 1.2rem;color:var(--ink)}
 article p{margin:0 0 1.4rem}
