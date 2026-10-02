@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T12:33:48+00:00",
+  "generated_at": "2026-10-02T07:13:05+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -24,19 +24,19 @@
     {
       "slug": "fizik",
       "label": "Fizik",
-      "count": 2,
+      "count": 4,
       "url": "kategori/fizik.html"
     },
     {
       "slug": "uzay",
       "label": "Astronomi",
-      "count": 5,
+      "count": 7,
       "url": "kategori/uzay.html"
     },
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 9,
+      "count": 11,
       "url": "kategori/biyoloji.html"
     },
     {
@@ -48,17 +48,23 @@
     {
       "slug": "cevre",
       "label": "Çevre",
-      "count": 1,
+      "count": 3,
       "url": "kategori/cevre.html"
     },
     {
       "slug": "teknoloji",
       "label": "Teknoloji",
-      "count": 1,
+      "count": 3,
       "url": "kategori/teknoloji.html"
     }
   ],
   "tags": [
+    {
+      "slug": "uzay",
+      "label": "uzay",
+      "count": 6,
+      "url": "etiket/uzay.html"
+    },
     {
       "slug": "beyin",
       "label": "beyin",
@@ -66,16 +72,28 @@
       "url": "etiket/beyin.html"
     },
     {
-      "slug": "uzay",
-      "label": "uzay",
-      "count": 4,
-      "url": "etiket/uzay.html"
-    },
-    {
       "slug": "gezegen",
       "label": "gezegen",
-      "count": 3,
+      "count": 4,
       "url": "etiket/gezegen.html"
+    },
+    {
+      "slug": "biyoloji",
+      "label": "biyoloji",
+      "count": 3,
+      "url": "etiket/biyoloji.html"
+    },
+    {
+      "slug": "iklim",
+      "label": "iklim",
+      "count": 3,
+      "url": "etiket/iklim.html"
+    },
+    {
+      "slug": "teknoloji",
+      "label": "teknoloji",
+      "count": 3,
+      "url": "etiket/teknoloji.html"
     },
     {
       "slug": "yapay-zeka",
@@ -84,16 +102,64 @@
       "url": "etiket/yapay-zeka.html"
     },
     {
+      "slug": "fizik",
+      "label": "fizik",
+      "count": 2,
+      "url": "etiket/fizik.html"
+    },
+    {
+      "slug": "fosil",
+      "label": "fosil",
+      "count": 2,
+      "url": "etiket/fosil.html"
+    },
+    {
+      "slug": "kuantum",
+      "label": "kuantum",
+      "count": 2,
+      "url": "etiket/kuantum.html"
+    },
+    {
+      "slug": "mars",
+      "label": "mars",
+      "count": 2,
+      "url": "etiket/mars.html"
+    },
+    {
       "slug": "nasa",
       "label": "nasa",
       "count": 2,
       "url": "etiket/nasa.html"
     },
     {
+      "slug": "orman",
+      "label": "orman",
+      "count": 2,
+      "url": "etiket/orman.html"
+    },
+    {
+      "slug": "renk",
+      "label": "renk",
+      "count": 2,
+      "url": "etiket/renk.html"
+    },
+    {
+      "slug": "sensor",
+      "label": "sensör",
+      "count": 2,
+      "url": "etiket/sensor.html"
+    },
+    {
       "slug": "uyku",
       "label": "uyku",
       "count": 2,
       "url": "etiket/uyku.html"
+    },
+    {
+      "slug": "cevre",
+      "label": "çevre",
+      "count": 2,
+      "url": "etiket/cevre.html"
     },
     {
       "slug": "adenozin",
@@ -132,6 +198,12 @@
       "url": "etiket/atmosfer.html"
     },
     {
+      "slug": "atom",
+      "label": "atom",
+      "count": 1,
+      "url": "etiket/atom.html"
+    },
+    {
       "slug": "avci-tehdidi",
       "label": "avcı tehdidi",
       "count": 1,
@@ -142,6 +214,18 @@
       "label": "ay",
       "count": 1,
       "url": "etiket/ay.html"
+    },
+    {
+      "slug": "agac",
+      "label": "ağaç",
+      "count": 1,
+      "url": "etiket/agac.html"
+    },
+    {
+      "slug": "bellek",
+      "label": "bellek",
+      "count": 1,
+      "url": "etiket/bellek.html"
     },
     {
       "slug": "bilissel-bilim",
@@ -160,12 +244,6 @@
       "label": "bitkiler",
       "count": 1,
       "url": "etiket/bitkiler.html"
-    },
-    {
-      "slug": "biyoloji",
-      "label": "biyoloji",
-      "count": 1,
-      "url": "etiket/biyoloji.html"
     },
     {
       "slug": "bocek",
@@ -204,6 +282,24 @@
       "url": "etiket/dinozor.html"
     },
     {
+      "slug": "dokunma",
+      "label": "dokunma",
+      "count": 1,
+      "url": "etiket/dokunma.html"
+    },
+    {
+      "slug": "drone",
+      "label": "drone",
+      "count": 1,
+      "url": "etiket/drone.html"
+    },
+    {
+      "slug": "elmas",
+      "label": "elmas",
+      "count": 1,
+      "url": "etiket/elmas.html"
+    },
+    {
       "slug": "esa",
       "label": "esa",
       "count": 1,
@@ -222,16 +318,16 @@
       "url": "etiket/feynman.html"
     },
     {
-      "slug": "fosil",
-      "label": "fosil",
-      "count": 1,
-      "url": "etiket/fosil.html"
-    },
-    {
       "slug": "foton",
       "label": "foton",
       "count": 1,
       "url": "etiket/foton.html"
+    },
+    {
+      "slug": "galaksi",
+      "label": "galaksi",
+      "count": 1,
+      "url": "etiket/galaksi.html"
     },
     {
       "slug": "ganymede",
@@ -270,10 +366,10 @@
       "url": "etiket/gunes-sistemi.html"
     },
     {
-      "slug": "iklim",
-      "label": "iklim",
+      "slug": "hayvan",
+      "label": "hayvan",
       "count": 1,
-      "url": "etiket/iklim.html"
+      "url": "etiket/hayvan.html"
     },
     {
       "slug": "izotop",
@@ -306,10 +402,40 @@
       "url": "etiket/jupiter.html"
     },
     {
+      "slug": "kalp",
+      "label": "kalp",
+      "count": 1,
+      "url": "etiket/kalp.html"
+    },
+    {
+      "slug": "kamuflaj",
+      "label": "kamuflaj",
+      "count": 1,
+      "url": "etiket/kamuflaj.html"
+    },
+    {
+      "slug": "karadelik",
+      "label": "karadelik",
+      "count": 1,
+      "url": "etiket/karadelik.html"
+    },
+    {
       "slug": "kavitasyon",
       "label": "kavitasyon",
       "count": 1,
       "url": "etiket/kavitasyon.html"
+    },
+    {
+      "slug": "kedi",
+      "label": "kedi",
+      "count": 1,
+      "url": "etiket/kedi.html"
+    },
+    {
+      "slug": "koku",
+      "label": "koku",
+      "count": 1,
+      "url": "etiket/koku.html"
     },
     {
       "slug": "korku",
@@ -324,22 +450,40 @@
       "url": "etiket/krater.html"
     },
     {
-      "slug": "kuantum",
-      "label": "kuantum",
-      "count": 1,
-      "url": "etiket/kuantum.html"
-    },
-    {
       "slug": "kumas",
       "label": "kumaş",
       "count": 1,
       "url": "etiket/kumas.html"
     },
     {
+      "slug": "kurbaga",
+      "label": "kurbağa",
+      "count": 1,
+      "url": "etiket/kurbaga.html"
+    },
+    {
       "slug": "kuyrukluyildiz",
       "label": "kuyrukluyıldız",
       "count": 1,
       "url": "etiket/kuyrukluyildiz.html"
+    },
+    {
+      "slug": "lazer",
+      "label": "lazer",
+      "count": 1,
+      "url": "etiket/lazer.html"
+    },
+    {
+      "slug": "magma",
+      "label": "magma",
+      "count": 1,
+      "url": "etiket/magma.html"
+    },
+    {
+      "slug": "malzeme",
+      "label": "malzeme",
+      "count": 1,
+      "url": "etiket/malzeme.html"
     },
     {
       "slug": "manto",
@@ -352,12 +496,6 @@
       "label": "manyetizma",
       "count": 1,
       "url": "etiket/manyetizma.html"
-    },
-    {
-      "slug": "mars",
-      "label": "mars",
-      "count": 1,
-      "url": "etiket/mars.html"
     },
     {
       "slug": "mikroglia",
@@ -402,16 +540,22 @@
       "url": "etiket/rem-uykusu.html"
     },
     {
-      "slug": "renk",
-      "label": "renk",
+      "slug": "robotik",
+      "label": "robotik",
       "count": 1,
-      "url": "etiket/renk.html"
+      "url": "etiket/robotik.html"
     },
     {
       "slug": "roman",
       "label": "roman",
       "count": 1,
       "url": "etiket/roman.html"
+    },
+    {
+      "slug": "saat",
+      "label": "saat",
+      "count": 1,
+      "url": "etiket/saat.html"
     },
     {
       "slug": "sahte",
@@ -432,12 +576,6 @@
       "url": "etiket/sayisal-bilis.html"
     },
     {
-      "slug": "sensor",
-      "label": "sensör",
-      "count": 1,
-      "url": "etiket/sensor.html"
-    },
-    {
       "slug": "ses",
       "label": "ses",
       "count": 1,
@@ -450,22 +588,28 @@
       "url": "etiket/sosyal-rutbe.html"
     },
     {
+      "slug": "superiletken",
+      "label": "süperiletken",
+      "count": 1,
+      "url": "etiket/superiletken.html"
+    },
+    {
       "slug": "sifir",
       "label": "sıfır",
       "count": 1,
       "url": "etiket/sifir.html"
     },
     {
-      "slug": "teknoloji",
-      "label": "teknoloji",
-      "count": 1,
-      "url": "etiket/teknoloji.html"
-    },
-    {
       "slug": "teleskop",
       "label": "teleskop",
       "count": 1,
       "url": "etiket/teleskop.html"
+    },
+    {
+      "slug": "toryum",
+      "label": "toryum",
+      "count": 1,
+      "url": "etiket/toryum.html"
     },
     {
       "slug": "toz",
@@ -498,6 +642,18 @@
       "url": "etiket/vucut-sicakligi.html"
     },
     {
+      "slug": "webb",
+      "label": "webb",
+      "count": 1,
+      "url": "etiket/webb.html"
+    },
+    {
+      "slug": "yangin",
+      "label": "yangın",
+      "count": 1,
+      "url": "etiket/yangin.html"
+    },
+    {
       "slug": "yildiz",
       "label": "yıldız",
       "count": 1,
@@ -523,6 +679,744 @@
     }
   ],
   "articles": [
+    {
+      "id": "proj_dad38ce7d6",
+      "slug": "2026-10-02-akimi-kesince-superiletken-hatirliyor",
+      "url": "yazi/2026-10-02-akimi-kesince-superiletken-hatirliyor.html",
+      "date": "2026-10-02T06:54:34.633750+00:00",
+      "date_text": "2 Ekim 2026",
+      "draft": false,
+      "title": "Akımı Kesince Süperiletken Hatırlıyor",
+      "standfirst": "Bilgisayar hafızasının en temel fikri şaşırtıcı derecede basittir.",
+      "paragraphs": [
+        "Bilgisayar hafızasının en temel fikri şaşırtıcı derecede basittir. Bir sistemin iki farklı durumda kalabilmesi gerekir. Bir duruma “0”, diğerine “1” dersiniz. Sonra bu iki durum arasında kontrollü biçimde geçiş yapar ve hangi durumda olduğunu okuyabilirsiniz. Süperiletkenler de uzun süredir hafıza teknolojileri için araştırılıyor. Fakat çoğu yaklaşımda hafıza davranışını oluşturmak için süperiletkene manyetik veya yarı iletken başka katmanlar eklemek gerekir. Cambridge Üniversitesi'ndeki araştırmacıların yeni çalışmasında ise ilginç olan şu: iki durumlu davranış ek bir hafıza katmanından değil, doğrudan süperiletken kristalin kendisinden çıkıyor. Malzemenin adı UTe2, yani uranyum ditellürid.",
+        "Oldukça uç. UTe2 alışılmadık özellikleri nedeniyle yoğun biçimde incelenen bir süperiletken. Araştırmacılar üç farklı kristali seyreltme buzdolabında yaklaşık 50 milikelvine kadar soğuttu. Bu, mutlak sıfırın yalnızca yaklaşık 0,05 derece üzerinde bir sıcaklık. Kristaller aynı zamanda 30 teslaya kadar çıkabilen çok güçlü bir manyetik alan içinde ölçüldü. Hafıza etkisinin görüldüğü pencere ise daha dar: yaklaşık 7 ile 20 tesla arasında ve manyetik alan belirli bir kristal eksenine yakın yönlendirilmişken. Dolayısıyla burada oda sıcaklığında çalışan pratik bir elektronik hafızadan söz etmiyoruz.",
+        "Araştırmacılar kristalden geçen akımı yavaşça artırıp azalttığında sistem tekrar tekrar aynı davranışı gösteriyor. Fakat akım yüksek bir değerden aniden sıfıra kesildiğinde bir şey değişiyor. Sonraki ölçümlerde kristalin taşıyabildiği kritik akım daha yüksek çıkıyor. Daha da ilginci, bu yeni durum hemen kaybolmuyor. Saatler boyunca korunabiliyor. Bu nedenle araştırmacılar ani akım kesmesini bir tür “yazma” işlemi olarak görüyor. Peki silmek? Akım 40 miliamperden sıfıra yaklaşık 20 saniye boyunca yavaş yavaş indirildiğinde kristal başlangıçtaki düşük kritik akım durumuna dönüyor. Yani hızlı kesme bir durumu yazıyor, yavaş düşürme ise eski duruma geri getiriyor.",
+        "Etki yalnızca var veya yok biçiminde davranmıyor. Araştırmacılar uygulanan akım darbesinin büyüklüğünü, süresini ve akımın ne kadar hızlı kesildiğini değiştirdiğinde son durumun gücü de değişiyor. Akımın kesilme süresi yaklaşık 0,04 milisaniyeden 9,3 milisaniyeye kadar değiştirildi. Bu, hafıza benzeri etkinin sistemin dinamik geçmişine duyarlı olduğunu gösteriyor. Başka bir ifadeyle kristal yalnızca o anda üzerinden geçen akıma değil, o akıma nasıl ulaşıldığına ve akımın nasıl sonlandırıldığına da tepki veriyor.",
+        "Bunu henüz bilmiyoruz. Araştırmacıların olası açıklamalarından biri manyetik girdaplarla ilgili. Tip-II süperiletkenlerde güçlü manyetik alan, malzemenin içine kuantalanmış manyetik akı çizgileri şeklinde girebilir. Bunlara vorteks veya manyetik girdap denir. Akım aniden kesildiğinde bu girdapların düzensiz bir düzende kilitlenmesi ve böylece kristalin daha yüksek kritik akım taşıdığı farklı bir duruma geçmesi mümkün olabilir. Fakat çalışma bunu doğrudan göstermiyor. Hiçbir vorteks görüntülenmiş değil ve deneyler bu açıklamayı başka olası mekanizmalardan kesin biçimde ayıramıyor. Yazarlar ısınmanın rolünü de tamamen dışlayamadıklarını açıkça belirtiyor. Bu nedenle “girdaplar dondu ve hafıza oluştu” diye kesin bir mekanizma anlatmak doğru olmaz.",
+        "İlginç ipuçlarından biri sıcaklık bağımlılığı. UTe2 yaklaşık 2,1 kelvine kadar süperiletken kalabiliyor. Fakat hafıza etkisi yaklaşık 0,6-0,65 kelvin civarında kayboluyor ve 1 kelvinde artık görülmüyor. Eğer etki yalnızca “malzeme süperiletken olduğu için” oluşsaydı, süperiletkenlik sürdüğü sürece devam etmesini bekleyebilirdik. Aynı şekilde manyetik alanın yönü de son derece önemli. Alan belirli kristal ekseninden yaklaşık 20 dereceden fazla saptığında hafıza etkisi yok oluyor. Bunlar, davranışın UTe2'nin daha özel iç fiziksel durumlarıyla ilişkili olabileceğini düşündürüyor.",
+        "Fiziksel anlamda iki farklı, uzun ömürlü durum arasında geçiş yapılabiliyor. Bu nedenle “hafıza etkisi” ifadesi uygun. Mühendislik anlamında ise ortada henüz bir hafıza aygıtı yok. Deney milimetre ölçeğinde tek kristaller üzerinde yapıldı. En fazla tek bir bitlik davranış gösteriliyor. Üstelik çalışması için aşırı düşük sıcaklık ve çok güçlü manyetik alan gerekiyor. Okuma sırasında kristalin kendisinde harcanan güç yaklaşık 1 nanowatt olarak hesaplanıyor. Ancak bu sayı seyreltme buzdolabının ve dev mıknatısın enerji tüketimini içermiyor. Bu nedenle “sıfır enerjili süperiletken hafıza” gibi bir ifade yanıltıcı olur.",
+        "Çünkü hafıza davranışı için ayrı bir manyetik katman veya yarı iletken yapı eklemek zorunda kalmadan, doğrudan süperiletkenin kendi durumları arasında geçiş yapılabileceğini gösteriyor. Bu davranışın mikroskobik nedeni anlaşılırsa, UTe2 gibi karmaşık süperiletkenlerde akım, manyetik alan ve iç düzen arasındaki ilişkinin yeni bir yönünü ortaya çıkarabilir. Bunun bir gün kullanılabilir bir teknolojiye dönüşüp dönüşmeyeceğini henüz bilmiyoruz. Şimdilik en doğru sonuç daha temel: aynı süperiletken kristal, nasıl sürüldüğüne bağlı olarak saatlerce korunan iki farklı elektriksel durumda kalabiliyor. Ve fizikçiler bunun nedenini şimdi çözmeye çalışıyor."
+      ],
+      "takeaway": "UTe2 kristalinde akımı birden kesmek, malzemeyi daha yüksek bir kritik akıma sahip bir duruma sokuyor ve bu durum saatlerce kalıyor; akımı yavaşça düşürmek ise siliyor.",
+      "impact": null,
+      "category": {
+        "slug": "fizik",
+        "label": "Fizik",
+        "url": "kategori/fizik.html"
+      },
+      "tags": [
+        {
+          "slug": "fizik",
+          "label": "fizik",
+          "url": "etiket/fizik.html"
+        },
+        {
+          "slug": "superiletken",
+          "label": "süperiletken",
+          "url": "etiket/superiletken.html"
+        },
+        {
+          "slug": "bellek",
+          "label": "bellek",
+          "url": "etiket/bellek.html"
+        },
+        {
+          "slug": "malzeme",
+          "label": "malzeme",
+          "url": "etiket/malzeme.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-11015-3"
+        }
+      ],
+      "image_credits": [
+        "Wu Z ve ark., Nature 2026 (10.1038/s41586-026-11015-3), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "KmANdRbSq8E",
+        "instagram": "https://www.instagram.com/reel/Dd-6F7tk-Cf/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/KmANdRbSq8E"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dd-6F7tk-Cf/"
+        }
+      ]
+    },
+    {
+      "id": "proj_c3e43cf6fe",
+      "slug": "2026-10-02-dev-kara-delikler-bu-kadar-erken-nasil-olustu",
+      "url": "yazi/2026-10-02-dev-kara-delikler-bu-kadar-erken-nasil-olustu.html",
+      "date": "2026-10-02T06:54:34.629911+00:00",
+      "date_text": "2 Ekim 2026",
+      "draft": false,
+      "title": "Dev Kara Delikler Bu Kadar Erken Nasıl Oluştu?",
+      "standfirst": "James Webb Uzay Teleskobu erken evrene baktığında beklenmedik bir nesne sınıfıyla karşılaştı.",
+      "paragraphs": [
+        "James Webb Uzay Teleskobu erken evrene baktığında beklenmedik bir nesne sınıfıyla karşılaştı. Görüntülerde küçük, kırmızı ve bulanık görünen bu kaynaklara “little red dots”, yani küçük kırmızı noktalar adı verildi. İlginçlikleri renklerinden ibaret değil. Bu kaynakların bazılarında kara delik işareti olarak yorumlanan özellikler var ve tahmin edilen kara delik kütleleri, onları barındıran galaksilerin yıldız kütlesine göre beklenenden çok büyük. Yakın evrende bir galaksinin merkezindeki kara deliğin kütlesi, galaksinin yıldız kütlesinin kabaca binde biri ölçeğinde olabilir. Küçük kırmızı noktalarda bu oran çok daha yüksek görünüyor. Soru açık: Evren henüz çok gençken bu kadar büyük kara delikler nasıl oluşmuş olabilir? Yeni çalışma bu soruya yeni bir gözlemle değil, yüksek çözünürlüklü bir kozmolojik benzetimle yaklaşıyor.",
+        "Normal koşullarda büyük bir gaz bulutu çökerken içindeki daha küçük yoğunluklar da çöker ve çok sayıda sıradan yıldız oluşur. Eğer hedefiniz doğrudan dev bir kara delik tohumu oluşturmaksa bu parçalanma sorun yaratır. Gaz tek bir merkezde toplanmak yerine binlerce küçük yıldıza dağılır. Araştırmacıların benzetiminde bu süreci değiştiren şey, yaklaşık 10 kiloparsek uzaktaki parlak bir komşu galaksiden geldiği varsayılan güçlü morötesi ışınım. Bu ışınım gazın kimyasını ve soğumasını etkileyerek bulutun küçük parçalara ayrılmasını baskılıyor. Sonuçta gaz çok daha büyük ölçeklerde tek bir merkeze doğru çökmeye devam ediyor.",
+        "Benzetimde doğrudan kara delik oluşmuyor. Önce son derece büyük yıldızlar meydana geliyor. Bu yıldızlar yaklaşık 500 bin ile 900 bin Güneş kütlesine kadar ulaşabiliyor. Buna rağmen yüzeyleri düşündüğünüz kadar sıcak değil. Yarıçapları Güneş'in yüzlerce hatta bin katına çıktığı için çok şişkin yapılar oluşturuyorlar. Bu daha serin yüzeyler güçlü morötesi geri beslemeyi sınırlıyor ve çevredeki gazın tamamen uzaklaştırılmasını önlüyor. Yıldızlar böylece beslenmeye devam edebiliyor. Sonunda çöktüklerinde yaklaşık 300 bin ile 600 bin Güneş kütlesinde kara delik tohumları oluşuyor. Burada önemli bir ayrım var: kara delikler “bir milyon Güneş kütlesiyle doğmuyor”. Doğum kütlesi birkaç yüz bin Güneş kütlesi. Milyonlarca Güneş kütlesine daha sonra hızlı beslenmeyle ulaşıyorlar.",
+        "Kara delikler oluştuktan sonra çevrede hâlâ çok miktarda gaz var. Benzetimde bu kara delikler kısa bir dönem boyunca Eddington sınırı olarak bilinen klasik beslenme ölçeğinin birkaç ila onlarca katı hızla madde çekebiliyor. Bu yoğun dönem bir milyon yıldan daha kısa sürüyor. Evrenin yaklaşık 640 milyon yaşında olduğu ana gelindiğinde kara delik yaklaşık 30 milyon Güneş kütlesine ulaşabiliyor. Bu noktada kara deliğin kütlesi, galaksinin toplam yıldız kütlesinin yaklaşık yüzde biri. Bu oran yakın evrendeki tipik ilişkinin yaklaşık on katı. İşte bu, James Webb'in küçük kırmızı noktalarında görülen “fazla ağır kara delik” sorununa benzeyen bir durum.",
+        "Benzetimin bir başka önemli özelliği kara deliğin etrafındaki kalın gaz örtüsü. Gaz o kadar yoğun ki araştırmacıların incelediği 64 farklı bakış yönünün hiçbirinde merkezden gelen X ışınları doğrudan dışarı çıkamıyor. Bu ilginç çünkü gözlenen küçük kırmızı noktaların çoğu da X ışınlarında beklenenden zayıf veya görünmez. Kalın gaz aynı zamanda ışığın saçılma biçimini değiştiriyor. Benzetimde hidrojen çizgileri saniyede 1.000 kilometreyi aşan genişliklere ulaşabiliyor. Gözlemsel astronomide böyle geniş çizgiler çoğu zaman kara deliğin yakınındaki hızlı gazla ilişkilendirilir. Burada benzer bir görünüm, kalın gaz içindeki saçılma nedeniyle kendiliğinden ortaya çıkıyor.",
+        "Henüz hayır. Bu çalışma bir gözlem değil, bir benzetim. James Webb verileri başka ekipler tarafından daha önce ölçülmüş durumda. Yeni çalışma, belirli fiziksel başlangıç koşullarının bu gözlemlerdeki bazı özelliklere benzeyen sonuçlar üretebildiğini gösteriyor. Ayrıca benzetimin önemli sınırlamaları var. Jetler ve disk rüzgârları gibi kara deliğin çevresindeki gazı uzaklaştırabilecek bazı geri besleme süreçleri modele dahil edilmemiş. Araştırmacılar bu nedenle elde edilen büyümeyi kara delik için bir tür üst sınır olarak değerlendiriyor. Kara delikler ve yıldızlar olay ufku ölçeğinde çözülmüyor. Benzetimin en küçük ayrıntısı yaklaşık 500 astronomi birimi. Komşu galaksinin morötesi ışınımı da baştan sona oluşan gerçek bir galaksi olarak modellenmiyor; dışarıdan verilen bir ışınım alanı olarak ekleniyor. Üstelik yüksek çözünürlükle yalnızca tek bir bölge takip edildi.",
+        "Çünkü çalışma zor bir soruya fiziksel olarak tutarlı bir “oluşum yolu” sunuyor. Erken evrende yeterince güçlü bir morötesi ortam varsa, gazın sıradan yıldızlara parçalanması baskılanabilir. Bu durumda önce devasa yıldızlar, ardından yüz binlerce Güneş kütleli ağır kara delik tohumları oluşabilir. Çevrede kalan yoğun gaz da bu nesnelerin X ışınlarını gizleyip optik özelliklerini değiştirebilir. Bu mekanizma doğru olabilir, kısmen doğru olabilir veya küçük kırmızı noktaların yalnızca bir bölümünü açıklayabilir. Bilim açısından önemli olan, gizemin “çözülmüş” olması değil. Artık James Webb'in gördüğü tuhaf nesneleri üretebilen somut bir fiziksel senaryonun elimizde olması ve bu senaryonun yeni gözlemlerle sınanabilecek olması."
+      ],
+      "takeaway": "Komşu bir galaksinin morötesi ışığı altında kalan bir gaz bulutunun benzetiminde, yarım milyon güneş kütlesiyle doğan kara delik çekirdekleri kendiliğinden oluşuyor ve etraflarındaki kalın gaz…",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Astronomi",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "karadelik",
+          "label": "karadelik",
+          "url": "etiket/karadelik.html"
+        },
+        {
+          "slug": "webb",
+          "label": "webb",
+          "url": "etiket/webb.html"
+        },
+        {
+          "slug": "galaksi",
+          "label": "galaksi",
+          "url": "etiket/galaksi.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-10985-8"
+        }
+      ],
+      "image_credits": [
+        "ESA/Webb, NASA & CSA, H. Atek, M. Zamani (ESA/Webb), N. Bartmann (ESA/Webb)",
+        "Chon S ve ark., Nature 2026 (10.1038/s41586-026-10985-8), CC BY 4.0",
+        "ESA/Hubble; Music: Johan B. Monell",
+        "NASA's Goddard Space Flight Center Conceptual Image Lab / Adriana Manrique Gutierrez",
+        "ESA, NASA, L. Calçada",
+        "NASA, ESA, CSA, A. Pagan (STScI)"
+      ],
+      "video": {
+        "youtube": "9KAYQBmABQs",
+        "instagram": "https://www.instagram.com/reel/Dd-5_vjE8s7/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/9KAYQBmABQs"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dd-5_vjE8s7/"
+        }
+      ]
+    },
+    {
+      "id": "proj_0abc977301",
+      "slug": "2026-10-02-bati-ve-orta-avrupa-agac-cinslerinin-yuzde-75-ini-kaybetti",
+      "url": "yazi/2026-10-02-bati-ve-orta-avrupa-agac-cinslerinin-yuzde-75-ini-kaybetti.html",
+      "date": "2026-10-02T06:54:34.625217+00:00",
+      "date_text": "2 Ekim 2026",
+      "draft": false,
+      "title": "Batı ve Orta Avrupa, Ağaç Cinslerinin Yüzde 75'ini Kaybetti",
+      "standfirst": "Bugün bir Avrupa ormanına girdiğinizde gördüğünüz ağaç topluluğu size doğal ve kadim görünebilir.",
+      "paragraphs": [
+        "Bugün bir Avrupa ormanına girdiğinizde gördüğünüz ağaç topluluğu size doğal ve kadim görünebilir. Fakat “hep böyleydi” demek doğru değil. Batı ve Orta Avrupa'nın fosil kayıtları, milyonlarca yıl önce bu bölgede bugün artık doğal olarak yaşamayan çok sayıda ağaç cinsinin bulunduğunu gösteriyor. Sekoyalar, bataklık servileri, magnolyalar, cevizler, kestaneler ve daha birçok grup geçmişte Avrupa'nın bir parçasıydı. Yeni çalışma bu uzun kaybı sayısallaştırmaya çalışıyor.",
+        "Araştırmacılar 11 Batı ve Orta Avrupa ülkesinden toplanmış fosil kayıtlarını bir araya getirdi. Veri seti 200 ağaç cinsine ait toplam 711 fosil kaydını içeriyor. Burada “cins” kelimesi önemli. Çalışma tür sayısını ölçmüyor. Fosillerde tek tek türleri güvenilir biçimde ayırmak çoğu zaman mümkün olmadığı için analiz daha üst bir sınıflandırma düzeyi olan cinsler üzerinden yapılıyor. Bu nedenle “Avrupa ağaç türlerinin yüzde 75'ini kaybetti” demek yanlış olur. Doğru ifade, Batı ve Orta Avrupa'daki ağaç cinsi zenginliğinin yaklaşık yüzde 75 azalması.",
+        "Yaklaşık 23 ile 5 milyon yıl önce süren Miyosen döneminde bölgede 151 farklı ağaç cinsinin bulunduğu hesaplandı. Bugün aynı tarihsel veri setindeki 200 cinsten yalnızca 37'si Batı ve Orta Avrupa'da doğal olarak bulunuyor. Bu, zirveden bugüne yaklaşık yüzde 75'lik bir düşüş anlamına geliyor. Fakat kayıp düzenli biçimde gerçekleşmedi. En sert kırılma Pliyosen'den Pleyistosen'e, yani büyük buzul çağlarının başladığı döneme geçişte yaşandı. Tek bir geçişte 65 cins bölgeden kayboldu. Bunların 52'si daha sonra geri dönmedi.",
+        "Buzul dönemlerinde iklim soğudukça bitkilerin yaşayabildiği bölgeler güneye doğru kayar. Kuzey Amerika veya Doğu Asya gibi bazı bölgelerde ağaçların kuzey-güney doğrultusunda göç edebileceği geniş alanlar bulunur. Avrupa'nın coğrafyası ise daha zorlayıcıdır. Güneye çekilen bitkilerin önünde Alpler gibi doğu-batı doğrultusunda uzanan büyük dağ sıraları ve daha ileride Akdeniz bulunur. Bu coğrafi engeller, iklim hızla değiştiğinde bazı ağaç topluluklarının uygun yaşam alanlarına ulaşmasını zorlaştırmış olabilir. Pleyistosen boyunca sekoya, mazı ve bataklık servisi gibi cinsler Avrupa'dan kayboldu. Ama bunlar dünya çapında yok olmadı. Bazılarının akrabaları bugün Kuzey Amerika ve Doğu Asya'da yaşamaya devam ediyor. Dolayısıyla söz konusu olay küresel bir yok oluştan çok, bölgesel bir kayıp.",
+        "İlk bakışta çekici bir fikir olabilir. Eğer Avrupa geçmişte çok daha fazla ağaç cinsine sahipse, sıcaklık arttıkça bu eski grupları geri getirmek iklim uyumunu kolaylaştırabilir mi? Araştırmacılar bunu da test etti. Her cinsin bugün dünya üzerinde yaşayabildiği iklim aralığı modellendi ve 2100 için iki farklı ısınma senaryosuyla karşılaştırıldı. Sonuç beklenenden daha karmaşıktı. Avrupa'dan geçmişte kaybolmuş cinslerin, bugün bölgede bulunan cinslere kıyasla gelecekteki iklim koşullarında belirgin bir üstünlüğü görülmedi. Yani “eski ağaçları geri getirirsek ormanlar iklim değişikliğine hazırlanır” gibi doğrudan bir sonuç çıkmıyor.",
+        "Araştırmacılara göre daha önemli sorun, bugün Avrupa'da kalan cinslerin her birinin dünya üzerindeki bütün tür çeşitliliğini temsil etmemesi. Örneğin bir ağaç cinsi küresel olarak farklı iklimlere uyum sağlamış çok sayıda türe sahip olabilir. Fakat Avrupa'da bunun yalnızca birkaç temsilcisi bulunabilir. Bu durumda kâğıt üzerinde “cins hâlâ Avrupa'da” olsa bile, o cins içindeki iklim uyum seçeneklerinin yalnızca küçük bir kısmına sahip olabiliriz. Bu, orman yönetimi açısından önemli bir ayrım.",
+        "Çalışma geçmişteki iklim değişimlerinin büyük çeşitlilik kayıpları yarattığını gösteriyor. Ancak araştırmacılar bugünkü Avrupa ormanlarının tür bakımından fakir ve tekdüze olmasının yalnızca doğal tarih ile açıklanamayacağını da vurguluyor. Yüzyıllardır süren ormancılık, belirli ekonomik türlerin seçilmesi, dikim ve arazi kullanımı da bugünkü yapıyı güçlü biçimde şekillendirdi. Bu yüzden geçmişin fosil çeşitliliğiyle bugünkü ormanları karşılaştırırken doğal süreçlerle insan yönetimini birbirinden ayırmak gerekiyor. Çalışmanın en önemli mesajı belki de “Avrupa bir zamanlar daha yeşildi” gibi romantik bir cümle değil. Daha bilimsel ve daha kullanışlı sonuç şu: Avrupa'nın bugünkü ağaç çeşitliliği, milyonlarca yıllık iklim filtrelerinden ve çok daha yakın dönemdeki insan yönetiminden geçmiş daralmış bir havuz. Gelecekteki iklime uyum tartışılırken yalnızca kaç cinsin bulunduğuna değil, bu cinslerin içindeki gerçek tür seçeneklerine de bakmak gerekebilir."
+      ],
+      "takeaway": "Batı ve Orta Avrupa'nın ağaç cinsi zenginliği, Miyosen'deki zirvesinden bu yana yüzde 75 azaldı; kaybın büyük kısmı 2-3 milyon yıl önce yaşandı ve ayakta kalanlar soğuğa ve kuraklığa dayanabilenler…",
+      "impact": null,
+      "category": {
+        "slug": "cevre",
+        "label": "Çevre",
+        "url": "kategori/cevre.html"
+      },
+      "tags": [
+        {
+          "slug": "cevre",
+          "label": "çevre",
+          "url": "etiket/cevre.html"
+        },
+        {
+          "slug": "agac",
+          "label": "ağaç",
+          "url": "etiket/agac.html"
+        },
+        {
+          "slug": "orman",
+          "label": "orman",
+          "url": "etiket/orman.html"
+        },
+        {
+          "slug": "iklim",
+          "label": "iklim",
+          "url": "etiket/iklim.html"
+        },
+        {
+          "slug": "fosil",
+          "label": "fosil",
+          "url": "etiket/fosil.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-77806-4"
+        }
+      ],
+      "image_credits": [
+        "Wilkens V ve ark., Nature Communications 2026 (10.1038/s41467-026-77806-4), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "bqWb36r0QE4",
+        "instagram": "https://www.instagram.com/reel/Dd-51wiE-oz/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/bqWb36r0QE4"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dd-51wiE-oz/"
+        }
+      ]
+    },
+    {
+      "id": "proj_7e92078277",
+      "slug": "2026-10-02-atomun-cekirdegini-saat-gibi-okudular",
+      "url": "yazi/2026-10-02-atomun-cekirdegini-saat-gibi-okudular.html",
+      "date": "2026-10-02T06:54:34.621672+00:00",
+      "date_text": "2 Ekim 2026",
+      "draft": false,
+      "title": "Atomun Çekirdeğini Saat Gibi Okudular",
+      "standfirst": "Bir saatin görevi düzenli tekrar eden bir olayı saymaktır.",
+      "paragraphs": [
+        "Bir saatin görevi düzenli tekrar eden bir olayı saymaktır. Mekanik saatlerde bunu sarkaç veya titreşen bir kristal yapabilir. Atom saatlerinde ise referans olarak atomların çok belirli enerji seviyeleri arasındaki geçişleri kullanırız. Bugünün en hassas saatleri bu prensiple çalışıyor. Peki atomun elektronları yerine doğrudan çekirdeğin enerji geçişini sayabilseydik? Teorik olarak çekirdek, dış çevredeki elektrik ve manyetik etkilerden elektronlara göre daha iyi korunur. Bu nedenle uygun bir çekirdek geçişi, uzun vadede çok kararlı bir frekans referansı sunabilir. Sorun şu ki çoğu atom çekirdeğinin enerji seviyeleri lazerle ulaşılabilecek bölgenin çok üzerinde. Toryum-229 burada sıra dışı bir istisna.",
+        "Toryum-229 çekirdeğinin çok düşük enerjili bir uyarılmış hâli bulunuyor. Geçiş yaklaşık 148,4 nanometre dalga boyunda, yani vakum morötesi bölgede. Enerjisi yaklaşık 8,4 elektronvolt. Bu hâlâ deneysel olarak zor bir ışık bölgesi, fakat bir lazerle erişilebilecek kadar düşük enerji. Bu nedenle yıllardır “çekirdek saati” fikrinin en güçlü adaylarından biri olarak görülüyor. Ancak çekirdeği uyarmak tek sorun değil. Uyarıldığını güvenilir ve hızlı biçimde okumak da gerekiyor.",
+        "Önceki deneylerde çekirdek darbeli lazerlerle uyarılıyordu. Darbeli ışığın frekans içeriği geniş olduğu için gönderilen enerjinin yalnızca küçük bir kısmı çekirdeğin son derece dar geçişine denk geliyordu. Üstelik çekirdeğin uyarıldığını anlamak için daha sonra geri yayılan ışığın beklenmesi gerekiyordu. Bu uyarılmış hâlin ışıma zaman sabiti yaklaşık 600 saniye. Başka bir deyişle, tek bir ölçüm döngüsü dakikalar boyunca beklemeyi gerektirebiliyordu.",
+        "Araştırmacılar sürekli çalışan, çok dar çizgili bir vakum morötesi lazer kaynağı geliştirdi. Sistem kızılötesi bir diyot lazerle başlıyor. Frekans birkaç aşamada yükseltilerek sonunda 148,4 nanometrelik ışık elde ediliyor. Başlangıçtaki 350 miliwattlık güçten vakum morötesinde yaklaşık 1 nanowatt elde ediliyor. Kayıplar nedeniyle kristale ulaşan güç yaklaşık 70 pikowatt. Bu son derece küçük bir güç. Fakat önemli olan gücün büyük olması değil, frekansın çekirdeğin geçişiyle son derece hassas biçimde eşleşebilmesi. Toryum atomları kalsiyum florür kristalinin içine yerleştirildi ve kristal oda sıcaklığına yakın 294,7 kelvinde tutuldu. Lazerin frekansı tarandığında belirli bir noktada kristalden geçen ışığın yaklaşık yüzde biri kayboldu. Nereye gitti? Çekirdekler tarafından soğuruldu.",
+        "Çünkü artık çekirdeğin yeniden ışık saçmasını beklemek gerekmiyor. Lazer kristalden geçerken ışığın ne kadar azaldığı anında ölçülebiliyor. Bu da çekirdeğin uyarıldığını doğrudan gösteriyor. Araştırmacılar ölçüm döngüsünün önceki ışıma yöntemine göre yaklaşık yüz kat kısaldığını bildiriyor. Saat geliştirmek açısından bu büyük bir avantaj. Bir frekans standardını sabitlemek istiyorsanız geçişin nerede olduğunu hızlı ve tekrarlanabilir biçimde okuyabilmeniz gerekir. Dakikalar süren geri ışıma bekleme süreleri bunu ciddi biçimde yavaşlatıyordu.",
+        "Araştırmacılar soğurma çizgisinin genişliğini yaklaşık 91 kilohertz olarak ölçtü. Geçiş merkezinin frekansı yaklaşık 2,020 katrilyon hertz düzeyinde ve belirsizlik yalnızca birkaç kilohertz. Bu sayının büyüklüğünü sezmek zor. Önemli olan, çok yüksek bir frekanstaki son derece dar bir çekirdek geçişinin artık sürekli lazer ışığıyla doğrudan taranabiliyor olması. Ekip ayrıca kristal içinde toryum atomlarının oturduğu ikinci bir yerel çevreyi de yüksek çözünürlükte ölçtü. İki kristal konumu arasındaki küçük frekans farkı teorik hesaplarla uyumluydu.",
+        "Hayır. Bu çalışmada çalışan bir çekirdek saati kurulmuş değil. Araştırmacılar mevcut sinyal kalitesinden gelecekteki bir saatin olası kararlılığını hesaplıyor. Bu değerler doğrudan ölçülmüş saat performansı değil. Mevcut düzenek için bir saniyelik ortalamada yaklaşık 2 × 10^-12 düzeyinde bir kararsızlık tahmin ediliyor. Daha uzun kristaller, optik kovuklar ve daha güçlü morötesi kaynaklarla bu performansın iki basamaktan fazla iyileştirilebileceği hesaplanıyor. Ama bunlar gelecek hedefleri. Çalışmanın gerçek başarısı daha temel: Toryum-229 çekirdeğinin dar geçişi, sürekli bir lazerle uyarılıp soğurma üzerinden hızlı biçimde okunabiliyor. Bir çekirdek saatinin çalışabilmesi için gereken temel parçaların hepsi henüz bir araya getirilmiş değil. Fakat en zor parçalardan biri artık çok daha yönetilebilir görünüyor."
+      ],
+      "takeaway": "Toryum-229 çekirdeği ilk kez sürekli ışıyan dar bir lazerle uyarıldı ve uyarılma, ışımayı beklemek yerine lazer ışığının soğurulmasından anında okundu; bu, katı hâlde çalışan bir çekirdek saatinin…",
+      "impact": null,
+      "category": {
+        "slug": "fizik",
+        "label": "Fizik",
+        "url": "kategori/fizik.html"
+      },
+      "tags": [
+        {
+          "slug": "fizik",
+          "label": "fizik",
+          "url": "etiket/fizik.html"
+        },
+        {
+          "slug": "atom",
+          "label": "atom",
+          "url": "etiket/atom.html"
+        },
+        {
+          "slug": "saat",
+          "label": "saat",
+          "url": "etiket/saat.html"
+        },
+        {
+          "slug": "lazer",
+          "label": "lazer",
+          "url": "etiket/lazer.html"
+        },
+        {
+          "slug": "toryum",
+          "label": "toryum",
+          "url": "etiket/toryum.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-11011-7"
+        }
+      ],
+      "image_credits": [
+        "Morawetz I ve ark., Nature 2026 (10.1038/s41586-026-11011-7), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "uuirP_2Ughg",
+        "instagram": "https://www.instagram.com/reel/Dd-5nawk5zn/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/uuirP_2Ughg"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dd-5nawk5zn/"
+        }
+      ]
+    },
+    {
+      "id": "proj_1a7daf9d34",
+      "slug": "2026-10-02-kurbaganin-yesili-kanin-yikim-urununden-geliyor",
+      "url": "yazi/2026-10-02-kurbaganin-yesili-kanin-yikim-urununden-geliyor.html",
+      "date": "2026-10-02T06:54:34.617665+00:00",
+      "date_text": "2 Ekim 2026",
+      "draft": false,
+      "title": "Kurbağanın Yeşili Kanın Yıkım Ürününden Geliyor",
+      "standfirst": "Bir yaprağın üzerinde duran yeşil bir kurbağaya baktığınızda, rengin deride üretilen yeşil bir pigmentten geldiğini düşünmek çok doğal.",
+      "paragraphs": [
+        "Bir yaprağın üzerinde duran yeşil bir kurbağaya baktığınızda, rengin deride üretilen yeşil bir pigmentten geldiğini düşünmek çok doğal. Fakat bazı ağaç kurbağalarında hikâye bundan daha tuhaf. Bu hayvanlar, memelilerde genellikle kısa süreli bir atık ürün olarak gördüğümüz yeşil bir pigmenti vücutlarında biriktiriyor. Daha da ilginci, pigmenti yalnızca depolamıyorlar; özel bir protein sayesinde rengini yaprak yeşiline yaklaştırıyorlar. Söz konusu pigmentin adı biliverdin.",
+        "Alyuvarlar yaşlandığında içlerindeki hem molekülü parçalanır. Bu süreçte biliverdin adı verilen yeşil bir pigment oluşur. İnsanlarda morlukların zamanla yeşilimsi bir renk almasının nedenlerinden biri de budur. Fakat biliverdin genellikle vücutta uzun süre kalmaz. Başka moleküllere dönüştürülür ve sonunda atılır. Bazı kurbağalar ise bunun tersini yapıyor. Biliverdini kanlarında, lenflerinde, kaslarında, derilerinde ve hatta kemiklerinde yüksek miktarda tutabiliyorlar. Peki zehirli olabilecek veya hızla parçalanması gereken bu molekül nasıl bu kadar uzun süre kalıyor?",
+        "Araştırmacılar üç farklı kurbağa türünü inceledi: Teratohyla pulverata adlı bir cam kurbağası ile Boana punctata ve Sphaenorhynchus lacteus adlı iki ağaç kurbağası. Bu üç soyda benzer bir protein sistemi bulunuyor. Protein, serpin ailesine ait ve biliverdini çok güçlü biçimde bağlıyor. Araştırmacılar buna biliverdin bağlayan serpin, yani BBS adını veriyor. Bağlanma son derece sıkı. Ölçülen ayrışma sabitleri yaklaşık 5 ile 7,5 nanomolar arasında. Bu sayıyı ezberlemek gerekmiyor; önemli olan karşılaştırma. Biliverdini bilirubine dönüştüren enzimin pigmente ilgisi bu proteinden yaklaşık yüz ila bin kat daha zayıf. Yani BBS, biliverdini adeta elinden kaçırmayan bir moleküler tutucu gibi davranıyor. Bu sayede pigment parçalanmadan veya atılmadan dokularda birikebiliyor.",
+        "Asıl ilginç nokta burada. Biliverdin serbest hâlde belirli dalga boylarını soğurur. Fakat protein pigmenti belirli bir şekle zorladığında optik özellikleri değişiyor. Kırmızı ışık bölgesindeki soğurma yaklaşık 2,5 ile 3,5 kat artıyor. Ortaya çıkan renk, bitkilerin klorofilinden gelen yeşile daha fazla yaklaşıyor. Böylece hayvanın rengi yalnızca “yeşil” olmuyor; yaprakların ışığı yansıtma biçimine daha yakın bir spektral özellik kazanıyor. Araştırmacılar kurbağanın yansıma spektrumunda, bitkilerde kızılötesine geçişte görülen keskin yükselişe benzeyen bir “kırmızı kenar” bile gözledi. Bu, kamuflaj açısından yalnızca bizim gözümüze benzeyen bir renk üretmekten daha ayrıntılı bir eşleşme olabilir.",
+        "Protein-biliverdin kompleksi ışıkla uyarıldığında yaklaşık 695-705 nanometre civarında ışıma yapıyor. Canlı hayvanda ölçülen sinyal 710 nanometre ve ötesine uzanıyor. Bu bölge insan gözünün görebildiği sınırın ötesine, yakın kızılötesine giriyor. Araştırmacılar bu ışımayı yalnızca tüpte saflaştırılmış proteinde değil, canlı kurbağaların dokularında da ölçtü. Fotoakustik görüntüleme kullanıldığında kemikler, damarlar ve lenf sistemi bu proteinin optik izini taşıdı. Buradan “kurbağa karanlıkta parlıyor” sonucu çıkarmamak gerekiyor. Işıma dışarıdan ışık verildiğinde oluşuyor ve çıplak gözle görülebilecek bir parıltı değil. Daha da önemlisi, kurbağaların veya başka hayvanların bu kızılötesi sinyali gördüğü ya da iletişimde kullandığına dair bir kanıt yok. Bu optik özellik, kurbağa açısından işlevsiz bir yan sonuç da olabilir.",
+        "Çalışmanın evrimsel tarafı da dikkat çekici. İncelenen üç kurbağa soyu aynı biyokimyasal çözümü tek bir ortak atadan doğrudan devralmış gibi görünmüyor. Araştırmacılar bu mekanizmanın üç ayrı soyda bağımsız olarak ortaya çıktığı sonucuna varıyor. Bu, yakınsak evrimin güzel örneklerinden biri olabilir. Benzer çevresel sorunlarla karşılaşan farklı soylar, farklı başlangıç noktalarından benzer moleküler çözümlere ulaşabiliyor.",
+        "Araştırmacılar kızılötesi optik özelliklerin biyogörüntüleme açısından ilginç olabileceğini belirtiyor. Yakın kızılötesi ışık, görünür ışığa kıyasla dokuda daha az soğurulup daha az saçılabildiği için derin doku görüntülemede değerli bir bölge. Fakat bu protein bugün kullanılan bir tıbbi araç değil. Çalışmanın sunduğu şey daha çok biyomimetik bir fikir: doğanın, küçük bir pigmenti protein cebinde tutarak hem rengini hem de ışık davranışını nasıl değiştirebildiğini anlamak, gelecekte yeni görüntüleme moleküllerinin tasarımına ilham verebilir. Bilimsel açıdan asıl güzel taraf ise daha temel: “yeşil kurbağa” gibi basit görünen bir özellik, aslında kan yıkım ürünü, protein evrimi, optik fizik ve kamuflajın aynı hikâyede birleştiği karmaşık bir çözüm olabilir."
+      ],
+      "takeaway": "Ağaç kurbağaları, kanın yıkım ürünü olan yeşil safra pigmentini sıkıca bağlayan bir protein geliştirerek yaprak yeşili bir kamuflaj üretiyor; aynı protein hayvanın dokularının içinde kızılötesine…",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "kurbaga",
+          "label": "kurbağa",
+          "url": "etiket/kurbaga.html"
+        },
+        {
+          "slug": "renk",
+          "label": "renk",
+          "url": "etiket/renk.html"
+        },
+        {
+          "slug": "kamuflaj",
+          "label": "kamuflaj",
+          "url": "etiket/kamuflaj.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aeg5510"
+        }
+      ],
+      "image_credits": [
+        "Vignesh R ve ark., Science Advances 2026 (10.1126/sciadv.aeg5510), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "Sd_0pJjG__U",
+        "instagram": "https://www.instagram.com/reel/Dd-5gdzk-vq/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/Sd_0pJjG__U"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dd-5gdzk-vq/"
+        }
+      ]
+    },
+    {
+      "id": "proj_9724ae94a6",
+      "slug": "2026-10-02-mars-in-magma-okyanusu-laboratuvarda-donduruldu",
+      "url": "yazi/2026-10-02-mars-in-magma-okyanusu-laboratuvarda-donduruldu.html",
+      "date": "2026-10-02T06:54:34.613568+00:00",
+      "date_text": "2 Ekim 2026",
+      "draft": false,
+      "title": "Mars'ın Magma Okyanusu Laboratuvarda Donduruldu",
+      "standfirst": "Bugünkü Mars soğuk, kuru ve büyük ölçüde katı bir gezegen.",
+      "paragraphs": [
+        "Bugünkü Mars soğuk, kuru ve büyük ölçüde katı bir gezegen. Fakat oluşumunun ilk dönemlerinde durum çok farklıydı. Kayaç gezegenler doğarken çarpışmalar, sıkışma ve radyoaktif elementlerin bozunması nedeniyle çok yüksek sıcaklıklara ulaşabilir. Mars'ın da erken döneminde yaklaşık 1.500 kilometre derinliğe uzanan büyük bir magma okyanusuna sahip olduğu düşünülüyor. Bu magma okyanusu soğuyup katılaşırken hangi minerallerin önce, hangilerinin sonra oluştuğu yalnızca yüzeyi değil, gezegenin iç yapısını da belirlemiş olmalı. Yeni çalışma bu süreci bilgisayarda yalnızca hesaplamak yerine laboratuvarda adım adım yeniden kurmaya çalışıyor.",
+        "Mars'ın iç yapısı hakkındaki eski modeller, mantonun belirli miktarda demir içerdiğini varsayıyordu. NASA'nın InSight görevinin sismik ölçümleri bu tahmini değiştirdi. Yeni verilere göre Mars mantosundaki demir oranı önceki modellerde kullanılan değerlerden daha düşük olabilir. Araştırmacılar da bu güncellenmiş bileşimi başlangıç noktası aldı. Yapay bir silikat karışımını platin kapsüllere yerleştirip yüksek basınç ve sıcaklık altında tuttu. Deney koşulları yaklaşık 750 °C'den 1.700 °C'ye ve atmosfer basıncından 16 gigapaskala kadar uzandı. Bu yalnızca tek bir karışımı eritip soğutmak değildi. Her adımda hangi minerallerin kristalleştiği belirlendi, oluşan katı fazlar ayrıldı ve geriye kalan sıvı bir sonraki adımın başlangıç malzemesi yapıldı. Böylece magma okyanusunun yüzde 99'dan fazlası katılaşana kadar süreç ilerletildi.",
+        "Magma okyanusunun büyük kısmı donana kadar yüzeye çıkacak hafif bir kabuk malzemesi oluşmadı. Yaklaşık yüzde 95'i katılaştığında ve sıcaklık 920 °C civarına düştüğünde plajiyoklas kristalleşmeye başladı. Plajiyoklasın yoğunluğu çevresindeki eriyikten daha düşük olduğu için kristallerin yukarı doğru hareket etmesi bekleniyor. Katılaşma yüzde 98'e ulaştığında, yaklaşık 750 °C'de kuvars da oluştu. Araştırmacıların hesaplarına göre bu hafif mineraller tamamen ayrılıp yüzeye çıkabilirse yaklaşık 32 kilometre kalınlığında erken bir kabuk meydana gelebilir. Bu sayının yaklaşık 26 kilometresi doğrudan deneylerden, son yaklaşık 6 kilometresi ise son yüzde birlik katılaşmanın modellenmesinden geliyor.",
+        "Hayır. Çalışma bir Mars gözlemi değil. Mars'ın ilk dönemindeki koşulları temsil etmeye çalışan laboratuvar deneyleri ve fiziksel hesaplamalardan oluşuyor. Üstelik 32 kilometrelik değer, hafif minerallerin magma içinden etkin biçimde ayrılıp yüzeye taşınabildiği varsayımına dayanıyor. Gerçek gezegende bu ayrışma kusursuz olmayabilir. Bazı mineraller magma içinde kalabilir veya daha karmaşık süreçlere karışabilir. Bugünkü Mars kabuğunun kalınlığının da yaklaşık 30 ile 72 kilometre arasında olduğu tahmin ediliyor; fakat bugünkü kabuk milyarlarca yıllık volkanizma ve diğer jeolojik süreçlerin ürünlerini de içeriyor. Dolayısıyla “Mars'ın bugünkü kabuğu bu deneyde üretildi” demek doğru olmaz.",
+        "Çalışmanın ikinci önemli sonucu Mars'ın derin yapısıyla ilgili. Önceki bileşim modellerinde mantonun ortalarında yaklaşık 150 kilometre kalınlığında ağır bir granat tabakasının oluşabileceği hesaplanıyordu. Yeni, daha düşük demir içerikli başlangıç bileşiminde böyle bir tabaka ortaya çıkmadı. Bunun yerine yoğun mineraller daha sığ, yaklaşık 170 kilometreden yukarıdaki bölgelerde oluşuyor ve daha sonra çekirdeğe doğru batabilecek bir yapı ortaya çıkarıyor. Bu fark, Mars'ın ilk iç karışımının düşündüğümüzden farklı başlamış olabileceğini gösteriyor.",
+        "Mars'ta plajiyoklasça zengin, nispeten açık renkli kayaçlar daha önce uzaktan algılama yöntemleriyle ve Curiosity'nin ölçümleriyle gözlenmişti. Yeni çalışma bu mineralleri keşfetmiyor. Yaptığı şey, bu tür malzemelerin erken Mars'ın magma okyanusu katılaşırken doğal olarak ortaya çıkabileceğini gösteren fiziksel bir senaryo üretmek. Araştırmacılar bu bağlantıyı kendileri de ihtiyatlı biçimde kuruyor. Çünkü deneylerin önemli basitleştirmeleri var. Başlangıç bileşiminde krom ve titanyum bulunmuyor. Magma okyanusunun sıcaklığının derinlikle değişmediği varsayılıyor. Yoğunluk hesapları basıncın bazı etkilerini dışarıda bırakıyor. Bu nedenle çalışma “Mars'ın geçmişi kesin olarak böyleydi” demiyor. Daha değerli yaptığı şey şu: InSight'ın değiştirdiği iç yapı verilerini kullanıp, Mars yüzeyinde zaten bildiğimiz bazı kayaçların erken gezegen tarihinde nasıl oluşabileceğine deneysel bir mekanizma sunuyor."
+      ],
+      "takeaway": "Mars'ın erimiş hâldeki iç kısmının donuşu laboratuvarda baştan sona taklit edildiğinde, gezegenin yüzeyinde kendiliğinden otuz kilometreden kalın, hafif ve açık renkli bir ilk kabuk oluşuyor.",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Astronomi",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "mars",
+          "label": "mars",
+          "url": "etiket/mars.html"
+        },
+        {
+          "slug": "magma",
+          "label": "magma",
+          "url": "etiket/magma.html"
+        },
+        {
+          "slug": "gezegen",
+          "label": "gezegen",
+          "url": "etiket/gezegen.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aed5787"
+        }
+      ],
+      "image_credits": [
+        "NASA/JPL-Caltech",
+        "NASA's Goddard Space Flight Center Conceptual Image Lab / Jonathan North"
+      ],
+      "video": {
+        "youtube": "1-MxNsXiH6Y",
+        "instagram": "https://www.instagram.com/reel/Dd-5TQmEyK1/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/1-MxNsXiH6Y"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dd-5TQmEyK1/"
+        }
+      ]
+    },
+    {
+      "id": "proj_8f7f4caf99",
+      "slug": "2026-10-02-kedilerin-kokusunda-13-molekulluk-bir-fark-var",
+      "url": "yazi/2026-10-02-kedilerin-kokusunda-13-molekulluk-bir-fark-var.html",
+      "date": "2026-10-02T06:54:34.608819+00:00",
+      "date_text": "2 Ekim 2026",
+      "draft": false,
+      "title": "Kedilerin Kokusunda 13 Moleküllük Bir Fark Var",
+      "standfirst": "Bir kedinin başka bir kedinin bıraktığı idrarı uzun uzun koklaması bize garip gelebilir.",
+      "paragraphs": [
+        "Bir kedinin başka bir kedinin bıraktığı idrarı uzun uzun koklaması bize garip gelebilir. Fakat koku, kedilerin sosyal dünyasında güçlü bir bilgi kaynağı. Bazı kediler kokladıktan sonra ağızlarını hafifçe açıp yüzlerini buruşturur. Buna flehmen tepkisi deniyor. Bu davranış, bazı koku moleküllerinin ağız tavanındaki özel bir duyu organına ulaşmasına yardımcı oluyor. Yeni çalışmada araştırmacılar bu davranışı adeta biyolojik bir dedektör olarak kullandı ve şu sorunun peşine düştü: Kedilerin idrarında, bireyden bireye değişen ve hayvanların gerçekten algılayabildiği kimyasal bir işaret var mı?",
+        "İdrardaki farklı kimyasal bileşenler ayrıştırıldığında, kedilerin özellikle bir yağ fraksiyonuna flehmen tepkisi verdiği görüldü. Bu fraksiyonda 13 adet dallı zincirli yağ asidi bulundu. Önemli olan yalnızca bu moleküllerin varlığı değildi. Moleküllerin birbirine oranları da kediden kediye değişiyordu. On kediden alınan 24 idrar örneği kimyasal karışımlarına göre sınıflandırıldığında, örnekler 10 ayrı gruba ayrıldı. Her grubun tek bir kediye karşılık gelmesi, karışımın cinsiyetten çok bireyle ilişkili olduğunu düşündürüyor. Aynı kediden farklı günlerde alınan örneklerin birbirine benzemesi de bu kimyasal desenin kısa vadede kararlı olduğunu gösterdi.",
+        "Bu moleküller yarı uçucu özellik taşıyor. Yani çok hızlı biçimde ortadan kaybolmuyorlar. Üç erkek kediden alınan idrar örnekleri 25 °C'de 24 saat boyunca izlendiğinde, yağ asitlerinin birbirine oranları yeterince korunmuştu ve örnekler yine doğru üç gruba ayrılabiliyordu. Fakat bu sonucu gereğinden fazla büyütmemek gerekiyor. Çalışma kokunun haftalarca veya aylarca aynı kaldığını göstermiyor. Farklı mevsimler, beslenme biçimleri, dış ortam ve uzun zaman aralıkları bu deneyde sınanmadı.",
+        "Kimyasal analiz tek başına yeterli olmazdı. İki kedinin idrarı farklı olabilir ama hayvanların bu farkı algıladığı gösterilmedikçe biyolojik anlamı belirsiz kalır. Araştırmacılar bu nedenle kontrollü koku deneyleri yaptı. Diğer yağ bileşenlerinin aynı tutulduğu koşullarda kedilere iki farklı bireyden alınan dallı yağ asidi karışımları sunuldu. Kediler bu iki karışımı birbirinden ayırt edebildi. Başka bir deneyde kedilere kendi idrarları ile aynı cinsiyetten başka bir kedinin idrarı sunulduğunda, flehmen tepkisi yalnızca diğer kedinin örneğine verildi. Bu bulgu ilginç, ancak “kediler kokudan birbirinin kimliğini biliyor” anlamına gelmiyor. Deneylerin gösterdiği şey ayırt etme. Yani iki kimyasal karışımın farklı olduğunu algılayabiliyorlar. Belirli bir kokuyu belirli bir bireyin zihinsel kimliğiyle eşleştirdikleri gösterilmiş değil.",
+        "Çalışmanın daha şaşırtıcı kısmı burada. Kedi böbreklerinde yüz yılı aşkın süredir bilinen yağ damlacıkları bulunuyor. Ancak bu yapıların ne yaptığı tam olarak açık değildi. Araştırmacıların görüntüleme sonuçları, söz konusu dallı yağ asitlerini taşıyan yağların bu damlacıklarda toplandığını gösterdi. Bu nedenle böbrekteki yağ damlacıkları, bireye özgü kimyasal karışımın kaynaklarından veya depolarından biri olabilir. Burada da “böbreğin gizemi çözüldü” demek fazla güçlü olur. Çalışma, bu damlacıkların işlevlerinden birinin bu kimyasal işaretle ilişkili olabileceğini gösteriyor.",
+        "Hayır. Araştırmacılar sistemi 11 yabani kedigil türünde de araştırdı. Iriomote kedisi ve Tsushima leopar kedisinde bireyden bireye değişen karışımlar görüldü. Çitalarda ise böbrekteki yağ damlacıkları neredeyse yoktu ve idrarda bu yağ asitleri saptanmadı. Dolayısıyla bu mekanizmayı “bütün kedigillerin ortak kimlik sistemi” olarak anlatmak doğru değil.",
+        "Makalenin yayımlanmış sürümü açık erişimli değil. Bu özetin örnek sayıları ve bazı deney ayrıntıları büyük ölçüde açık erişimli ön baskıya dayanıyor; hakemli sürümde küçük değişiklikler bulunabilir. Ayrıca deneyler araştırma kolonilerindeki kedilerle yapıldı. Sokakta yaşayan kedilerde, farklı beslenmelerde veya uzun zaman aralıklarında aynı kararlılığın görülüp görülmediğini bilmiyoruz. Yine de çalışma güzel bir örnek sunuyor: hayvanların sosyal dünyasında “koku” tek bir molekül olmayabilir. Bazen asıl bilgi, aynı moleküllerin farklı oranlarda bir araya gelmesinde saklı olabilir."
+      ],
+      "takeaway": "Kedi idrarında, her kedide farklı oranlarda bulunan ve aynı kedide günler boyunca aynı kalan on üç dallı yağ asidi var; kediler iki ayrı kedinin bu karışımını koklayarak birbirinden ayırt edebiliyor…",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "kedi",
+          "label": "kedi",
+          "url": "etiket/kedi.html"
+        },
+        {
+          "slug": "koku",
+          "label": "koku",
+          "url": "etiket/koku.html"
+        },
+        {
+          "slug": "hayvan",
+          "label": "hayvan",
+          "url": "etiket/hayvan.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Current Biology (2026)",
+          "url": "https://doi.org/10.1016/j.cub.2026.07.045"
+        }
+      ],
+      "image_credits": [],
+      "video": {
+        "youtube": "b-p6P0ELxEM",
+        "instagram": "https://www.instagram.com/reel/Dd-5L4CkzN4/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/b-p6P0ELxEM"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dd-5L4CkzN4/"
+        }
+      ]
+    },
+    {
+      "id": "proj_4b9b6ff675",
+      "slug": "2026-10-02-drone-goremedigi-cam-duvari-biyigiyla-buluyor",
+      "url": "yazi/2026-10-02-drone-goremedigi-cam-duvari-biyigiyla-buluyor.html",
+      "date": "2026-10-02T06:54:34.604847+00:00",
+      "date_text": "2 Ekim 2026",
+      "draft": false,
+      "title": "Drone, Göremediği Cam Duvarı Bıyığıyla Buluyor",
+      "standfirst": "Küçük bir drone'u gerçekten küçük yapmak istediğinizde yalnızca gövdeyi küçültmeniz yetmiyor.",
+      "paragraphs": [
+        "Küçük bir drone'u gerçekten küçük yapmak istediğinizde yalnızca gövdeyi küçültmeniz yetmiyor. Kamera, lidar, işlemci, pil ve sensörlerin hepsi ağırlık ve enerji tüketiyor. Bir noktadan sonra aracın çevreyi algılaması, uçmasından daha pahalı hâle geliyor. Üstelik görmeye dayalı sistemlerin doğal sınırları var. Kamera karanlıkta veya yoğun dumanda işe yaramayabilir. Lazerli mesafe sensörleri de cam gibi saydam yüzeyleri her zaman güvenilir biçimde algılayamaz. Delft Teknik Üniversitesi'nden araştırmacılar bu nedenle yeni bir kamera geliştirmek yerine çok daha eski bir biyolojik çözüme döndü: dokunma.",
+        "Fareler ve köstebekler gibi birçok hayvan, çevrelerindeki nesneleri yalnızca gözleriyle algılamaz. Bıyıkların bir yüzeye değdiğinde nasıl büküldüğü de çevre hakkında bilgi taşır. Araştırmacıların yaptığı sistem bunun oldukça sade bir mühendislik karşılığı. Drone'un önüne iki adet 20 santimetrelik nitinol tel yerleştirildi. Her tel yalnızca 0,4 milimetre kalınlığında. Telin tabanında üç küçük basınç sensörü bulunuyor. Bıyık bir yüzeye değdiğinde eğiliyor. Eğilmenin oluşturduğu kuvvet sensörlere ulaşıyor ve bu değişimden temasın derinliği hesaplanıyor. Burada “fare gibi hisseden drone” demek biraz fazla olur. Gerçek bir fare bıyıklarını aktif biçimde hareket ettirebilir; bu drone'un bıyıkları sabit. Ancak mühendislik fikri aynı temel bilgiyi kullanıyor: bir yüzeye temas ettiğinizde oluşan mekanik değişim, o yüzeyin konumu hakkında ipucu verebilir.",
+        "Çalışmanın en dikkat çekici taraflarından biri hesaplama bütçesi. Drone'un üzerindeki işlemcinin toplam belleği yalnızca 192 kilobayt. Dokunma algısı bunun yaklaşık 34 kilobaytını kullanıyor ve saniyede 50 kez hesaplama yapıyor. Bugünkü telefonlar açısından bakıldığında bu neredeyse yok denecek kadar küçük bir bellek. Sistemin amacı da zaten ağır görüntü işleme modelleri çalıştırmak değil; mümkün olan en az donanımla yeterli çevre bilgisini çıkarmak. İki bıyığın toplam ağırlığı 3,2 gram. Drone'un toplam uçuş ağırlığı 44,1 gram. Montaj ve kablolarla birlikte sisteme eklenen yük yaklaşık 6 gram.",
+        "Fikir basit görünse de pratikte önemli bir sorun çıktı. Drone uçarken pervaneler sürekli hava akımı yaratıyor. Bu akım bıyıklardaki basınç sensörlerinin değerini kaydırabiliyor. Yani drone hiçbir şeye değmese bile sistem temas varmış gibi davranabilir. Araştırmacılar bu nedenle, temas olmayan anlarda sensörlerdeki kaymayı sürekli yeniden ölçen bir düzeltme yöntemi geliştirdi. Serbest uçuş deneylerinde bu yöntemle yanlış temas alarmı sıfıra kadar indirildi. Yalnızca kalkışta bir kez ayar yapılan yaklaşımda yanlış alarm yaklaşık yüzde 12, yalnızca filtre kullanılan yöntemde ise yaklaşık yüzde 38 düzeyindeydi.",
+        "Evet, fakat belirli koşullar altında. Drone saniyede yaklaşık 20 santimetre hızla ilerlerken, duvara uzaklığını ortalama birkaç milimetrelik hatayla ölçebildi. En iyi sonuçlarda hata yaklaşık 4 milimetre, daha zor koşullarda yaklaşık 8 milimetreydi. Bıyığın açısı da rastgele seçilmedi. Altı farklı açı ve üç farklı hızla toplam 72 uçuş yapıldı. Bıyık 15 dereceyle yerleştirildiğinde drone denemelerin yaklaşık dörtte üçünde düştü. 30, 45 ve 60 derecede ise bu deneylerde düşme görülmedi. Son sistemde 45 derece tercih edildi. Araştırmacılar ayrıca saydam akrilik duvarlardan oluşan bir parkur kurdu. Drone iki farklı düzenlemede beş denemenin beşinde de hedefe ulaştı. Karanlıkta sert bir paneli ve yumuşak bir bayrağı takip ettiği deneyler de yapıldı.",
+        "Çünkü drone'un bütün uçuş sistemi yalnızca bıyıklardan oluşmuyor. Çevredeki duvarı algılama kısmı dokunmaya dayanıyor. Ancak araç uçuşunu sürdürebilmek için ivmeölçer kullanıyor; bazı deneylerde optik akış ve aşağı bakan lazer de sistemin parçası. Dolayısıyla bu çalışma kameraların ve lidarların yerini tamamen alan yeni bir duyu önermiyor. Daha çok, görmenin zorlandığı durumlarda sisteme eklenebilecek başka bir algı kanalı gösteriyor.",
+        "Bugünkü sistem laboratuvar koşullarında geliştirildi. Dokunulan yüzeyin sabit ve temas noktasının çevresinde yaklaşık düz olduğu varsayılıyor. Yumuşak kumaşlarda kontrol kararsızlaşıyor. Kavisli veya hareketli yüzeylerde çıkarılan geometrinin doğruluğu azalıyor. Uzun süre sürtünme olduğunda sensör kayması yeniden birikebiliyor. Üstelik her drone'un bıyık sistemi için yaklaşık 15-20 dakikalık ayrı bir kalibrasyon gerekiyor. Bir araçta öğrenilen model doğrudan diğerine aktarılamıyor. Bu nedenle bugün enkaz içine gönderebileceğiniz hazır bir arama-kurtarma sistemi yok. Ama çalışmanın daha genel sonucu oldukça ilginç: küçük robotların çevreyi anlaması için her zaman daha büyük kamera, daha güçlü işlemci ve daha ağır sensörler gerekmeyebilir. Bazen doğadaki çok basit bir mekanik duyuyu taklit etmek, görmenin yapamadığı bir işi birkaç gramlık donanımla çözebilir."
+      ],
+      "takeaway": "Avuç içi büyüklüğünde bir drone, farelerinkine benzeyen iki yapay bıyıkla, zifiri karanlıkta ve göremediği cam duvarların arasında yalnızca dokunarak yol buluyor; bütün algı 192 kilobaytlık küçücük…",
+      "impact": null,
+      "category": {
+        "slug": "teknoloji",
+        "label": "Teknoloji",
+        "url": "kategori/teknoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "teknoloji",
+          "label": "teknoloji",
+          "url": "etiket/teknoloji.html"
+        },
+        {
+          "slug": "drone",
+          "label": "drone",
+          "url": "etiket/drone.html"
+        },
+        {
+          "slug": "robotik",
+          "label": "robotik",
+          "url": "etiket/robotik.html"
+        },
+        {
+          "slug": "dokunma",
+          "label": "dokunma",
+          "url": "etiket/dokunma.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-77366-7"
+        }
+      ],
+      "image_credits": [
+        "Ye C, de Croon G, Hamaza S, Nature Communications 2026 (10.1038/s41467-026-77366-7), CC BY 4.0",
+        "Ye C, de Croon G, Hamaza S, Nature Communications 2026 (10.1038/s41467-026-77366-7), CC BY 4.0 — Türkçe etiketler eklendi"
+      ],
+      "video": {
+        "youtube": "kdFZ0zyQUqE",
+        "instagram": "https://www.instagram.com/reel/Dd-5Dl3k3W8/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/kdFZ0zyQUqE"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dd-5Dl3k3W8/"
+        }
+      ]
+    },
+    {
+      "id": "proj_0af0d35aae",
+      "slug": "2026-10-02-kalbin-manyetik-alanini-elmasla-olcmek",
+      "url": "yazi/2026-10-02-kalbin-manyetik-alanini-elmasla-olcmek.html",
+      "date": "2026-10-02T06:54:34.600444+00:00",
+      "date_text": "2 Ekim 2026",
+      "draft": false,
+      "title": "Kalbin Manyetik Alanını Elmasla Ölçmek",
+      "standfirst": "Kalp her attığında elektriksel akımlar üretir.",
+      "paragraphs": [
+        "Kalp her attığında elektriksel akımlar üretir. Elektrokardiyografi, yani EKG, bu elektriksel etkinliği vücut üzerinden ölçer. Fakat elektrik akımlarının başka bir sonucu daha vardır: çevrelerinde son derece zayıf bir manyetik alan oluştururlar.",
+        "Kalbin bu manyetik alanını ölçmeye manyetokardiyografi deniyor. Sorun, sinyalin çok zayıf olması. Bu yüzden geleneksel sistemler çoğu zaman ağır manyetik kalkanlı odalara ve karmaşık algılayıcılara ihtiyaç duyuyor.",
+        "Omar ve çalışma arkadaşları bu ölçümü elmastan yapılmış kompakt kuantum sensörlerle gerçekleştirdi.",
+        "Burada kullanılan elmaslar mücevher amaçlı taşlar değil. Sensör için özel olarak üretilmiş elmas parçalarının kristal yapısında “azot-boşluk merkezi” adı verilen kusurlar bulunuyor. Bu kusurların kuantum özellikleri çevredeki çok küçük manyetik alan değişimlerine duyarlı.",
+        "Çalışmadaki sensörlerden birinde kullanılan elmas parçasının yüksekliği yalnızca 0,18 milimetreydi. Bu sensörler ayrıca oda sıcaklığında çalışıyor.",
+        "Deneylerde sensör, oturan bir kişinin göğsünden yaklaşık bir santimetre uzakta tutuldu. Yani cilde temas etmiyordu. Üç ayrı grup üç farklı sensör düzeniyle ölçüm yaptı; deneylerin çoğu manyetik olarak kalkanlanmış veya kısmen kalkanlanmış ortamlarda gerçekleştirildi.",
+        "Çalışmanın önemli sınırı sinyal-gürültü oranı. Kalbin manyetik alanı o kadar zayıf ki tek bir atışın sinyali çevresel gürültü içinde kaybolabiliyor. Bu nedenle araştırmacılar yüzlerce, bazı deneylerde binlerce kalp atışını üst üste getirip ortalamasını aldı.",
+        "Düzeneğe ve koşullara göre yaklaşık 300 ile 12.000 atışın ortalaması alındı. Bu işlemden sonra kalbin elektriksel etkinliğinin bilinen bölümleri manyetik sinyalde seçilebildi ve ölçümler eş zamanlı EKG ile karşılaştırıldı.",
+        "Sonuç önemli, ancak “elmas sensör tek kalp atışını anında okuyor” anlamına gelmiyor. Gerçek zamanlı ölçüm henüz hedef aşamasında. Ayrıca bu bugün hastanelerde kullanılan bir tıbbi cihaz değil.",
+        "Buna rağmen küçük, oda sıcaklığında çalışan ve temas gerektirmeyen sensörler, gelecekte manyetokardiyografi sistemlerini daha kompakt hâle getirebilir. Araştırmacılar bu yaklaşımın ileride kalp ve beyin gibi organların çok zayıf manyetik sinyallerini daha pratik biçimde ölçme potansiyeli taşıdığını düşünüyor."
+      ],
+      "takeaway": "Elmastan yapılmış, oda sıcaklığında çalışan küçük kuantum sensörler, kalbin ürettiği son derece zayıf manyetik alanı vücuda dokunmadan ölçebildi.",
+      "impact": null,
+      "category": {
+        "slug": "teknoloji",
+        "label": "Teknoloji",
+        "url": "kategori/teknoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "teknoloji",
+          "label": "teknoloji",
+          "url": "etiket/teknoloji.html"
+        },
+        {
+          "slug": "kalp",
+          "label": "kalp",
+          "url": "etiket/kalp.html"
+        },
+        {
+          "slug": "elmas",
+          "label": "elmas",
+          "url": "etiket/elmas.html"
+        },
+        {
+          "slug": "kuantum",
+          "label": "kuantum",
+          "url": "etiket/kuantum.html"
+        },
+        {
+          "slug": "sensor",
+          "label": "sensör",
+          "url": "etiket/sensor.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aeg5281"
+        }
+      ],
+      "image_credits": [
+        "Omar M ve ark., Science Advances 2026 (10.1126/sciadv.aeg5281), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "en4QOXKY0VM",
+        "instagram": "https://www.instagram.com/reel/Dd-48jYE-sj/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/en4QOXKY0VM"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dd-48jYE-sj/"
+        }
+      ]
+    },
+    {
+      "id": "proj_1c2a2fe1bf",
+      "slug": "2026-10-02-new-mexico-ormanlari-400-yildir-boyle-yanmamisti",
+      "url": "yazi/2026-10-02-new-mexico-ormanlari-400-yildir-boyle-yanmamisti.html",
+      "date": "2026-10-02T06:54:34.592436+00:00",
+      "date_text": "2 Ekim 2026",
+      "draft": false,
+      "title": "New Mexico Ormanları 400 Yıldır Böyle Yanmamıştı",
+      "standfirst": "Orman yangını her zaman ormanın yok olması anlamına gelmez.",
+      "paragraphs": [
+        "Orman yangını her zaman ormanın yok olması anlamına gelmez. ABD'nin batısındaki kuru iğne yapraklı ormanlar, yüzyıllar boyunca sık fakat çoğunlukla düşük şiddetli yangınlarla birlikte var oldu. Bu yangınlar yerdeki otları ve çalıları yakarken büyük ağaçların önemli bir bölümü hayatta kalabiliyordu.",
+        "Hayatta kalan ağaçların gövdelerindeki yangın yaraları da zamanla ağaç halkalarının içine kaydoldu. Bu yüzden yaşlı ağaçlar geçmiş yangınların tarihini taşıyabiliyor.",
+        "Wion ve çalışma arkadaşları New Mexico'daki Jemez Dağları'nda bu kaydı kullanarak son birkaç on yılın yangınlarını yaklaşık 400 yıllık geçmişle karşılaştırdı.",
+        "Yaklaşık 1500 ile 1900 arasındaki kayıt, bölgede yangının olağan bir parçası olduğunu gösteriyor. Bölgedeki yangın izi alanlarının en az yüzde 10'unu etkileyen büyük yangın yılları ortalama üç yılda bir yaşanıyordu. Fakat bunların çoğu düşük şiddetliydi.",
+        "1900'lerden sonra yangınların uzun süre bastırılması, yanıcı malzemenin birikmesine yol açtı. Son on yıllarda ise daha büyük ve daha şiddetli yangınlar görüldü.",
+        "1995 ile 2024 arasındaki şiddetli yangınlar, yaklaşık 240 bin hektarlık çalışma alanında yangın izi bulunan sahaların yüzde 32'sini ve kuru iğne yapraklı ormanların yüzde 25'ini yaktı.",
+        "Las Conchas Yangını'nın etkilediği ve birden fazla kez yanan 61 bin hektarlık alanda oranlar daha da yüksekti: yangın izi sahalarının yüzde 66'sı, kuru iğne yapraklı ormanların yüzde 71'i etkilendi.",
+        "Bu tür yangınlar yalnızca ağaçları öldürmüyor. Geçmişi kaydeden eski ağaçları da yok ettiği için yüzyıllarca birikmiş yangın tarihini fiziksel olarak siliyor.",
+        "Araştırmacılar simülasyonlarla şu soruyu da sınadı: geçmişte bugünkü kadar şiddetli yangınlar aynı sıklıkta yaşansaydı bu uzun ağaç halkası kaydı bugün hâlâ var olabilir miydi? Sonuç, hayatta kalma olasılığının neredeyse sıfır olacağını gösterdi.",
+        "Projeksiyonlara göre günümüzdeki şiddetli yangın düzeni sürerse bugünkü kuru iğne yapraklı ormanların yaklaşık yüzde 50'si 2055'e kadar, yüzde 24'ü ise 2115'e kadar kalabilir.",
+        "Bu rakamlar bütün dünya ormanları için geçerli değil. Çalışma belirli bir bölgeyi inceliyor ve gelecek rakamları da mevcut yangın düzeninin sürmesi koşuluna bağlı.",
+        "Araştırmacılar çözümün yangını tamamen ortadan kaldırmak olmadığını da vurguluyor. Geniş alanlarda düşük şiddetli yangınların yeniden sağlanmasının ormanın direncini artırabileceğini düşünüyorlar."
+      ],
+      "takeaway": "New Mexico'daki Jemez Dağları'nda son 30 yılın şiddetli orman yangınları, ağaç halkalarındaki 400 yıllık yangın kaydında benzeri olmayan ölçüde; bu gidişle bölgedeki kuru iğne yapraklı ormanların…",
+      "impact": null,
+      "category": {
+        "slug": "cevre",
+        "label": "Çevre",
+        "url": "kategori/cevre.html"
+      },
+      "tags": [
+        {
+          "slug": "cevre",
+          "label": "çevre",
+          "url": "etiket/cevre.html"
+        },
+        {
+          "slug": "orman",
+          "label": "orman",
+          "url": "etiket/orman.html"
+        },
+        {
+          "slug": "yangin",
+          "label": "yangın",
+          "url": "etiket/yangin.html"
+        },
+        {
+          "slug": "iklim",
+          "label": "iklim",
+          "url": "etiket/iklim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2513731123"
+        }
+      ],
+      "image_credits": [
+        "Wion AP ve ark., PNAS 2026 (10.1073/pnas.2513731123), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "ouwrcX2kAxg",
+        "instagram": "https://www.instagram.com/reel/Dd-41fsE45l/"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/ouwrcX2kAxg"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dd-41fsE45l/"
+        }
+      ]
+    },
     {
       "id": "proj_60cfad6c0e",
       "slug": "2026-09-27-juice-neden-dunya-ya-geri-donuyor",
@@ -593,12 +1487,17 @@
         "NASA/JPL-Caltech"
       ],
       "video": {
-        "youtube": "p9IjgzqSeyA"
+        "youtube": "p9IjgzqSeyA",
+        "instagram": "https://www.instagram.com/reel/Dd-60eukzIa/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/p9IjgzqSeyA"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dd-60eukzIa/"
         }
       ]
     },
