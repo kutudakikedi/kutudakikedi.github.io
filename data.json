@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T07:13:05+00:00",
+  "generated_at": "2026-10-09T08:30:31+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -24,19 +24,19 @@
     {
       "slug": "fizik",
       "label": "Fizik",
-      "count": 4,
+      "count": 6,
       "url": "kategori/fizik.html"
     },
     {
       "slug": "uzay",
       "label": "Astronomi",
-      "count": 7,
+      "count": 8,
       "url": "kategori/uzay.html"
     },
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 11,
+      "count": 16,
       "url": "kategori/biyoloji.html"
     },
     {
@@ -48,28 +48,58 @@
     {
       "slug": "cevre",
       "label": "Çevre",
-      "count": 3,
+      "count": 6,
       "url": "kategori/cevre.html"
+    },
+    {
+      "slug": "kimya",
+      "label": "Kimya",
+      "count": 2,
+      "url": "kategori/kimya.html"
     },
     {
       "slug": "teknoloji",
       "label": "Teknoloji",
-      "count": 3,
+      "count": 5,
       "url": "kategori/teknoloji.html"
+    },
+    {
+      "slug": "yer-bilimleri",
+      "label": "Yer Bilimleri",
+      "count": 1,
+      "url": "kategori/yer-bilimleri.html"
     }
   ],
   "tags": [
     {
       "slug": "uzay",
       "label": "uzay",
-      "count": 6,
+      "count": 7,
       "url": "etiket/uzay.html"
+    },
+    {
+      "slug": "biyoloji",
+      "label": "biyoloji",
+      "count": 6,
+      "url": "etiket/biyoloji.html"
     },
     {
       "slug": "beyin",
       "label": "beyin",
-      "count": 4,
+      "count": 5,
       "url": "etiket/beyin.html"
+    },
+    {
+      "slug": "iklim",
+      "label": "iklim",
+      "count": 5,
+      "url": "etiket/iklim.html"
+    },
+    {
+      "slug": "cevre",
+      "label": "çevre",
+      "count": 5,
+      "url": "etiket/cevre.html"
     },
     {
       "slug": "gezegen",
@@ -78,22 +108,34 @@
       "url": "etiket/gezegen.html"
     },
     {
-      "slug": "biyoloji",
-      "label": "biyoloji",
-      "count": 3,
-      "url": "etiket/biyoloji.html"
-    },
-    {
-      "slug": "iklim",
-      "label": "iklim",
-      "count": 3,
-      "url": "etiket/iklim.html"
-    },
-    {
       "slug": "teknoloji",
       "label": "teknoloji",
-      "count": 3,
+      "count": 4,
       "url": "etiket/teknoloji.html"
+    },
+    {
+      "slug": "fizik",
+      "label": "fizik",
+      "count": 3,
+      "url": "etiket/fizik.html"
+    },
+    {
+      "slug": "kimya",
+      "label": "kimya",
+      "count": 3,
+      "url": "etiket/kimya.html"
+    },
+    {
+      "slug": "kuantum",
+      "label": "kuantum",
+      "count": 3,
+      "url": "etiket/kuantum.html"
+    },
+    {
+      "slug": "nobel-2026",
+      "label": "nobel 2026",
+      "count": 3,
+      "url": "etiket/nobel-2026.html"
     },
     {
       "slug": "yapay-zeka",
@@ -102,10 +144,16 @@
       "url": "etiket/yapay-zeka.html"
     },
     {
-      "slug": "fizik",
-      "label": "fizik",
+      "slug": "yapayzeka",
+      "label": "yapayzeka",
+      "count": 3,
+      "url": "etiket/yapayzeka.html"
+    },
+    {
+      "slug": "evrim",
+      "label": "evrim",
       "count": 2,
-      "url": "etiket/fizik.html"
+      "url": "etiket/evrim.html"
     },
     {
       "slug": "fosil",
@@ -114,10 +162,22 @@
       "url": "etiket/fosil.html"
     },
     {
-      "slug": "kuantum",
-      "label": "kuantum",
+      "slug": "karadelik",
+      "label": "karadelik",
       "count": 2,
-      "url": "etiket/kuantum.html"
+      "url": "etiket/karadelik.html"
+    },
+    {
+      "slug": "koku",
+      "label": "koku",
+      "count": 2,
+      "url": "etiket/koku.html"
+    },
+    {
+      "slug": "malzeme",
+      "label": "malzeme",
+      "count": 2,
+      "url": "etiket/malzeme.html"
     },
     {
       "slug": "mars",
@@ -150,16 +210,22 @@
       "url": "etiket/sensor.html"
     },
     {
+      "slug": "ses",
+      "label": "ses",
+      "count": 2,
+      "url": "etiket/ses.html"
+    },
+    {
+      "slug": "tarim",
+      "label": "tarım",
+      "count": 2,
+      "url": "etiket/tarim.html"
+    },
+    {
       "slug": "uyku",
       "label": "uyku",
       "count": 2,
       "url": "etiket/uyku.html"
-    },
-    {
-      "slug": "cevre",
-      "label": "çevre",
-      "count": 2,
-      "url": "etiket/cevre.html"
     },
     {
       "slug": "adenozin",
@@ -174,6 +240,12 @@
       "url": "etiket/ahtapot.html"
     },
     {
+      "slug": "alzheimer",
+      "label": "alzheimer",
+      "count": 1,
+      "url": "etiket/alzheimer.html"
+    },
+    {
       "slug": "antik",
       "label": "antik",
       "count": 1,
@@ -186,10 +258,34 @@
       "url": "etiket/arkeoloji.html"
     },
     {
+      "slug": "ari",
+      "label": "arı",
+      "count": 1,
+      "url": "etiket/ari.html"
+    },
+    {
       "slug": "arilar",
       "label": "arılar",
       "count": 1,
       "url": "etiket/arilar.html"
+    },
+    {
+      "slug": "astrobiyoloji",
+      "label": "astrobiyoloji",
+      "count": 1,
+      "url": "etiket/astrobiyoloji.html"
+    },
+    {
+      "slug": "astrofizik",
+      "label": "astrofizik",
+      "count": 1,
+      "url": "etiket/astrofizik.html"
+    },
+    {
+      "slug": "astronomi",
+      "label": "astronomi",
+      "count": 1,
+      "url": "etiket/astronomi.html"
     },
     {
       "slug": "atmosfer",
@@ -222,6 +318,12 @@
       "url": "etiket/agac.html"
     },
     {
+      "slug": "balik",
+      "label": "balık",
+      "count": 1,
+      "url": "etiket/balik.html"
+    },
+    {
       "slug": "bellek",
       "label": "bellek",
       "count": 1,
@@ -246,6 +348,18 @@
       "url": "etiket/bitkiler.html"
     },
     {
+      "slug": "biyocesitlilik",
+      "label": "biyoçeşitlilik",
+      "count": 1,
+      "url": "etiket/biyocesitlilik.html"
+    },
+    {
+      "slug": "buzul",
+      "label": "buzul",
+      "count": 1,
+      "url": "etiket/buzul.html"
+    },
+    {
       "slug": "bocek",
       "label": "böcek",
       "count": 1,
@@ -258,6 +372,18 @@
       "url": "etiket/davranis.html"
     },
     {
+      "slug": "deepmind",
+      "label": "deepmind",
+      "count": 1,
+      "url": "etiket/deepmind.html"
+    },
+    {
+      "slug": "demans",
+      "label": "demans",
+      "count": 1,
+      "url": "etiket/demans.html"
+    },
+    {
       "slug": "deney",
       "label": "deney",
       "count": 1,
@@ -268,6 +394,12 @@
       "label": "deniz biyolojisi",
       "count": 1,
       "url": "etiket/deniz-biyolojisi.html"
+    },
+    {
+      "slug": "denizanasi",
+      "label": "denizanası",
+      "count": 1,
+      "url": "etiket/denizanasi.html"
     },
     {
       "slug": "dil-modeli",
@@ -292,6 +424,12 @@
       "label": "drone",
       "count": 1,
       "url": "etiket/drone.html"
+    },
+    {
+      "slug": "ekoloji",
+      "label": "ekoloji",
+      "count": 1,
+      "url": "etiket/ekoloji.html"
     },
     {
       "slug": "elmas",
@@ -324,6 +462,12 @@
       "url": "etiket/foton.html"
     },
     {
+      "slug": "fototropizma",
+      "label": "fototropizma",
+      "count": 1,
+      "url": "etiket/fototropizma.html"
+    },
+    {
       "slug": "galaksi",
       "label": "galaksi",
       "count": 1,
@@ -342,6 +486,12 @@
       "url": "etiket/genetik.html"
     },
     {
+      "slug": "gencdunya",
+      "label": "gençdünya",
+      "count": 1,
+      "url": "etiket/gencdunya.html"
+    },
+    {
       "slug": "giyilebilir",
       "label": "giyilebilir",
       "count": 1,
@@ -352,6 +502,12 @@
       "label": "gorme",
       "count": 1,
       "url": "etiket/gorme.html"
+    },
+    {
+      "slug": "gronland",
+      "label": "grönland",
+      "count": 1,
+      "url": "etiket/gronland.html"
     },
     {
       "slug": "goktasi",
@@ -372,10 +528,28 @@
       "url": "etiket/hayvan.html"
     },
     {
+      "slug": "icecube",
+      "label": "icecube",
+      "count": 1,
+      "url": "etiket/icecube.html"
+    },
+    {
       "slug": "izotop",
       "label": "izotop",
       "count": 1,
       "url": "etiket/izotop.html"
+    },
+    {
+      "slug": "isitme",
+      "label": "işitme",
+      "count": 1,
+      "url": "etiket/isitme.html"
+    },
+    {
+      "slug": "jet",
+      "label": "jet",
+      "count": 1,
+      "url": "etiket/jet.html"
     },
     {
       "slug": "jev",
@@ -414,10 +588,22 @@
       "url": "etiket/kamuflaj.html"
     },
     {
-      "slug": "karadelik",
-      "label": "karadelik",
+      "slug": "kanalrodopsin",
+      "label": "kanalrodopsin",
       "count": 1,
-      "url": "etiket/karadelik.html"
+      "url": "etiket/kanalrodopsin.html"
+    },
+    {
+      "slug": "karbon",
+      "label": "karbon",
+      "count": 1,
+      "url": "etiket/karbon.html"
+    },
+    {
+      "slug": "karsitmadde",
+      "label": "karşıtmadde",
+      "count": 1,
+      "url": "etiket/karsitmadde.html"
     },
     {
       "slug": "kavitasyon",
@@ -432,10 +618,10 @@
       "url": "etiket/kedi.html"
     },
     {
-      "slug": "koku",
-      "label": "koku",
+      "slug": "kiralite",
+      "label": "kiralite",
       "count": 1,
-      "url": "etiket/koku.html"
+      "url": "etiket/kiralite.html"
     },
     {
       "slug": "korku",
@@ -448,6 +634,12 @@
       "label": "krater",
       "count": 1,
       "url": "etiket/krater.html"
+    },
+    {
+      "slug": "kulak",
+      "label": "kulak",
+      "count": 1,
+      "url": "etiket/kulak.html"
     },
     {
       "slug": "kumas",
@@ -480,12 +672,6 @@
       "url": "etiket/magma.html"
     },
     {
-      "slug": "malzeme",
-      "label": "malzeme",
-      "count": 1,
-      "url": "etiket/malzeme.html"
-    },
-    {
       "slug": "manto",
       "label": "manto",
       "count": 1,
@@ -496,6 +682,12 @@
       "label": "manyetizma",
       "count": 1,
       "url": "etiket/manyetizma.html"
+    },
+    {
+      "slug": "matematik",
+      "label": "matematik",
+      "count": 1,
+      "url": "etiket/matematik.html"
     },
     {
       "slug": "mikroglia",
@@ -510,16 +702,70 @@
       "url": "etiket/nfc.html"
     },
     {
+      "slug": "nobel-fizik-odulu",
+      "label": "nobel fizik ödülü",
+      "count": 1,
+      "url": "etiket/nobel-fizik-odulu.html"
+    },
+    {
+      "slug": "nobel-kimya-odulu",
+      "label": "nobel kimya ödülü",
+      "count": 1,
+      "url": "etiket/nobel-kimya-odulu.html"
+    },
+    {
+      "slug": "nobel-tip-odulu",
+      "label": "nobel tıp ödülü",
+      "count": 1,
+      "url": "etiket/nobel-tip-odulu.html"
+    },
+    {
       "slug": "norobilim",
       "label": "norobilim",
       "count": 1,
       "url": "etiket/norobilim.html"
     },
     {
+      "slug": "noron",
+      "label": "nöron",
+      "count": 1,
+      "url": "etiket/noron.html"
+    },
+    {
+      "slug": "notrino",
+      "label": "nötrino",
+      "count": 1,
+      "url": "etiket/notrino.html"
+    },
+    {
+      "slug": "optogenetik",
+      "label": "optogenetik",
+      "count": 1,
+      "url": "etiket/optogenetik.html"
+    },
+    {
+      "slug": "otlak",
+      "label": "otlak",
+      "count": 1,
+      "url": "etiket/otlak.html"
+    },
+    {
+      "slug": "otokataliz",
+      "label": "otokataliz",
+      "count": 1,
+      "url": "etiket/otokataliz.html"
+    },
+    {
       "slug": "otomasyon",
       "label": "otomasyon",
       "count": 1,
       "url": "etiket/otomasyon.html"
+    },
+    {
+      "slug": "oyun",
+      "label": "oyun",
+      "count": 1,
+      "url": "etiket/oyun.html"
     },
     {
       "slug": "paleontoloji",
@@ -534,10 +780,28 @@
       "url": "etiket/parcacik-fizigi.html"
     },
     {
+      "slug": "pozitron",
+      "label": "pozitron",
+      "count": 1,
+      "url": "etiket/pozitron.html"
+    },
+    {
       "slug": "rem-uykusu",
       "label": "rem uykusu",
       "count": 1,
       "url": "etiket/rem-uykusu.html"
+    },
+    {
+      "slug": "restorasyon",
+      "label": "restorasyon",
+      "count": 1,
+      "url": "etiket/restorasyon.html"
+    },
+    {
+      "slug": "rna",
+      "label": "rna",
+      "count": 1,
+      "url": "etiket/rna.html"
     },
     {
       "slug": "robotik",
@@ -576,10 +840,16 @@
       "url": "etiket/sayisal-bilis.html"
     },
     {
-      "slug": "ses",
-      "label": "ses",
+      "slug": "saglik",
+      "label": "sağlık",
       "count": 1,
-      "url": "etiket/ses.html"
+      "url": "etiket/saglik.html"
+    },
+    {
+      "slug": "sinirbilim",
+      "label": "sinirbilim",
+      "count": 1,
+      "url": "etiket/sinirbilim.html"
     },
     {
       "slug": "sosyal-rutbe",
@@ -588,10 +858,28 @@
       "url": "etiket/sosyal-rutbe.html"
     },
     {
+      "slug": "stratego",
+      "label": "stratego",
+      "count": 1,
+      "url": "etiket/stratego.html"
+    },
+    {
+      "slug": "strateji",
+      "label": "strateji",
+      "count": 1,
+      "url": "etiket/strateji.html"
+    },
+    {
       "slug": "superiletken",
       "label": "süperiletken",
       "count": 1,
       "url": "etiket/superiletken.html"
+    },
+    {
+      "slug": "suru",
+      "label": "sürü",
+      "count": 1,
+      "url": "etiket/suru.html"
     },
     {
       "slug": "sifir",
@@ -604,6 +892,18 @@
       "label": "teleskop",
       "count": 1,
       "url": "etiket/teleskop.html"
+    },
+    {
+      "slug": "terencetao",
+      "label": "terencetao",
+      "count": 1,
+      "url": "etiket/terencetao.html"
+    },
+    {
+      "slug": "toprak",
+      "label": "toprak",
+      "count": 1,
+      "url": "etiket/toprak.html"
     },
     {
       "slug": "toryum",
@@ -654,6 +954,18 @@
       "url": "etiket/yangin.html"
     },
     {
+      "slug": "yasaminkokeni",
+      "label": "yaşamınkökeni",
+      "count": 1,
+      "url": "etiket/yasaminkokeni.html"
+    },
+    {
+      "slug": "yaslanma",
+      "label": "yaşlanma",
+      "count": 1,
+      "url": "etiket/yaslanma.html"
+    },
+    {
       "slug": "yildiz",
       "label": "yıldız",
       "count": 1,
@@ -676,9 +988,1164 @@
       "label": "öğrenme",
       "count": 1,
       "url": "etiket/ogrenme.html"
+    },
+    {
+      "slug": "isik",
+      "label": "ışık",
+      "count": 1,
+      "url": "etiket/isik.html"
     }
   ],
   "articles": [
+    {
+      "id": "proj_be98213bba",
+      "slug": "2026-10-09-molekullerin-de-sag-ve-sol-eli-var-2026-nobel-kimya-odulu-ne",
+      "url": "yazi/2026-10-09-molekullerin-de-sag-ve-sol-eli-var-2026-nobel-kimya-odulu-ne.html",
+      "date": "2026-10-09T08:30:12.945299+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Moleküllerin de Sağ ve Sol Eli Var: 2026 Nobel Kimya Ödülü Neyi Çözdü?",
+      "standfirst": "2026 Nobel Kimya Ödülü, küçük bir ayna dengesizliğinin nasıl büyüyüp neredeyse tam tek elliliğe dönüşebileceğini gösteren Henri Kagan ve Kenso Soai'ye verildi.",
+      "paragraphs": [
+        "Sağ elinizi aynaya tuttuğunuzda görüntü sol ele benzer. İkisi aynı parçalardan oluşur ama birini döndürerek diğerinin üzerine tam olarak oturtamazsınız. Kimyada da bazı moleküller böyle davranır. Aynı atomlardan oluşurlar, bağlanma düzenleri aynıdır, fakat uzaydaki yerleşimleri birbirinin ayna görüntüsüdür ve üst üste getirilemezler. Kimyacılar buna kiralite der. 2026 Nobel Kimya Ödülü, bu ayna görüntüsü moleküllerden yalnızca birinin nasıl büyük üstünlük kazanabileceğini açıklayan ve bunu deneysel olarak kendi kendini güçlendiren bir tepkimede gösteren Henri B. Kagan ve Kenso Soai'ye verildi. Ödül gerekçesi, asimetrik organik sentezde doğrusal olmayan etkilerin ve otokatalizin keşfi. Amino asitlerin çoğunun sağ ve sol ayna halleri olabilir. Ancak hücrelerimizdeki proteinler yalnızca bir ayna halini kullanır. DNA'daki şekerlerde de benzer bir tek yönlülük görülür. Canlı kimyası bu nedenle homokiral, yani büyük ölçüde tek elli olarak tanımlanır. Fakat laboratuvarda sıfırdan kiral bir molekül üretmeye çalıştığınızda doğal eğilim iki ayna halini eşit miktarda oluşturmaktır. Yüzde 50 sağ, yüzde 50 sol.",
+        "O zaman soru şudur: Canlı kimyası nasıl tek bir ele geçti? Louis Pasteur, tartarik asit kristallerini incelerken birbirinin ayna görüntüsü olan iki farklı kristal biçimi fark etti. Bu gözlem, moleküler sağ ve sol fikrinin gelişmesinde temel adımlardan biri oldu. Fakat iki elden birinin nasıl baskın hale gelebileceği hala açıklanamıyordu. 1953'te Charles Frank, tek elliliğin kendiliğinden doğabilmesi için üç fikir gerektiğini öne sürdü: Bir kiral katalizör ve asimetrik tepkime. Bir elin güçlenip diğerinin baskılanması. Ve ürünün kendi oluşumunu hızlandırması, yani otokataliz. Bu üçüncü özellik çok önemliydi. Çünkü ürün kendi üretimini hızlandırabiliyorsa küçük bir başlangıç farkı her turda büyüyebilirdi. 1986'da Henri Kagan, kiral katalizörün sağ-sol oranıyla ürünün sağ-sol oranı arasındaki ilişkinin her zaman doğrusal olmadığını gösterdi. Basit beklenti, katalizördeki oran neyse üründe de benzer bir oran çıkmasıydı. Ama Kagan'ın sistemlerinde aynı ellerden oluşan katalizör çiftleriyle karışık sağ-sol çiftler aynı hızda çalışmıyordu. Karışık çiftler daha yavaş olduğunda, başlangıçta biraz fazla olan el üründe beklenenden çok daha büyük bir üstünlük kazanıyordu. Grafik düz çizgi değil eğri veriyordu.",
+        "Bu yüzden buna doğrusal olmayan etki adı verildi. Küçük bir asimetrinin büyütülebileceği gösterilmişti. Kenso Soai bir adım daha ileri gitti. Soru şuydu: Ürün aynı zamanda kendi üretimini hızlandıran katalizör olursa ne olur? 1995'te Soai ve ekibi asimetrik otokataliz gösteren bir tepkime kurdu. Başlangıçta bir ayna hali yalnızca yüzde 2 fazla idi. Tepkime sonunda bu fark yüzde 87'ye çıktı. Daha sonra geliştirilen sistemlerde sonuç çok daha ileri taşındı. Başlangıçta neredeyse eşit olan iki ayna halinden biri tesadüfen çok küçük bir üstünlük kazandığında, üretilen aynı el kendi oluşumunu daha fazla hızlandırdı. Daha fazla ürün daha fazla kataliz sağladı. Daha fazla kataliz daha fazla aynı el üretti. Sonunda ürünün yüzde 99,99'una kadar tek bir ayna hali elde edilebildi. Önceden belirlenmiş değil. Soai tepkimesi her seferinde aynı tarafı seçmiyor. Başlangıçtaki çok küçük rastlantısal fark hangi taraftaysa, o taraf giderek üstün hale gelebiliyor. Bu nedenle sistemin önemi, belirli bir eli seçmesinden değil, küçük bir farkı kendi kendine büyütebilmesinden geliyor. Hayır. Bu kritik ayrım. Soai tepkimesi yapay bir laboratuvar sistemi.",
+        "Canlıların amino asitleri ve şekerleri neden bugün belirli bir ayna halinde kullandığını doğrudan kanıtlamıyor. Amino asit ve şekerlerle benzer bir kendi kendine tek ellileşme sistemi oluşturma çalışmaları devam ediyor. Henüz bu problem çözülmüş değil. Dolayısıyla bu Nobel'in mesajı: Hayatın kökeni bulundu değil. Daha doğru ifade: Kimyasal bir sistemde çok küçük başlangıç dengesizliğinin, doğrusal olmayan etkiler ve otokataliz yoluyla neredeyse tamamen tek bir ayna haline büyüyebileceği gösterildi. Kiralite yalnızca temel bilim sorusu değil. İlaç geliştirmede son derece pratik bir konu. Çünkü proteinlerimiz ve enzimlerimiz de kiral. Bir ilacın iki ayna hali biyolojik sistemde farklı davranabilir. Bu yüzden istenen ayna halini mümkün olduğunca saf üretmek çok önemlidir. Kagan'ın doğrusal olmayan etkileri, asimetrik sentezde yüksek ayna saflığına nasıl ulaşılabileceğini anlamada önemli bir araç haline geldi. Bu yaklaşım ilaç, aroma, koku ve tarım kimyasalları gibi alanlarda etkili oldu. Kagan küçük bir başlangıç farkının ürün tarafında beklenenden çok daha fazla büyüyebileceğini gösterdi. Soai ise bu farkı kendi kendini besleyen bir tepkimede neredeyse tam tek elliliğe kadar taşıdı. Birlikte, kimyasal sistemlerin simetriyi nasıl kırabileceğini anlamamızı değiştirdiler. Ve yeniden ellere dönersek: Sağ ve sol ellerimiz aynı parçalara sahip ama üst üste gelmezler. Kiral moleküller de böyle. 2026 Nobel Kimya Ödülü, kimyanın bu iki seçenekten birini nasıl büyük ölçüde seçebilir hale geldiğini açıklayan iki temel keşfi ödüllendirdi"
+      ],
+      "takeaway": "Soai tepkimesi yapay bir laboratuvar sistemidir.",
+      "impact": null,
+      "category": {
+        "slug": "kimya",
+        "label": "Kimya",
+        "url": "kategori/kimya.html"
+      },
+      "tags": [
+        {
+          "slug": "nobel-2026",
+          "label": "nobel 2026",
+          "url": "etiket/nobel-2026.html"
+        },
+        {
+          "slug": "kimya",
+          "label": "kimya",
+          "url": "etiket/kimya.html"
+        },
+        {
+          "slug": "kiralite",
+          "label": "kiralite",
+          "url": "etiket/kiralite.html"
+        },
+        {
+          "slug": "otokataliz",
+          "label": "otokataliz",
+          "url": "etiket/otokataliz.html"
+        },
+        {
+          "slug": "nobel-kimya-odulu",
+          "label": "nobel kimya ödülü",
+          "url": "etiket/nobel-kimya-odulu.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Royal Swedish Academy of Sciences, basın bülteni (7 Ekim 2026)",
+          "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/"
+        },
+        {
+          "label": "Nobel Prize, popular information",
+          "url": "https://www.nobelprize.org/prizes/chemistry/2026/popular-information/"
+        }
+      ],
+      "image_credits": [
+        "Original: Unknown Vector:   -- πϵρήλιο, Wikimedia Commons (Public domain)",
+        "NASA's Scientific Visualization Studio - NASA/Nicola Fox, Smithsonian Institutio, Wikimedia Commons (Public domain)",
+        "Kutudaki Kedi animasyonu (nobelprize.org 2026 Kimya anlatımına göre)",
+        "Pegy22, Wikimedia Commons (CC0)",
+        "Synpath, Wikimedia Commons (CC BY-SA 4.0)"
+      ],
+      "video": {
+        "youtube": "I3ZZn8W56O4"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/I3ZZn8W56O4"
+        }
+      ]
+    },
+    {
+      "id": "proj_d53821a7b8",
+      "slug": "2026-10-09-bir-yosun-proteini-optogenetigi-nasil-dogurdu",
+      "url": "yazi/2026-10-09-bir-yosun-proteini-optogenetigi-nasil-dogurdu.html",
+      "date": "2026-10-09T08:30:12.942079+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Bir Yosun Proteini Optogenetiği Nasıl Doğurdu?",
+      "standfirst": "2026 Nobel Tıp Ödülü, ışıkla açılan iyon kanallarının keşfi ve optogenetik yöntemin geliştirilmesi için Karl Deisseroth, Peter Hegemann ve Georg Nagel'e verildi.",
+      "paragraphs": [
+        "2026 Nobel Fizyoloji veya Tıp Ödülü Karl Deisseroth, Peter Hegemann ve Georg Nagel'e, ışıkla açılan iyon kanalları ve optogenetik üzerine buluşları için verildi. Hikayenin başlangıcı modern sinirbilim laboratuvarları değil, tek hücreli yeşil bir yosun. 1990'ların başında Peter Hegemann, Chlamydomonas adlı yosunun ışığa neden bu kadar hızlı tepki verdiğini anlamaya çalışıyordu. İnsan gözünde ışığın elektriksel sinyale dönüşmesi birden fazla biyokimyasal basamak gerektirir. Yosundaki tepki ise çok daha hızlıydı. Hegemann, tek bir proteinin hem ışığı algılayıp hem de hücre zarında iyonların geçebileceği bir kanal gibi davranabileceğini düşündü. O dönemde böyle bir protein bilinmiyordu.",
+        "2000'lerin başında Georg Nagel ve çalışma arkadaşları yosundan gelen genleri kurbağa yumurta hücrelerine aktardı. Sonuç Hegemann'ın fikrini doğruladı: proteinler gerçekten ışıkla açılan iyon kanallarıydı. Kanalrodopsin-1 ve kanalrodopsin-2 adları verildi. Özellikle kanalrodopsin-2 sinirbilim için çok kullanışlı çıktı. Mavi ışık verildiğinde yaklaşık 0,2 milisaniye içinde açılıyor. Pozitif yüklü iyonlar hücre içine giriyor ve hücrenin elektriksel durumu değişiyor. Daha önemlisi, proteinin geni başka uygun hücrelere aktarıldığında o hücreler de ışığa duyarlı hale gelebiliyor. Karl Deisseroth'un aradığı şey tam olarak buydu. Sinirbilimciler belirli hücre gruplarını hızlı ve seçici biçimde etkinleştirmek istiyordu. Elektriksel uyarım bunu yapabiliyordu ama çoğu zaman çevredeki başka hücreleri de etkiliyordu. Deisseroth kanalrodopsin-2 genini laboratuvarda yetiştirilen sıçan sinir hücrelerine taşıdı. Mavi ışık verildiğinde hücreler elektrik sinyali üretmeye başladı. Bu çalışma 2005'te yayımlandı. 2006'da yöntem için bugün kullandığımız isim yerleşti: optogenetik.",
+        "2007'de yöntem canlı fare beyninde kullanıldı. İnce optik liflerle belirli sinir hücreleri aydınlatıldı ve davranış üzerindeki etkileri izlendi. Hareketle ilişkili devreler uyarıldığında farenin bıyık hareketleri değiştirilebildi. Aynı dönemde uyku ve uyanıklık devreleri de optogenetikle incelendi. 2012'de Susumu Tonegawa ile yapılan çalışmalarda korku anısıyla ilişkili sinir hücreleri ışıkla yeniden etkinleştirildi. Fareler gerçek bir tehlike yokken korku davranışı gösterdi. Burada doğru ifade “fare ışıkla korkutuldu” değil. Yapılan şey, korku anısıyla ilişkili hücreleri yeniden etkinleştirmekti. Optogenetik araştırmacılara yalnızca beynin hangi bölgesinin aktif olduğunu görme imkanı vermedi. Belirli hücre gruplarını etkinleştirip sonucu izleyerek neden-sonuç ilişkisini test etme imkanı verdi. Bugün yöntem hafıza, hareket, uyku, ödül, duygu ve çok sayıda başka sinir devresini incelemek için kullanılıyor.",
+        "Hayır. Optogenetik bugün esas olarak bir araştırma aracı. Yöntem çalışmadan önce ışığa duyarlı proteinin geninin hedef hücrelere taşınması gerekiyor. Daha sonra hücrelere uygun ışığın ulaştırılması gerekiyor. Bu nedenle “insan beyni ışıkla kontrol ediliyor” demek yanlış. İnsanlarda görme kaybı gibi bazı durumlarda optogenetik yaklaşımlar deneysel olarak araştırılıyor, ancak bunlar yaygın tedaviler değil. Peter Hegemann yosunun hızlı ışık tepkisinin arkasındaki mekanizmayı anlamaya çalıştı. Georg Nagel kanalrodopsinlerin gerçekten ışıkla açılan iyon kanalları olduğunu deneysel olarak gösterdi. Karl Deisseroth ise bu moleküler aracı sinir hücrelerini seçici biçimde kontrol edebilen bir yönteme dönüştürdü. Bir yosunun ışığa doğru yüzmesini sağlayan molekül, beynin devrelerini incelemek için kullanılan bir araca dönüştü. Ve 2026 Nobel Fizyoloji veya Tıp Ödülü tam olarak bu dönüşümü ödüllendirdi."
+      ],
+      "takeaway": "Optogenetik bugün esas olarak araştırma aracıdır. İnsanlarda yaygın bir tedavi değildir ve yöntemin çalışması için hedef hücrelerin genetik olarak ışığa duyarlı hale getirilmesi gerekir.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "nobel-2026",
+          "label": "nobel 2026",
+          "url": "etiket/nobel-2026.html"
+        },
+        {
+          "slug": "optogenetik",
+          "label": "optogenetik",
+          "url": "etiket/optogenetik.html"
+        },
+        {
+          "slug": "kanalrodopsin",
+          "label": "kanalrodopsin",
+          "url": "etiket/kanalrodopsin.html"
+        },
+        {
+          "slug": "sinirbilim",
+          "label": "sinirbilim",
+          "url": "etiket/sinirbilim.html"
+        },
+        {
+          "slug": "nobel-tip-odulu",
+          "label": "nobel tıp ödülü",
+          "url": "etiket/nobel-tip-odulu.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nobel Assembly at Karolinska Institutet, basın bülteni (5 Ekim 2026)",
+          "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/"
+        },
+        {
+          "label": "Nobel Prize, popular information",
+          "url": "https://www.nobelprize.org/prizes/medicine/2026/popular-information/"
+        }
+      ],
+      "image_credits": [
+        "Dartmouth Electron Microscope Facility, Dartmouth College, Wikimedia Commons (Public domain)",
+        "Millencolin, Wikimedia Commons (CC BY-SA 4.0)",
+        "Kutudaki Kedi animasyonu (nobelprize.org 2026 anlatımına göre)",
+        "Christopher Michel, Wikimedia Commons (CC BY-SA 4.0)"
+      ],
+      "video": {
+        "youtube": "uTmK0cFKKco"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/uTmK0cFKKco"
+        }
+      ]
+    },
+    {
+      "id": "proj_daf873e5d0",
+      "slug": "2026-10-09-bir-kilometrekup-buz-evrenin-en-kacak-parcaciklarini-nasil-y",
+      "url": "yazi/2026-10-09-bir-kilometrekup-buz-evrenin-en-kacak-parcaciklarini-nasil-y.html",
+      "date": "2026-10-09T08:30:12.938725+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Bir Kilometreküp Buz Evrenin En Kaçak Parçacıklarını Nasıl Yakaladı?",
+      "standfirst": "2026 Nobel Fizik Ödülü, IceCube Nötrino Gözlemevi'ne belirleyici katkıları ve astrofiziksel yüksek enerjili nötrinoların keşfi için Francis Halzen'e verildi.",
+      "paragraphs": [
+        "Her saniye vücudunuzdan muazzam sayıda nötrino geçiyor. Nobel bilgi notunda verilen örneğe göre, yalnızca Güneş'ten gelen yaklaşık 65 milyar nötrino her saniye küçük parmağınızın tırnağından geçiyor. Bunu hissetmiyorsunuz. Çünkü nötrinolar maddenin içinden neredeyse hiçbir iz bırakmadan geçebiliyor. 2026 Nobel Fizik Ödülü Francis Halzen'e, Güney Kutbu'ndaki buzu dev bir parçacık dedektörüne dönüştüren IceCube Nötrino Gözlemevi'ne yaptığı belirleyici katkılar ve astrofiziksel kökenli yüksek enerjili nötrinoların keşfi için verildi. Nötrinolar elektrik yükü taşımıyor ve maddeyle çok zayıf etkileşiyor. Bu yüzden kaya, metal hatta Dünya'nın kendisi bile nötrinoların büyük bölümü için neredeyse saydam. Fakat çok nadiren bir nötrino bir atom çekirdeğiyle etkileşiyor. IceCube tam olarak bu nadir anı arıyor.",
+        "Nötrino buz içindeki bir atomla etkileştiğinde yüksek enerjili yüklü bir parçacık oluşabiliyor. Bu parçacık buzun içinde çok yüksek hızla hareket ederken mavi Çerenkov ışığı üretiyor. IceCube sensörleri nötrinoyu doğrudan görmüyor. Bu ışığı ölçüyor. Işığın hangi sensörlere, hangi sırayla ve ne zaman ulaştığına bakılarak parçacığın geliş yönü ve enerjisi hakkında bilgi çıkarılabiliyor. Francis Halzen 1980'lerde Antarktika buzunun böyle bir dedektör için ideal olabileceğini fark etti. Derin buz büyük, karanlık ve yeterince temiz bir optik ortam sunuyordu. İlk denemelerde üst katmanlardaki hava kabarcıkları ışığı fazla saçtı. Ama yaklaşık 1.400 metrenin altında buz çok daha saf hale geldi. Işık bu bölgede yüzlerce metre ilerleyebiliyordu. Önce AMANDA geliştirildi. Sonra fikir çok daha büyük bir ölçekte IceCube'a dönüştü. IceCube 2011'de tamamlandı. Yaklaşık bir kilometreküp buz hacmi kullanıyor. 1.450 ile 2.450 metre derinlik arasına indirilen 86 kabloda toplam 5.160 ışık sensörü bulunuyor. Bu, klasik anlamda bir teleskop değil. Aynası yok. Gökyüzünün fotoğrafını çekmiyor. Bunun yerine buz içinde parçacıkların bıraktığı çok kısa ışık izlerini topluyor.",
+        "IceCube her gün yüz milyondan fazla atmosferik parçacık olayı kaydedebiliyor. Asıl aranan kozmik nötrinolar bu dev kalabalığın içinde çok nadir. Araştırmacılar olayların yönünü, enerjisini ve biçimini analiz ederek atmosferik kökenli sinyalleri ayıklıyor. 2013'te ekip, Dünya atmosferinde oluşamayacak kadar yüksek enerjili nötrinolar için güçlü ilk kanıtı yayımladı. Bu, Güneş sisteminin çok ötesinden gelen yüksek enerjili nötrinoların varlığını ortaya koydu. Nötrinonun kendisi elbette çok daha önce biliniyordu. Yeni olan, astrofiziksel kökenli bu yüksek enerjili nüfustu. Evren çok yüksek enerjili doğal parçacık hızlandırıcılarına sahip. Bu ortamlardan çıkan elektrik yüklü parçacıklar uzaydaki manyetik alanlarda sapıyor. Dünya'ya ulaştıklarında geldikleri yönü geriye doğru izlemek zor. Yüksek enerjili ışık da yol boyunca madde ve ışınımla etkileşerek kaybolabilir. Nötrinoların avantajı burada. Elektrik yükleri olmadığı için manyetik alanlarda sapmıyorlar ve yoğun bölgelerden kaçıp bize ulaşabiliyorlar. Bu nedenle geldikleri yön, onları üreten kozmik kaynaklara dair farklı türde bilgi taşıyor.",
+        "Henüz büyük ölçüde hayır. NGC 1068, diğer adıyla M77, güçlü adaylardan biri. Verilerde yaklaşık 79 nötrino olayının bu aktif galaksi yönüyle ilişkili olabileceği görülüyor. Fakat bunu “kaynak kesin olarak bulundu” şeklinde söylemek doğru değil. Kozmik nötrinoların hangi gök cisimlerinden geldiğini belirlemek hala aktif bir araştırma konusu. Hayır. IceCube büyük bir uluslararası işbirliği. Sensörlerin geliştirilmesi, Antarktika'ya kurulması, yıllarca işletilmesi ve verilerin analiz edilmesi çok sayıda bilim insanı ve teknik ekibin katkısını gerektirdi. Nobel Ödülü Halzen'e, gözlemevinin vizyonu, liderliği ve astrofiziksel yüksek enerjili nötrino keşfindeki belirleyici rolü için verildi. Çünkü nötrinoların en ilginç özelliği aynı zamanda deneysel kabusumuz. Maddeyle çok az etkileşiyorlar. Tek bir çarpışma yakalama ihtimalini artırmak için devasa bir hedef hacmine ihtiyaç var. Bir laboratuvar odası yetmiyor. Çözüm, doğanın hazır sunduğu dev ve saydam bir malzemeyi kullanmaktı: Antarktika'nın derin buzu. Ve dönüp açılışa gelirsek: Her saniye tırnağınızdan milyarlarca nötrino geçiyor. Onlardan yalnızca birkaçını yakalayabilmek için bir kilometreküp buz ve 5.160 sensör gerekti."
+      ],
+      "takeaway": "IceCube nötrinoyu doğrudan görüntülemez; nötrino etkileşiminin oluşturduğu yüklü parçacıkların buz içindeki ışığını ölçer.",
+      "impact": null,
+      "category": {
+        "slug": "fizik",
+        "label": "Fizik",
+        "url": "kategori/fizik.html"
+      },
+      "tags": [
+        {
+          "slug": "nobel-2026",
+          "label": "nobel 2026",
+          "url": "etiket/nobel-2026.html"
+        },
+        {
+          "slug": "notrino",
+          "label": "nötrino",
+          "url": "etiket/notrino.html"
+        },
+        {
+          "slug": "icecube",
+          "label": "icecube",
+          "url": "etiket/icecube.html"
+        },
+        {
+          "slug": "astrofizik",
+          "label": "astrofizik",
+          "url": "etiket/astrofizik.html"
+        },
+        {
+          "slug": "nobel-fizik-odulu",
+          "label": "nobel fizik ödülü",
+          "url": "etiket/nobel-fizik-odulu.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Royal Swedish Academy of Sciences, basın bülteni (6 Ekim 2026)",
+          "url": "https://www.nobelprize.org/prizes/physics/2026/press-release/"
+        },
+        {
+          "label": "Nobel Prize, popular information",
+          "url": "https://www.nobelprize.org/prizes/physics/2026/popular-information/"
+        }
+      ],
+      "image_credits": [
+        "Mauro.mezzetto, Wikimedia Commons (CC BY-SA 4.0)",
+        "John Hardin, Wikimedia Commons (CC BY 4.0)",
+        "Karen Andeen and Matthias Plum for the IceCube Collaboration, Wikimedia Commons (CC BY 4.0)",
+        "Kutudaki Kedi animasyonu (nobelprize.org 2026 anlatımına göre)",
+        "NASA's Scientific Visualization Studio / Amy Moran"
+      ],
+      "video": {
+        "youtube": "NEtPiFIP52A"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/NEtPiFIP52A"
+        }
+      ]
+    },
+    {
+      "id": "proj_e0a6057486",
+      "slug": "2026-10-09-bir-otlak-yeniden-yeserdiginde-gercekten-iyilesmis-sayilir-m",
+      "url": "yazi/2026-10-09-bir-otlak-yeniden-yeserdiginde-gercekten-iyilesmis-sayilir-m.html",
+      "date": "2026-10-09T08:30:12.934371+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Bir Otlak Yeniden Yeşerdiğinde Gerçekten İyileşmiş Sayılır mı?",
+      "standfirst": "Altı kıtadan 742 bitki türünü kapsayan veri derlemesi, sürülmüş ve daha sonra toparlanmış otlakların yüz yıl sonra bile kadim otlaklardan farklı bitki stratejilerine sahip olduğunu gösteriyor.",
+      "paragraphs": [
+        "Bir arazi sürülür, yıllarca tarım yapılır ve daha sonra terk edilirse doğa çoğu zaman boşluğu yeniden doldurur. Otlar çıkar. Çiçekler geri gelir. Birkaç on yıl sonra uzaktan bakıldığında alan yeniden “otlak” gibi görünebilir. Fakat ekolojide görünüş her şey değildir. Yeni çalışma şu soruyu soruyor: Geri gelen bitki örtüsü, binlerce yılda oluşmuş kadim otlakla gerçekten aynı ekosistem mi?",
+        "Kadim otlaklar uzun süre boyunca büyük ölçüde sürülmeden varlığını sürdüren doğal veya yarı doğal çayır, bozkır ve savan sistemleridir. Bu topluluklar yangın, otlanma, kuraklık ve besin kıtlığı gibi yerel koşullara uzun zaman içinde uyum sağlamış bitki türlerinden oluşur. Bir alan tarla, ağaçlandırma, madencilik veya başka kullanım için sürüldüğünde yalnızca üstteki bitkiler kaybolmaz. Toprak yapısı değişebilir. Tohum bankası bozulabilir. Besin döngüsü hızlanabilir. Yavaş büyüyen uzman türlerin geri gelmesi zorlaşabilir.",
+        "Michigan Eyalet Üniversitesi'nin öncülük ettiği uluslararası ekip, dünyanın farklı bölgelerinden 24 çalışmanın verilerini birleştirdi. Toplam 742 bitki türü incelendi. Veriler altı kıtadan geldi. Araştırmacılar hiç sürülmemiş veya uzun süre bozulmamış kadim otlaklardaki türlerle, bozulduktan sonra toparlanmaya bırakılan otlaklardaki türlerin işlevsel özelliklerini karşılaştırdı. Amaç yalnızca “kaç tür var?” sorusunu sormak değildi. Bitkilerin nasıl yaşadığını belirleyen özelliklere bakıldı.",
+        "Bozulmuş ve toparlanmakta olan otlaklarda bulunan bitkilerin ortalama olarak daha uzun boylu olduğu görüldü. Yapraklarında daha fazla azot bulunuyordu. Özgül yaprak alanları daha yüksekti; yani aynı kuru maddeyle daha geniş, daha ince yaprak üretiyorlardı. Yaprak kuru madde oranları ise daha düşüktü. Bu özellikler ekolojide genel olarak hızlı kaynak kullanma stratejisiyle ilişkilendirilir. Bu bitkiler uygun koşullarda hızla büyür, ışığa ulaşır ve besinleri çabuk kullanır. Kadim otlak türleri ise daha “tutumlu” bir strateji gösteriyor. Daha yavaş büyüyebilirler ama dokuları daha dayanıklıdır. Kuraklık, otlanma veya yangın gibi uzun süreli streslere karşı daha dirençli olabilirler.",
+        "Bir alan bozulduktan sonra ilk yerleşen hızlı büyüyen türler kısa sürede alanı kaplayabilir. Güneş ışığını, suyu ve besinleri hızlı kullanırlar. Kadim otlakların yavaş büyüyen türleri daha sonra bölgeye ulaşsa bile rekabette dezavantajlı kalabilir. Bu durum ekolojik “öncelik etkisi” yaratabilir. Yani kimin önce geldiği, topluluğun onlarca yıl sonra nasıl görüneceğini belirler. Basın açıklamalarında araştırmacılar hızlı büyüyen türler bir kez yerleştikten sonra kadim türlerin alanı geri kazanmasının çok zor olabileceğini vurguluyor.",
+        "Çalışmanın en dikkat çekici sonucu zaman ölçeği. Bitkilerin özelliklerindeki bu farkın yüz yıldan uzun süre devam edebildiği bildiriliyor. Bu, ekolojik restorasyon açısından önemli. Bir alan birkaç on yılda yeniden yeşerebilir. Tür sayısı da kısmen toparlanabilir. Fakat topluluğun işlevsel yapısı çok daha uzun süre geçmişteki bozulmanın izini taşıyabilir. Başka bir ifadeyle ekosistem dışarıdan iyileşmiş görünürken, içerisindeki yaşam stratejileri hala farklı olabilir.",
+        "Hayır. Bozulmuş alanlar yeniden bitki örtüsü kazanabilir ve önemli ekolojik işlevleri geri getirebilir. Çalışma restorasyonun işe yaramadığını söylemiyor. Söylediği şey daha sınırlı: Kendi haline bırakılan toparlanma, kadim otlakların özgün bitki topluluğunu ve işlevsel özelliklerini otomatik olarak geri getirmiyor. Bu fark uzun zaman sürebilir.",
+        "Hızlı büyüyen bitkilerin yaprakları genellikle daha hızlı parçalanır ve besin maddeleri daha hızlı döngüye girer. Bu nedenle araştırmacılar toparlanan otlaklardaki özellik değişiminin besin döngüsünü hızlandırabileceğini öne sürüyor. Fakat bunu kesinleşmiş bir sonuç gibi okumamak gerekiyor. Çalışmanın ana odağı bitki özelliklerindeki değişim. Ekosistem süreçlerinin tamamı her sahada doğrudan ölçülmüş değil.",
+        "Ormanlar koruma tartışmalarında çok görünürdür. Otlaklar ise bazen “boş arazi” gibi değerlendirilebilir. Oysa kadim çayırlar ve savanlar uzun evrimsel ve ekolojik geçmişe sahip karmaşık sistemlerdir. Bir kez sürüldüklerinde bitki örtüsü yeniden gelebilir. Ama binlerce yılda oluşmuş tür bileşiminin kendiliğinden geri dönmesi çok daha zor. Bu nedenle koruma açısından en ucuz restorasyon yöntemi çoğu zaman bozulmayı baştan önlemektir. Yeni çalışma bunu küresel bir veri setiyle destekliyor: Bir otlağın yeniden yeşil olması, geçmişteki ekosistemin geri döndüğü anlamına gelmiyor."
+      ],
+      "takeaway": "Altı kıtadan 742 bitki türünün verisi, sürülüp bozulan kadim otlakların kendini toparlarken bile farklı bitkilerle dolduğunu gösteriyor.",
+      "impact": null,
+      "category": {
+        "slug": "cevre",
+        "label": "Çevre",
+        "url": "kategori/cevre.html"
+      },
+      "tags": [
+        {
+          "slug": "cevre",
+          "label": "çevre",
+          "url": "etiket/cevre.html"
+        },
+        {
+          "slug": "ekoloji",
+          "label": "ekoloji",
+          "url": "etiket/ekoloji.html"
+        },
+        {
+          "slug": "otlak",
+          "label": "otlak",
+          "url": "etiket/otlak.html"
+        },
+        {
+          "slug": "biyocesitlilik",
+          "label": "biyoçeşitlilik",
+          "url": "etiket/biyocesitlilik.html"
+        },
+        {
+          "slug": "restorasyon",
+          "label": "restorasyon",
+          "url": "etiket/restorasyon.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2533967123"
+        }
+      ],
+      "image_credits": [],
+      "video": {
+        "youtube": "lbiFxbSVBG8"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/lbiFxbSVBG8"
+        }
+      ]
+    },
+    {
+      "id": "proj_6e771e76af",
+      "slug": "2026-10-09-alphaevolve-matematikte-gercekten-kesif-yapiyor-mu",
+      "url": "yazi/2026-10-09-alphaevolve-matematikte-gercekten-kesif-yapiyor-mu.html",
+      "date": "2026-10-09T08:30:12.931007+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "AlphaEvolve Matematikte Gerçekten Keşif Yapıyor mu?",
+      "standfirst": "Google DeepMind'ın AlphaEvolve sistemi, matematik problemlerini doğrudan cevaplamak yerine çözüm üreten bilgisayar programlarını evrimleştiriyor.",
+      "paragraphs": [
+        "Matematik denildiğinde çoğu kişinin aklına ispat gelir. Bir önermenin doğru olduğunu mantıksal adımlarla göstermek, matematiğin merkezindeki faaliyetlerden biridir. Ama matematikte başka bir problem türü daha vardır: Belirli özellikleri sağlayan en iyi nesneyi bulmak. Örneğin belirli bir alana mümkün olduğunca çok şekil nasıl paketlenir? Bir kombinatoryal yapı belirli bir ölçütü ne kadar iyi sağlayabilir? Bir eşitsizlikte bilinen sınır daha ileri taşınabilir mi? Bu tür problemlerde çoğu zaman önce iyi bir örnek bulmak gerekir. AlphaEvolve tam olarak bu alana odaklanıyor.",
+        "Sistemin çalışma biçimi klasik bir sohbet botundan oldukça farklı. Bir büyük dil modeline “cevabı söyle” denmiyor. Bunun yerine çözümü arayan veya aday yapı üreten Python programları yazması isteniyor. Her program çalıştırılıyor. Ürettiği sonuç, matematikçiler tarafından tanımlanan bir puanlama işleviyle ölçülüyor. Daha iyi sonuç veren programlar seçiliyor. Sonra dil modeli bu programlarda küçük veya büyük değişiklikler yapıyor. Yeni programlar tekrar çalıştırılıyor. Bu döngü binlerce kez tekrarlanabiliyor. Doğal seçilimde daha başarılı özelliklerin sonraki nesillerde daha fazla temsil edilmesine benzediği için yöntem “evrimsel” bir arama olarak tanımlanıyor.",
+        "Google DeepMind'dan Bogdan Georgiev ve Adam Zsolt Wagner, Brown Üniversitesi'nden Javier Gómez-Serrano ve UCLA'dan Terence Tao sistemi matematiğin farklı alanlarından 67 problemde denedi. Problemler analiz, kombinatorik, geometri ve sayılar kuramı gibi alanlardan seçildi. Sonuçların önemli bölümünde AlphaEvolve daha önce bilinen en iyi yapıları yeniden bulabildi. Bazılarında ise bilinen sonucu geliştirdi. Burada sayıları dikkatli kullanmak gerekiyor. Quanta Magazine'in aktardığı değerlendirmeye göre 23 problemde bilinen en iyi sonuç iyileştirildi ve 36 problemde mevcut en iyi sonuçla eşleşildi. Bu 23/36 sayıları doğrudan makalenin kendi özetinden değil, Quanta'nın haberinden geliyor.",
+        "Hayır. Bir matematik probleminde daha iyi bir örnek veya daha iyi bir alt/üst sınır bulmak ile problemi tamamen çözmek aynı şey değildir. Bazı problemlerde AlphaEvolve yalnızca bilinen en iyi sayıyı biraz daha ileri taşıyor. Sorunun nihai teorik cevabı hala bilinmiyor olabilir. Bu nedenle “yapay zeka 23 büyük matematik problemini çözdü” gibi bir cümle yanıltıcı olur. Çalışmanın başarısı daha çok keşif ve arama hızında.",
+        "En dikkat çekici örneklerden biri sonlu cisimler üzerindeki Kakeya problemiyle ilgili. AlphaEvolve burada ilginç bir genel yapı buldu. Ancak yalnızca iyi görünen bir yapı bulmak matematikte yeterli değildir. Sonucun gerçekten her durumda doğru olduğunu kanıtlamak gerekir. Ekip bu yapıyı Deep Think adlı başka bir yapay zeka sistemine verdi. Deep Think yapının doğru olduğunu kanıtlayan bir argüman üretti ve boyutu için bir formül çıkardı. Daha sonra bu kanıt AlphaProof aracılığıyla Lean adlı biçimsel kanıt doğrulayıcısında kontrol edildi. Lean, matematiksel kanıtları bilgisayar tarafından denetlenebilir mantıksal adımlara dönüştürmeye yarayan bir sistemdir. Bu zincir özellikle ilginç: Bir sistem aday yapı buluyor. Başka bir sistem kanıt üretmeye çalışıyor. Son aşamada bilgisayar doğrulayıcı, mantıksal adımların kurallara uygun olup olmadığını kontrol ediyor.",
+        "Her yerde. Problemleri seçen insanlar. Başarı ölçütünün ne olduğunu tanımlayan insanlar. AlphaEvolve'un ürettiği programların neyi optimize edeceğini belirleyen insanlar. Sonuçların matematiksel anlamını yorumlayan da yine matematikçiler. Bu nedenle “yapay zeka tek başına matematik keşfetti” ifadesi çalışma düzenini fazla basitleştirir. Sistem güçlü bir otomatik arama motoru gibi çalışıyor; fakat araştırma sorusunu ve değerlendirme çerçevesini insanlar kuruyor.",
+        "Bir insan matematikçi tek bir problemi aylarca veya yıllarca düşünebilir. AlphaEvolve'un avantajı, uzmanların normalde tek tek uğraşamayacağı çok sayıda arama problemini paralel ve otomatik biçimde tarayabilmesi. Çalışmada bir problemi sisteme hazırlamanın ortalama birkaç saat sürdüğü belirtiliyor. Sonrasında sistem çok sayıda aday programı otomatik biçimde üretebiliyor. Yazarların vurguladığı asıl fark bu ölçek. Bazı iyileştirmeler geleneksel yöntemlerle insan uzmanlar tarafından da bulunabilirdi. Ama yüzlerce varyasyonu sürekli denemek insan zamanı açısından pahalıdır.",
+        "AlphaEvolve her problemde en iyi bilinen sonucu bulamadı. Üstelik genel amaçlı bir teorem kanıtlama sistemi değil. En güçlü olduğu problemler, cevabın bir bilgisayar programıyla üretilebildiği ve kalitesinin otomatik olarak puanlanabildiği “inşa” problemleri. Bir problemin derin kavramsal açıklamasını bulmak, yeni bir teori geliştirmek veya her tür soyut teoremi kanıtlamak farklı yetenekler gerektiriyor.",
+        "Bu çalışmadan böyle bir sonuç çıkmaz. Daha makul benzetme şu olabilir: Bilgisayar cebir sistemleri hesap yapmayı ortadan kaldırmadı; matematikçilerin daha farklı sorulara odaklanmasına izin verdi. AlphaEvolve benzeri sistemler de büyük kombinatoryal arama alanlarını insanlardan çok daha hızlı tarayabilir. Bu, hangi sonucun ilginç olduğunu seçme, neden doğru olduğunu anlama ve daha genel teoriye bağlama ihtiyacını ortadan kaldırmıyor. Asıl bilimsel soru, yapay zekanın matematikçinin yerini alıp almayacağı değil. İnsan ile otomatik keşif sisteminin birlikte hangi problemlere ulaşabileceği."
+      ],
+      "takeaway": "Google DeepMind'ın AlphaEvolve sistemi, Terence Tao'nun da aralarında olduğu matematikçilerle 67 açık matematik problemine uygulandı.",
+      "impact": null,
+      "category": {
+        "slug": "teknoloji",
+        "label": "Teknoloji",
+        "url": "kategori/teknoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "matematik",
+          "label": "matematik",
+          "url": "etiket/matematik.html"
+        },
+        {
+          "slug": "yapayzeka",
+          "label": "yapayzeka",
+          "url": "etiket/yapayzeka.html"
+        },
+        {
+          "slug": "deepmind",
+          "label": "deepmind",
+          "url": "etiket/deepmind.html"
+        },
+        {
+          "slug": "terencetao",
+          "label": "terencetao",
+          "url": "etiket/terencetao.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2536158123"
+        }
+      ],
+      "image_credits": [
+        "Georgiev B, Gómez-Serrano J, Tao T, Wagner AZ, arXiv:2511.02864 (PNAS 2026), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "w1oA9BCeo-M"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/w1oA9BCeo-M"
+        }
+      ]
+    },
+    {
+      "id": "proj_f7a34dddb9",
+      "slug": "2026-10-09-yasam-dunya-nin-olusumundan-ne-kadar-sonra-baslamis-olabilir",
+      "url": "yazi/2026-10-09-yasam-dunya-nin-olusumundan-ne-kadar-sonra-baslamis-olabilir.html",
+      "date": "2026-10-09T08:30:12.927825+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Yaşam Dünya'nın Oluşumundan Ne Kadar Sonra Başlamış Olabilir?",
+      "standfirst": "Genç Dünya'nın asteroit ve kuyruklu yıldız bombardımanını modelleyen bir çalışma, RNA temelli erken kimyanın yaklaşık 4,33 milyar yıl önce sürdürülebilir hale gelebileceğini öne sürüyor.",
+      "paragraphs": [
+        "Dünya yaklaşık 4,54 milyar yıl önce oluştu. Fakat ilk dönemini bugünkü gezegene benzetmek zor. Yaklaşık 4,51 milyar yıl önce Ay'ı oluşturduğu düşünülen dev çarpışma, genç Dünya'nın büyük bölümünü yeniden eritti. Sonraki yüz milyonlarca yılda asteroitler ve kuyruklu yıldızlar gezegene çarpmaya devam etti. Bazı büyük çarpışmalar okyanusları kısmen veya tamamen buharlaştırabilecek, yüzeyi kalın sıcak kaya tabakalarıyla örtebilecek kadar enerjikti. Böyle bir dünyada yaşamın başlaması için gereken karmaşık organik moleküllerin uzun süre dayanması zor görünür. Yeni çalışma şu soruya odaklanıyor: Dünya ne zaman yeterince sakin ve serin hale geldi?",
+        "Yaşamın kökeni konusunda öne çıkan hipotezlerden biri RNA dünyası. Bugünkü canlılarda DNA kalıtsal bilginin ana deposudur. Proteinler ise hücrenin büyük bölümündeki kimyasal işi yapar. RNA her ikisinin bazı özelliklerini bir araya getirebilir. Bilgi taşıyabilir ve bazı RNA molekülleri kimyasal tepkimeleri hızlandırabilir. Bu nedenle bazı araştırmacılar, DNA ve proteinlerden önce kendi kopyalanmasına katkı verebilen RNA benzeri sistemlerin bulunduğunu düşünüyor. Bu kesinleşmiş bir tarihsel gerçek değil. Yaşamın kökeni araştırmalarındaki güçlü hipotezlerden biri.",
+        "Bir RNA sistemi ortaya çıkmış olsa bile büyük bir asteroit çarpması yüzeyi tekrar sterilize edebilirdi. Yüksek sıcaklık RNA'nın yapıtaşlarını ve diğer karmaşık organik molekülleri parçalayabilir. Bu yüzden yaşamın ortaya çıkışı için yalnızca “su vardı mı?” sorusu yeterli değil. Yüzeye yakın bölgelerin uzun süre boyunca moleküllerin dayanabileceği sıcaklıkta kalması gerekir. Araştırmacılar genç Dünya'nın çarpışma tarihini üç boyutlu bir modelle canlandırdı. Model yaklaşık bir milyar yıllık dönemi, 4,5 milyar yıldan 3,5 milyar yıl öncesine kadar izledi. Her büyük çarpışmanın kabuğu ne kadar ısıttığını, ne kadar malzemeyi erittiğini ve soğumanın ne kadar sürdüğünü hesapladılar.",
+        "Modele göre çarpışmaların yarattığı kabuk erimesi yaklaşık 4,47 milyar yıl önce en yüksek düzeye ulaşıyor. Bazı dönemlerde yerkabuğunun yaklaşık yüzde 70'ine kadar olan bölümü aynı anda erimiş durumda olabilir. Bu koşullarda yüzeye yakın istikrarlı organik kimyanın sürdürülmesi son derece zor. Gezegeni geniş ölçekte sterilize edebilecek çarpışmalar yaklaşık 4,4 milyar yıl öncesine kadar devam ediyor. Sonra bombardıman hızı hızla azalıyor. Ve burada yaşamın kökeni açısından önemli bir pencere açılıyor.",
+        "Modelde 4,3 milyar yıl öncesine gelindiğinde, yüzeyin ilk 300 metresindeki kaya hacminin yüzde 90'dan fazlası RNA ve DNA yapıtaşlarının dayanabileceği sıcaklık aralığına girmiş durumda. Bu, gezegenin tamamen serin olduğu anlamına gelmiyor. Yerel sıcak bölgeler ve yeni çarpışmalar hala var. Fakat artık yüzeyin büyük bölümü tek bir çarpışmayla sürekli sterilize edilen bir ortam değil. Üstelik çarpışmaların oluşturduğu hidrotermal sistemler de enerji ve kimyasal gradyan açısından ilginç ortamlar yaratabilir. Yazarlar RNA dünyasının ortaya çıkışı için en elverişli dönemi yaklaşık 4,33 milyar yıl önce olarak hesaplıyor.",
+        "Bugün yaşayan bütün canlılar, çok eski bir ortak atadan gelir. Bu varsayımsal popülasyona LUCA, yani “son evrensel ortak ata” denir. Genetik saat yöntemlerinden bazıları LUCA'nın yaşını yaklaşık 4,09 ile 4,33 milyar yıl öncesi arasına yerleştiriyor. Yeni modelde RNA dünyası için ortaya çıkan 4,33 milyar yıllık pencerenin bu aralığın başına denk gelmesi dikkat çekici. Ancak burada nedensellik kurmamak gerekiyor. Model LUCA'yı bulmadı ve LUCA'nın tam olarak 4,33 milyar yıl önce yaşadığını göstermedi. Yalnızca iki bağımsız tahminin zaman aralıkları birbirine yakın.",
+        "Hayır. Çalışma fosil, organik kalıntı veya doğrudan yaşam izi bulmuyor. Modelin hesapladığı şey fiziksel yaşanabilirlik penceresi. Yani RNA ve DNA yapıtaşlarının yüzeye yakın bölgelerde uzun süre parçalanmadan kalabileceği sıcaklıkların ne zaman yaygınlaştığı. Koşulların uygun olması, yaşamın gerçekten ortaya çıktığını kanıtlamaz. Bir mutfakta bütün malzemelerin bulunması yemeğin mutlaka yapılmış olduğu anlamına gelmediği gibi, yaşanabilir kimyasal ortam da yaşamın zorunlu olarak ortaya çıktığını göstermez.",
+        "Araştırmacılar sıcak su dolaşımını doğrudan çözmüyor. Çarpışmaların oluşturduğu hidrotermal ortamların hacmi bu nedenle yaklaşık bir gösterge olarak ele alınıyor. Ayrıca erken Dünya'nın atmosfer bileşimi, yüzey kimyası ve organik moleküllerin kaynakları konusunda hala büyük belirsizlikler var. RNA dünyası hipotezinin kendisi de yaşamın kökenine dair tek olası senaryo değil.",
+        "En eski doğrudan Dünya malzemelerinden biri olan zirkon kristalleri yaklaşık 4,4 milyar yaşında. Bu kristaller genç Dünya'da sıvı su ve nispeten serin yüzey bölgelerinin çok erken dönemlerde bulunmuş olabileceğine dair işaretler taşıyor. Yeni çalışma bu jeolojik tabloya dinamik bir çarpışma modeli ekliyor. Eğer hesap doğruysa, yaşam için uygun yüzey ortamları Dünya'nın oluşumundan yüz milyonlarca yıl sonra değil, oldukça erken bir dönemde geniş alanlara yayılmış olabilir. Bu yaşamın o sırada başladığını kanıtlamaz. Ama “genç Dünya çok uzun süre yaşam için tamamen cehennemdi” şeklindeki basit tabloyu zayıflatır."
+      ],
+      "takeaway": "Genç Dünya'yı kuyruklu yıldız ve asteroit yağmuru altında modelleyen bir çalışmaya göre, yaşamın RNA'ya dayalı ilk aşaması yaklaşık 4,33 milyar yıl önce, gezegen oluştuktan çok kısa süre sonra…",
+      "impact": null,
+      "category": {
+        "slug": "yer-bilimleri",
+        "label": "Yer Bilimleri",
+        "url": "kategori/yer-bilimleri.html"
+      },
+      "tags": [
+        {
+          "slug": "yasaminkokeni",
+          "label": "yaşamınkökeni",
+          "url": "etiket/yasaminkokeni.html"
+        },
+        {
+          "slug": "rna",
+          "label": "rna",
+          "url": "etiket/rna.html"
+        },
+        {
+          "slug": "gencdunya",
+          "label": "gençdünya",
+          "url": "etiket/gencdunya.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        },
+        {
+          "slug": "astrobiyoloji",
+          "label": "astrobiyoloji",
+          "url": "etiket/astrobiyoloji.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-76978-3"
+        }
+      ],
+      "image_credits": [
+        "Abramov O ve ark., Nature Communications 2026 (10.1038/s41467-026-76978-3), CC BY 4.0 — Türkçe etiket eklendi"
+      ],
+      "video": {
+        "youtube": "gNt9oMC4sdw"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/gNt9oMC4sdw"
+        }
+      ]
+    },
+    {
+      "id": "proj_fe8010bcac",
+      "slug": "2026-10-09-gizli-bilgili-oyunlarda-yapay-zeka-icin-yeni-bir-adim-atarax",
+      "url": "yazi/2026-10-09-gizli-bilgili-oyunlarda-yapay-zeka-icin-yeni-bir-adim-atarax.html",
+      "date": "2026-10-09T08:30:12.924400+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Gizli Bilgili Oyunlarda Yapay Zeka İçin Yeni Bir Adım: Ataraxos",
+      "standfirst": "Ataraxos adlı yapay zeka, rakibin taşlarının kimliğinin gizli olduğu Stratego oyununda alanın en başarılı insan oyuncularından birini 20 maçlık seride açık farkla geçti.",
+      "paragraphs": [
+        "Satranç ve Go, yapay zeka tarihinin simge oyunlarıdır. Ancak bu oyunların önemli bir ortak özelliği var: Tahtadaki bütün bilgi görünürdür. Rakibin taşlarının nerede olduğunu, hangi taşın ne olduğunu ve geçmişte hangi hamlelerin yapıldığını bilirsiniz. Gerçek dünyadaki kararların çoğu böyle değildir. Bir pazarlıkta karşı tarafın gerçek sınırını bilemezsiniz. Piyasalarda diğer oyuncuların stratejilerini görmezsiniz. Kart oyunlarında rakibin elindeki kartlar gizlidir. Bu nedenle eksik bilgili oyunlar, yapay zeka için ayrı bir zorluk sınıfı oluşturur. Stratego da bu sınıfın en zor örneklerinden biri.",
+        "Her oyuncu oyuna 40 taşla başlar. Taşların rütbeleri rakipten gizlidir. Bir taşın kimliğini çoğu zaman ancak başka bir taşla karşı karşıya geldiğinde öğrenirsiniz. Üstelik başlangıçta taşlar oyuncu tarafından gizlice dizilir. Olası başlangıç dizilişlerinin sayısı 10 üzeri 33'ten fazla. Bu, yalnızca bütün olasılıkları sıralayıp hesaplamakla çözülebilecek bir alan değil. Yapay zeka, rakibin taşları hakkında sürekli belirsizlik altında karar vermek zorunda.",
+        "Carnegie Mellon Üniversitesi ve diğer kurumlardan araştırmacılar, bu problem için Ataraxos adlı sistemi geliştirdi. Ataraxos kendi kendine oynayarak öğreniyor. Sistemde farklı görevler üstlenen modeller var. Bir ağ hangi hamlenin iyi olabileceğini öğrenirken, başka bir ağ rakibin henüz açığa çıkmamış taşlarının olası kimliklerini tahmin ediyor. Hamle sırası geldiğinde sistem tek bir “rakip dizilişi” varsaymıyor. Gizli taşlar için farklı olası senaryolar oluşturuyor. Her senaryoda hamlelerin sonuçlarını değerlendirip kararını bu belirsizlik altında ayarlıyor. Bu yaklaşım, bilmediğiniz bilgiyi tek bir tahminle doldurmak yerine olası dünyaların dağılımını hesaba katmaya çalışıyor.",
+        "Sistemin en dikkat çekici sınavı Pim Niemeijer ile yapıldı. Niemeijer çalışmada Stratego tarihinin en çok kupa kazanmış oyuncusu olarak tanıtılıyor. Burada “güncel dünya şampiyonu” ifadesini kullanmamak gerekiyor; çalışma bunu söylemiyor. Seri üç haftaya yayılan 20 oyundan oluştu. Niemeijer'e yapay zekanın maçlar arasında ona özel biçimde yeniden eğitilmeyeceği söylendi. Bu nedenle insan oyuncunun sistemin zayıflıklarını fark edip sonraki maçlarda bunları kullanma fırsatı vardı. Sonuç: 15 Ataraxos galibiyeti, 1 yenilgi ve 4 beraberlik. Beraberlikler yarım puan sayılırsa sistemin skor oranı yaklaşık yüzde 85. Araştırmacılara göre en üst düzey Stratego oyununda bu büyüklükte bir fark daha önce görülmemişti.",
+        "Ataraxos, 2025 Stratego Dünya Şampiyonası sırasında katılımcılarla yapılan gösteri maçlarında da test edildi. Toplam 40 oyunun 38'ini kazandı ve ikisini kaybetti. Daha küçük bir Stratego türü olan Barrage Stratego'da da üç farklı dünya şampiyonu oyuncuya karşı başarılı sonuçlar alındı. Ancak her sonuç doğrudan insanlara karşı değil. Hanabi ve dou dizhu gibi başka eksik bilgili oyunlarda bildirilen performanslar, önceki en iyi yapay zeka sistemleriyle yapılan karşılaştırmalara dayanıyor.",
+        "Bu ifade kulağa çekici geliyor ama çalışmanın anlattığı şeyi tam karşılamıyor. Ataraxos'un gücü, gizli bilgi altında olasılıkları modellemekten ve stratejik hamle seçmekten geliyor. Bunu otomatik olarak insan benzeri blöf, kandırma veya niyet okuma olarak yorumlamak doğru değil. Sistem oyunun kuralları ve eldeki gözlemler üzerinden karar veriyor.",
+        "Son yıllarda üst düzey oyun yapay zekaları çoğu zaman çok büyük hesaplama bütçeleriyle ilişkilendirildi. Ataraxos'un Stratego eğitiminin ise yalnızca birkaç bin dolara mal olduğu bildiriliyor. Bu da yöntemin önemli yanlarından biri. Ama burada da dikkatli olmak gerekiyor. Bu maliyet belirli deneysel eğitim koşullarını ifade ediyor; sistemin geliştirilmesi, araştırmacı emeği ve tüm altyapı maliyeti bu basit rakama indirgenemez.",
+        "Eksik bilgi altında karar verme, pazarlık, ekonomi ve birçok gerçek dünya probleminde önemlidir. Araştırmacıların yöntemi teorik olarak bu tür problemlere ilham verebilir. Fakat çalışma bunu göstermiş değil. Ataraxos bir Stratego sistemidir. Gerçek piyasa kararlarında, diplomatik pazarlıklarda veya askeri karar süreçlerinde aynı yöntemin işe yaradığına dair bu çalışmadan bir sonuç çıkarılamaz. Oyunlar, karmaşık karar verme problemlerini incelemek için kontrollü laboratuvarlar sunar. Ama gerçek dünya, oyun tahtasından çok daha fazla belirsizlik, değişkenlik ve etik sorun içerir.",
+        "Yapay zeka açık bilgili oyunlarda uzun süredir insanüstü performansa ulaşmış durumda. Stratego gibi büyük ve gizli bilgili oyunlarda ise problem çok daha zordu. Ataraxos'un sonucu, olası gizli durumları verimli biçimde modellemenin bu engeli önemli ölçüde aşabileceğini gösteriyor. Bu, “yapay zeka artık bütün belirsiz karar problemlerini çözdü” demek değil. Ama oyun yapay zekasında, her şeyin görünmediği durumlara doğru atılmış önemli bir adım."
+      ],
+      "takeaway": "Taşların gizli olduğu savaş oyunu Stratego'da Ataraxos adlı yapay zeka, oyunun gelmiş geçmiş en çok kupa kazanmış oyuncusunu 20 oyunda 15 galibiyet, 1 yenilgi ve 4 beraberlikle yendi.",
+      "impact": null,
+      "category": {
+        "slug": "teknoloji",
+        "label": "Teknoloji",
+        "url": "kategori/teknoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "teknoloji",
+          "label": "teknoloji",
+          "url": "etiket/teknoloji.html"
+        },
+        {
+          "slug": "yapayzeka",
+          "label": "yapayzeka",
+          "url": "etiket/yapayzeka.html"
+        },
+        {
+          "slug": "stratego",
+          "label": "stratego",
+          "url": "etiket/stratego.html"
+        },
+        {
+          "slug": "oyun",
+          "label": "oyun",
+          "url": "etiket/oyun.html"
+        },
+        {
+          "slug": "strateji",
+          "label": "strateji",
+          "url": "etiket/strateji.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-11036-y"
+        }
+      ],
+      "image_credits": [
+        "Sokota S ve ark., Nature 2026 (10.1038/s41586-026-11036-y), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "iYSVpbXc3D4"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/iYSVpbXc3D4"
+        }
+      ]
+    },
+    {
+      "id": "proj_0ac34b451c",
+      "slug": "2026-10-09-cansiz-bir-malzeme-neden-isiga-dogru-buyuyor",
+      "url": "yazi/2026-10-09-cansiz-bir-malzeme-neden-isiga-dogru-buyuyor.html",
+      "date": "2026-10-09T08:30:12.919964+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Cansız Bir Malzeme Neden Işığa Doğru Büyüyor?",
+      "standfirst": "Caltech araştırmacıları, canlı olmayan inorganik filmlerin ışığın geliş yönüne göre kendiliğinden yönlü yapılar oluşturabildiğini gösterdi.",
+      "paragraphs": [
+        "Bir saksı bitkisini pencerenin yanında bırakırsanız, gövdesinin zamanla ışığa doğru eğildiğini görebilirsiniz. Bu davranışa fototropizma denir. Bitkiler ışığı algılayan biyolojik sistemlere sahiptir. Hücreler arasında hormon dağılımı değişir ve gövdenin bir tarafı diğerinden daha hızlı büyür. Sonuçta bitki ışığa yönelir. Bazı tırmanıcı bitkilerin genç sürgünlerinde bunun tersi de görülebilir. İlk aşamada karanlık bölgelere, örneğin tutunabilecekleri bir ağaç gövdesine doğru büyürler. Buna skototropizma denir. Yeni çalışma ilginç bir soru soruyor: Böyle yönlü büyümeler için gerçekten canlı hücrelere ihtiyaç var mı?",
+        "Caltech'ten araştırmacılar, bir yüzey üzerinde inorganik bir malzemeyi yavaş yavaş biriktirdi. Malzeme oluşurken yüzeye düşük şiddetli ve desensiz bir ışık gönderildi. Burada lazerle çizilmiş bir desen veya dışarıdan mekanik yönlendirme yoktu. Yine de büyüyen mikro yapılar rastgele yönlerde dağılmadı. Işığın geliş yönüne bağlı olarak düzenli bir yönelim ortaya çıktı. Işık yüzeye dik veya orta derecede eğik geldiğinde, yapılar ışığın geldiği yöne doğru büyüyordu. Bu davranış görünüş olarak bir bitkinin ışığa yönelmesini andırıyor.",
+        "Deneyin daha şaşırtıcı kısmı, ışık yüzeye çok sığ bir açıyla geldiğinde ortaya çıktı. Bu kez yapılar ışığın geldiği yöne değil, ondan uzağa doğru büyüdü. Yani aynı cansız malzeme yalnızca ışığın geliş açısı değiştiğinde iki zıt yönelim davranışı gösterebiliyordu. Bitkilerde bu iki davranış farklı biyolojik algılama ve büyüme düzenekleriyle ilişkilendirilebilir. Burada ise ortada hücre, sinir sistemi, hormon veya gen yok. Sistem tamamen fiziksel ışık-madde etkileşimleriyle çalışıyor.",
+        "Bu ayrım önemli. “Cansız malzeme ışığı gördü ve ona doğru büyüdü” demek bilimsel olarak yanlış olur. Malzemenin bir algılama sistemi yok. Araştırmacıların önerdiği mekanizmada büyüyen her küçük yapı gelen ışığı çevresine saçıyor. Bu saçılan ışık, yakın komşu yapıların büyüme hızını ve yönünü etkiliyor. Her yapı yalnızca yerel fiziksel koşullara tepki veriyor. Fakat binlerce küçük etkileşim birlikte değerlendirildiğinde tüm yüzeyde düzenli, yönlü bir büyüme ortaya çıkıyor. Bu tür davranışlar fizik ve malzeme biliminde “ortaya çıkan davranış” fikrinin güzel bir örneği. Sistemin bütünü, tek tek bileşenlere bakıldığında açıkça programlanmamış bir düzen sergiliyor.",
+        "Çalışma özetine göre çok sığ geliş açılarında yapılar arasındaki ışık saçılması, yakın komşuluk etkileşimlerini farklı bir rejime sokuyor. Bu durumda büyümenin en avantajlı yönü ışığın geldiği taraf olmaktan çıkıyor. Toplam etki, yapılar sanki ışıktan kaçıyormuş gibi bir yönelim oluşturuyor. Ancak burada “kaçmak” yalnızca görsel bir benzetme. Ortada amaç veya davranış seçimi yok.",
+        "Araştırmacılar yalnızca yönelime değil, oluşan yapıların büyüklükleri arasındaki ilişkilere de baktı. İnorganik mikro yapılar ile ağaç ve orman büyümesinde görülen bazı ölçekleme ilişkileri arasında benzerlik bulundu. Bu özellikle dikkat çekici çünkü iki sistem arasında yüz milyon kattan fazla boyut farkı var. Fakat bu sonuç “ağaçlar da aynı fiziksel mekanizmayla büyüyor” anlamına gelmiyor. Bitkilerin büyümesi biyolojik süreçlerle kontrol edilir. Benzer olan şey yalnızca belirli matematiksel ölçekleme desenleri. Doğada çok farklı mekanizmaların benzer geometrik veya istatistiksel sonuçlar üretmesi mümkündür.",
+        "Malzeme biliminde genellikle bir mikro yapının yönünü belirlemek için yüzeyi önceden desenlemek, lazer kullanmak veya dışarıdan karmaşık kontrol uygulamak gerekir. Buradaki sistemde ise yön bilgisi doğrudan aydınlatmanın geometrisinden çıkıyor. Bu yaklaşım ileride ışıkla kendi kendine organize olan yüzeyler veya yönlü mikro yapılar tasarlamak için kullanılabilir. Fakat mevcut bilgiyle belirli bir uygulama vaat etmek için erken. Tam metne erişilemediği için kullanılan malzemenin ayrıntılı bileşimi, kesin açı değerleri ve yapı boyutları elimizde yok. Bugünkü sonuç daha temel: Canlılarda gördüğümüz ışığa doğru veya ışıktan uzağa yönlü büyüme biçimleri, biyolojik algı olmadan da basit fiziksel etkileşimlerden ortaya çıkabiliyor. Benzer davranış, aynı mekanizma demek değildir. Ve tam da bu yüzden sonuç ilginçtir."
+      ],
+      "takeaway": "Cansız, inorganik bir malzeme, bir bitki gibi ışığa doğru büyüyor.",
+      "impact": null,
+      "category": {
+        "slug": "kimya",
+        "label": "Kimya",
+        "url": "kategori/kimya.html"
+      },
+      "tags": [
+        {
+          "slug": "kimya",
+          "label": "kimya",
+          "url": "etiket/kimya.html"
+        },
+        {
+          "slug": "malzeme",
+          "label": "malzeme",
+          "url": "etiket/malzeme.html"
+        },
+        {
+          "slug": "isik",
+          "label": "ışık",
+          "url": "etiket/isik.html"
+        },
+        {
+          "slug": "fototropizma",
+          "label": "fototropizma",
+          "url": "etiket/fototropizma.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2611986123"
+        }
+      ],
+      "image_credits": [],
+      "video": {
+        "youtube": "QvnEXztR1vk"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/QvnEXztR1vk"
+        }
+      ]
+    },
+    {
+      "id": "proj_00d434bec6",
+      "slug": "2026-10-09-kulagimizdaki-duyu-hucreleriyle-denizanasinin-igne-hucreleri",
+      "url": "yazi/2026-10-09-kulagimizdaki-duyu-hucreleriyle-denizanasinin-igne-hucreleri.html",
+      "date": "2026-10-09T08:30:12.916630+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Kulağımızdaki Duyu Hücreleriyle Denizanasının İğne Hücreleri Akraba Olabilir mi?",
+      "standfirst": "Denizanası ve deniz anemonlarının iğne fırlatan hücrelerinde, omurgalıların iç kulağındaki tüy hücrelerinde kullanılan TMC kanal proteinlerine benzeyen proteinler bulundu.",
+      "paragraphs": [
+        "İnsan kulağında sesi algılayan hücrelere “tüy hücreleri” denir. Bu hücrelerin tepesinde ince çıkıntılardan oluşan bir demet vardır. Ses dalgalarının oluşturduğu mekanik hareket bu demeti büker. Bükülme, hücre zarındaki iyon kanallarını açar ve mekanik titreşim elektrik sinyaline dönüşür. Bu mekanizmanın önemli parçalarından biri TMC adı verilen protein ailesidir. İlginç olan şu: Denizanası ve deniz anemonlarında bulunan tamamen farklı görünümlü bir hücre de mekanik dokunmayı algılar. Ama görevi ses duymak değil; zehirli bir iğne fırlatmaktır.",
+        "Knidliler olarak bilinen denizanası, mercan ve deniz anemonu gibi hayvanlarda özel savunma ve avlanma hücreleri bulunur. Bu hücrelerde çok hızlı dışarı fırlayabilen kapsüller vardır. Bir av veya başka bir nesne uygun biçimde temas ettiğinde hücre bunu algılar ve iğne benzeri yapı milisaniyeler içinde dışarı atılır. Chicago Üniversitesi'nden araştırmacılar şu soruyu sordu: Bu mekanik algı hücreleriyle omurgalıların tüy hücreleri yalnızca benzer bir problemi ayrı ayrı mı çözdü, yoksa gerçekten ortak bir evrimsel kökenden mi geliyorlar?",
+        "Araştırmacılar Clytia adlı bir denizanası ve Nematostella adlı bir deniz anemonunu inceledi. İğne hücrelerinin tepesinde, iç kulaktaki tüy hücrelerinin çıkıntı demetine benzeyen bir yapı bulundu. Üstelik yalnızca genel biçim benzemiyordu. Hücreler arasındaki protein bağlantılarında da benzerlikler vardı. Daha önemlisi, denizanası ve deniz anemonunda TMC5 ve TMC7 adlı proteinlerin bu mekanik algılama demetinde yoğunlaştığı görüldü. Omurgalı tüy hücrelerinde ise aynı protein ailesinin TMC1 ve TMC2 üyeleri mekanik sinyalin elektrik sinyaline çevrilmesinde kritik rol oynar.",
+        "Benzer bir proteinin aynı yerde bulunması tek başına yeterli kanıt olmazdı. Araştırmacılar mekanik olarak uyarılan iğne hücrelerine, açık iyon kanallarından geçebilen bir boya verdi. Boya hücreye tam da bu duyusal demet bölgesinden girdi. Bu, mekanik uyarıyla açılan işlevsel kanalların orada bulunduğunu destekliyordu. Daha sonra gen susturma deneyleri yapıldı. Clytia ve Nematostella'da TMC5 ve TMC7 genlerinin etkinliği RNA girişimiyle azaltıldığında, iğne fırlatma davranışı belirgin biçimde düştü. Karşılaştırma amacıyla başka bir mekanik kanal proteini olan NompC susturulduğunda aynı etki görülmedi. Bu sonuç, TMC proteinlerinin yalnızca hücrede bulunmadığını, iğne hücresinin mekanik algılamasında gerçekten görev yaptığını düşündürüyor.",
+        "Hayır. Denizanası insanların atası değildir. İnsanlar ve denizanaları, yüz milyonlarca yıl önce yaşamış çok daha eski ortak atalardan ayrılan iki farklı evrimsel koldur. Araştırmacıların öne sürdüğü şey daha incelikli: Bu ortak atada mekanik dokunmayı algılayan eski bir hücre tipi bulunmuş olabilir. Bir evrimsel kolda bu sistem avı algılayıp zehirli iğne fırlatan hücrelere dönüşürken, başka bir kolda giderek özelleşerek işitme ve denge sistemindeki tüy hücrelerinin atalarına katkı vermiş olabilir. Yani aynı temel biyolojik “parça listesi”, farklı canlı soylarında çok farklı organlara uyarlanmış olabilir.",
+        "Evrimde milyonlarca yıl önce yaşamış bir hücre tipini doğrudan gözlemlemek mümkün değildir. Bu nedenle ortak ata fikri doğrudan kanıtlanabilecek bir olay değildir. Araştırmacılar biçim benzerliği, proteinlerin konumu, gen dizileri, mekanik kanal davranışı ve gen susturma deneylerini birlikte değerlendiriyor. Bu farklı veri türlerinin aynı sonuca işaret etmesi ortak köken hipotezini destekliyor. Ancak aynı özelliklerin bağımsız olarak benzer biçimde evrimleşmiş olma olasılığı gibi alternatifler bilimsel tartışmanın parçası olmaya devam eder.",
+        "Duyu organlarının kökenini anlamak için bazen bugünkü karmaşık organlara değil, çok daha basit hayvanlardaki hücrelere bakmak gerekir. İç kulak gibi son derece özelleşmiş bir sistem bir anda ortaya çıkmadı. Evrim çoğu zaman var olan hücresel mekanizmaları yeni görevler için yeniden kullanır. Bu çalışma doğruysa, bugün işitmemizin temelinde bulunan mekanik algılama makinesinin bazı parçaları, sinir sistemi ve duyu organlarının erken evrim dönemlerine kadar uzanıyor olabilir."
+      ],
+      "takeaway": "Denizanası ve deniz anemonunun iğne fırlatan hücreleri, bizim iç kulağımızdaki ses algılayan tüy hücreleriyle aynı tür kanal proteinini kullanıyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        },
+        {
+          "slug": "denizanasi",
+          "label": "denizanası",
+          "url": "etiket/denizanasi.html"
+        },
+        {
+          "slug": "kulak",
+          "label": "kulak",
+          "url": "etiket/kulak.html"
+        },
+        {
+          "slug": "isitme",
+          "label": "işitme",
+          "url": "etiket/isitme.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2607106123"
+        }
+      ],
+      "image_credits": [
+        "Lorente-Cánovas B ve ark., PLoS Genetics 2013 (Wikimedia Commons), CC BY 4.0",
+        "Lars Chittka, Axel Brockmann (Wikimedia Commons), CC BY 2.5 — yazılar kaldırıldı, Türkçe etiket eklendi"
+      ],
+      "video": {
+        "youtube": "y4tOP-oZklM"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/y4tOP-oZklM"
+        }
+      ]
+    },
+    {
+      "id": "proj_085e373c2b",
+      "slug": "2026-10-09-arilari-oldurmeden-tarladan-uzak-tutmak-mumkun-mu",
+      "url": "yazi/2026-10-09-arilari-oldurmeden-tarladan-uzak-tutmak-mumkun-mu.html",
+      "date": "2026-10-09T08:30:12.913326+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Arıları Öldürmeden Tarladan Uzak Tutmak Mümkün mü?",
+      "standfirst": "Araştırmacılar makine öğrenmesini kullanarak milyonlarca molekül arasından bal arılarının hoşlanmadığı kokuları seçti.",
+      "paragraphs": [
+        "Tarım ilaçlarının arılar üzerindeki etkisini azaltmak denildiğinde ilk akla gelen çözüm genellikle daha az zararlı kimyasallar geliştirmektir. Kaliforniya Üniversitesi Riverside'dan araştırmacılar ise soruya başka bir açıdan yaklaştı: Arının ilaçlanmış bölgeye hiç konmamasını sağlayabilir miyiz? Fikir basit görünüyor. Eğer bir böcek ilacına bal arılarının hoşlanmadığı bir koku eklenirse, arılar o bölgedeki çiçeklerden uzak durabilir ve böylece kimyasalla temasları azalabilir. Asıl zorluk, böyle bir kokuyu bulmak.",
+        "Bal arılarında 170'ten fazla koku algılayıcı geni bulunuyor. Bir koku molekülü yalnızca tek bir algılayıcıyı etkilemiyor. Farklı reseptörlerin oluşturduğu karmaşık bir örüntü, beynin o kokuyu nasıl yorumlayacağını belirliyor. Bu nedenle milyonlarca olası molekülü tek tek laboratuvarda denemek pratik değil. Araştırmacılar burada makine öğrenmesinden yararlandı. Daha önce yapılmış davranış deneylerinden, arıların hangi kokulardan kaçındığını gösteren veriler toplandı. Her molekülün üç boyutlu yapısından 5.290 ayrı özellik çıkarıldı. Model, bu özelliklerle bir molekülün arıları uzaklaştırma olasılığı arasındaki ilişkiyi öğrenmeye çalıştı.",
+        "İlk aşamada yaklaşık 45 milyon molekül bilgisayar ortamında tarandı. Modelin seçtiği 15 aday laboratuvarda denendi. Elde edilen sonuçlar tekrar modele verildi ve sistem yeniden eğitildi. İkinci turda yaklaşık 10 milyon molekül daha tarandı. Toplamda 50 milyondan fazla molekül değerlendirilmiş oldu ve 130'dan fazla güçlü kovucu adayı ortaya çıktı. Bu noktada önemli bir ayrım var: Yapay zeka yeni moleküller icat etmedi. Var olan moleküller arasından, yapısal özelliklerine bakarak umut verici olanları seçti.",
+        "Laboratuvar deneylerinde aç arılara iki bal kaynağı sunuldu. Birinin yanında aday koku bulunuyordu, diğerinde ise koku yoktu. İkinci turdaki 28 adayın 15'inde arılar kokulu taraftaki baldan belirgin biçimde daha az içti. Fakat laboratuvar davranışı tek başına yeterli değildi. Asıl sınav serbest uçan arılarda yapıldı. Araştırmacılar 40 kovanın yaklaşık beş metre önüne, şekerli su sıkılmış üç farklı petek levhası yerleştirdi. Birinde yalnızca çözücü, birinde bilinen sivrisinek kovucu DEET, birinde ise yeni aday koku bulunuyordu. Tarlada denenen yedi yeni kokunun yedisi de arıları uzak tuttu. Üç tanesi deney sonuna kadar etkisini korudu. En iyi iki aday, doz yarıya indirildiğinde de işe yaradı.",
+        "Araştırmacılar bu soruyu yalnızca sirke sineklerinde sınadı. İlginç biçimde, arıları uzaklaştıran yedi koku sirke sineklerinde aynı etkiyi göstermedi. Bu sonuç, belirli kokuların tozlayıcıyı uzaklaştırırken bazı başka böcekleri etkilemeyebileceği fikrini destekliyor. Ancak buradan “yalnızca arıları kaçırıyor” sonucu çıkarılamaz. Başka zararlı böcek türleri ve başka tozlayıcılar bu deneyde test edilmedi.",
+        "Çalışmanın en önemli sınırı burada. Aday kokular henüz bir böcek ilacına karıştırılıp gerçek bir ekin tarlasında denenmedi. Tarla deneyi, şekerli su püskürtülmüş petek levhalarıyla yapıldı. Gerçek tarım ortamında rüzgar, sıcaklık, bitki kokuları, ilaç formülasyonu ve uygulama süresi gibi çok daha fazla değişken devreye girecek. Ayrıca kokuların uzun vadede koloni sağlığına nasıl etki ettiği bilinmiyor. Yaban arıları ve diğer tozlayıcılar da sınanmış değil.",
+        "Çalışma BASF tarafından desteklendi. Yazarların bir kısmı bu kokular için patent başvurusunda bulundu ve kovucu ürünler geliştiren bir girişimde ekonomik paya sahip. Bu durum sonuçların yanlış olduğu anlamına gelmez. Ancak uygulamaya dönük araştırmalarda finansman ve ticari çıkarların açıkça belirtilmesi önemlidir; bulgular değerlendirilirken bu bağlamın bilinmesi gerekir.",
+        "Çünkü çalışma, tarımsal koruma problemini alışılmış “öldürme” mantığından çıkarıp davranış yönlendirmeye taşıyor. Arıya zarar vermeden, onu riskli bölgeden uzak tutmak mümkün olursa, pestisit maruziyetini azaltmak için ek bir araç ortaya çıkabilir. Fakat bu fikrin işe yaradığını söylemek için sıradaki kritik test gerçek tarla koşulları olacak. Bugünkü sonuç şunu gösteriyor: Makine öğrenmesi, milyonlarca aday arasından davranış üzerinde gerçekten etkili molekülleri seçmek için güçlü bir filtre olabilir. Ama “arılara zarar vermeyen kovucu tarım ürünü hazır” noktasına henüz gelmiş değiliz."
+      ],
+      "takeaway": "Yapay zeka, 50 milyondan fazla molekül arasından bal arılarını uzak tutan 130'dan fazla koku adayı buldu.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "ari",
+          "label": "arı",
+          "url": "etiket/ari.html"
+        },
+        {
+          "slug": "yapayzeka",
+          "label": "yapayzeka",
+          "url": "etiket/yapayzeka.html"
+        },
+        {
+          "slug": "tarim",
+          "label": "tarım",
+          "url": "etiket/tarim.html"
+        },
+        {
+          "slug": "koku",
+          "label": "koku",
+          "url": "etiket/koku.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "eLife (2026)",
+          "url": "https://doi.org/10.7554/eLife.104831"
+        }
+      ],
+      "image_credits": [
+        "Kowalewski J ve ark., eLife 2026 (10.7554/eLife.104831), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "bHqByD-pOf0"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/bHqByD-pOf0"
+        }
+      ]
+    },
+    {
+      "id": "proj_effeb0fc8f",
+      "slug": "2026-10-09-tarlaya-kirec-atmak-gercekten-karbondioksit-saliyor-mu",
+      "url": "yazi/2026-10-09-tarlaya-kirec-atmak-gercekten-karbondioksit-saliyor-mu.html",
+      "date": "2026-10-09T08:30:12.910119+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Tarlaya Kireç Atmak Gerçekten Karbondioksit Salıyor mu?",
+      "standfirst": "Mississippi Nehri Havzası'nın yüz yıllık verilerini inceleyen araştırmacılar, tarımsal kireçlemenin kısa vadede karbondioksit salmasına rağmen uzun vadede atmosferden net karbon çeken bir sürece…",
+      "paragraphs": [
+        "Asitli toprak tarım için ciddi bir sorun olabilir. Toprak fazla asidik olduğunda birçok bitkinin besin maddelerine erişimi zorlaşır ve verim düşebilir. Bu nedenle çiftçiler uzun süredir tarlalara ince öğütülmüş kireç taşı veya dolomit serper. Buna kireçleme denir. Kimyasal açıdan burada bilinen bir sorun var: kireç taşı asitle tepkimeye girdiğinde karbondioksit açığa çıkarabilir. Bu yüzden tarımsal karbon hesaplarında kireç kullanımı genellikle bir CO₂ kaynağı olarak değerlendirilir. Yeni çalışma ise farklı bir karşılaştırma yapıyor: Kireç hiç kullanılmasaydı aynı topraktaki asit ne kadar CO₂ açığa çıkaracaktı?",
+        "Toprağı asitleştiren süreçlerin önemli bir bölümü insan faaliyetlerinden geliyor. Azotlu gübreler toprakta asit oluşturabiliyor. Fosil yakıtlardan kaynaklanan tarihsel asit yağmurları da toprağa asit taşıdı. Araştırmacıların temel savı şu: Kireçten çıkan CO₂'yi tek başına saymak, kireç kullanılmasaydı aynı insan kaynaklı asidin toprakta ne yapacağını hesaba katmıyor olabilir. Dolayısıyla doğru karşılaştırma “kireç var ve CO₂ çıkıyor” ile “kireç yok ve hiçbir şey olmuyor” arasında değil. Aynı asit yükünün kireçli ve kireçsiz toprakta ne yaptığı arasında olmalı.",
+        "Araştırmacılar ABD'nin en büyük tarım bölgelerinden biri olan Mississippi Nehri Havzası'nı inceledi. Havza, ABD'nin kıta topraklarının yaklaşık yüzde 41'ini ve tarım arazilerinin yaklaşık yüzde 65'ini kapsıyor. Ekip yaklaşık yüz yıllık kireç kullanımı, gübre ve asit yağmuru kayıtlarını bir toprak kimyası modelinde birleştirdi. Ama yalnızca modele güvenmedi. Aynı zamanda nehirlerin onlarca yıl boyunca taşıdığı bikarbonat miktarını bağımsız olarak hesapladı. Bikarbonat, karbonun suda çözünmüş biçimlerinden biridir. Eğer atmosferik CO₂ mineral tepkimeleriyle bikarbonata dönüşüyorsa, bu karbon nehirler yoluyla uzun süreli olarak taşınabilir. İki farklı yaklaşımın benzer sonuca çıkması çalışmanın temel dayanaklarından biri.",
+        "Çalışma “kireç CO₂ salmaz” demiyor. Kireç toprağa ilk uygulandığında birikmiş asitle tepkimeye giriyor ve kısa vadede karbondioksit açığa çıkıyor. Fark zaman ölçeğinde ortaya çıkıyor. Kireç toprağın kimyasını değiştirdikçe daha sonraki yıllarda sisteme gelen insan kaynaklı asitlerin etkisini nötrlüyor. Bu süreç sırasında atmosferden gelen karbon bikarbonat haline bağlanıp nehir sistemine taşınabiliyor. Araştırmacıların hesabına göre net etki onlarca yıl içinde yön değiştiriyor: ilk başta kaynak olan sistem uzun vadede karbon yutağına dönüşebiliyor.",
+        "1900 ile 2015 arasında Mississippi Havzası'na uygulanan kirecin teorik olarak bağlayabileceği toplam karbondioksit yaklaşık 0,444 milyar ton olarak hesaplandı. Nehirlerin taşıdığı bikarbonattan yapılan bağımsız hesap yaklaşık 0,401 milyar ton CO₂ eşdeğerinde bir çekime işaret etti. Bu değer teorik kapasitenin yaklaşık yüzde 90'ı. Belirsizlik yaklaşık ± yüzde 21. Toprak kimyası modeli de net bir yutak gösteriyor ancak daha geniş bir aralık veriyor: yaklaşık 0,22 ile 0,37 milyar ton CO₂. İki yöntem aynı sayıya ulaşmıyor. Fakat ikisi de uzun vadede “kireç yalnızca karbon kaynağıdır” şeklindeki basit tablonun yeterli olmayabileceğini gösteriyor.",
+        "Araştırmacılar 1980 yılı için de bir karşılaştırma yaptı. Havzadaki insan kaynaklı asit yükünün, kireç hiç kullanılmasaydı yılda yaklaşık 20 milyon ton CO₂ açığa çıkarabileceği hesaplandı. Kireçleme varken bu değer yaklaşık 15 milyon tona düşüyordu. Buna karşılık mevcut muhasebe yaklaşımları kullanılan kirecin kendisini ayrıca bir emisyon kaynağı olarak yazabiliyor. Çalışmada verilen karşılaştırmaya göre IPCC varsayılan yaklaşımı yaklaşık 7 milyon ton, ABD'nin ulusal yaklaşımı yaklaşık 3,5 milyon ton CO₂ düzeyinde bir emisyon atfedebiliyor. Araştırmacılar “IPCC yanlış” demiyor. Onların savı, varsayılan katsayının havza ölçeğinde kirecin kullanılmadığı karşıt senaryoda aynı asit yükünün yaratacağı karbon salımını hesaba katmadığı yönünde.",
+        "Kireç ve asit arasındaki tepkimeler sonunda çözünmüş bikarbonat üretebiliyor. Bu bikarbonat toprak suyuna, yeraltı suyuna ve ardından nehirlere taşınıyor. Bu yol hızlı değil. Yeraltı suyu yaklaşık 10 yıllık ek gecikme yaratabiliyor. Toplam gecikme onlarca yıl ölçeğinde ve belirsizliği yaklaşık 30 yıla ulaşabiliyor. Bu yüzden “bugün kireç attım, yarın karbon çektim” gibi bir mekanizma söz konusu değil. Önce kısa vadeli bir salım var. Net yutak etkisi çok daha uzun zaman ölçeğinde ortaya çıkıyor.",
+        "Hayır. Çalışma Mississippi Havzası'ndaki olağan tarımsal kireçleme miktarları ve bölgenin toprak-asit dengesi üzerine kurulu. Başka bölgelerde iklim, toprak mineralleri, yağış, gübre kullanımı ve kireç miktarı çok farklı olabilir. Araştırmacılar ayrıca havzanın tamamında insan kaynaklı asit girdisinin hala kireç kullanımından fazla olduğunu belirtiyor. Dolayısıyla çalışma “ne kadar çok kireç, o kadar çok karbon çekimi” gibi bir öneri sunmuyor.",
+        "Çünkü yalnızca bir kimyasal tepkimenin ilk anına bakmak bazen sistemin tamamını kaçırabilir. Kireç toprağa düştüğünde CO₂ çıkması gerçek. Fakat o toprağa asidi hangi sürecin getirdiği, kireç olmadığında asidin ne yapacağı ve oluşan karbonun yıllar sonra nerede sonlanacağı da karbon bütçesinin parçaları. Yeni çalışma tarımsal kireçlemeyi bir iklim çözümü olarak sunmuyor. Daha temel bir şey söylüyor: Mississippi Havzası'nda yaklaşık yüz yıllık kimya ve nehir verileri birlikte değerlendirildiğinde, kireçleme uzun vadede net bir karbon yutağı gibi davranmış görünüyor."
+      ],
+      "takeaway": "Tarlaya kireç atmak, iklim hesaplarında karbondioksit kaynağı sayılıyor.",
+      "impact": null,
+      "category": {
+        "slug": "cevre",
+        "label": "Çevre",
+        "url": "kategori/cevre.html"
+      },
+      "tags": [
+        {
+          "slug": "cevre",
+          "label": "çevre",
+          "url": "etiket/cevre.html"
+        },
+        {
+          "slug": "iklim",
+          "label": "iklim",
+          "url": "etiket/iklim.html"
+        },
+        {
+          "slug": "karbon",
+          "label": "karbon",
+          "url": "etiket/karbon.html"
+        },
+        {
+          "slug": "tarim",
+          "label": "tarım",
+          "url": "etiket/tarim.html"
+        },
+        {
+          "slug": "toprak",
+          "label": "toprak",
+          "url": "etiket/toprak.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-11040-2"
+        }
+      ],
+      "image_credits": [],
+      "video": {
+        "youtube": "ecPV840qtSU"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/ecPV840qtSU"
+        }
+      ]
+    },
+    {
+      "id": "proj_9b51483258",
+      "slug": "2026-10-09-bir-balik-arkadasinin-bir-anda-kaybolmasini-tehlike-olarak-o",
+      "url": "yazi/2026-10-09-bir-balik-arkadasinin-bir-anda-kaybolmasini-tehlike-olarak-o.html",
+      "date": "2026-10-09T08:30:12.905730+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Bir Balık, Arkadaşının Bir Anda Kaybolmasını Tehlike Olarak Okuyor",
+      "standfirst": "Danionella cerebrum adlı küçük sürü balığında bazı beyin hücreleri, başka bir balık hızla kaçtığında da bir anda görüntüden kaybolduğunda da benzer biçimde etkinleşiyor.",
+      "paragraphs": [
+        "Sürü halinde yaşamanın önemli bir avantajı var: herkesin tehlikeyi kendisinin görmesine gerek yok. Bir balık avcıyı fark edip kaçarsa, komşuları avcıyı hiç görmemiş olsa bile onun hareketinden bir sorun olduğunu anlayabilir. Peki beyin, komşunun kaçtığını hangi görsel işaretten anlıyor? Araştırmacılar bu soruyu Danionella cerebrum adlı küçük bir sürü balığında inceledi.",
+        "Balıklara ekranda hızla yaklaşan karanlık bir küre gösterildi. Bu, yaklaşan bir avcıyı taklit ediyordu. Tek başına yüzen balıkta kaçış sırasında hız artışı saniyede yaklaşık 6 milimetreydi. Dörtlü gruplarda ise bu değer saniyede 17,3 milimetreye çıktı. Balıkların birbirine olan mesafesi kaçış sırasında başlangıç değerinin yaklaşık yüzde 150'sine ulaştı. Yaklaşık 10 saniye sonra grup yeniden toplandı. Daha da önemlisi, yaklaşan küreyi geç gören veya hiç görmeyen balıklar da komşuları erken kaçmışsa daha erken tepki verebiliyordu. Bu, tehlike bilgisinin yalnızca avcı benzeri uyaranı doğrudan görmekten gelmediğini gösteriyordu.",
+        "Ekip daha sonra ekranda gerçek balıkların yüzüşünü taklit eden üç boyutlu sanal balıklar oluşturdu. Gerçek balık sanal sürüye yaklaşık 16 milimetre yaklaştığında sanal balıklar programlı biçimde hızla uzaklaşıyordu. Gerçek balık da onlardan uzaklaşıyordu. Kaçan sanal balık sayısı arttıkça gerçek balığın uzaklaşma miktarı da artıyordu. Bu düzenek sayesinde araştırmacılar tek bir görsel ayrıntıyı değiştirerek şunu sorabildi: Sanal balığın gerçekten kaçması mı gerekiyor, yoksa sadece ortadan kaybolması yeterli mi?",
+        "Bazı nöronlar sanal balık hızla kaçtığında etkinleşiyordu. Fakat aynı hücrelerin önemli bir bölümü, sanal balık hiç kaçış hareketi yapmadan bir anda ekrandan kaybolduğunda da etkinleşti. Toplamda kaçış veya kaybolmaya duyarlı 5.208 nöron belirlendi. Bu hücrelerin yaklaşık yüzde 45'i optik tektumda, yüzde 13'ü talamusta bulunuyordu. Araştırmacılar nöron etkinliğinden sanal balığın gerçekten kaçıp kaçmadığını veya yalnızca kaybolduğunu tahmin etmeye çalışan bir model kurdu. Modelin başarısı yüzde 50,2 oldu. İki seçenekli bir soruda bu neredeyse şans düzeyi. Başka bir ifadeyle, incelenen nöral etkinlik açısından “arkadaşım kaçtı” ile “arkadaşım birden gözden kayboldu” birbirine çok benziyordu.",
+        "Sanal balıklar normal biçimde kaçtığında gerçek balık ortalama yaklaşık 84 milimetre uzaklaştı. Sanal balıklar yalnızca aniden kaybolduğunda uzaklaşma yaklaşık 70 milimetreydi. Hiçbir şey yapmadıklarında ise yaklaşık 40 milimetreydi. Ama önemli bir şart vardı. Sanal balıkların öncesindeki hareketi gerçek balık hareketine benzemeliydi. Eğer nesneler doğal balıkların ani hamle ve süzülme düzeni yerine düz ve yapay bir hızla kayıyorsa, kaybolmaları aynı etkiyi yaratmıyordu. Yani beyin yalnızca “bir şekil yok oldu” demiyor. Önce onun balık gibi hareket eden bir şey olduğunu tanımış olması gerekiyor.",
+        "Danionella cerebrum bulanık sularda yaşayan hızlı bir balık. Görüş mesafesinin sınırlı olduğu bir ortamda komşu balık kaçarken çok kısa sürede görünür alandan çıkabilir. Bu nedenle “balık gibi hareket eden komşum bir anda yok oldu” bilgisi pratik bir kestirme olabilir. Balık avcının kendisini görmemiş olsa bile yakınında bir sorun olduğunu anlayabilir. Bu sinyal tehlikenin hangi yönde olduğunu söylemiyor. Deneylerde balıklar tek bir yöne topluca kaçmak yerine daha çok dağılıyor.",
+        "Bilmiyoruz. Davranış deneyleri laboratuvar ortamında ekran üzerindeki sanal uyaranlarla yapıldı. Gerçek avcılarla doğal ortamda aynı mekanizmanın kullanıldığı gösterilmedi. Beyin görüntüleme deneylerinde balıkların başı sabitlenmişti. Ayrıca sonuç yalnızca Danionella cerebrum türünde gösterildi. Başka sürü balıklarında veya başka sosyal hayvanlarda aynı kestirmenin kullanılıp kullanılmadığı bilinmiyor. Nöronların bu “kaybolma” sinyalini tam olarak nasıl oluşturduğu da açık değil.",
+        "Çalışmanın ilginç yönü, sosyal alarm davranışının çok karmaşık bir mesajlaşma sistemi gerektirmeyebileceğini göstermesi. Kaçan balık arkadaşlarını bilinçli olarak uyarmıyor. Diğer balık yalnızca onun hareketini görüyor ve basit bir görsel kural kullanıyor olabilir: Balık gibi hareket eden bir şey aniden gözden kaybolduysa, uzaklaş. Bu kadar basit bir sinyal, sürüdeki bir bireyin hiç görmediği bir tehlikeye hızlı tepki vermesine yetebilir."
+      ],
+      "takeaway": "Minik cam balığı Danionella cerebrum, yanındaki balığın aniden gözden kaybolmasını tehlike işareti olarak okuyup kaçıyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "balik",
+          "label": "balık",
+          "url": "etiket/balik.html"
+        },
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        },
+        {
+          "slug": "suru",
+          "label": "sürü",
+          "url": "etiket/suru.html"
+        },
+        {
+          "slug": "noron",
+          "label": "nöron",
+          "url": "etiket/noron.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-11041-1"
+        }
+      ],
+      "image_credits": [
+        "AngryBurmese, Wikimedia Commons, CC BY 4.0",
+        "Yu JH ve ark., Nature 2026 (10.1038/s41586-026-11041-1), CC BY 4.0",
+        "Yu JH ve ark., Nature 2026 (10.1038/s41586-026-11041-1), CC BY 4.0 — Türkçe etiket eklendi",
+        "Hoffmann M ve ark., Nature Communications 2023 (10.1038/s41467-023-43741-x), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "KlE5ouHYKVw"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/KlE5ouHYKVw"
+        }
+      ]
+    },
+    {
+      "id": "proj_5eeef99254",
+      "slug": "2026-10-09-karsit-madde-bir-kimyasal-bag-kurabilir-mi",
+      "url": "yazi/2026-10-09-karsit-madde-bir-kimyasal-bag-kurabilir-mi.html",
+      "date": "2026-10-09T08:30:12.902455+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Karşıt Madde Bir Kimyasal Bağ Kurabilir mi?",
+      "standfirst": "Kuantum hesapları, iki negatif hidrojen anyonunun elektronlar tarafından değil, iki pozitronun oluşturduğu ortak bir bulut sayesinde bağlanabileceğini gösteriyor.",
+      "paragraphs": [
+        "Kimyada en tanıdık bağ türlerinden biri kovalent bağdır. İki atom elektronlarını paylaşır ve ortak elektron bulutu iki çekirdeği bir arada tutar. İyonik bağda zıt yüklerin çekimi ön plana çıkar. Van der Waals etkileşimleri ise çok daha zayıf çekimlerdir. Peki ortaklaşa kullanılan parçacık elektron değil de pozitron olursa? Pozitron, elektronun karşıt madde eşidir. Aynı kütleye sahiptir fakat elektrik yükü pozitiftir. Yeni çalışma tam olarak böyle sıra dışı bir sistemi hesaplıyor.",
+        "İncelenen yapı iki proton, dört elektron ve iki pozitrondan oluşuyor. Bunu iki hidrojen anyonu ve onların çevresindeki iki pozitron olarak düşünebiliriz. Hidrojen anyonu negatif yüklüdür. İki negatif iyonu yan yana koyduğunuzda doğal beklenti birbirlerini itmeleridir. Fakat daha önceki kuantum hesapları, iki pozitron sisteme eklendiğinde bu iki parçanın birbirine tutunabildiğini göstermişti. Tartışma şuydu: Bu tutunma gerçekten kovalent bir bağ mı, iyonik bir çekim mi, yoksa alışılmadık güçlü bir van der Waals etkileşimi mi?",
+        "Araştırmacılar sistemi kuantum Monte Carlo denen hassas bir hesaplama yöntemiyle inceledi. Daha sonra sisteme dışarıdan bir elektrik alan uygulayıp yük dağılımının nasıl tepki verdiğine baktılar. Elektronlar büyük ölçüde kendi protonlarının çevresinde kaldı. Elektrik alan altında daha belirgin biçimde yer değiştiren şey ise pozitron bulutu oldu. İki pozitron, iki parçayı çevreleyen ortak bir kuantum dağılımına yayılıyordu. Araştırmacılar bu tepkinin, normal moleküllerdeki zayıf kovalent bağların davranışına benzediğini savunuyor.",
+        "Klasik bir kovalent bağda elektron yoğunluğu iki çekirdeği kapsayan ortak bir moleküler yapıya dönüşür. Bu hesaplamada önerilen şey benzer bir fikir. Fakat ortaklaşa yayılan parçacıklar negatif elektronlar değil, pozitif yüklü pozitronlar. Bu nedenle çalışma, ortak bağ kurma davranışının yalnızca elektronlara özgü olup olmadığını sorguluyor.",
+        "Hesaplanan bağ enerjisi yaklaşık 6,5 kilokalori/mol. Bu sıradan güçlü kovalent bağlarla karşılaştırıldığında düşük bir değer. Van der Waals etkileşimleri çoğu zaman yaklaşık 1-4 kilokalori/mol aralığında olabilir. Dolayısıyla bu sistem van der Waals çekiminden birkaç kat daha güçlü, fakat güçlü bir klasik kimyasal bağ düzeyinde değil. Asıl ilginçlik bağın gücü değil, hangi parçacığın ortak bağlayıcı rolü üstlendiği.",
+        "Evet. Pozitron ve elektron karşılaştığında birbirlerini yok ederek gama ışınları üretebilir. PET görüntülemenin temel fiziksel mekanizması da buna dayanır. Fakat pozitronlar yok olmadan önce kısa sürelerle atomlara ve moleküllere bağlanabilir. Deneysel olarak yaklaşık yüz molekülün pozitron bağlayabildiği doğrulanmış durumda. Bu tür birleşimlerin ömrü nanosaniye mertebesinde. Dolayısıyla burada kalıcı, şişeye koyup saklanabilecek bir karşıt madde molekülünden söz etmiyoruz.",
+        "Hayır. Bu en önemli çekince. Çalışma tamamen hesaplamaya dayanıyor. İki pozitronlu bu sistem laboratuvarda oluşturulup doğrudan ölçülmüş değil. Üstelik bağın nasıl sınıflandırılması gerektiği konusunda daha önce farklı yorumlar yapıldı. Yeni çalışma, elektrik alan altındaki polarizasyon davranışına bakarak kovalent yorumu savunuyor. Yani sonuç “kimyada yeni bağ türü kesin olarak keşfedildi” değil. Daha doğru ifade şu: Bu kuantum sisteminin yük dağılımı, pozitronların iki parçayı ortaklaşa bağladığı zayıf bir kovalent bağ gibi yorumlanabilecek özellikler gösteriyor.",
+        "Çünkü kimyasal bağ kavramının temelinde belirli bir parçacığın adı değil, kuantum sistemindeki ortaklaşa yük dağılımı olabilir. Eğer ileride bu tür sistemler deneysel olarak üretilebilir ve ölçülebilirse, pozitronların egzotik moleküler yapılarda aktif bağlayıcı bileşenler olabildiği gösterilebilir. Şimdilik bu fikir bilgisayar üzerinde. Ama temel bilimde bazen ilk önemli adım, önce “böyle bir şey kuantum mekaniğine göre mümkün mü?” sorusuna güvenilir bir hesapla cevap vermektir."
+      ],
+      "takeaway": "Bilgisayar hesapları, iki hidrojen anyonunu birbirine bağlayan şeyin elektronlar değil, karşıt madde parçacıkları olan iki pozitron olduğunu gösteriyor.",
+      "impact": null,
+      "category": {
+        "slug": "fizik",
+        "label": "Fizik",
+        "url": "kategori/fizik.html"
+      },
+      "tags": [
+        {
+          "slug": "fizik",
+          "label": "fizik",
+          "url": "etiket/fizik.html"
+        },
+        {
+          "slug": "karsitmadde",
+          "label": "karşıtmadde",
+          "url": "etiket/karsitmadde.html"
+        },
+        {
+          "slug": "pozitron",
+          "label": "pozitron",
+          "url": "etiket/pozitron.html"
+        },
+        {
+          "slug": "kimya",
+          "label": "kimya",
+          "url": "etiket/kimya.html"
+        },
+        {
+          "slug": "kuantum",
+          "label": "kuantum",
+          "url": "etiket/kuantum.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aej0387"
+        }
+      ],
+      "image_credits": [
+        "Kutudaki Kedi şeması (Charry ve Tkatchenko, Science Advances 2026 anlatımına göre)"
+      ],
+      "video": {
+        "youtube": "znq6OCf_t4M"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/znq6OCf_t4M"
+        }
+      ]
+    },
+    {
+      "id": "proj_570c013c35",
+      "slug": "2026-10-09-konusmaniz-biyolojik-yasiniz-hakkinda-ipucu-verebilir-mi",
+      "url": "yazi/2026-10-09-konusmaniz-biyolojik-yasiniz-hakkinda-ipucu-verebilir-mi.html",
+      "date": "2026-10-09T08:30:12.899285+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Konuşmanız Biyolojik Yaşınız Hakkında İpucu Verebilir mi?",
+      "standfirst": "Yöntem henüz bir tanı testi değil.",
+      "paragraphs": [
+        "Bir insanın takvim yaşını bilmek kolaydır. Biyolojik yaş ise daha karmaşıktır. Aynı yaşta iki insanın beyni, hücreleri ve başka dokuları aynı hızda yaşlanmayabilir. Bu nedenle bilim insanları yaşlanmayı ölçmek için beyin görüntüleme, kan belirteçleri ve DNA üzerindeki kimyasal değişimler gibi yöntemler kullanıyor. Bunların çoğu pahalı veya zahmetli. Yeni çalışma ise çok daha kolay elde edilen bir veriye bakıyor: konuşmaya.",
+        "Araştırmacılar Arjantin, Şili, Kolombiya, Meksika ve Peru'dan toplam 2.928 İspanyolca konuşanın ses kayıtlarını topladı. Katılımcılar arasında sağlıklı bireylerin yanı sıra hafif bilişsel bozukluk, Alzheimer ve frontotemporal demansın iki farklı türü bulunan kişiler de vardı. Seslerin akustik özellikleri ve kullanılan dilin özellikleri çok sayıda ölçüye dönüştürüldü. Bir makine öğrenmesi modeli bu verilerden kişinin yaşını tahmin etmeyi öğrendi. Araştırmacılar daha sonra tahmin edilen yaş ile gerçek yaş arasındaki farkı hesapladı. Buna “konuşma yaşı açığı” adını verdiler. Model bir kişiyi gerçek yaşından daha yaşlı tahmin ediyorsa açık pozitif oluyor.",
+        "Konuşma yaşı açığı sağlıklı kişilerde daha küçüktü. Demans tanısı olan gruplarda ise daha büyüktü. Hastalık grupları arasında da bir sıralama görüldü: Alzheimer grubundan dili etkilemeyen frontotemporal demansa, oradan dili etkileyen frontotemporal demansa doğru açık büyüdü. Bu tek başına şaşırtıcı olmayabilir; bazı nörolojik hastalıklar konuşmayı doğrudan etkiler. Çalışmayı daha ilginç yapan şey, bu farkın başka yaşlanma ölçümleriyle de birlikte değişmesi.",
+        "Demans gruplarında konuşma yaşı açığı, beyin görüntülerinden hesaplanan beyin yaşıyla ilişkiliydi. Sağlıklı kişilerde ve Alzheimer hastalarında, DNA metilasyonundan hesaplanan bazı epigenetik yaş ölçümleriyle de bağlantı görüldü. Alzheimer grubunda ayrıca kandaki p-tau217 düzeyiyle ilişki bulundu. p-tau217, Alzheimer araştırmalarında kullanılan önemli biyolojik belirteçlerden biri. Bu sonuçlar konuşmanın, vücuttaki ve beyindeki bazı yaşlanma süreçleriyle birlikte değişebileceğini düşündürüyor.",
+        "Araştırmacılar ekonomik zorluk, gıda güvencesizliği, sağlık hizmetlerine erişim, eğitim ve zor çocukluk deneyimleri gibi sosyal değişkenleri de inceledi. Sağlıklı kişilerde ve Alzheimer grubunda konuşma yaşı açığı bu sosyal koşullarla da ilişkiliydi. Buradan “yoksulluk sesi yaşlandırıyor” sonucu çıkarılamaz. Çalışma kesitsel. Yani insanları yıllarca takip edip bir sosyal koşulun daha sonra konuşmayı değiştirdiğini göstermiyor. Yalnızca bazı sosyal dezavantajlar ile daha büyük konuşma yaşı farklarının birlikte görülebildiğini gösteriyor.",
+        "Hayır. Çalışmanın en önemli sınırı bu. Katılımcılar tek bir zaman noktasında incelendi. Konuşma yaşı açığı yüksek bir kişinin ileride demans geliştirip geliştirmediği takip edilmedi. Dolayısıyla bugün birinin ses kaydını alıp gelecekte Alzheimer olup olmayacağını söylemek bu çalışmanın desteklediği bir kullanım değil. Yazarlar yöntemi hazır bir tanı testi olarak değil, aday bir biyobelirteç ve araştırma aracı olarak görüyor. Üstelik çalışma yalnızca İspanyolca konuşan ve beş Latin Amerika ülkesinden gelen kişilerle yapıldı. Başka dillerde ve toplumlarda aynı yaklaşımın aynı şekilde çalışıp çalışmadığı bilinmiyor.",
+        "Konuşma kaydı toplamak beyin taraması veya laboratuvar testi yapmaktan çok daha kolaydır. Eğer gelecek çalışmalar konuşma temelli bu tür ölçümlerin zaman içindeki değişimi güvenilir biçimde izleyebildiğini gösterirse, büyük grupları düşük maliyetle takip etmek için yeni bir araç ortaya çıkabilir. Fakat bugün için sonuç daha sınırlı: Konuşmadan tahmin edilen yaş ile gerçek yaş arasındaki fark, bazı demans tanıları ve başka biyolojik yaşlanma ölçümleriyle birlikte değişiyor. Sesimiz yaşlanma hakkında bilgi taşıyor olabilir. Bunun gerçek bir erken tanı aracına dönüşüp dönüşmeyeceğini anlamak için uzun süreli çalışmalara ihtiyaç var."
+      ],
+      "takeaway": "Beş Latin Amerika ülkesinden 2.928 kişinin konuşmasıyla eğitilen bir yapay zeka, sesten yaş tahmin ediyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "sağlık",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "ses",
+          "label": "ses",
+          "url": "etiket/ses.html"
+        },
+        {
+          "slug": "demans",
+          "label": "demans",
+          "url": "etiket/demans.html"
+        },
+        {
+          "slug": "yaslanma",
+          "label": "yaşlanma",
+          "url": "etiket/yaslanma.html"
+        },
+        {
+          "slug": "alzheimer",
+          "label": "alzheimer",
+          "url": "etiket/alzheimer.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aef9864"
+        }
+      ],
+      "image_credits": [],
+      "video": {
+        "youtube": "4lexvH_TCN4"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/4lexvH_TCN4"
+        }
+      ]
+    },
+    {
+      "id": "proj_1426a37dc9",
+      "slug": "2026-10-09-kara-delikler-jeti-ziyafet-sonerken-firlatiyor",
+      "url": "yazi/2026-10-09-kara-delikler-jeti-ziyafet-sonerken-firlatiyor.html",
+      "date": "2026-10-09T08:30:12.896019+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Kara Delikler Jeti Ziyafet Sönerken Fırlatıyor",
+      "standfirst": "Kara deliklerin en gösterişli davranışlarından biri, çevrelerindeki maddenin bir bölümünü kutuplarından çok yüksek hızlarda uzaya fırlatmalarıdır.",
+      "paragraphs": [
+        "Kara deliklerin en gösterişli davranışlarından biri, çevrelerindeki maddenin bir bölümünü kutuplarından çok yüksek hızlarda uzaya fırlatmalarıdır. Bu yapılara jet diyoruz. İlk bakışta basit bir tahmin yapmak mümkün: Kara delik ne kadar çok madde yutarsa jet de o kadar güçlü şekilde ortaya çıkmalı. Fakat yıldız kütleli kara deliklerde gözlenen tablo daha ilginç. Jetlerin belirginleştiği geçiş, beslenmenin en yüksek olduğu anda değil; beslenme hızı belirli bir seviyeye düştüğünde gerçekleşebiliyor. Bu kritik düzey, Eddington sınırının yaklaşık yüzde ikisi civarında. Yeni çalışmanın temel sorusu şu: Aynı kural, kütlesi milyonlarca Güneş'e ulaşan dev kara deliklerde de geçerli olabilir mi?",
+        "Galaksilerin merkezindeki süper kütleli kara deliklerin beslenme düzeni insan açısından son derece yavaş değişir. Bir yıldız kütleli kara deliğin durum değişimini günler veya aylar içinde görebiliriz. Fakat dev bir kara deliğin benzer döngüsü yüz binlerce yıl sürebilir. Bir astronomun “başlangıçtan sona” izlemesi mümkün değildir. Araştırmacılar bu zaman problemini yıldız parçalanma olaylarıyla aşmaya çalıştı. Bir yıldız dev bir kara deliğe fazla yaklaştığında kara deliğin gelgit kuvvetleri yıldızı parçalayabilir. Yıldızdan kopan madde kara deliğin çevresinde geçici bir beslenme diski oluşturur. Böylece normalde çok uzun süren bir beslenme döngüsünün hızlandırılmış bir versiyonu birkaç yıl içinde gözlenebilir.",
+        "Ekip optik, morötesi, X ışını ve radyo gözlemleri bulunan 20 yıldız parçalanma olayını topladı. Ancak bütün olaylarda yeterli veri yoktu. Ayrıntılı sonuç çıkarılabilen örneklem 10 olay ve 11 radyo parlamasından oluştu. Araştırmacılar radyo tayflarını farklı zamanlarda modelleyerek dışarı fırlatılan maddenin büyüklüğünün nasıl değiştiğini hesapladı. Buradan geriye giderek jetin yaklaşık ne zaman fırlatıldığını belirlediler. Ayrı olarak ışık eğrilerini bir disk modeliyle yorumlayıp aynı anda kara deliğin tahmini beslenme hızını çıkardılar. Burada kritik bir ayrıntı var: Beslenme hızı doğrudan ölçülen bir sayı değil. Bir model aracılığıyla hesaplanıyor.",
+        "Bazı radyo parlamaları yıldız parçalanma olayının en parlak döneminden sonraki ilk 100 gün içinde başladı. Bu erken grupta kara deliğin beslenmesinin Eddington sınırının üzerinde olduğu düşünülüyor. Kullanılan model bu bölgede daha belirsiz olduğu için araştırmacılar burada kesin bir oran vermekten kaçınıyor. İkinci grup çok daha geç ortaya çıktı. Bazı jetler yüzlerce, hatta 1.500 günden fazla süre sonra başladı. İşte bu geç jetlerin başladığı anda tahmini beslenme hızı Eddington sınırının yaklaşık yüzde üçü civarındaydı. Veriden bağımsız yapılan uyum kritik eşiği yüzde 2,7 civarında buldu. Bu sayı neden dikkat çekici? Çünkü yıldız kütleli küçük kara deliklerde yıllardır bilinen jet geçişi yaklaşık yüzde iki civarında.",
+        "Bir yıldız kütleli kara delik kabaca 10 Güneş kütlesinde olabilir. Galaksi merkezlerindeki kara delikler ise milyonlarca veya yüz milyonlarca Güneş kütlesine ulaşabilir. Arada yaklaşık yedi basamaklık bir kütle farkı var. Buna rağmen her iki sistemin de benzer oransal beslenme hızında jet üreten bir duruma geçmesi, kara delik fiziğinde ölçekten bağımsız bir süreç olabileceğini düşündürüyor. Başka bir ifadeyle, jetin ortaya çıkmasını belirleyen şey mutlak miktarda kaç kilogram maddenin düştüğü değil; kara deliğin kendi doğal beslenme sınırına göre hangi durumda olduğu olabilir.",
+        "Henüz bunu söylemek için erken. Örneklem küçük. Sonuç çıkarılabilen yalnızca 10 yıldız parçalanma olayı var. Ayrıca hesaplamada dışarı fırlatılan maddenin hızının zaman boyunca sabit kaldığı varsayılıyor. Yazarlar bunun sonuç üzerinde en etkili varsayımlardan biri olduğunu özellikle belirtiyor. Çalışma kritik eşiğin jet oluşumu için gerekli olabileceğini gösteriyor, fakat tek başına yeterli olup olmadığını göstermiyor. Yani beslenme yüzde ikiye düştüğü anda her kara deliğin mutlaka jet üretmesi gerektiği sonucu çıkmıyor. Yine de sonuç doğru çıkarsa güzel bir fiziksel birliktelik ortaya koyuyor: çok farklı boyutlardaki kara delikler, beslenme biçimleri değişirken aynı oransal eşiğin çevresinde benzer davranışlar gösterebilir."
+      ],
+      "takeaway": "Bir yıldızı parçalayan dev kara delikler, beslenme hızları Eddington sınırının yüzde ikisine düştüğünde jet fırlatıyor; bu eşik, yıldız kütleli küçük kara deliklerde ölçülen eşiğin aynısı.",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Astronomi",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "karadelik",
+          "label": "karadelik",
+          "url": "etiket/karadelik.html"
+        },
+        {
+          "slug": "jet",
+          "label": "jet",
+          "url": "etiket/jet.html"
+        },
+        {
+          "slug": "astronomi",
+          "label": "astronomi",
+          "url": "etiket/astronomi.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Astronomy (2026)",
+          "url": "https://doi.org/10.1038/s41550-026-02951-1"
+        }
+      ],
+      "image_credits": [
+        "ESO/M. Kornmesser and L. Calçada",
+        "ESA, NASA, L. Calçada",
+        "ESO/MPE/M. Schartmann/L. Calçada",
+        "NASA's Scientific Visualization Studio / Alex Kekesi",
+        "Goodwin AJ, Mummery A, arXiv:2602.14838 (Nature Astronomy 2026), CC BY 4.0",
+        "ESO/C. Malin (christophmalin.com)",
+        "ESO/M.Kornmesser",
+        "ESA/Webb, NASA & CSA, H. Atek, M. Zamani (ESA/Webb), N. Bartmann (ESA/Webb)"
+      ],
+      "video": {
+        "youtube": "RkZx2Mh164A"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/RkZx2Mh164A"
+        }
+      ]
+    },
+    {
+      "id": "proj_b4654319d6",
+      "slug": "2026-10-09-gronland-in-cokuyor-alarmi-yanlis-bir-isaretten",
+      "url": "yazi/2026-10-09-gronland-in-cokuyor-alarmi-yanlis-bir-isaretten.html",
+      "date": "2026-10-09T08:30:12.891710+00:00",
+      "date_text": "9 Ekim 2026",
+      "draft": false,
+      "title": "Grönland'ın 'Çöküyor' Alarmı Yanlış Bir İşaretten",
+      "standfirst": "Grönland buz tabakası, küresel deniz seviyesi açısından dünyanın en kritik buz kütlelerinden biri.",
+      "paragraphs": [
+        "Grönland buz tabakası, küresel deniz seviyesi açısından dünyanın en kritik buz kütlelerinden biri. Bu nedenle bilim insanları yalnızca ne kadar buz kaybettiğini değil, sistemin geri dönüşü zor bir değişime yaklaşıp yaklaşmadığını da anlamaya çalışıyor.",
+        "Daha önce yapılan bir çalışma, Grönland'ın yüzey buz dengesindeki bazı istatistiksel değişimleri böyle bir “erken uyarı işareti” olarak yorumlamıştı. Robel ve çalışma arkadaşlarının yeni analizi ise bu göstergelerin sanıldığı kadar güvenilir olmadığını gösteriyor.",
+        "Grönland'ın yüzeyinde her yıl iki temel süreç yarışıyor. Kar yağışı buz tabakasına kütle ekliyor, yüzey erimesi ise kütle kaybettiriyor. Bu ikisinin yıllık dengesi zaman içinde değişiyor.",
+        "Önceki çalışma, bu dengenin yıldan yıla giderek daha fazla dalgalanmasını ve bazı yılların birbirine daha çok benzemesini, buz tabakasının kararlılığını kaybetmeye yaklaştığının işaretleri olarak yorumlamıştı.",
+        "Yeni çalışma yüksek çözünürlüklü bir yüzey buz dengesi kaydını ve basit bir buz tabakası modelini kullandı. Sonuç, özellikle az kar alan bölgelerde yıllık dalgalanmanın artmasının, buz tabakası kritik bir eşiğe yaklaşmasa bile ısınan hava nedeniyle ortaya çıkabildiğini gösterdi.",
+        "Başka bir deyişle aynı istatistiksel işaret, sistem gerçekten kararsızlaşırken de yalnızca iklim ısınırken de görülebiliyor. Bu durum onu güvenilir bir alarm olmaktan çıkarıyor.",
+        "Veriler de her yerde aynı davranmıyor. Dalgalanma buz tabakasının yüzde 63'ünde artarken yüzde 16'sında azalıyor ve yüzde 21'inde belirgin biçimde değişmiyor. Yıllar arasındaki benzerlik göstergesi ise alanın yüzde 57'sinde azalırken yalnızca yüzde 12'sinde artıyor.",
+        "En önemli nokta şu: çalışma “Grönland güvende” demiyor. Grönland'ın erimediğini söylemiyor ve buz tabakasının bugünkü veya gelecekteki iklim koşullarında kararlılığını kaybetme ihtimalini dışlamıyor.",
+        "Yalnızca daha önce erken alarm olarak yorumlanan belirli istatistiksel sinyallerin güvenilir olmadığını gösteriyor. Dolayısıyla “çöküş iddiası çürütüldü” veya “endişeye gerek kalmadı” demek çalışmanın söylediğinin ötesine geçer.",
+        "Araştırmacılar ayrıca modellerin de tek bir görüşte birleşmediğini belirtiyor. Bazıları dengesizliğin çoktan başlamış olabileceğini öne sürerken diğerleri daha uzun süreli bir kararlılık öngörüyor.",
+        "Bilimde bazen ilerleme yeni bir alarm bulmak değil, yanlış alarm verebilecek göstergeleri ayıklamaktır. Bu çalışma da tam olarak bunu yapıyor."
+      ],
+      "takeaway": "Grönland buz tabakasında yüzey erimesinin yıldan yıla daha dalgalı hale gelmesi, önceki bir çalışmanın öne sürdüğü gibi buz tabakasının çökmek üzere olduğunun erken uyarısı değil; ısınan havanın…",
+      "impact": null,
+      "category": {
+        "slug": "cevre",
+        "label": "Çevre",
+        "url": "kategori/cevre.html"
+      },
+      "tags": [
+        {
+          "slug": "cevre",
+          "label": "çevre",
+          "url": "etiket/cevre.html"
+        },
+        {
+          "slug": "gronland",
+          "label": "grönland",
+          "url": "etiket/gronland.html"
+        },
+        {
+          "slug": "buzul",
+          "label": "buzul",
+          "url": "etiket/buzul.html"
+        },
+        {
+          "slug": "iklim",
+          "label": "iklim",
+          "url": "etiket/iklim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2623190123"
+        }
+      ],
+      "image_credits": [
+        "Robel AA ve ark., PNAS 2026 (10.1073/pnas.2623190123), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "ma65Gfp_rZo"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/ma65Gfp_rZo"
+        }
+      ]
+    },
     {
       "id": "proj_dad38ce7d6",
       "slug": "2026-10-02-akimi-kesince-superiletken-hatirliyor",
@@ -764,9 +2231,9 @@
         "James Webb Uzay Teleskobu erken evrene baktığında beklenmedik bir nesne sınıfıyla karşılaştı. Görüntülerde küçük, kırmızı ve bulanık görünen bu kaynaklara “little red dots”, yani küçük kırmızı noktalar adı verildi. İlginçlikleri renklerinden ibaret değil. Bu kaynakların bazılarında kara delik işareti olarak yorumlanan özellikler var ve tahmin edilen kara delik kütleleri, onları barındıran galaksilerin yıldız kütlesine göre beklenenden çok büyük. Yakın evrende bir galaksinin merkezindeki kara deliğin kütlesi, galaksinin yıldız kütlesinin kabaca binde biri ölçeğinde olabilir. Küçük kırmızı noktalarda bu oran çok daha yüksek görünüyor. Soru açık: Evren henüz çok gençken bu kadar büyük kara delikler nasıl oluşmuş olabilir? Yeni çalışma bu soruya yeni bir gözlemle değil, yüksek çözünürlüklü bir kozmolojik benzetimle yaklaşıyor.",
         "Normal koşullarda büyük bir gaz bulutu çökerken içindeki daha küçük yoğunluklar da çöker ve çok sayıda sıradan yıldız oluşur. Eğer hedefiniz doğrudan dev bir kara delik tohumu oluşturmaksa bu parçalanma sorun yaratır. Gaz tek bir merkezde toplanmak yerine binlerce küçük yıldıza dağılır. Araştırmacıların benzetiminde bu süreci değiştiren şey, yaklaşık 10 kiloparsek uzaktaki parlak bir komşu galaksiden geldiği varsayılan güçlü morötesi ışınım. Bu ışınım gazın kimyasını ve soğumasını etkileyerek bulutun küçük parçalara ayrılmasını baskılıyor. Sonuçta gaz çok daha büyük ölçeklerde tek bir merkeze doğru çökmeye devam ediyor.",
         "Benzetimde doğrudan kara delik oluşmuyor. Önce son derece büyük yıldızlar meydana geliyor. Bu yıldızlar yaklaşık 500 bin ile 900 bin Güneş kütlesine kadar ulaşabiliyor. Buna rağmen yüzeyleri düşündüğünüz kadar sıcak değil. Yarıçapları Güneş'in yüzlerce hatta bin katına çıktığı için çok şişkin yapılar oluşturuyorlar. Bu daha serin yüzeyler güçlü morötesi geri beslemeyi sınırlıyor ve çevredeki gazın tamamen uzaklaştırılmasını önlüyor. Yıldızlar böylece beslenmeye devam edebiliyor. Sonunda çöktüklerinde yaklaşık 300 bin ile 600 bin Güneş kütlesinde kara delik tohumları oluşuyor. Burada önemli bir ayrım var: kara delikler “bir milyon Güneş kütlesiyle doğmuyor”. Doğum kütlesi birkaç yüz bin Güneş kütlesi. Milyonlarca Güneş kütlesine daha sonra hızlı beslenmeyle ulaşıyorlar.",
-        "Kara delikler oluştuktan sonra çevrede hâlâ çok miktarda gaz var. Benzetimde bu kara delikler kısa bir dönem boyunca Eddington sınırı olarak bilinen klasik beslenme ölçeğinin birkaç ila onlarca katı hızla madde çekebiliyor. Bu yoğun dönem bir milyon yıldan daha kısa sürüyor. Evrenin yaklaşık 640 milyon yaşında olduğu ana gelindiğinde kara delik yaklaşık 30 milyon Güneş kütlesine ulaşabiliyor. Bu noktada kara deliğin kütlesi, galaksinin toplam yıldız kütlesinin yaklaşık yüzde biri. Bu oran yakın evrendeki tipik ilişkinin yaklaşık on katı. İşte bu, James Webb'in küçük kırmızı noktalarında görülen “fazla ağır kara delik” sorununa benzeyen bir durum.",
+        "Kara delikler oluştuktan sonra çevrede hala çok miktarda gaz var. Benzetimde bu kara delikler kısa bir dönem boyunca Eddington sınırı olarak bilinen klasik beslenme ölçeğinin birkaç ila onlarca katı hızla madde çekebiliyor. Bu yoğun dönem bir milyon yıldan daha kısa sürüyor. Evrenin yaklaşık 640 milyon yaşında olduğu ana gelindiğinde kara delik yaklaşık 30 milyon Güneş kütlesine ulaşabiliyor. Bu noktada kara deliğin kütlesi, galaksinin toplam yıldız kütlesinin yaklaşık yüzde biri. Bu oran yakın evrendeki tipik ilişkinin yaklaşık on katı. İşte bu, James Webb'in küçük kırmızı noktalarında görülen “fazla ağır kara delik” sorununa benzeyen bir durum.",
         "Benzetimin bir başka önemli özelliği kara deliğin etrafındaki kalın gaz örtüsü. Gaz o kadar yoğun ki araştırmacıların incelediği 64 farklı bakış yönünün hiçbirinde merkezden gelen X ışınları doğrudan dışarı çıkamıyor. Bu ilginç çünkü gözlenen küçük kırmızı noktaların çoğu da X ışınlarında beklenenden zayıf veya görünmez. Kalın gaz aynı zamanda ışığın saçılma biçimini değiştiriyor. Benzetimde hidrojen çizgileri saniyede 1.000 kilometreyi aşan genişliklere ulaşabiliyor. Gözlemsel astronomide böyle geniş çizgiler çoğu zaman kara deliğin yakınındaki hızlı gazla ilişkilendirilir. Burada benzer bir görünüm, kalın gaz içindeki saçılma nedeniyle kendiliğinden ortaya çıkıyor.",
-        "Henüz hayır. Bu çalışma bir gözlem değil, bir benzetim. James Webb verileri başka ekipler tarafından daha önce ölçülmüş durumda. Yeni çalışma, belirli fiziksel başlangıç koşullarının bu gözlemlerdeki bazı özelliklere benzeyen sonuçlar üretebildiğini gösteriyor. Ayrıca benzetimin önemli sınırlamaları var. Jetler ve disk rüzgârları gibi kara deliğin çevresindeki gazı uzaklaştırabilecek bazı geri besleme süreçleri modele dahil edilmemiş. Araştırmacılar bu nedenle elde edilen büyümeyi kara delik için bir tür üst sınır olarak değerlendiriyor. Kara delikler ve yıldızlar olay ufku ölçeğinde çözülmüyor. Benzetimin en küçük ayrıntısı yaklaşık 500 astronomi birimi. Komşu galaksinin morötesi ışınımı da baştan sona oluşan gerçek bir galaksi olarak modellenmiyor; dışarıdan verilen bir ışınım alanı olarak ekleniyor. Üstelik yüksek çözünürlükle yalnızca tek bir bölge takip edildi.",
+        "Henüz hayır. Bu çalışma bir gözlem değil, bir benzetim. James Webb verileri başka ekipler tarafından daha önce ölçülmüş durumda. Yeni çalışma, belirli fiziksel başlangıç koşullarının bu gözlemlerdeki bazı özelliklere benzeyen sonuçlar üretebildiğini gösteriyor. Ayrıca benzetimin önemli sınırlamaları var. Jetler ve disk rüzgarları gibi kara deliğin çevresindeki gazı uzaklaştırabilecek bazı geri besleme süreçleri modele dahil edilmemiş. Araştırmacılar bu nedenle elde edilen büyümeyi kara delik için bir tür üst sınır olarak değerlendiriyor. Kara delikler ve yıldızlar olay ufku ölçeğinde çözülmüyor. Benzetimin en küçük ayrıntısı yaklaşık 500 astronomi birimi. Komşu galaksinin morötesi ışınımı da baştan sona oluşan gerçek bir galaksi olarak modellenmiyor; dışarıdan verilen bir ışınım alanı olarak ekleniyor. Üstelik yüksek çözünürlükle yalnızca tek bir bölge takip edildi.",
         "Çünkü çalışma zor bir soruya fiziksel olarak tutarlı bir “oluşum yolu” sunuyor. Erken evrende yeterince güçlü bir morötesi ortam varsa, gazın sıradan yıldızlara parçalanması baskılanabilir. Bu durumda önce devasa yıldızlar, ardından yüz binlerce Güneş kütleli ağır kara delik tohumları oluşabilir. Çevrede kalan yoğun gaz da bu nesnelerin X ışınlarını gizleyip optik özelliklerini değiştirebilir. Bu mekanizma doğru olabilir, kısmen doğru olabilir veya küçük kırmızı noktaların yalnızca bir bölümünü açıklayabilir. Bilim açısından önemli olan, gizemin “çözülmüş” olması değil. Artık James Webb'in gördüğü tuhaf nesneleri üretebilen somut bir fiziksel senaryonun elimizde olması ve bu senaryonun yeni gözlemlerle sınanabilecek olması."
       ],
       "takeaway": "Komşu bir galaksinin morötesi ışığı altında kalan bir gaz bulutunun benzetiminde, yarım milyon güneş kütlesiyle doğan kara delik çekirdekleri kendiliğinden oluşuyor ve etraflarındaki kalın gaz…",
@@ -842,7 +2309,7 @@
         "Yaklaşık 23 ile 5 milyon yıl önce süren Miyosen döneminde bölgede 151 farklı ağaç cinsinin bulunduğu hesaplandı. Bugün aynı tarihsel veri setindeki 200 cinsten yalnızca 37'si Batı ve Orta Avrupa'da doğal olarak bulunuyor. Bu, zirveden bugüne yaklaşık yüzde 75'lik bir düşüş anlamına geliyor. Fakat kayıp düzenli biçimde gerçekleşmedi. En sert kırılma Pliyosen'den Pleyistosen'e, yani büyük buzul çağlarının başladığı döneme geçişte yaşandı. Tek bir geçişte 65 cins bölgeden kayboldu. Bunların 52'si daha sonra geri dönmedi.",
         "Buzul dönemlerinde iklim soğudukça bitkilerin yaşayabildiği bölgeler güneye doğru kayar. Kuzey Amerika veya Doğu Asya gibi bazı bölgelerde ağaçların kuzey-güney doğrultusunda göç edebileceği geniş alanlar bulunur. Avrupa'nın coğrafyası ise daha zorlayıcıdır. Güneye çekilen bitkilerin önünde Alpler gibi doğu-batı doğrultusunda uzanan büyük dağ sıraları ve daha ileride Akdeniz bulunur. Bu coğrafi engeller, iklim hızla değiştiğinde bazı ağaç topluluklarının uygun yaşam alanlarına ulaşmasını zorlaştırmış olabilir. Pleyistosen boyunca sekoya, mazı ve bataklık servisi gibi cinsler Avrupa'dan kayboldu. Ama bunlar dünya çapında yok olmadı. Bazılarının akrabaları bugün Kuzey Amerika ve Doğu Asya'da yaşamaya devam ediyor. Dolayısıyla söz konusu olay küresel bir yok oluştan çok, bölgesel bir kayıp.",
         "İlk bakışta çekici bir fikir olabilir. Eğer Avrupa geçmişte çok daha fazla ağaç cinsine sahipse, sıcaklık arttıkça bu eski grupları geri getirmek iklim uyumunu kolaylaştırabilir mi? Araştırmacılar bunu da test etti. Her cinsin bugün dünya üzerinde yaşayabildiği iklim aralığı modellendi ve 2100 için iki farklı ısınma senaryosuyla karşılaştırıldı. Sonuç beklenenden daha karmaşıktı. Avrupa'dan geçmişte kaybolmuş cinslerin, bugün bölgede bulunan cinslere kıyasla gelecekteki iklim koşullarında belirgin bir üstünlüğü görülmedi. Yani “eski ağaçları geri getirirsek ormanlar iklim değişikliğine hazırlanır” gibi doğrudan bir sonuç çıkmıyor.",
-        "Araştırmacılara göre daha önemli sorun, bugün Avrupa'da kalan cinslerin her birinin dünya üzerindeki bütün tür çeşitliliğini temsil etmemesi. Örneğin bir ağaç cinsi küresel olarak farklı iklimlere uyum sağlamış çok sayıda türe sahip olabilir. Fakat Avrupa'da bunun yalnızca birkaç temsilcisi bulunabilir. Bu durumda kâğıt üzerinde “cins hâlâ Avrupa'da” olsa bile, o cins içindeki iklim uyum seçeneklerinin yalnızca küçük bir kısmına sahip olabiliriz. Bu, orman yönetimi açısından önemli bir ayrım.",
+        "Araştırmacılara göre daha önemli sorun, bugün Avrupa'da kalan cinslerin her birinin dünya üzerindeki bütün tür çeşitliliğini temsil etmemesi. Örneğin bir ağaç cinsi küresel olarak farklı iklimlere uyum sağlamış çok sayıda türe sahip olabilir. Fakat Avrupa'da bunun yalnızca birkaç temsilcisi bulunabilir. Bu durumda kağıt üzerinde “cins hala Avrupa'da” olsa bile, o cins içindeki iklim uyum seçeneklerinin yalnızca küçük bir kısmına sahip olabiliriz. Bu, orman yönetimi açısından önemli bir ayrım.",
         "Çalışma geçmişteki iklim değişimlerinin büyük çeşitlilik kayıpları yarattığını gösteriyor. Ancak araştırmacılar bugünkü Avrupa ormanlarının tür bakımından fakir ve tekdüze olmasının yalnızca doğal tarih ile açıklanamayacağını da vurguluyor. Yüzyıllardır süren ormancılık, belirli ekonomik türlerin seçilmesi, dikim ve arazi kullanımı da bugünkü yapıyı güçlü biçimde şekillendirdi. Bu yüzden geçmişin fosil çeşitliliğiyle bugünkü ormanları karşılaştırırken doğal süreçlerle insan yönetimini birbirinden ayırmak gerekiyor. Çalışmanın en önemli mesajı belki de “Avrupa bir zamanlar daha yeşildi” gibi romantik bir cümle değil. Daha bilimsel ve daha kullanışlı sonuç şu: Avrupa'nın bugünkü ağaç çeşitliliği, milyonlarca yıllık iklim filtrelerinden ve çok daha yakın dönemdeki insan yönetiminden geçmiş daralmış bir havuz. Gelecekteki iklime uyum tartışılırken yalnızca kaç cinsin bulunduğuna değil, bu cinslerin içindeki gerçek tür seçeneklerine de bakmak gerekebilir."
       ],
       "takeaway": "Batı ve Orta Avrupa'nın ağaç cinsi zenginliği, Miyosen'deki zirvesinden bu yana yüzde 75 azaldı; kaybın büyük kısmı 2-3 milyon yıl önce yaşandı ve ayakta kalanlar soğuğa ve kuraklığa dayanabilenler…",
@@ -914,14 +2381,14 @@
       "standfirst": "Bir saatin görevi düzenli tekrar eden bir olayı saymaktır.",
       "paragraphs": [
         "Bir saatin görevi düzenli tekrar eden bir olayı saymaktır. Mekanik saatlerde bunu sarkaç veya titreşen bir kristal yapabilir. Atom saatlerinde ise referans olarak atomların çok belirli enerji seviyeleri arasındaki geçişleri kullanırız. Bugünün en hassas saatleri bu prensiple çalışıyor. Peki atomun elektronları yerine doğrudan çekirdeğin enerji geçişini sayabilseydik? Teorik olarak çekirdek, dış çevredeki elektrik ve manyetik etkilerden elektronlara göre daha iyi korunur. Bu nedenle uygun bir çekirdek geçişi, uzun vadede çok kararlı bir frekans referansı sunabilir. Sorun şu ki çoğu atom çekirdeğinin enerji seviyeleri lazerle ulaşılabilecek bölgenin çok üzerinde. Toryum-229 burada sıra dışı bir istisna.",
-        "Toryum-229 çekirdeğinin çok düşük enerjili bir uyarılmış hâli bulunuyor. Geçiş yaklaşık 148,4 nanometre dalga boyunda, yani vakum morötesi bölgede. Enerjisi yaklaşık 8,4 elektronvolt. Bu hâlâ deneysel olarak zor bir ışık bölgesi, fakat bir lazerle erişilebilecek kadar düşük enerji. Bu nedenle yıllardır “çekirdek saati” fikrinin en güçlü adaylarından biri olarak görülüyor. Ancak çekirdeği uyarmak tek sorun değil. Uyarıldığını güvenilir ve hızlı biçimde okumak da gerekiyor.",
-        "Önceki deneylerde çekirdek darbeli lazerlerle uyarılıyordu. Darbeli ışığın frekans içeriği geniş olduğu için gönderilen enerjinin yalnızca küçük bir kısmı çekirdeğin son derece dar geçişine denk geliyordu. Üstelik çekirdeğin uyarıldığını anlamak için daha sonra geri yayılan ışığın beklenmesi gerekiyordu. Bu uyarılmış hâlin ışıma zaman sabiti yaklaşık 600 saniye. Başka bir deyişle, tek bir ölçüm döngüsü dakikalar boyunca beklemeyi gerektirebiliyordu.",
+        "Toryum-229 çekirdeğinin çok düşük enerjili bir uyarılmış hali bulunuyor. Geçiş yaklaşık 148,4 nanometre dalga boyunda, yani vakum morötesi bölgede. Enerjisi yaklaşık 8,4 elektronvolt. Bu hala deneysel olarak zor bir ışık bölgesi, fakat bir lazerle erişilebilecek kadar düşük enerji. Bu nedenle yıllardır “çekirdek saati” fikrinin en güçlü adaylarından biri olarak görülüyor. Ancak çekirdeği uyarmak tek sorun değil. Uyarıldığını güvenilir ve hızlı biçimde okumak da gerekiyor.",
+        "Önceki deneylerde çekirdek darbeli lazerlerle uyarılıyordu. Darbeli ışığın frekans içeriği geniş olduğu için gönderilen enerjinin yalnızca küçük bir kısmı çekirdeğin son derece dar geçişine denk geliyordu. Üstelik çekirdeğin uyarıldığını anlamak için daha sonra geri yayılan ışığın beklenmesi gerekiyordu. Bu uyarılmış halin ışıma zaman sabiti yaklaşık 600 saniye. Başka bir deyişle, tek bir ölçüm döngüsü dakikalar boyunca beklemeyi gerektirebiliyordu.",
         "Araştırmacılar sürekli çalışan, çok dar çizgili bir vakum morötesi lazer kaynağı geliştirdi. Sistem kızılötesi bir diyot lazerle başlıyor. Frekans birkaç aşamada yükseltilerek sonunda 148,4 nanometrelik ışık elde ediliyor. Başlangıçtaki 350 miliwattlık güçten vakum morötesinde yaklaşık 1 nanowatt elde ediliyor. Kayıplar nedeniyle kristale ulaşan güç yaklaşık 70 pikowatt. Bu son derece küçük bir güç. Fakat önemli olan gücün büyük olması değil, frekansın çekirdeğin geçişiyle son derece hassas biçimde eşleşebilmesi. Toryum atomları kalsiyum florür kristalinin içine yerleştirildi ve kristal oda sıcaklığına yakın 294,7 kelvinde tutuldu. Lazerin frekansı tarandığında belirli bir noktada kristalden geçen ışığın yaklaşık yüzde biri kayboldu. Nereye gitti? Çekirdekler tarafından soğuruldu.",
         "Çünkü artık çekirdeğin yeniden ışık saçmasını beklemek gerekmiyor. Lazer kristalden geçerken ışığın ne kadar azaldığı anında ölçülebiliyor. Bu da çekirdeğin uyarıldığını doğrudan gösteriyor. Araştırmacılar ölçüm döngüsünün önceki ışıma yöntemine göre yaklaşık yüz kat kısaldığını bildiriyor. Saat geliştirmek açısından bu büyük bir avantaj. Bir frekans standardını sabitlemek istiyorsanız geçişin nerede olduğunu hızlı ve tekrarlanabilir biçimde okuyabilmeniz gerekir. Dakikalar süren geri ışıma bekleme süreleri bunu ciddi biçimde yavaşlatıyordu.",
         "Araştırmacılar soğurma çizgisinin genişliğini yaklaşık 91 kilohertz olarak ölçtü. Geçiş merkezinin frekansı yaklaşık 2,020 katrilyon hertz düzeyinde ve belirsizlik yalnızca birkaç kilohertz. Bu sayının büyüklüğünü sezmek zor. Önemli olan, çok yüksek bir frekanstaki son derece dar bir çekirdek geçişinin artık sürekli lazer ışığıyla doğrudan taranabiliyor olması. Ekip ayrıca kristal içinde toryum atomlarının oturduğu ikinci bir yerel çevreyi de yüksek çözünürlükte ölçtü. İki kristal konumu arasındaki küçük frekans farkı teorik hesaplarla uyumluydu.",
         "Hayır. Bu çalışmada çalışan bir çekirdek saati kurulmuş değil. Araştırmacılar mevcut sinyal kalitesinden gelecekteki bir saatin olası kararlılığını hesaplıyor. Bu değerler doğrudan ölçülmüş saat performansı değil. Mevcut düzenek için bir saniyelik ortalamada yaklaşık 2 × 10^-12 düzeyinde bir kararsızlık tahmin ediliyor. Daha uzun kristaller, optik kovuklar ve daha güçlü morötesi kaynaklarla bu performansın iki basamaktan fazla iyileştirilebileceği hesaplanıyor. Ama bunlar gelecek hedefleri. Çalışmanın gerçek başarısı daha temel: Toryum-229 çekirdeğinin dar geçişi, sürekli bir lazerle uyarılıp soğurma üzerinden hızlı biçimde okunabiliyor. Bir çekirdek saatinin çalışabilmesi için gereken temel parçaların hepsi henüz bir araya getirilmiş değil. Fakat en zor parçalardan biri artık çok daha yönetilebilir görünüyor."
       ],
-      "takeaway": "Toryum-229 çekirdeği ilk kez sürekli ışıyan dar bir lazerle uyarıldı ve uyarılma, ışımayı beklemek yerine lazer ışığının soğurulmasından anında okundu; bu, katı hâlde çalışan bir çekirdek saatinin…",
+      "takeaway": "Toryum-229 çekirdeği ilk kez sürekli ışıyan dar bir lazerle uyarıldı ve uyarılma, ışımayı beklemek yerine lazer ışığının soğurulmasından anında okundu; bu, katı halde çalışan bir çekirdek saatinin…",
       "impact": null,
       "category": {
         "slug": "fizik",
@@ -989,13 +2456,13 @@
       "title": "Kurbağanın Yeşili Kanın Yıkım Ürününden Geliyor",
       "standfirst": "Bir yaprağın üzerinde duran yeşil bir kurbağaya baktığınızda, rengin deride üretilen yeşil bir pigmentten geldiğini düşünmek çok doğal.",
       "paragraphs": [
-        "Bir yaprağın üzerinde duran yeşil bir kurbağaya baktığınızda, rengin deride üretilen yeşil bir pigmentten geldiğini düşünmek çok doğal. Fakat bazı ağaç kurbağalarında hikâye bundan daha tuhaf. Bu hayvanlar, memelilerde genellikle kısa süreli bir atık ürün olarak gördüğümüz yeşil bir pigmenti vücutlarında biriktiriyor. Daha da ilginci, pigmenti yalnızca depolamıyorlar; özel bir protein sayesinde rengini yaprak yeşiline yaklaştırıyorlar. Söz konusu pigmentin adı biliverdin.",
+        "Bir yaprağın üzerinde duran yeşil bir kurbağaya baktığınızda, rengin deride üretilen yeşil bir pigmentten geldiğini düşünmek çok doğal. Fakat bazı ağaç kurbağalarında hikaye bundan daha tuhaf. Bu hayvanlar, memelilerde genellikle kısa süreli bir atık ürün olarak gördüğümüz yeşil bir pigmenti vücutlarında biriktiriyor. Daha da ilginci, pigmenti yalnızca depolamıyorlar; özel bir protein sayesinde rengini yaprak yeşiline yaklaştırıyorlar. Söz konusu pigmentin adı biliverdin.",
         "Alyuvarlar yaşlandığında içlerindeki hem molekülü parçalanır. Bu süreçte biliverdin adı verilen yeşil bir pigment oluşur. İnsanlarda morlukların zamanla yeşilimsi bir renk almasının nedenlerinden biri de budur. Fakat biliverdin genellikle vücutta uzun süre kalmaz. Başka moleküllere dönüştürülür ve sonunda atılır. Bazı kurbağalar ise bunun tersini yapıyor. Biliverdini kanlarında, lenflerinde, kaslarında, derilerinde ve hatta kemiklerinde yüksek miktarda tutabiliyorlar. Peki zehirli olabilecek veya hızla parçalanması gereken bu molekül nasıl bu kadar uzun süre kalıyor?",
         "Araştırmacılar üç farklı kurbağa türünü inceledi: Teratohyla pulverata adlı bir cam kurbağası ile Boana punctata ve Sphaenorhynchus lacteus adlı iki ağaç kurbağası. Bu üç soyda benzer bir protein sistemi bulunuyor. Protein, serpin ailesine ait ve biliverdini çok güçlü biçimde bağlıyor. Araştırmacılar buna biliverdin bağlayan serpin, yani BBS adını veriyor. Bağlanma son derece sıkı. Ölçülen ayrışma sabitleri yaklaşık 5 ile 7,5 nanomolar arasında. Bu sayıyı ezberlemek gerekmiyor; önemli olan karşılaştırma. Biliverdini bilirubine dönüştüren enzimin pigmente ilgisi bu proteinden yaklaşık yüz ila bin kat daha zayıf. Yani BBS, biliverdini adeta elinden kaçırmayan bir moleküler tutucu gibi davranıyor. Bu sayede pigment parçalanmadan veya atılmadan dokularda birikebiliyor.",
-        "Asıl ilginç nokta burada. Biliverdin serbest hâlde belirli dalga boylarını soğurur. Fakat protein pigmenti belirli bir şekle zorladığında optik özellikleri değişiyor. Kırmızı ışık bölgesindeki soğurma yaklaşık 2,5 ile 3,5 kat artıyor. Ortaya çıkan renk, bitkilerin klorofilinden gelen yeşile daha fazla yaklaşıyor. Böylece hayvanın rengi yalnızca “yeşil” olmuyor; yaprakların ışığı yansıtma biçimine daha yakın bir spektral özellik kazanıyor. Araştırmacılar kurbağanın yansıma spektrumunda, bitkilerde kızılötesine geçişte görülen keskin yükselişe benzeyen bir “kırmızı kenar” bile gözledi. Bu, kamuflaj açısından yalnızca bizim gözümüze benzeyen bir renk üretmekten daha ayrıntılı bir eşleşme olabilir.",
+        "Asıl ilginç nokta burada. Biliverdin serbest halde belirli dalga boylarını soğurur. Fakat protein pigmenti belirli bir şekle zorladığında optik özellikleri değişiyor. Kırmızı ışık bölgesindeki soğurma yaklaşık 2,5 ile 3,5 kat artıyor. Ortaya çıkan renk, bitkilerin klorofilinden gelen yeşile daha fazla yaklaşıyor. Böylece hayvanın rengi yalnızca “yeşil” olmuyor; yaprakların ışığı yansıtma biçimine daha yakın bir spektral özellik kazanıyor. Araştırmacılar kurbağanın yansıma spektrumunda, bitkilerde kızılötesine geçişte görülen keskin yükselişe benzeyen bir “kırmızı kenar” bile gözledi. Bu, kamuflaj açısından yalnızca bizim gözümüze benzeyen bir renk üretmekten daha ayrıntılı bir eşleşme olabilir.",
         "Protein-biliverdin kompleksi ışıkla uyarıldığında yaklaşık 695-705 nanometre civarında ışıma yapıyor. Canlı hayvanda ölçülen sinyal 710 nanometre ve ötesine uzanıyor. Bu bölge insan gözünün görebildiği sınırın ötesine, yakın kızılötesine giriyor. Araştırmacılar bu ışımayı yalnızca tüpte saflaştırılmış proteinde değil, canlı kurbağaların dokularında da ölçtü. Fotoakustik görüntüleme kullanıldığında kemikler, damarlar ve lenf sistemi bu proteinin optik izini taşıdı. Buradan “kurbağa karanlıkta parlıyor” sonucu çıkarmamak gerekiyor. Işıma dışarıdan ışık verildiğinde oluşuyor ve çıplak gözle görülebilecek bir parıltı değil. Daha da önemlisi, kurbağaların veya başka hayvanların bu kızılötesi sinyali gördüğü ya da iletişimde kullandığına dair bir kanıt yok. Bu optik özellik, kurbağa açısından işlevsiz bir yan sonuç da olabilir.",
         "Çalışmanın evrimsel tarafı da dikkat çekici. İncelenen üç kurbağa soyu aynı biyokimyasal çözümü tek bir ortak atadan doğrudan devralmış gibi görünmüyor. Araştırmacılar bu mekanizmanın üç ayrı soyda bağımsız olarak ortaya çıktığı sonucuna varıyor. Bu, yakınsak evrimin güzel örneklerinden biri olabilir. Benzer çevresel sorunlarla karşılaşan farklı soylar, farklı başlangıç noktalarından benzer moleküler çözümlere ulaşabiliyor.",
-        "Araştırmacılar kızılötesi optik özelliklerin biyogörüntüleme açısından ilginç olabileceğini belirtiyor. Yakın kızılötesi ışık, görünür ışığa kıyasla dokuda daha az soğurulup daha az saçılabildiği için derin doku görüntülemede değerli bir bölge. Fakat bu protein bugün kullanılan bir tıbbi araç değil. Çalışmanın sunduğu şey daha çok biyomimetik bir fikir: doğanın, küçük bir pigmenti protein cebinde tutarak hem rengini hem de ışık davranışını nasıl değiştirebildiğini anlamak, gelecekte yeni görüntüleme moleküllerinin tasarımına ilham verebilir. Bilimsel açıdan asıl güzel taraf ise daha temel: “yeşil kurbağa” gibi basit görünen bir özellik, aslında kan yıkım ürünü, protein evrimi, optik fizik ve kamuflajın aynı hikâyede birleştiği karmaşık bir çözüm olabilir."
+        "Araştırmacılar kızılötesi optik özelliklerin biyogörüntüleme açısından ilginç olabileceğini belirtiyor. Yakın kızılötesi ışık, görünür ışığa kıyasla dokuda daha az soğurulup daha az saçılabildiği için derin doku görüntülemede değerli bir bölge. Fakat bu protein bugün kullanılan bir tıbbi araç değil. Çalışmanın sunduğu şey daha çok biyomimetik bir fikir: doğanın, küçük bir pigmenti protein cebinde tutarak hem rengini hem de ışık davranışını nasıl değiştirebildiğini anlamak, gelecekte yeni görüntüleme moleküllerinin tasarımına ilham verebilir. Bilimsel açıdan asıl güzel taraf ise daha temel: “yeşil kurbağa” gibi basit görünen bir özellik, aslında kan yıkım ürünü, protein evrimi, optik fizik ve kamuflajın aynı hikayede birleştiği karmaşık bir çözüm olabilir."
       ],
       "takeaway": "Ağaç kurbağaları, kanın yıkım ürünü olan yeşil safra pigmentini sıkıca bağlayan bir protein geliştirerek yaprak yeşili bir kamuflaj üretiyor; aynı protein hayvanın dokularının içinde kızılötesine…",
       "impact": null,
@@ -1067,7 +2534,7 @@
         "Çalışmanın ikinci önemli sonucu Mars'ın derin yapısıyla ilgili. Önceki bileşim modellerinde mantonun ortalarında yaklaşık 150 kilometre kalınlığında ağır bir granat tabakasının oluşabileceği hesaplanıyordu. Yeni, daha düşük demir içerikli başlangıç bileşiminde böyle bir tabaka ortaya çıkmadı. Bunun yerine yoğun mineraller daha sığ, yaklaşık 170 kilometreden yukarıdaki bölgelerde oluşuyor ve daha sonra çekirdeğe doğru batabilecek bir yapı ortaya çıkarıyor. Bu fark, Mars'ın ilk iç karışımının düşündüğümüzden farklı başlamış olabileceğini gösteriyor.",
         "Mars'ta plajiyoklasça zengin, nispeten açık renkli kayaçlar daha önce uzaktan algılama yöntemleriyle ve Curiosity'nin ölçümleriyle gözlenmişti. Yeni çalışma bu mineralleri keşfetmiyor. Yaptığı şey, bu tür malzemelerin erken Mars'ın magma okyanusu katılaşırken doğal olarak ortaya çıkabileceğini gösteren fiziksel bir senaryo üretmek. Araştırmacılar bu bağlantıyı kendileri de ihtiyatlı biçimde kuruyor. Çünkü deneylerin önemli basitleştirmeleri var. Başlangıç bileşiminde krom ve titanyum bulunmuyor. Magma okyanusunun sıcaklığının derinlikle değişmediği varsayılıyor. Yoğunluk hesapları basıncın bazı etkilerini dışarıda bırakıyor. Bu nedenle çalışma “Mars'ın geçmişi kesin olarak böyleydi” demiyor. Daha değerli yaptığı şey şu: InSight'ın değiştirdiği iç yapı verilerini kullanıp, Mars yüzeyinde zaten bildiğimiz bazı kayaçların erken gezegen tarihinde nasıl oluşabileceğine deneysel bir mekanizma sunuyor."
       ],
-      "takeaway": "Mars'ın erimiş hâldeki iç kısmının donuşu laboratuvarda baştan sona taklit edildiğinde, gezegenin yüzeyinde kendiliğinden otuz kilometreden kalın, hafif ve açık renkli bir ilk kabuk oluşuyor.",
+      "takeaway": "Mars'ın erimiş haldeki iç kısmının donuşu laboratuvarda baştan sona taklit edildiğinde, gezegenin yüzeyinde kendiliğinden otuz kilometreden kalın, hafif ve açık renkli bir ilk kabuk oluşuyor.",
       "impact": null,
       "category": {
         "slug": "uzay",
@@ -1200,7 +2667,7 @@
       "title": "Drone, Göremediği Cam Duvarı Bıyığıyla Buluyor",
       "standfirst": "Küçük bir drone'u gerçekten küçük yapmak istediğinizde yalnızca gövdeyi küçültmeniz yetmiyor.",
       "paragraphs": [
-        "Küçük bir drone'u gerçekten küçük yapmak istediğinizde yalnızca gövdeyi küçültmeniz yetmiyor. Kamera, lidar, işlemci, pil ve sensörlerin hepsi ağırlık ve enerji tüketiyor. Bir noktadan sonra aracın çevreyi algılaması, uçmasından daha pahalı hâle geliyor. Üstelik görmeye dayalı sistemlerin doğal sınırları var. Kamera karanlıkta veya yoğun dumanda işe yaramayabilir. Lazerli mesafe sensörleri de cam gibi saydam yüzeyleri her zaman güvenilir biçimde algılayamaz. Delft Teknik Üniversitesi'nden araştırmacılar bu nedenle yeni bir kamera geliştirmek yerine çok daha eski bir biyolojik çözüme döndü: dokunma.",
+        "Küçük bir drone'u gerçekten küçük yapmak istediğinizde yalnızca gövdeyi küçültmeniz yetmiyor. Kamera, lidar, işlemci, pil ve sensörlerin hepsi ağırlık ve enerji tüketiyor. Bir noktadan sonra aracın çevreyi algılaması, uçmasından daha pahalı hale geliyor. Üstelik görmeye dayalı sistemlerin doğal sınırları var. Kamera karanlıkta veya yoğun dumanda işe yaramayabilir. Lazerli mesafe sensörleri de cam gibi saydam yüzeyleri her zaman güvenilir biçimde algılayamaz. Delft Teknik Üniversitesi'nden araştırmacılar bu nedenle yeni bir kamera geliştirmek yerine çok daha eski bir biyolojik çözüme döndü: dokunma.",
         "Fareler ve köstebekler gibi birçok hayvan, çevrelerindeki nesneleri yalnızca gözleriyle algılamaz. Bıyıkların bir yüzeye değdiğinde nasıl büküldüğü de çevre hakkında bilgi taşır. Araştırmacıların yaptığı sistem bunun oldukça sade bir mühendislik karşılığı. Drone'un önüne iki adet 20 santimetrelik nitinol tel yerleştirildi. Her tel yalnızca 0,4 milimetre kalınlığında. Telin tabanında üç küçük basınç sensörü bulunuyor. Bıyık bir yüzeye değdiğinde eğiliyor. Eğilmenin oluşturduğu kuvvet sensörlere ulaşıyor ve bu değişimden temasın derinliği hesaplanıyor. Burada “fare gibi hisseden drone” demek biraz fazla olur. Gerçek bir fare bıyıklarını aktif biçimde hareket ettirebilir; bu drone'un bıyıkları sabit. Ancak mühendislik fikri aynı temel bilgiyi kullanıyor: bir yüzeye temas ettiğinizde oluşan mekanik değişim, o yüzeyin konumu hakkında ipucu verebilir.",
         "Çalışmanın en dikkat çekici taraflarından biri hesaplama bütçesi. Drone'un üzerindeki işlemcinin toplam belleği yalnızca 192 kilobayt. Dokunma algısı bunun yaklaşık 34 kilobaytını kullanıyor ve saniyede 50 kez hesaplama yapıyor. Bugünkü telefonlar açısından bakıldığında bu neredeyse yok denecek kadar küçük bir bellek. Sistemin amacı da zaten ağır görüntü işleme modelleri çalıştırmak değil; mümkün olan en az donanımla yeterli çevre bilgisini çıkarmak. İki bıyığın toplam ağırlığı 3,2 gram. Drone'un toplam uçuş ağırlığı 44,1 gram. Montaj ve kablolarla birlikte sisteme eklenen yük yaklaşık 6 gram.",
         "Fikir basit görünse de pratikte önemli bir sorun çıktı. Drone uçarken pervaneler sürekli hava akımı yaratıyor. Bu akım bıyıklardaki basınç sensörlerinin değerini kaydırabiliyor. Yani drone hiçbir şeye değmese bile sistem temas varmış gibi davranabilir. Araştırmacılar bu nedenle, temas olmayan anlarda sensörlerdeki kaymayı sürekli yeniden ölçen bir düzeltme yöntemi geliştirdi. Serbest uçuş deneylerinde bu yöntemle yanlış temas alarmı sıfıra kadar indirildi. Yalnızca kalkışta bir kez ayar yapılan yaklaşımda yanlış alarm yaklaşık yüzde 12, yalnızca filtre kullanılan yöntemde ise yaklaşık yüzde 38 düzeyindeydi.",
@@ -1281,7 +2748,7 @@
         "Çalışmanın önemli sınırı sinyal-gürültü oranı. Kalbin manyetik alanı o kadar zayıf ki tek bir atışın sinyali çevresel gürültü içinde kaybolabiliyor. Bu nedenle araştırmacılar yüzlerce, bazı deneylerde binlerce kalp atışını üst üste getirip ortalamasını aldı.",
         "Düzeneğe ve koşullara göre yaklaşık 300 ile 12.000 atışın ortalaması alındı. Bu işlemden sonra kalbin elektriksel etkinliğinin bilinen bölümleri manyetik sinyalde seçilebildi ve ölçümler eş zamanlı EKG ile karşılaştırıldı.",
         "Sonuç önemli, ancak “elmas sensör tek kalp atışını anında okuyor” anlamına gelmiyor. Gerçek zamanlı ölçüm henüz hedef aşamasında. Ayrıca bu bugün hastanelerde kullanılan bir tıbbi cihaz değil.",
-        "Buna rağmen küçük, oda sıcaklığında çalışan ve temas gerektirmeyen sensörler, gelecekte manyetokardiyografi sistemlerini daha kompakt hâle getirebilir. Araştırmacılar bu yaklaşımın ileride kalp ve beyin gibi organların çok zayıf manyetik sinyallerini daha pratik biçimde ölçme potansiyeli taşıdığını düşünüyor."
+        "Buna rağmen küçük, oda sıcaklığında çalışan ve temas gerektirmeyen sensörler, gelecekte manyetokardiyografi sistemlerini daha kompakt hale getirebilir. Araştırmacılar bu yaklaşımın ileride kalp ve beyin gibi organların çok zayıf manyetik sinyallerini daha pratik biçimde ölçme potansiyeli taşıdığını düşünüyor."
       ],
       "takeaway": "Elmastan yapılmış, oda sıcaklığında çalışan küçük kuantum sensörler, kalbin ürettiği son derece zayıf manyetik alanı vücuda dokunmadan ölçebildi.",
       "impact": null,
@@ -1359,7 +2826,7 @@
         "1995 ile 2024 arasındaki şiddetli yangınlar, yaklaşık 240 bin hektarlık çalışma alanında yangın izi bulunan sahaların yüzde 32'sini ve kuru iğne yapraklı ormanların yüzde 25'ini yaktı.",
         "Las Conchas Yangını'nın etkilediği ve birden fazla kez yanan 61 bin hektarlık alanda oranlar daha da yüksekti: yangın izi sahalarının yüzde 66'sı, kuru iğne yapraklı ormanların yüzde 71'i etkilendi.",
         "Bu tür yangınlar yalnızca ağaçları öldürmüyor. Geçmişi kaydeden eski ağaçları da yok ettiği için yüzyıllarca birikmiş yangın tarihini fiziksel olarak siliyor.",
-        "Araştırmacılar simülasyonlarla şu soruyu da sınadı: geçmişte bugünkü kadar şiddetli yangınlar aynı sıklıkta yaşansaydı bu uzun ağaç halkası kaydı bugün hâlâ var olabilir miydi? Sonuç, hayatta kalma olasılığının neredeyse sıfır olacağını gösterdi.",
+        "Araştırmacılar simülasyonlarla şu soruyu da sınadı: geçmişte bugünkü kadar şiddetli yangınlar aynı sıklıkta yaşansaydı bu uzun ağaç halkası kaydı bugün hala var olabilir miydi? Sonuç, hayatta kalma olasılığının neredeyse sıfır olacağını gösterdi.",
         "Projeksiyonlara göre günümüzdeki şiddetli yangın düzeni sürerse bugünkü kuru iğne yapraklı ormanların yaklaşık yüzde 50'si 2055'e kadar, yüzde 24'ü ise 2115'e kadar kalabilir.",
         "Bu rakamlar bütün dünya ormanları için geçerli değil. Çalışma belirli bir bölgeyi inceliyor ve gelecek rakamları da mevcut yangın düzeninin sürmesi koşuluna bağlı.",
         "Araştırmacılar çözümün yangını tamamen ortadan kaldırmak olmadığını da vurguluyor. Geniş alanlarda düşük şiddetli yangınların yeniden sağlanmasının ormanın direncini artırabileceğini düşünüyorlar."
@@ -1429,7 +2896,7 @@
       "paragraphs": [
         "Bir uzay aracını Jüpiter'e göndermek kulağa basit gelebilir: roketi ateşlersiniz, aracı hızlandırırsınız ve hedefe doğru yollarsınız. Gerçekte ise gezegenler arası yolculuklarda en büyük sorunlardan biri yakıttır. Jüpiter çok uzakta ve bir uzay aracını doğrudan oraya gönderecek kadar hızlandırmak büyük miktarda yakıt gerektirir. Daha fazla yakıt daha fazla kütle, daha büyük roket ve daha yüksek maliyet demektir. Bu yüzden ESA'nın Juice sondası daha farklı bir yol izliyor. Gezegenlerin çekimini kullanıyor.",
         "Juice, 28 Eylül 2026'da Dünya'nın yaklaşık 8.640 kilometre yakınından geçecek. En yakın geçişin 11.45 UTC'de (Türkiye saatiyle 14.45), Hint Okyanusu üzerinde gerçekleşmesi planlanıyor. Bu yalnızca yakın bir uçuş değil. Dünya'nın kütleçekimi sondanın yörüngesini yaklaşık 20 derece bükecek ve hızını yaklaşık saniyede 3,5 kilometre artıracak. Bu değerler ESA'nın yaklaşık hesapları. Araç Dünya'ya çarpmıyor, rotasını kaybetmiyor ve kontrolden çıkmıyor. Tam tersine, bu geçiş yıllar öncesinden planlanan yolculuğun bir parçası.",
-        "Bu tekniğe kütleçekim yardımı ya da daha gündelik adıyla sapan manevrası deniyor. Bir uzay aracı hareket eden bir gezegenin yakınından doğru açıyla geçtiğinde, gezegenin çekim alanına girer ve onunla kısa süreli bir kütleçekimsel etkileşime girer. Aracın gezegene göre hızı girişte ve çıkışta büyük ölçüde benzer olabilir. Fakat Güneş'e göre baktığınızda aracın hız ve yönü değişmiş olur. Enerji yoktan üretilmez. Uzay aracı, çok küçük miktarda da olsa gezegenin yörüngesel enerjisinden pay alır. Gezegenin kütlesi araca göre o kadar büyüktür ki bunun gezegen üzerindeki etkisi pratikte ölçülemeyecek kadar küçüktür. Uzay görevleri bu yöntem sayesinde yanlarında taşımaları imkânsız miktarda yakıt harcamadan uzak hedeflere ulaşabilir.",
+        "Bu tekniğe kütleçekim yardımı ya da daha gündelik adıyla sapan manevrası deniyor. Bir uzay aracı hareket eden bir gezegenin yakınından doğru açıyla geçtiğinde, gezegenin çekim alanına girer ve onunla kısa süreli bir kütleçekimsel etkileşime girer. Aracın gezegene göre hızı girişte ve çıkışta büyük ölçüde benzer olabilir. Fakat Güneş'e göre baktığınızda aracın hız ve yönü değişmiş olur. Enerji yoktan üretilmez. Uzay aracı, çok küçük miktarda da olsa gezegenin yörüngesel enerjisinden pay alır. Gezegenin kütlesi araca göre o kadar büyüktür ki bunun gezegen üzerindeki etkisi pratikte ölçülemeyecek kadar küçüktür. Uzay görevleri bu yöntem sayesinde yanlarında taşımaları imkansız miktarda yakıt harcamadan uzak hedeflere ulaşabilir.",
         "Juice 14 Nisan 2023'te Fransız Guyanası'ndan bir Ariane 5 roketiyle fırlatıldı. Fırlatma sırasındaki toplam kütlesi 6.070 kilogramdı ve bunun yarısından fazlası yakıttı. Buna rağmen doğrudan Jüpiter'e gidecek kadar enerji taşıyamıyordu. Bu nedenle yolculuk baştan itibaren bir dizi kütleçekim yardımına göre tasarlandı. Ağustos 2024'te Juice önce Ay'ın, yaklaşık bir gün sonra da Dünya'nın yanından geçti. Bu, bir uzay aracının yaptığı ilk Ay-Dünya çift kütleçekim yardımıydı. Bu manevra aracın yönünü yaklaşık 100 derece değiştirdi ve ESA'ya göre yaklaşık 150 kilogram yakıt tasarrufu sağladı. 31 Ağustos 2025'te ise Venüs'ün yaklaşık 5.088 kilometre yakınından geçen Juice, hızını yaklaşık saniyede 5,1 kilometre artırdı. Şimdi sıra yeniden Dünya'da.",
         "Çünkü gezegenler arası rota düz bir çizgi değil. Juice'un Jüpiter'e ulaşabilmesi için doğru zamanda doğru hızda ve doğru yönde olması gerekiyor. Dünya, Venüs ve tekrar Dünya üzerinden yapılan bu uzun rota, aracı adım adım Jüpiter'e uygun yörüngeye taşıyor. 28 Eylül'deki geçiş de bu zincirin üçüncü büyük kütleçekim yardımı. Üstelik bu son Dünya karşılaşması olmayacak. Juice, Ocak 2029'da bir kez daha Dünya'nın yanından geçecek. Bu son yardım, aracı Jüpiter'e doğru nihai rotasına yönlendirecek. Planlanan varış tarihi Temmuz 2031. Yani 2023'te başlayan yolculuk yaklaşık sekiz yıl sürecek.",
         "Juice Dünya'ya yaklaşırken bilim araçları da çalışacak. 23 Eylül ile 3 Ekim arasında uzay aracındaki on bilim aracının tamamının açık olması planlanıyor. Dünya ve Ay, sondanın cihazları için büyük ve iyi bilinen birer test hedefi olacak. Araştırmacılar bu fırsatı aletleri ayarlamak ve bazı sistemlerin performansını kontrol etmek için kullanacak. Seyir kamerası Ay'ın ufkunda denenecek. Juice ayrıca birkaç gün boyunca Dünya'nın manyetik kuyruğunda ölçüm yapacak. Bu verilerin Avrupa ve Çin'in ortak Smile görevinin ölçümleriyle karşılaştırılması planlanıyor. Araçtaki gözlem kameraları da geçiş sırasında görüntü alacak. Son fotoğrafların 29 Eylül'de çekilmesi bekleniyor.",
@@ -1437,7 +2904,7 @@
         "En yakın geçişten yaklaşık 15 ila 30 dakika önce Juice'un Avustralya üzerinden geçmesi bekleniyor. Ancak araç çıplak gözle görülebilecek kadar parlak olmayacak. Uygun konumdaki amatör gökbilimciler teleskop veya dürbün kullanarak aracı izlemeyi deneyebilir. Dolayısıyla gökyüzünde parlak bir “uzay aracı geçişi” beklemek doğru olmaz.",
         "Juice'un tam adı Jupiter Icy Moons Explorer, yani Jüpiter Buzlu Uydular Kaşifi. Görevin ana hedefleri Jüpiter'in büyük uydularından Ganymede, Kallisto ve Europa. Bu uyduların buz kabuklarının altında büyük miktarda sıvı su bulunabileceği düşünülüyor. Juice bu okyanusları, buzlu yüzeyleri ve uyduların iç yapılarını inceleyecek. Özellikle Ganymede ayrıca ilginç, çünkü kendi manyetik alanına sahip olduğu bilinen tek uydu. Burada önemli bir ayrım var: Juice doğrudan yaşam arayan bir görev değil. Görevin amacı bu uyduların fiziksel ve kimyasal koşullarını anlamak ve yaşama uygun ortamlar sunup sunamayacaklarını araştırmak.",
         "Juice Jüpiter'e ulaştıktan sonra görev hemen tek bir uyduya odaklanmayacak. Planlanan görev sırasında Ganymede, Kallisto ve Europa'nın yanından toplam 35 kez yakın geçiş yapılacak. Daha sonra, Aralık 2034'te Juice'un Ganymede'nin yörüngesine girmesi planlanıyor. Bu gerçekleşirse Juice, Dünya'nın Ay'ı dışında başka bir uydunun yörüngesine giren ilk uzay aracı olacak.",
-        "Juice'un Dünya'ya geri dönmesi ilk bakışta garip görünebilir. Sonuçta araç Jüpiter'e gidiyor. Ama uzayda yakıt tasarrufu bazen çok daha uzun görünen bir rotayı seçmek anlamına geliyor. Juice, yanında Jüpiter'e doğrudan ulaşacak kadar yakıt taşıyamıyor. Bunun yerine Ay'ın, Dünya'nın ve Venüs'ün hareketinden yararlanarak ihtiyacı olan hız ve yön değişimlerini adım adım kazanıyor. 28 Eylül'deki Dünya geçişi de bu uzun yolculuğun bir başka durağı. Jüpiter'e varmasına hâlâ yaklaşık beş yıl var. Ve asıl bilim, oraya ulaştığında başlayacak."
+        "Juice'un Dünya'ya geri dönmesi ilk bakışta garip görünebilir. Sonuçta araç Jüpiter'e gidiyor. Ama uzayda yakıt tasarrufu bazen çok daha uzun görünen bir rotayı seçmek anlamına geliyor. Juice, yanında Jüpiter'e doğrudan ulaşacak kadar yakıt taşıyamıyor. Bunun yerine Ay'ın, Dünya'nın ve Venüs'ün hareketinden yararlanarak ihtiyacı olan hız ve yön değişimlerini adım adım kazanıyor. 28 Eylül'deki Dünya geçişi de bu uzun yolculuğun bir başka durağı. Jüpiter'e varmasına hala yaklaşık beş yıl var. Ve asıl bilim, oraya ulaştığında başlayacak."
       ],
       "takeaway": "Juice Jüpiter'e yetecek yakıtı taşıyamıyor; gezegenlerin çekiminden hız ödünç alarak gidiyor.",
       "impact": null,
@@ -1509,12 +2976,12 @@
       "date_text": "27 Eylül 2026",
       "draft": false,
       "title": "Genç Bir Yıldızın Önünden Geçen Kuyruklu Yıldızlar",
-      "standfirst": "PDS 70, çevresinde hâlâ gezegenlerin oluştuğu bir disk bulunan genç bir yıldız.",
+      "standfirst": "PDS 70, çevresinde hala gezegenlerin oluştuğu bir disk bulunan genç bir yıldız.",
       "paragraphs": [
-        "PDS 70, çevresinde hâlâ gezegenlerin oluştuğu bir disk bulunan genç bir yıldız. James Webb Uzay Teleskobu daha önce bu diskin iç bölgelerinde, kayalık gezegenlerin oluşabileceği alanda su tespit etmişti. Fakat bu suyun nereden geldiği açık değildi.",
+        "PDS 70, çevresinde hala gezegenlerin oluştuğu bir disk bulunan genç bir yıldız. James Webb Uzay Teleskobu daha önce bu diskin iç bölgelerinde, kayalık gezegenlerin oluşabileceği alanda su tespit etmişti. Fakat bu suyun nereden geldiği açık değildi.",
         "Novais ve çalışma arkadaşları başka bir ipucu buldu: yıldızın ışığında zaman içinde hızla değişen sodyum izleri.",
         "Araştırmacılar Avrupa Güney Gözlemevi'nin Şili'deki 3,6 metrelik teleskobunda bulunan HARPS aygıtıyla daha önce toplanmış arşiv verilerini yeniden inceledi. Veri seti 2018, 2019 ve 2020 yıllarının ilk aylarında 22 ayrı gecede alınmış 52 tayftan oluşuyordu.",
-        "Bir yıldızın tayfı, ışığının farklı dalga boylarına ayrılmış hâlidir. Belirli elementler bu tayfta kendilerine özgü izler bırakır. PDS 70'in ışığında nötr sodyumun izleri görüldü.",
+        "Bir yıldızın tayfı, ışığının farklı dalga boylarına ayrılmış halidir. Belirli elementler bu tayfta kendilerine özgü izler bırakır. PDS 70'in ışığında nötr sodyumun izleri görüldü.",
         "Dikkat çekici olan bu sinyallerin sabit olmamasıydı. Günden güne güçleri, sayıları ve hızları değişiyordu. Ölçümler gazın yoğun olduğunu ve yıldızın diskini yalnızca kısmen örttüğünü gösteriyordu. Bu da yıldızın önünde geniş, düzgün bir gaz bulutundan çok daha küçük ve hareketli gaz bölgeleri bulunduğunu düşündürüyor.",
         "Araştırmacılar farklı açıklamaları değerlendirdi ve en olası senaryonun çok basık yörüngelerde yıldızın yakınına gelen küçük kaya ve buz cisimleri olduğu sonucuna vardı. Bu cisimler yıldıza yaklaştıkça ısınıp malzeme kaybediyor olabilir. Ortaya çıkan gaz yıldızın önünden geçerken tayfta sodyum izleri bırakıyor.",
         "Ancak bu cisimler doğrudan görüntülenmedi. Dolayısıyla “PDS 70'in etrafında kuyruklu yıldızlar fotoğraflandı” demek doğru değil. Gözlenen şey değişken sodyum işaretleri; buharlaşan kuyruklu yıldız benzeri cisimler bunları açıklayan en olası senaryo.",
@@ -1684,7 +3151,7 @@
         "Araştırmacılar sıcak bölgenin nedeni için iki olasılıktan söz ediyor. Birincisi bölgesel bir manto akıntısı. İkincisi ise güneydeki kalın kabuğun milyarlarca yıl boyunca alttaki ısının kaçmasını yavaşlatmış olması.",
         "Şimdilik hangi mekanizmanın baskın olduğu bilinmiyor. Çalışmanın asıl söylediği, Mars'ın iç yapısının bugün bile kuzeyden güneye aynı olmayabileceği ve yüzeydeki büyük ikiliğin derinlerde termal bir karşılığı bulunabileceği."
       ],
-      "takeaway": "Mars'ın Güneş'le yaşadığı mevsimsel gelgit etkisi, gezegenin güneydeki yaylalarının altındaki mantonun bugün hâlâ çevresinden 200–400 °C daha sıcak olduğunu gösteriyor.",
+      "takeaway": "Mars'ın Güneş'le yaşadığı mevsimsel gelgit etkisi, gezegenin güneydeki yaylalarının altındaki mantonun bugün hala çevresinden 200–400 °C daha sıcak olduğunu gösteriyor.",
       "impact": null,
       "category": {
         "slug": "uzay",
@@ -1754,7 +3221,7 @@
         "Çöl tozu yalnızca kum fırtınalarının yaşandığı bölgeleri ilgilendirmiyor. Atmosfere yükselen mineral parçacıkları binlerce kilometre taşınabiliyor; Dünya'nın enerji dengesini, bulutların oluşumunu ve kara ile okyanuslara taşınan mineralleri etkileyebiliyor.",
         "Fakat son yıllarda temel bir soru net değildi: atmosferdeki çöl tozu artıyor mu, azalıyor mu? Farklı uydular ve atmosfer modelleri zaman zaman farklı sonuçlar veriyordu.",
         "Gupta, Kok ve çalışma arkadaşları bu soruyu mümkün olduğunca çok bağımsız veri kaynağını aynı çerçevede değerlendirerek yeniden ele aldı. Uydu üzerindeki lidar ölçümleri, kızılötesi algılayıcılar, çok bantlı görüntüleyiciler, üç ayrı atmosfer yeniden analizi ve yeryüzündeki toz ölçüm istasyonları birlikte kullanıldı.",
-        "Ortak sonuç, atmosferdeki çöl tozunun 2003 ile 2023 arasında küresel ölçekte yaklaşık yüzde 10 azaldığını gösteriyor. Kuzey Afrika hâlâ dünyanın en büyük toz kaynağı olmasına rağmen burada da yaklaşık yüzde 10'luk bir düşüş görüldü. Asya'daki tahmin de benzer yönde.",
+        "Ortak sonuç, atmosferdeki çöl tozunun 2003 ile 2023 arasında küresel ölçekte yaklaşık yüzde 10 azaldığını gösteriyor. Kuzey Afrika hala dünyanın en büyük toz kaynağı olmasına rağmen burada da yaklaşık yüzde 10'luk bir düşüş görüldü. Asya'daki tahmin de benzer yönde.",
         "Araştırmacılar yalnızca havada asılı duran toza bakmadı. Kalkan toz, atmosferdeki toplam toz ve tekrar yere çöken toz birlikte azaldı. Bu nedenle sonuç, toz döngüsünün genel olarak zayıfladığına işaret ediyor.",
         "İşin iklim tarafı daha dikkatli yorumlanmalı. Mineral tozun bir bölümü Güneş ışığını geri yansıtarak soğutucu etki yapıyor. Toz azaldığında bu soğutucu etki de azalıyor. Ekip bunun yaklaşık +0,02 W/m² büyüklüğünde küçük bir ısıtıcı etki yaratmış olabileceğini hesapladı.",
         "Fakat belirsizlik yaklaşık ±0,05 W/m². Yani belirsizlik, hesaplanan etkinin kendisinden daha büyük. Bu nedenle çalışma “son yirmi yılın ısınmasının nedeni tozun azalmasıdır” demiyor; ancak mütevazı ve belirsiz bir katkı olabileceğini söylüyor.",
@@ -1833,7 +3300,7 @@
         "Bir antik eserin gerçekten binlerce yıllık mı yoksa modern bir taklit mi olduğunu anlamak her zaman kolay değil. Pişmiş kil eserlerde kullanılan klasik yöntemlerden biri termolüminesans olsa da, sahteciler eski dönemlerde kullanılan yerel killeri kullanarak bu testi zorlayabiliyor.",
         "Vaknin ve çalışma arkadaşları farklı bir fiziksel izden yararlandı: manyetizma.",
         "Kil fırında pişirilip soğurken içindeki manyetik mineraller o anda Dünya'nın manyetik alanının yönünü kaydeder. Eser daha sonra başka bir konumda yüzyıllarca beklerken çok daha yavaş gelişen ikinci bir manyetik iz kazanır. Bu iz, viskoz kalıntı mıknatıslanma yani VRM olarak adlandırılıyor.",
-        "İz zamanla daha sağlam hâle geliyor. Bu yüzden araştırmacılar eserleri kontrollü biçimde adım adım ısıtıp sonradan oluşmuş manyetik izin hangi sıcaklıkta silindiğini ölçtü.",
+        "İz zamanla daha sağlam hale geliyor. Bu yüzden araştırmacılar eserleri kontrollü biçimde adım adım ısıtıp sonradan oluşmuş manyetik izin hangi sıcaklıkta silindiğini ölçtü.",
         "Bin yıldan eski olması beklenen eserler için çalışmada kullanılan kritik eşik 112 °C oldu. Ekip yöntemi 19 antik ve 26 modern nesne üzerinde denedi. Modern örneklerin tamamında iz 112 °C'nin altında silinirken antik örneklerin tamamında bu sıcaklığın üzerinde kaldı.",
         "Daha sonra yöntem, İsrail Eski Eserler Kurumu'nun kaçakçılıkla mücadele birimince el konan ve gerçekliği tartışmalı üç esere uygulandı. Sonuçlar üçünün de antik olduğuyla uyumluydu.",
         "Çalışmadaki küçük bir testide iz, eserin üretildikten sonra yaklaşık 350 °C'ye kadar yeniden ısındığını da düşündürdü. Araştırmacılar bunun eski bir yangınla ilişkili olabileceğini belirtiyor; testinin bir bölümündeki kararma da bu olasılıkla uyumlu.",
@@ -1911,7 +3378,7 @@
       "paragraphs": [
         "Vücuda takılan sensörler sağlık desteğinden robot kontrolüne ve sanal gerçekliğe kadar pek çok alanda kullanılabiliyor. Fakat sensör sayısı arttıkça iki sorun büyüyor: her sensörün ayrı bir güç kaynağına ihtiyaç duyması ve kablosuz iletişimin vücut üzerinde verimsizleşebilmesi.",
         "Zhang ve çalışma arkadaşları bu iki sorunu doğrudan kıyafetin kendisini kullanarak çözmeye çalıştı. Kumaşa, içinde sıvı metal lifler bulunan özel ipliklerle desenler işlendi. Bu metamateryal desenler elektromanyetik dalgaları vücut boyunca taşımak üzere tasarlandı.",
-        "Sistemde NFC özelliğine sahip telefon güç kaynağı görevi görüyor. Telefonun verdiği kablosuz enerji kumaş üzerindeki yapı boyunca ilerleyip kıyafetin başka bölgelerindeki pilsiz sensörlere ulaşıyor. Sensörlerin topladığı veriler de Bluetooth üzerinden telefona geri iletiliyor. Böylece telefon hem güç kaynağı hem de veri merkezi hâline geliyor.",
+        "Sistemde NFC özelliğine sahip telefon güç kaynağı görevi görüyor. Telefonun verdiği kablosuz enerji kumaş üzerindeki yapı boyunca ilerleyip kıyafetin başka bölgelerindeki pilsiz sensörlere ulaşıyor. Sensörlerin topladığı veriler de Bluetooth üzerinden telefona geri iletiliyor. Böylece telefon hem güç kaynağı hem de veri merkezi haline geliyor.",
         "Makalenin deney videolarında fikir doğrudan gösteriliyor: telefon işlenmiş kumaş şeridin bir ucuna konduğunda diğer uçtaki pilsiz sensör çalışmaya başlıyor ve telefona bağlanıyor.",
         "Araştırmacılar sistemi pilsiz sensörlü bir eldivenle robot eli ve robot kolunu yönetmek, sanal gerçeklikte hareketleri algılamak ve bütün vücut hareketlerini takip eden bir dijital ikiz oluşturmak için de kullandı.",
         "Performans tarafında sistem, benzer amaçla geliştirilmiş önceki akıllı kıyafet tasarımlarına göre 37,8 kat daha fazla veri aktarımı sağladı. Kablosuz güç aktarımının verimi de yaklaşık iki kat arttı. Buradaki 37,8 katlık fark sıradan Bluetooth'a karşı değil, önceki akıllı kıyafet sistemlerine karşı yapılan kıyas.",
@@ -1989,10 +3456,10 @@
         "NASA'nın yeni Nancy Grace Roman Uzay Teleskobu'ndan gelen ilk yıldız görüntüsüne baktığınızda bir şey hemen dikkat çekiyor: yıldızlar yıldız gibi görünmüyor. Normalde tek bir parlak nokta görmeyi beklediğimiz yerlerde yüzlerce halka var. Bazıları öylesine geniş ki bir yıldızın ışığı binlerce piksele yayılmış durumda. İlk bakışta bu, teleskobun optiğinde ciddi bir sorun varmış gibi görünebilir. Fakat NASA'ya göre görüntü tam da beklendiği gibi. Çünkü bu, Roman'ın bilim yapmak için çektiği ilk fotoğraf değil. Teleskobun gözlerini ilk kez açıp optik sistemini ayarlamaya başlamadan önce aldığı bir test görüntüsü.",
         "Nancy Grace Roman Uzay Teleskobu 30 Ağustos 2026'da Florida'daki Kennedy Uzay Merkezi'nden bir Falcon Heavy roketiyle fırlatıldı. Yaklaşık 31 dakika sonra roketten ayrıldı. Bir buçuk saat içinde güneş panellerini açtı. Sonraki günlerde yüksek kazançlı anteni ve teleskobun Güneş'ten korunmasını sağlayan siperliği devreye alındı. Roman'ın hedefi Dünya çevresinde dönmek değil. Teleskop, Dünya'dan yaklaşık 1,6 milyon kilometre uzaktaki Güneş-Dünya L2 bölgesine doğru yol alıyor. NASA, aracın fırlatmadan yaklaşık 100 gün sonra, Aralık 2026'nın başlarında bu bölgeye ulaşmasını bekliyor. Bilim gözlemlerinin başlaması ise daha sonra gelecek. NASA'nın mevcut planına göre ilk bilim görüntülerinin 2027'nin başında yayımlanması bekleniyor.",
         "Roman'ın ana bilim aracı Wide Field Instrument, yani Geniş Alan Aracı. Yaklaşık 300 megapiksellik bu kızılötesi kamera 18 ayrı dedektörden oluşuyor. Her dedektör yaklaşık bir tuzlu kraker büyüklüğünde ve yaklaşık 16,8 milyon piksel içeriyor. Dedektörlerin toplam algılama alanı kabaca bir dizüstü bilgisayar ekranı büyüklüğünde. Fakat bu sensörler günlük bir kameradaki gibi oda sıcaklığında çalışmıyor. Kamera fırlatmadan sonra yaklaşık on gün boyunca eksi 65 °C civarında kurutuldu. 11 Eylül'de eksi 143 °C'ye kadar soğutularak dedektörler etkinleştirildi. Sistem çalışma sıcaklığı olan yaklaşık eksi 183 °C'ye doğru soğumaya devam ediyor. 15 Eylül'de NASA, bu dedektörlere ulaşan ilk yıldız ışığını gösterdi. Ve ortaya o tuhaf halkalar çıktı.",
-        "Çünkü teleskobun odağı henüz ayarlanmış değil. Görüntü çekildiğinde 18 dedektör hâlâ fırlatma sırasında bulundukları konumdaydı ve optik sistem en iyi odaktan oldukça uzaktı. Bir teleskop doğru odaklandığında uzak bir yıldızın ışığı mümkün olduğunca küçük ve keskin bir noktada toplanır. Odak ciddi biçimde kaçtığında ise aynı ışık çok daha geniş bir alana yayılır. Roman'ın ilk görüntüsünde olan tam olarak bu. Bu nedenle görüntüdeki halkalar bir arıza işareti değil. Tam tersine, mühendislerin teleskobun optik sistemini ölçmek ve hizalamaya nereden başlayacaklarını belirlemek için ihtiyaç duyduğu başlangıç verisi. NASA yapılan ilk kontrollerin sistemlerin beklendiği gibi çalıştığını gösterdiğini bildiriyor. Şimdi sırada ince yönlendirme sistemini devreye almak ve odağı ayarlamak var. Bu süreç tamamlandığında bugün halka olarak gördüğümüz yıldızların ışığı keskin noktalara dönüşecek.",
+        "Çünkü teleskobun odağı henüz ayarlanmış değil. Görüntü çekildiğinde 18 dedektör hala fırlatma sırasında bulundukları konumdaydı ve optik sistem en iyi odaktan oldukça uzaktı. Bir teleskop doğru odaklandığında uzak bir yıldızın ışığı mümkün olduğunca küçük ve keskin bir noktada toplanır. Odak ciddi biçimde kaçtığında ise aynı ışık çok daha geniş bir alana yayılır. Roman'ın ilk görüntüsünde olan tam olarak bu. Bu nedenle görüntüdeki halkalar bir arıza işareti değil. Tam tersine, mühendislerin teleskobun optik sistemini ölçmek ve hizalamaya nereden başlayacaklarını belirlemek için ihtiyaç duyduğu başlangıç verisi. NASA yapılan ilk kontrollerin sistemlerin beklendiği gibi çalıştığını gösterdiğini bildiriyor. Şimdi sırada ince yönlendirme sistemini devreye almak ve odağı ayarlamak var. Bu süreç tamamlandığında bugün halka olarak gördüğümüz yıldızların ışığı keskin noktalara dönüşecek.",
         "Roman'ın 2,4 metrelik ana aynası Hubble Uzay Teleskobu'nunkiyle aynı büyüklükte. Ama iki teleskobun güçlü olduğu alan aynı değil. Roman'ın görüntü keskinliği Hubble'a benzer olacak. Büyük fark, aynı anda ne kadar gökyüzünü görebildiğinde ortaya çıkıyor. Roman'ın tek bir görüntüsü Hubble'ınkinden en az 100 kat daha geniş bir gökyüzü alanını kapsayabiliyor. Tek karede gördüğü alan, gökyüzündeki dolunayın kapladığı alandan bile büyük. NASA'nın tahminine göre Roman, ilk beş yıllık ana görevi boyunca Hubble'ın yaklaşık 30 yılda taradığı gökyüzü alanının 50 katından fazlasını görüntüleyebilir. Başka bir ifadeyle Roman'ın amacı yalnızca çok uzağa bakmak değil. Çok geniş bir alanı, Hubble düzeyinde ayrıntıyla ve tekrar tekrar taramak. İşte görevin bilimsel gücü büyük ölçüde buradan geliyor.",
         "Roman'ın ana hedeflerinden biri Samanyolu'ndaki gezegenleri araştırmak. Bunun için galaksimizin merkezine doğru yüz milyonlarca yıldızı izleyecek. Teleskop aynı bölgelere tekrar tekrar bakarken bir yıldızın ışığında kısa süreli bir parlaklık artışı görebilir. Bunun nedeni yıldızın kendisinin değişmesi olmayabilir. Önünden geçen başka bir cismin kütleçekimi, uzaktaki yıldızın ışığını büyütebilir. Buna kütleçekimsel mikromercekleme deniyor. Aradaki cismin bir gezegeni varsa, büyütme deseninde ek bir değişim bırakabilir. NASA yalnızca mikromercekleme taramasından binden fazla gezegen bulunabileceğini öngörüyor. Bunların arasında Mars kadar düşük kütleli gezegenler ve herhangi bir yıldıza bağlı olmadan galakside dolaşan serbest gezegenler de bulunabilir. Roman'ın farklı gözlem yöntemleri birlikte değerlendirildiğinde görev boyunca yaklaşık 100 bin yeni gezegen bulunması bekleniyor. Buradaki kelime önemli: bekleniyor. Roman henüz herhangi bir gezegen keşfetmedi.",
-        "Roman'ın ikinci büyük işi evrenin genişlemesini anlamaya çalışmak. Görev, gökyüzünün yaklaşık yüzde 12'sini kapsayacak geniş bir taramayla yüz milyonlarca galaksinin konumunu ve şeklini ölçecek. Bu veriler iki büyük soruya yardımcı olacak. Birincisi, galaksilerin ışığının önlerindeki madde tarafından nasıl büküldüğünü inceleyerek karanlık maddenin üç boyutlu dağılımını araştırmak. İkincisi ise evrenin genişleme hızının zaman içinde nasıl değiştiğini ölçmek. Bugünkü kozmolojiye göre evrenin enerji içeriğinin yaklaşık yüzde 68'i, doğasını hâlâ bilmediğimiz karanlık enerjiyle ilişkilendiriliyor. Roman'ın hedeflerinden biri bu etkinin zaman içindeki davranışını mevcut ölçümlere kıyasla çok daha hassas biçimde sınamak. NASA görevden yaklaşık on kat daha hassas ölçümler bekliyor. Yine burada Roman'ın “karanlık enerjiyi çözeceğini” söylemek doğru olmaz. Teleskop, karanlık enerjinin ne olduğuna ilişkin teorileri sınamak için çok daha büyük bir veri seti sağlayacak.",
+        "Roman'ın ikinci büyük işi evrenin genişlemesini anlamaya çalışmak. Görev, gökyüzünün yaklaşık yüzde 12'sini kapsayacak geniş bir taramayla yüz milyonlarca galaksinin konumunu ve şeklini ölçecek. Bu veriler iki büyük soruya yardımcı olacak. Birincisi, galaksilerin ışığının önlerindeki madde tarafından nasıl büküldüğünü inceleyerek karanlık maddenin üç boyutlu dağılımını araştırmak. İkincisi ise evrenin genişleme hızının zaman içinde nasıl değiştiğini ölçmek. Bugünkü kozmolojiye göre evrenin enerji içeriğinin yaklaşık yüzde 68'i, doğasını hala bilmediğimiz karanlık enerjiyle ilişkilendiriliyor. Roman'ın hedeflerinden biri bu etkinin zaman içindeki davranışını mevcut ölçümlere kıyasla çok daha hassas biçimde sınamak. NASA görevden yaklaşık on kat daha hassas ölçümler bekliyor. Yine burada Roman'ın “karanlık enerjiyi çözeceğini” söylemek doğru olmaz. Teleskop, karanlık enerjinin ne olduğuna ilişkin teorileri sınamak için çok daha büyük bir veri seti sağlayacak.",
         "Roman'ın üçüncü önemli araştırma biçimi ise zamanı kullanıyor. Teleskop aynı gökyüzü bölgesine iki yıl boyunca yaklaşık beş günde bir geri dönecek. Bu sayede değişmeyen gökyüzünün fotoğrafını çekmek yerine, değişen gökyüzünü izleyecek. NASA bu taramada yaklaşık 100 bin kozmik patlamanın yakalanmasını bekliyor. Bunların arasında süpernovalar da bulunacak. Özellikle belirli süpernova türleri, evrenin geçmişte ne kadar hızlı genişlediğini ölçmek için kullanılan önemli kozmolojik araçlardan biri. Roman böylece yalnızca galaksilerin nerede olduğunu değil, evrenin zaman içinde nasıl değiştiğini de büyük ölçekli olarak takip edecek.",
         "Bu kadar geniş alanı sürekli taramak doğal olarak muazzam miktarda veri üretecek. Roman'ın Dünya'ya her gün yaklaşık 1,4 terabayt ham veri göndermesi bekleniyor. Bu, NASA'nın astrofizik görevleri arasındaki en yüksek veri miktarlarından biri olacak. Beş yıllık ana görev boyunca işlenen veri miktarının yaklaşık 20 petabayta ulaşması bekleniyor. NASA'nın planına göre veriler işlendikçe bilim dünyasına ve halka açık olacak. Bu da Roman'ı yalnızca kendi bilim ekibinin kullandığı bir teleskop olmaktan çıkarıyor. Dünyanın dört bir yanındaki araştırmacılar aynı dev veri arşivinden tamamen farklı soruların peşine düşebilecek.",
         "Roman'ın onaylanmış ana görevi beş yıl. Ancak fırlatma ve ilk rota düzeltmeleri beklenenden oldukça verimli gerçekleşti. NASA'nın verdiği bilgiye göre araçta kalan yakıt en az 22 yıllık çalışmaya yetecek miktarda. Bu, Roman'ın kesin olarak 22 yıl çalışacağı anlamına gelmiyor. Uzay görevlerinin ömrü yalnızca yakıtla belirlenmez; donanımın durumu, bütçe ve görev uzatmaları gibi birçok etken vardır. Dolayısıyla doğru ifade şu: Ana görev beş yıl, mevcut yakıt ise çok daha uzun bir çalışma süresine izin verebilir.",
@@ -2213,7 +3680,7 @@
       "date": "2026-09-18T21:30:29.770466+00:00",
       "date_text": "18 Eylül 2026",
       "draft": false,
-      "title": "Konuşmayan Yapay Zekâ: Metin Yerine Karar Üreten Bir Model",
+      "title": "Konuşmayan Yapay Zeka: Metin Yerine Karar Üreten Bir Model",
       "standfirst": "ChatGPT'nin arkasındaki yöntemleri kuran isimlerden biri, dil modellerinin otomasyon için yanlış araç olduğunu savunuyor ve hiç metin üretmeyen bir model duyurdu.",
       "paragraphs": [
         "Diogo Almeida, OpenAI'de dil modellerinin talimat takip etmesini ve insanlarla konuşmasını sağlayan yöntemlerin arkasındaki ekipteydi; bu çalışma ChatGPT'nin temelini oluşturdu. Ama kendi anlatımına göre sonuçtan memnun değildi. Şirkete göre sorun modellerin yeteneksizliği değil, neye göre eğitildikleri: insan diline göre optimize edilen bir model, işi yapan bilgisayarla aynı dili konuşmuyor. Almeida iki yıl önce ayrılıp TypeSafe AI'yı kurdu ve 15 Eylül 2026'da ilk modelini duyurdu.",
@@ -2582,10 +4049,10 @@
       "paragraphs": [
         "Saksıdaki bir bitkinin tamamen sessiz olduğunu düşünürüz. Oysa Tel Aviv Üniversitesi'nden Khait, Lewin-Epstein ve ekibinin Cell dergisinde 30 Mart 2023'te yayımladığı çalışma, bunun öyle olmadığını gösterdi. Lilach Hadany ve Yossi Yovel'in laboratuvarlarından araştırmacılar, susuz kalan ya da sapından kesilen bitkilerin insan kulağının asla yakalayamayacağı frekanslarda düzenli tıkırtılar çıkardığını ilk kez kayda geçirdi. Şimdiye kadar bitkilerin stres altında havadan yayılan, mikrofonla kaydedilebilir bir sinyal ürettiğine dair elde kanıt yoktu.",
         "Ekip önce domates ve tütün bitkilerini ses yalıtımlı bir odada kaydetti, sonra aynı deneyi gürültülü bir serada tekrarladı; mısır, buğday, üzüm ve kaktüs gibi başka türleri de denedi. Bitkilerin bir kısmını susuz bıraktılar, bir kısmının sapını kestiler. Susuz kalan ya da kesilen bitkiler saatte yaklaşık 30 ila 50 kez tıkırdadı, stres altında olmayan bir bitkiden ise saatte birin bile altında ses geldi; aradaki fark göz ardı edilemeyecek kadar büyüktü. Sesler 40 ile 80 kilohertz arasındaydı, patlamış mısır tanesi ya da patlayan bir balon gibi kısa 'pat' sesleriydi ve mikrofonlar bunları bir metreden daha uzaktan bile yakalayabildi.",
-        "Kayıtları bir yapay öğrenme modeline dinlettiklerinde işler daha da ilginçleşti: model yalnızca susuz kalmayla kesilmeyi birbirinden ayırmakla kalmadı, domates ile tütünün tıkırtılarını da birbirinden ayırt edebildi. Bu, seslerin rastgele bir gürültü olmadığını, bitkinin içinde bulunduğu duruma göre değiştiğini gösteriyor. Araştırmacıların önerdiği olası mekanizma kavitasyon: bitkinin su taşıyan ince borularında küçük hava kabarcıkları oluşup patlıyor, bu patlamalar da tıkırtı olarak kaydediliyor. Ama ekip bitkilerin bu sesleri bilerek, bir tür iletişim amacıyla çıkardığını söylemiyor; bu soru hâlâ açık."
+        "Kayıtları bir yapay öğrenme modeline dinlettiklerinde işler daha da ilginçleşti: model yalnızca susuz kalmayla kesilmeyi birbirinden ayırmakla kalmadı, domates ile tütünün tıkırtılarını da birbirinden ayırt edebildi. Bu, seslerin rastgele bir gürültü olmadığını, bitkinin içinde bulunduğu duruma göre değiştiğini gösteriyor. Araştırmacıların önerdiği olası mekanizma kavitasyon: bitkinin su taşıyan ince borularında küçük hava kabarcıkları oluşup patlıyor, bu patlamalar da tıkırtı olarak kaydediliyor. Ama ekip bitkilerin bu sesleri bilerek, bir tür iletişim amacıyla çıkardığını söylemiyor; bu soru hala açık."
       ],
       "takeaway": "Susuz kalan bitkiler saatte 30-50 kez, duyamadığımız frekanslarda tıkırdıyor.",
-      "impact": "Çalışma bitkilerin neden ses çıkardığını değil, bu sesleri ölçüp birbirinden ayırt edebildiğimizi gösteriyor; bitkinin bunu bilerek yaptığı henüz kanıtlanmadı. Yapay zekânın tıkırtılardan susuzluğu ayırt edebilmesi, bu seslerin ileride tarlada su ihtiyacını uzaktan izlemek için bir sinyal olarak araştırılabileceğine işaret ediyor, ama bu şimdilik yalnızca bir olasılık.",
+      "impact": "Çalışma bitkilerin neden ses çıkardığını değil, bu sesleri ölçüp birbirinden ayırt edebildiğimizi gösteriyor; bitkinin bunu bilerek yaptığı henüz kanıtlanmadı. Yapay zekanın tıkırtılardan susuzluğu ayırt edebilmesi, bu seslerin ileride tarlada su ihtiyacını uzaktan izlemek için bir sinyal olarak araştırılabileceğine işaret ediyor, ama bu şimdilik yalnızca bir olasılık.",
       "category": {
         "slug": "biyoloji",
         "label": "Biyoloji",
@@ -2651,7 +4118,7 @@
         "Sonuçlarda insan ve maymun çalışmalarından bilinen bir örüntü de ortaya çıktı: arılar sıfırı altı şekilli kartla karşılaştırdığında, bire yakın kartlarla karşılaştırdığından çok daha az yanıldı. Sayısal uzaklık etkisi denen bu örüntüye göre, iki sayı arasındaki fark büyüdükçe ayırt etmek kolaylaşıyor. Araştırmacılara göre bu, yaklaşık bir milyon nörona sahip bir böcek beyninin bile sıfırı sayısal bir sıralamanın en altına yerleştirebildiğini gösteriyor. Ama makale bunun sıfırın tam anlamıyla kavrandığı anlamına gelmediğini özellikle belirtiyor; gösterilen şey, boş kümenin sayısal sırada işlenebildiği, insan matematiğindeki soyut sıfır fikriyle bir tutulmaması gerekiyor."
       ],
       "takeaway": "Bal arısı beyni, hiç görmediği boş kartı diğer tüm sayılardan 'daha az' olarak seçti.",
-      "impact": "Bu çalışma şimdilik doğrudan bir uygulamadan çok temel bir soruya cevap arıyor: soyut sayısal fikirler için ne kadar karmaşık bir beyin gerekiyor? Yaklaşık bir milyon nöronla çalışan bir böcek beyninin sıfırı sıralayabilmesi, sayısal biliş ve hayvan zekâsı araştırmalarına yeni bir karşılaştırma noktası sunuyor.",
+      "impact": "Bu çalışma şimdilik doğrudan bir uygulamadan çok temel bir soruya cevap arıyor: soyut sayısal fikirler için ne kadar karmaşık bir beyin gerekiyor? Yaklaşık bir milyon nöronla çalışan bir böcek beyninin sıfırı sıralayabilmesi, sayısal biliş ve hayvan zekası araştırmalarına yeni bir karşılaştırma noktası sunuyor.",
       "category": {
         "slug": "biyoloji",
         "label": "Biyoloji",
