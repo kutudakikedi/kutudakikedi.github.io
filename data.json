@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T06:13:05+00:00",
+  "generated_at": "2026-10-14T06:36:31+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -325,7 +325,7 @@
     },
     {
       "slug": "ari",
-      "label": "arı",
+      "label": "ari",
       "count": 1,
       "url": "etiket/ari.html"
     },
@@ -624,16 +624,16 @@
       "url": "etiket/insan.html"
     },
     {
+      "slug": "isitme",
+      "label": "isitme",
+      "count": 1,
+      "url": "etiket/isitme.html"
+    },
+    {
       "slug": "izotop",
       "label": "izotop",
       "count": 1,
       "url": "etiket/izotop.html"
-    },
-    {
-      "slug": "isitme",
-      "label": "işitme",
-      "count": 1,
-      "url": "etiket/isitme.html"
     },
     {
       "slug": "jet",
@@ -1160,11 +1160,808 @@
   ],
   "articles": [
     {
+      "id": "proj_0551694948",
+      "slug": "2026-10-20-rotiferler-dna-hasarini-neden-birkac-kusaga-yayiyor",
+      "url": "yazi/2026-10-20-rotiferler-dna-hasarini-neden-birkac-kusaga-yayiyor.html",
+      "date": "2026-10-20T03:00:00+00:00",
+      "date_text": "20 Ekim 2026",
+      "publish_at": "2026-10-20T03:00:00Z",
+      "draft": false,
+      "title": "Rotiferler DNA Hasarını Neden Birkaç Kuşağa Yayıyor?",
+      "standfirst": "Adineta vaga genomları, kırık kromozomların tek kuşakta değil birkaç kuşak boyunca homolog rekombinasyonla tamamlandığını gösteren bir modele destek verdi.",
+      "paragraphs": [
+        "Adineta vaga genomları, kırık kromozomların tek kuşakta değil birkaç kuşak boyunca homolog rekombinasyonla tamamlandığını gösteren bir modele destek verdi.",
+        "Bdelloid rotiferler, gözle görülmeyecek kadar küçük su hayvanları. Milyonlarca yıldır erkek ya da erdişi birey görülmeden, yalnızca dişilerle üreyerek yüzlerce türe ayrılmışlar. Üstelik tamamen kurumaya ve kromozomlarında yüzlerce kırık oluşturan yüksek dozda radyasyona dayanabiliyorlar. Su verildiğinde 48 saat içinde DNA'larını onarmaya başlıyorlar.",
+        "Belçika'daki Brüksel Özgür Üniversitesi'nden bir ekip Adineta vaga türünün genomunu kuşaklar boyunca inceledi. Cinsel üreyen canlılar yumurta ve sperm üretirken kromozom eşlerini yan yana getirip parça değiştirir. Bu 'homolog rekombinasyon' aynı zamanda bir DNA onarım yöntemi. Ekip, eşeysiz rotiferin de yumurta üretirken bu düzeneği kullandığını gösterdi: hem kendiliğinden parça değişimi için hem de hasarlı DNA'yı onarmak için.",
+        "Asıl şaşırtıcı bulgu şu: kırık kromozomlar tek seferde değil, birkaç kuşak boyunca yavaş yavaş tamamlanıyor. Ekip buna kuşaklar arası onarım adını verdi. Yazarlara göre bu, rotiferin kromozom yapısıyla birlikte, aşırı koşullarda yaşamanın anahtarlarından biri olabilir.",
+        "Bu çalışma, aşırı koşullarda yaşayan canlıların DNA'larını nasıl koruduğunu anlamaya yardım ediyor. Bulgular tek bir türe dayanıyor ama mekanizma için güçlü destek sunuyor."
+      ],
+      "takeaway": "Milyonlarca yıldır erkeksiz üreyen, kurumaya ve yüksek radyasyona dayanan mikroskobik bdelloid rotiferler, kırılan kromozomlarını tek kuşakta değil, birkaç kuşak boyunca yavaş yavaş onarıyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "dna",
+          "label": "dna",
+          "url": "etiket/dna.html"
+        },
+        {
+          "slug": "mikroskop",
+          "label": "mikroskop",
+          "url": "etiket/mikroskop.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        },
+        {
+          "slug": "genetik",
+          "label": "genetik",
+          "url": "etiket/genetik.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aee0891"
+        }
+      ],
+      "image_credits": [
+        "Bob Blaylock (talk), Wikimedia Commons (CC BY-SA 3.0)",
+        "Houtain A ve ark., Science advances 2026 (10.1126/sciadv.aee0891), CC BY 4.0",
+        "Ian Sutton from Oberon, Australia, Wikimedia Commons (CC BY 2.0)",
+        "Wikimedia Commons, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "DfqBZ5CTJTw"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/DfqBZ5CTJTw"
+        }
+      ]
+    },
+    {
+      "id": "proj_8d4ffd6598",
+      "slug": "2026-10-19-varroa-akarlarinin-erkekleri-neden-annelerinin-klonu",
+      "url": "yazi/2026-10-19-varroa-akarlarinin-erkekleri-neden-annelerinin-klonu.html",
+      "date": "2026-10-19T13:00:00+00:00",
+      "date_text": "19 Ekim 2026",
+      "publish_at": "2026-10-19T13:00:00Z",
+      "draft": false,
+      "title": "Varroa Akarlarının Erkekleri Neden Annelerinin Klonu?",
+      "standfirst": "Üç kuşaklık genetik izleme, erkek Varroa akarlarının annelerinin iki genom kopyasını da taşıdığını gösterdi.",
+      "paragraphs": [
+        "Üç kuşaklık genetik izleme, erkek Varroa akarlarının annelerinin iki genom kopyasını da taşıdığını gösterdi. Bu sıra dışı üreme sistemi genetik çeşitliliğin korunmasına yardım ediyor olabilir.",
+        "Varroa destructor, bal arısı kolonilerine dünya çapında yayılmış bir asalak akar. Yeni bir kovana geçen akar az sayıda bireyle başladığı için genetik çeşitliliğini kaybediyor. Yine de hızla yayılmayı ve ilaçlara uyum sağlamayı başarıyor. Bu bir paradoks.",
+        "Arılar ve karıncalar gibi Varroa'nın da 'haplodiploit' olduğu düşünülüyordu: erkekler döllenmemiş yumurtadan çıkar ve annenin genomunun yalnızca yarısını taşır. Bu sistem genetik çeşitliliği daha da azaltır.",
+        "İsrail'deki Shamir Araştırma Enstitüsü'nden Nurit Eliash ve Japonya'daki OIST'ten Alexander Mikheyev'in de aralarında olduğu ekip, akarları üç kuşak boyunca izledi. Sonuç beklenmedikti. Erkek akarlar annenin iki genom kopyasını da taşıyor, yani annelerinin klonu. Kızlarına da bu iki kopyadan birini rastgele aktarıyorlar. Böylece kardeşler arası çiftleşmede bile çeşitlilik daha yavaş kayboluyor.",
+        "Yazarlara göre bu, evrimde çıkmaz sokak sayılan haplodiploitlikten geri dönüşün nadir bir örneği ve istilacı asalakların dayanıklılığını açıklayabilir.",
+        "Bu, Varroa'nın küçük kurucu popülasyonlara rağmen nasıl bu kadar hızlı uyum sağladığını açıklayabilir. Akarın üreme biçimini anlamak, arıları korumak için yeni yollar aramaya da ışık tutabilir."
+      ],
+      "takeaway": "Bal arılarının baş belası Varroa akarının erkeklerinin, annelerinin genomunun yarısını taşıdığı sanılıyordu.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "ari",
+          "label": "ari",
+          "url": "etiket/ari.html"
+        },
+        {
+          "slug": "akar",
+          "label": "akar",
+          "url": "etiket/akar.html"
+        },
+        {
+          "slug": "genetik",
+          "label": "genetik",
+          "url": "etiket/genetik.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-77125-8"
+        }
+      ],
+      "image_credits": [
+        "Courtesy, Eric Erbe, Christopher Pooley: USDA, ARS, EMU., Wikimedia Commons (Public domain)",
+        "Wikimedia Commons, Wikimedia Commons (Public domain)",
+        "Denis Anderson, CSIRO, Wikimedia Commons (CC BY 3.0)"
+      ],
+      "video": {
+        "youtube": "ZZzGePvpPjs"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/ZZzGePvpPjs"
+        }
+      ]
+    },
+    {
+      "id": "proj_c89b5cf56f",
+      "slug": "2026-10-19-baliklarda-ayni-vantuz-neden-uc-kez-evrimlesti",
+      "url": "yazi/2026-10-19-baliklarda-ayni-vantuz-neden-uc-kez-evrimlesti.html",
+      "date": "2026-10-19T03:00:00+00:00",
+      "date_text": "19 Ekim 2026",
+      "publish_at": "2026-10-19T03:00:00Z",
+      "draft": false,
+      "title": "Balıklarda Aynı Vantuz Neden Üç Kez Evrimleşti?",
+      "standfirst": "960 türlük soy ağacı ve yeni genomlar, karın yüzgeçlerinden oluşan vantuzun üç uzak balık soyunda bağımsız olarak evrimleştiğini gösterdi.",
+      "paragraphs": [
+        "960 türlük soy ağacı ve yeni genomlar, karın yüzgeçlerinden oluşan vantuzun üç uzak balık soyunda bağımsız olarak evrimleştiğini gösterdi.",
+        "Bazı balıkların karın yüzgeçleri kaynaşıp bir vantuza dönüşmüş. Kayaya yapışan yapışkan balıklar (clingfish), şelaleleri tırmanan kaya tırmanıcısı kayabalıkları ve en derin okyanus çukurlarında yaşayan salyangoz balıkları bunun örnekleri.",
+        "Kaliforniya'daki Scripps Oşinografi Enstitüsü'nden bir ekip 960 türü kapsayan yeni bir soy ağacı kurdu ve 67 salyangoz balığının genomunu ilk kez okudu. Sonuç: vantuz, birbirinden 100 milyon yıldan fazla ayrı üç soyda bağımsız olarak üç kez evrimleşti.",
+        "Vantuz, balıkların dalga çarpan gelgit havuzları ve şelaleler gibi akıntılı yerlere tutunmasını sağladı. Ardından vücut yassılaştı, pul ve dişler değişti. Vücut biçimindeki evrim 2 ile 5 kat hızlandı. Özellikle kaya tırmanıcısı kayabalıklarında tür çeşitliliğinde belirgin bir patlama görüldü. Derin çukurlardaki salyangoz balıklarında ise vantuz ani akıntılarda yerinde kalmaya yardım ediyor olabilir.",
+        "Bu balıklar zaten biliniyordu. Yeni olan, aynı yapının üç ayrı kez ortaya çıkıp her seferinde balıklara yeni yaşam alanları açtığının gösterilmesi."
+      ],
+      "takeaway": "Karın yüzgeçlerinden oluşan vantuz, balıklarda birbirinden 100 milyon yıldan fazla ayrı üç soyda, birbirinden bağımsız olarak üç kez ortaya çıktı.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "balik",
+          "label": "balik",
+          "url": "etiket/balik.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        },
+        {
+          "slug": "deniz",
+          "label": "deniz",
+          "url": "etiket/deniz.html"
+        },
+        {
+          "slug": "vantuz",
+          "label": "vantuz",
+          "url": "etiket/vantuz.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aeh7851"
+        }
+      ],
+      "image_credits": [
+        "Beta Mahatvaraj, Wikimedia Commons (CC BY-SA 4.0)",
+        "C. Haas, Wikimedia Commons (Public domain)",
+        "OldMateWA, Wikimedia Commons (CC BY-SA 4.0)"
+      ],
+      "video": {
+        "youtube": "QDok1aE99cc"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/QDok1aE99cc"
+        }
+      ]
+    },
+    {
+      "id": "proj_be972347a8",
+      "slug": "2026-10-18-hayvanlarin-kokeni-fosil-kayitlarindan-cok-daha-eski-olabili",
+      "url": "yazi/2026-10-18-hayvanlarin-kokeni-fosil-kayitlarindan-cok-daha-eski-olabili.html",
+      "date": "2026-10-18T03:00:00+00:00",
+      "date_text": "18 Ekim 2026",
+      "publish_at": "2026-10-18T03:00:00Z",
+      "draft": false,
+      "title": "Hayvanların Kökeni Fosil Kayıtlarından Çok Daha Eski Olabilir mi?",
+      "standfirst": "Moğolistan’daki Kheseen yatağı, fosil yokluğunun hayvanların yokluğu anlamına gelmediğini gösterdi.",
+      "paragraphs": [
+        "Moğolistan’daki Kheseen yatağı, fosil yokluğunun hayvanların yokluğu anlamına gelmediğini gösterdi. Üst sınır gevşetilince moleküler saat 800 ile 700 milyon yılı işaret etti.",
+        "Hayvanlar ne zaman ortaya çıktı? Kesin hayvan fosilleri ancak yaklaşık 574 milyon yıl önceye, Ediyakara dönemine uzanıyor. Ama kayalarda korunmuş bazı yağ molekülleri, yani biyolojik izler, hayvanların, özellikle süngerlerin, 635 milyon yıldan önce de var olduğunu düşündürüyor. Arada çözülmemiş bir boşluk var.",
+        "Bu boşluğu kapatmanın bir yolu moleküler saat: canlıların DNA'sındaki farklardan, soyların ne zaman ayrıldığını geriye doğru hesaplamak. Ama saatin doğruluğu, hesabın içine konan sınırlara çok bağlı. Bunlardan biri 'en fazla bu kadar eski olabilir' diyen üst sınır. Bu üst sınır için sık kullanılan bir dayanak, Çin'deki Weng'an fosil yatağı. Bu yatakta mikroskobik fosiller çok iyi korunmuş ama kesin bir hayvan yok. Mantık şu: hayvanlar o zaman var olsaydı burada görünürdü.",
+        "Oxford Üniversitesi'nden Ross Anderson'ın ekibi bu mantığı Moğolistan'daki Kheseen fosil yatağıyla sınadı. Kheseen, Weng'an'a çok benzer biçimde korunmuş ve benzer mikroskobik fosiller içeriyor. Ama yaşı yaklaşık 550 ile 526 milyon yıl arasında, yani hayvanların kesinlikle yaşadığı bir dönemden. Buna rağmen Kheseen'de de kesin bir hayvan fosili yok. Demek ki bu tür bir yatakta hayvan bulunmaması, o dönemde hayvan olmadığını kanıtlamıyor.",
+        "Yazarlar bu yüzden Weng'an'ın üst sınır olarak kullanılmasını sorguluyor. Kendi analizleri, hayvanların ortak atasının yaklaşık 800 ile 700 milyon yıl önce, Kriyojeniyen dönemin ortalarına kadar uzanan bir zamanda ortaya çıktığını destekliyor. Bu, 'Kartopu Dünya' denen büyük buzul çağlarıyla aynı dönemlere denk geliyor.",
+        "Bu yaşta bir hayvan fosili henüz bulunmadı. Ama bu çalışma, ilk hayvanları hangi kayalarda aramamız gerektiğine yeni bir yön veriyor."
+      ],
+      "takeaway": "Moğolistan'daki bir fosil yatağı, hayvanların kesinlikle var olduğu bir dönemden geliyor ama içinde hiç hayvan fosili yok.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        },
+        {
+          "slug": "fosil",
+          "label": "fosil",
+          "url": "etiket/fosil.html"
+        },
+        {
+          "slug": "hayvanlar",
+          "label": "hayvanlar",
+          "url": "etiket/hayvanlar.html"
+        },
+        {
+          "slug": "paleontoloji",
+          "label": "paleontoloji",
+          "url": "etiket/paleontoloji.html"
+        },
+        {
+          "slug": "tarih",
+          "label": "tarih",
+          "url": "etiket/tarih.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aeg6289"
+        }
+      ],
+      "image_credits": [
+        "Verisimilus at English Wikipedia, Wikimedia Commons (CC BY 2.5)",
+        "Susan H. Butts, Wikimedia Commons (CC0)",
+        "Lole Durbin OM ve ark., Science Advances 2026 (10.1126/sciadv.aeg6289), CC BY 4.0",
+        "Citronnel, Wikimedia Commons (CC BY-SA 4.0)"
+      ],
+      "video": {
+        "youtube": "baD3GA8mnIM"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/baD3GA8mnIM"
+        }
+      ]
+    },
+    {
+      "id": "proj_d53b9a49dc",
+      "slug": "2026-10-17-erken-sagirlik-beynin-gorme-haritasini-nasil-degistiriyor",
+      "url": "yazi/2026-10-17-erken-sagirlik-beynin-gorme-haritasini-nasil-degistiriyor.html",
+      "date": "2026-10-17T13:00:00+00:00",
+      "date_text": "17 Ekim 2026",
+      "publish_at": "2026-10-17T13:00:00Z",
+      "draft": false,
+      "title": "Erken Sağırlık Beynin Görme Haritasını Nasıl Değiştiriyor?",
+      "standfirst": "Fonksiyonel MR, erken sağır yetişkinlerde çevresel görüş temsilinin daha geniş, merkezi görüş temsilinin daha küçük olduğunu gösterdi.",
+      "paragraphs": [
+        "Fonksiyonel MR, erken sağır yetişkinlerde çevresel görüş temsilinin daha geniş, merkezi görüş temsilinin daha küçük olduğunu gösterdi. Toplam görsel yapı büyüklüğü değişmedi.",
+        "Bir duyunun yokluğu diğer duyuları güçlendirebiliyor. Çok sayıda davranış çalışması, erken yaşta sağır olan yetişkinlerin görüş alanının uzak kenarlarındaki hareketleri ve değişiklikleri daha iyi fark ettiğini gösteriyor. Ses ipuçları olmadan görme, çevredeki olaylar için bir erken uyarı sistemi gibi çalışıyor.",
+        "İngiltere'deki York Üniversitesi'nden bir ekip bunun beynin görmeyle ilgili ilk aşamalarında bir iz bırakıp bırakmadığını sordu. Fonksiyonel MR ile 16 erken ve ileri derecede sağır yetişkinin ve yaşça eşleştirilmiş 16 işiten kişinin görme haritalarını çıkardılar.",
+        "Sağır katılımcılarda, görüş alanının uzak kenarlarını işleyen bölüm hem birincil görme korteksinde hem de gözden gelen bilginin beyne ilk uğradığı talamustaki istasyonda daha büyüktü. Ama yapıların toplam büyüklüğü iki grupta aynıydı. Merkezi görüşe ayrılan bölüm sağır grupta daha küçüktü. Yani beyin büyümemiş, var olanı yeniden paylaştırmış.",
+        "Bu, merkezi görüşün daha kötü olduğu anlamına gelmiyor. Beyin, sesin olmadığı yerde çevreyi gözle takip etmek için kaynaklarını yeniden dağıtıyor. Bu çalışma, beynin duyular arasında nasıl uyum sağladığını anlamaya yardım ediyor."
+      ],
+      "takeaway": "Doğuştan ya da çok erken yaşta sağır olan yetişkinlerin beyninde, görüş alanının uzak kenarlarına ayrılan alan daha büyük, merkeze ayrılan alan daha küçük.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        },
+        {
+          "slug": "isitme",
+          "label": "isitme",
+          "url": "etiket/isitme.html"
+        },
+        {
+          "slug": "gorme",
+          "label": "gorme",
+          "url": "etiket/gorme.html"
+        },
+        {
+          "slug": "noroloji",
+          "label": "noroloji",
+          "url": "etiket/noroloji.html"
+        },
+        {
+          "slug": "sagir",
+          "label": "sagir",
+          "url": "etiket/sagir.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2532413123"
+        }
+      ],
+      "image_credits": [
+        "Levine AT ve ark., Proceedings of the National Academy of Sciences of the United States of America 2026 (10.1073/pnas.2532413123), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "abOS5t0dtes"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/abOS5t0dtes"
+        }
+      ]
+    },
+    {
+      "id": "proj_836da0dcf7",
+      "slug": "2026-10-17-insanlar-neden-yururken-once-topuguyla-basiyor",
+      "url": "yazi/2026-10-17-insanlar-neden-yururken-once-topuguyla-basiyor.html",
+      "date": "2026-10-17T03:00:00+00:00",
+      "date_text": "17 Ekim 2026",
+      "publish_at": "2026-10-17T03:00:00Z",
+      "draft": false,
+      "title": "İnsanlar Neden Yürürken Önce Topuğuyla Basıyor?",
+      "standfirst": "İnsan ve şempanze yürüyüşlerini karşılaştıran çalışma, topukla basmanın insanlarda enerji maliyetini düşürdüğünü, ancak daha yüksek darbe kuvvetleri oluşturduğunu gösterdi.",
+      "paragraphs": [
+        "İnsan ve şempanze yürüyüşlerini karşılaştıran çalışma, topukla basmanın insanlarda enerji maliyetini düşürdüğünü, ancak daha yüksek darbe kuvvetleri oluşturduğunu gösterdi.",
+        "İnsan yürüyüşünün belirgin bir özelliği var: her adım topukla başlıyor. Bunu yapan hayvan çok az. En yakın akrabalarımız Afrika büyük maymunlarının da topukla bastığı düşünülüyordu ve bu benzerlik, iki ayaklı yürüyüşün kökeni hakkındaki teorilerde kullanılıyordu.",
+        "Pennsylvania Eyalet Üniversitesi'nden Nicholas Holowka'nın ekibi bunu ölçtü. İnsanları ve şempanzeleri hem iki hem dört ayak üstünde yürürken üç boyutlu hareket yakalama işaretleri ve yer kuvveti ölçerlerle kaydettiler.",
+        "Sonuç: şempanzeler ayaklarını yere basarken insanlara göre 2,4 ile 8,6 kat daha geniş bir açı aralığı kullanıyor ve çoğu zaman topukla basmıyor. Hem insanda hem şempanzede topukla basmak yüksek darbe kuvvetleriyle ilişkili. Peki insan neden topukla basıyor? Ekip insanlardan önce ayağın ön kısmıyla basarak yürümelerini istedi. Bu durumda yüzde 26 ile 41 daha fazla enerji harcadılar.",
+        "Yani bir takas var: topukla basmak yürüyüşün enerji maliyetini düşürüyor ama eklemlere gelen darbeyi artırıyor. Yazarlara göre insan soyunda sonradan büyüyen topuk kemiği ve bacak eklemleri, topukla basmayı hem güvenli hem ekonomik hale getirdi ve günde çok daha uzun mesafeler yürümeyi mümkün kıldı.",
+        "Yani mesele topukla basmanın iyi ya da kötü olması değil. Evrimsel bir takas var. Daha ekonomik yürüyüş karşılığında daha yüksek darbe kuvvetleri."
+      ],
+      "takeaway": "İnsan her adımında yere önce topuğuyla basıyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        },
+        {
+          "slug": "yuruyus",
+          "label": "yuruyus",
+          "url": "etiket/yuruyus.html"
+        },
+        {
+          "slug": "sempanze",
+          "label": "sempanze",
+          "url": "etiket/sempanze.html"
+        },
+        {
+          "slug": "insan",
+          "label": "insan",
+          "url": "etiket/insan.html"
+        },
+        {
+          "slug": "biyomekanik",
+          "label": "biyomekanik",
+          "url": "etiket/biyomekanik.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2533918123"
+        }
+      ],
+      "image_credits": [
+        "Holowka NB ve ark., PNAS 2026 (10.1073/pnas.2533918123), CC BY 4.0",
+        "Holowka NB ve ark., Proceedings of the National Academy of Sciences of the United States of America 2026 (10.1073/pnas.2533918123), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "WQn-3-mD1KU"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/WQn-3-mD1KU"
+        }
+      ]
+    },
+    {
+      "id": "proj_e5106aaa29",
+      "slug": "2026-10-16-beynin-gorme-haritasi-gormeden-once-nasil-kuruluyor",
+      "url": "yazi/2026-10-16-beynin-gorme-haritasi-gormeden-once-nasil-kuruluyor.html",
+      "date": "2026-10-16T13:00:00+00:00",
+      "date_text": "16 Ekim 2026",
+      "publish_at": "2026-10-16T13:00:00Z",
+      "draft": false,
+      "title": "Beynin Görme Haritası Görmeden Önce Nasıl Kuruluyor?",
+      "standfirst": "871 beyin taraması, görme korteksindeki proto-retinotopik bağlantı örüntülerinin gebeliğin 21. haftasında, gözler açılmadan önce ortaya çıktığını gösterdi.",
+      "paragraphs": [
+        "871 beyin taraması, görme korteksindeki proto-retinotopik bağlantı örüntülerinin gebeliğin 21. haftasında, gözler açılmadan önce ortaya çıktığını gösterdi.",
+        "Gözümüzün gördüğü sahne beynin arka kısmındaki görme bölgesine düzenli bir harita gibi yerleşir. Görüntüde yan yana duran noktalar, beyinde de yan yana duran sinir hücresi gruplarına düşer. Bilim insanları buna retinotopik harita diyor. Soru şu: bu harita bebek dünyayı görmeye başladıktan sonra mı kuruluyor, yoksa doğumdan önce mi?",
+        "Leipzig'deki Max Planck İnsan Bilişsel ve Beyin Bilimleri Enstitüsü'nden Michael Skeide'nin ekibi, anne karnındaki bebeklerden genç yetişkinlere kadar 871 beyin taraması inceledi. Taramalar, kişi hiçbir görev yapmazken çekilen dinlenme hali fonksiyonel MR görüntüleriydi. Gebelik dönemindeki taramalar Londra'daki Developing Human Connectome Project'ten geliyor.",
+        "Ekip görme bölgesinin alt alanları arasındaki bağlantıları modelledi. Gebeliğin 21. haftasından itibaren, görme bölgesinin V2 ve V3 adlı alanlarında hem merkezden kenara doğru uzaklığı hem de açıyı düzenli biçimde haritalayan bağlantı örüntüleri buldular. Bunlar gebeliğin ikinci üç ayında, yani görsel deneyimden önce ortaya çıkıyor.",
+        "Bunun neden çarpıcı olduğunu yazarlar şöyle anlatıyor: bebeğin gözleri genellikle ancak 28. haftada açılıyor, göz bebekleri 31. hafta civarında küçülüp büyümeye başlıyor ve bebek dışarıdan tutulan bir ışığa ancak 34. hafta civarında yöneliyor. Harita ise bunlardan haftalar önce orada. Bu yüzden yazarlar buna 'öncül' anlamında proto-retinotopik harita diyor.",
+        "Bebek rahimde henüz görmüyor. Ama beyni görmeye hazırlanmaya çoktan başlamış. Harita doğumdan sonra da gelişmeye devam ediyor."
+      ],
+      "takeaway": "Bebek daha anne karnındayken, gebeliğin 21. haftasında, beynin görme bölgesinde görme alanını düzenli biçimde haritalayan bağlantı örüntüleri şimdiden var.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        },
+        {
+          "slug": "bebek",
+          "label": "bebek",
+          "url": "etiket/bebek.html"
+        },
+        {
+          "slug": "gorme",
+          "label": "gorme",
+          "url": "etiket/gorme.html"
+        },
+        {
+          "slug": "gebelik",
+          "label": "gebelik",
+          "url": "etiket/gebelik.html"
+        },
+        {
+          "slug": "noroloji",
+          "label": "noroloji",
+          "url": "etiket/noroloji.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aee9300"
+        }
+      ],
+      "image_credits": [],
+      "video": {
+        "youtube": "SyJ18LQ_gy8"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/SyJ18LQ_gy8"
+        }
+      ]
+    },
+    {
+      "id": "proj_1296f1d0ab",
+      "slug": "2026-10-16-dinozorlarda-ucus-birden-fazla-kez-mi-evrimlesti",
+      "url": "yazi/2026-10-16-dinozorlarda-ucus-birden-fazla-kez-mi-evrimlesti.html",
+      "date": "2026-10-16T03:00:00+00:00",
+      "date_text": "16 Ekim 2026",
+      "publish_at": "2026-10-16T03:00:00Z",
+      "draft": false,
+      "title": "Dinozorlarda Uçuş Birden Fazla Kez mi Evrimleşti?",
+      "standfirst": "Yeni Norellraptor fosili ve soy ağacı analizi, mikroraptorlardaki uçuş donanımının kuş soyundan bağımsız ve farklı bir sırayla gelişmiş olabileceğini destekliyor.",
+      "paragraphs": [
+        "Yeni Norellraptor fosili ve soy ağacı analizi, mikroraptorlardaki uçuş donanımının kuş soyundan bağımsız ve farklı bir sırayla gelişmiş olabileceğini destekliyor.",
+        "Tüylü dinozorların keşfi, kuşların dinozorlardan geldiğini gösterdi. Ama tartışmalı bir soru hala açık: uçuş, kuşların ve en yakın akrabalarının ortak atasında bir kez mi ortaya çıktı, yoksa farklı gruplarda birden fazla kez mi?",
+        "Bu sorunun merkezinde mikroraptorlar var. Kuzeydoğu Çin'deki Erken Kretase kayalarından bilinen, küçük, tüylü, hem ön hem arka bacaklarında uzun uçuş tüyleri taşıyan yırtıcı dinozorlar. Çin Jeoloji Bilimleri Akademisi'nden Xuri Wang ve Qiang Ji'nin ekibi, bu gruba ait, son derece iyi korunmuş yeni bir türü tanıttı: Norellraptor barsboldi. Fosil, Erken Kretase'ye ait Jiufotang Formasyonu'ndan.",
+        "Araştırmacılar yeni fosili gruptaki öbür türlerle karşılaştırdı ve ön bacak kemiklerinin iç dokusunu mikroskopla inceledi. Sonuç şu: mikroraptorlarda uçuşa yarayan özellikler tek seferde değil, adım adım eklenmiş. Bu grubu tanımlayan özelliklerin yaklaşık yüzde 30'u kuşların soyunda da var. Ama bu özelliklerin ortaya çıkış sırası iki soyda tutarlı biçimde farklı. Kemik dokusu da mikroraptorlarda kendine özgü bir büyüme biçimine işaret ediyor olabilir.",
+        "Yazarlar buradan şu sonuca varıyor: kanatlı dinozorları ortak bir gelişim programı üretmedi. Mikroraptorlar ve kuşlar benzer donanıma farklı yollardan ve birbirinden bağımsız olarak ulaştı. Bilim insanları buna yakınsak evrim diyor.",
+        "Türün adı iki paleontoloğa saygı: cins adı Amerikalı Mark Norell'e (1957-2025), tür adı Moğol Rinchen Barsbold'a (1935-2025).",
+        "Norellraptor'un gerçekten uçup uçmadığı henüz bilinmiyor. Ama araştırmacılara göre bu fosil, kanatların ve uçuşun dinozorlarda birden fazla yoldan ortaya çıkmış olabileceğini gösteriyor."
+      ],
+      "takeaway": "Çin'de bulunan, tüyleri korunmuş yeni bir dinozor türü, Norellraptor barsboldi, dört kanatlı mikroraptor grubuna ait.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "dinozor",
+          "label": "dinozor",
+          "url": "etiket/dinozor.html"
+        },
+        {
+          "slug": "paleontoloji",
+          "label": "paleontoloji",
+          "url": "etiket/paleontoloji.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        },
+        {
+          "slug": "fosil",
+          "label": "fosil",
+          "url": "etiket/fosil.html"
+        },
+        {
+          "slug": "ucus",
+          "label": "ucus",
+          "url": "etiket/ucus.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-77804-6"
+        }
+      ],
+      "image_credits": [
+        "User Lai bou shi, Wikimedia Commons (CC BY 4.0)",
+        "Entelognathus, Wikimedia Commons (CC BY-SA 4.0)",
+        "David W. E. Hone, Helmut Tischlinger, Xing Xu, Fucheng Zhang, Wikimedia Commons (CC BY 2.5)",
+        "Tom Page, Wikimedia Commons (CC BY-SA 2.0)"
+      ],
+      "video": {
+        "youtube": "clm5RvPfZg0"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/clm5RvPfZg0"
+        }
+      ]
+    },
+    {
+      "id": "proj_80bec10f05",
+      "slug": "2026-10-15-taypan-zehri-kan-pihtilasma-sisteminden-nasil-evrimlesti",
+      "url": "yazi/2026-10-15-taypan-zehri-kan-pihtilasma-sisteminden-nasil-evrimlesti.html",
+      "date": "2026-10-15T13:00:00+00:00",
+      "date_text": "15 Ekim 2026",
+      "publish_at": "2026-10-15T13:00:00Z",
+      "draft": false,
+      "title": "Taypan Zehri Kan Pıhtılaşma Sisteminden Nasıl Evrimleşti?",
+      "standfirst": "Genom analizi, Avustralya taypanları ve kahverengi yılanlardaki pıhtılaştırıcı zehrin hem normal kan proteinlerinden hem de eski sinir zehirlerinden evrimleştiğini gösterdi.",
+      "paragraphs": [
+        "Genom analizi, Avustralya taypanları ve kahverengi yılanlardaki pıhtılaştırıcı zehrin hem normal kan proteinlerinden hem de eski sinir zehirlerinden evrimleştiğini gösterdi.",
+        "Elapid yılanların hepsi felç eden zehir üretiyor. Ama Avustralya'nın karada yaşayan elapidleri ek bir silah geliştirdi: kanı pıhtılaştıran zehir. Bu özellik en güçlü haline, dünyanın en zehirli yılanları arasında sayılan kahverengi yılanlar ve taypanlarda ulaştı.",
+        "HHMI ve Maryland Üniversitesi'nden Sean Carroll'un ekibi, bu pıhtılaştırıcı zehrin dört bileşeninin genetik kökenini izledi ve beşinci bir bileşen, faktör VII, buldu. Zehirler iki ayrı yoldan evrimleşmiş.",
+        "Birinci yol: yılanın kendi kanında pıhtılaşmayı sağlayan faktör X ve faktör V proteinleri. Bu genlerin kopyaları zehir bezinde çalışmaya başladı, sonra mutasyonlarla sürekli açık halde kalan, yani kanı durmadan pıhtılaştıran zehirlere dönüştü. İkinci yol: önceden var olan sinir zehirlerinin değiştirilmesi. Bunlardan bir kısmı pıhtıyı çözen enzimi engelliyor.",
+        "Sonuç olarak bu yılanlar hem pıhtıyı hızla başlatan hem de pıhtının çözülmesini önleyen bir zehir setiyle avlarını, çoğunlukla memelileri, çok hızlı etkisiz hale getiriyor.",
+        "Bu çalışma, evrimin yeni bir silahı sıfırdan değil, var olan parçaları yeniden kullanarak nasıl kurduğunu gösteriyor."
+      ],
+      "takeaway": "Dünyanın en zehirli yılanları arasındaki Avustralya taypanları ve kahverengi yılanlarının zehri kanı hızla pıhtılaştırıyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "yilan",
+          "label": "yilan",
+          "url": "etiket/yilan.html"
+        },
+        {
+          "slug": "zehir",
+          "label": "zehir",
+          "url": "etiket/zehir.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        },
+        {
+          "slug": "avustralya",
+          "label": "avustralya",
+          "url": "etiket/avustralya.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2621054123"
+        }
+      ],
+      "image_credits": [
+        "Bernard DUPONT from FRANCE, Wikimedia Commons (CC BY-SA 2.0)",
+        "Xyxyzyz, Wikimedia Commons (CC0)",
+        "van Thiel J ve ark., Proceedings of the National Academy of Sciences of the United States of America 2026 (10.1073/pnas.2621054123), CC BY 4.0",
+        "Photo by XLerate, Wikimedia Commons (CC BY-SA 3.0)",
+        "Sebastian80, Wikimedia Commons (CC BY-SA 3.0)"
+      ],
+      "video": {
+        "youtube": "I0cfrplrkc4"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/I0cfrplrkc4"
+        }
+      ]
+    },
+    {
+      "id": "proj_2686406655",
+      "slug": "2026-10-15-laboratuvar-eti-icin-kas-sinir-ve-damari-ayni-anda-uretmek-n",
+      "url": "yazi/2026-10-15-laboratuvar-eti-icin-kas-sinir-ve-damari-ayni-anda-uretmek-n.html",
+      "date": "2026-10-15T03:00:00+00:00",
+      "date_text": "15 Ekim 2026",
+      "publish_at": "2026-10-15T03:00:00Z",
+      "draft": false,
+      "title": "Laboratuvar Eti İçin Kas Sinir ve Damarı Aynı Anda Üretmek Neden Önemli?",
+      "standfirst": "Sığır embriyonik kök hücrelerinden kas, sinir ve damar hücreleri aynı kültürde gelişti.",
+      "paragraphs": [
+        "Sığır embriyonik kök hücrelerinden kas, sinir ve damar hücreleri aynı kültürde gelişti. Kas lifleri 15 günde oluştu ve sinir sinyallerine tepki verdi.",
+        "Laboratuvarda yetiştirilen sığır eti, hayvan kesmeden et üretmenin bir yolu olarak araştırılıyor. Genellikle yetişkin kök hücreler kullanılıyor ama bunların çoğalma ve dönüşme yeteneği sınırlı. Bir biftek yapmak için de kas, yağ, damar gibi farklı hücre türlerini ayrı ayrı üretip zahmetli biçimde birleştirmek gerekiyor.",
+        "İspanya'daki EMBL Barselona'dan bir ekip farklı bir yol denedi: sığır embriyonik kök hücreleri. Bu hücreler her tür hücreye dönüşebiliyor. Ekip bunları embriyodaki kas gelişimini taklit eden adımlarla yönlendirdi ve aynı kültürde kas, sinir ve damar hücrelerini birlikte ortaya çıkardı.",
+        "Kasın kasılmasını sağlayan yapılara sahip kas lifleri 15 gün içinde oluştu. Bu lifler, yanlarında oluşan sinir hücrelerinden gelen sinyallere kalsiyum dalgalarıyla tepki verdi. Damar hücreleri ise dokunun içinde düzenli damar ağları kurdu. Hepsi hayvan serumu kullanılmadan, iki ve üç boyutlu kültürlerde.",
+        "Bu, kendi kendine örgütlenen daha karmaşık kültür eti dokularına doğru önemli bir adım. Henüz yenmeye hazır bir biftek yok ama amaç, bir gün hayvan kesmeden damarı ve dokusuyla gerçek ete benzeyen et üretebilmek."
+      ],
+      "takeaway": "Sığır embriyonik kök hücrelerinden aynı anda kas, sinir ve damar hücreleri üretildi.",
+      "impact": null,
+      "category": {
+        "slug": "teknoloji",
+        "label": "Teknoloji",
+        "url": "kategori/teknoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "teknoloji",
+          "label": "teknoloji",
+          "url": "etiket/teknoloji.html"
+        },
+        {
+          "slug": "yapayet",
+          "label": "yapayet",
+          "url": "etiket/yapayet.html"
+        },
+        {
+          "slug": "kokhucre",
+          "label": "kokhucre",
+          "url": "etiket/kokhucre.html"
+        },
+        {
+          "slug": "gida",
+          "label": "gida",
+          "url": "etiket/gida.html"
+        },
+        {
+          "slug": "biyoteknoloji",
+          "label": "biyoteknoloji",
+          "url": "etiket/biyoteknoloji.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-76569-2"
+        }
+      ],
+      "image_credits": [
+        "Sanaki-Matsumiya M ve ark., Nature communications 2026 (10.1038/s41467-026-76569-2), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "35aqR58RH3M"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/35aqR58RH3M"
+        }
+      ]
+    },
+    {
+      "id": "proj_6a892717e8",
+      "slug": "2026-10-14-ortacag-parsomenleri-viruslerin-tarihini-nasil-sakladi",
+      "url": "yazi/2026-10-14-ortacag-parsomenleri-viruslerin-tarihini-nasil-sakladi.html",
+      "date": "2026-10-14T13:00:00+00:00",
+      "date_text": "14 Ekim 2026",
+      "publish_at": "2026-10-14T13:00:00Z",
+      "draft": false,
+      "title": "Ortaçağ Parşömenleri Virüslerin Tarihini Nasıl Sakladı?",
+      "standfirst": "Hayvan derisinden yapılan el yazmaları ve Tunç Çağı koyun dişlerinden okunan eski DNA, koyun çiçeği virüsünün en az 3.700 yıllık evrimini izlemeyi sağladı.",
+      "paragraphs": [
+        "Hayvan derisinden yapılan el yazmaları ve Tunç Çağı koyun dişlerinden okunan eski DNA, koyun çiçeği virüsünün en az 3.700 yıllık evrimini izlemeyi sağladı.",
+        "Koyun çiçeği, koyunlarda ölüme ve verim kaybına yol açan bir virüs hastalığı. Antik çağdan beri yazılı kayıtlarda benzer hastalıklar anlatılıyor ama virüsün tarihi bilinmiyordu.",
+        "İrlanda'daki University College Dublin'in de içinde olduğu uluslararası bir ekip iki tür kaynağa baktı. Birincisi Avrasya bozkırlarındaki Tunç Çağı yerleşimlerinden çıkan koyun dişleri. İkincisi, ilginç olanı, ortaçağ Avrupa'sının el yazmaları. Ortaçağda kitap sayfaları parşömenden, yani işlenmiş hayvan derisinden yapılıyordu. Hasta bir koyunun derisi, virüsün DNA'sını yüzyıllarca saklayabiliyor.",
+        "Ekip 39 örnekte koyun çiçeği virüsü buldu ve 21 yeni eski genom okudu. En eski bulgular, Kazakistan'daki bir Geç Tunç Çağı yerleşiminden, MÖ 1875-1645 arasına tarihlenen bir koyun dişinden. Parşömenlerdeki bulgular ise Britanya, Yukarı Ren bölgesi, Avusturya ve Fransa'dan, çoğu MS 700-1450 arasında yazılmış el yazmalarından. Bazı virüsler sığır ve keçi derisinden yapılmış parşömenlerde de çıktı.",
+        "Virüsün ana soyları yaklaşık 11.500 ile 3.700 yıl önce ayrılmış. Bu tarihler koyunun evcilleştirilip taşındığı dönemlerle örtüşüyor.",
+        "Bazı bulgular sığır ve keçi derisinde de çıktı ve bunun nedeni henüz net değil. Ama ortaçağ kitapları, hayvan hastalıklarının tarihini okumak için beklenmedik bir arşive dönüştü."
+      ],
+      "takeaway": "Ortaçağ el yazmalarının yapıldığı parşömenlerden, yani hayvan derisinden, koyun çiçeği virüsünün DNA'sı okundu.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "tarih",
+          "label": "tarih",
+          "url": "etiket/tarih.html"
+        },
+        {
+          "slug": "virus",
+          "label": "virus",
+          "url": "etiket/virus.html"
+        },
+        {
+          "slug": "dna",
+          "label": "dna",
+          "url": "etiket/dna.html"
+        },
+        {
+          "slug": "ortacag",
+          "label": "ortacag",
+          "url": "etiket/ortacag.html"
+        },
+        {
+          "slug": "koyun",
+          "label": "koyun",
+          "url": "etiket/koyun.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aeh3571"
+        }
+      ],
+      "image_credits": [
+        "Wikimedia Commons, Wikimedia Commons (Public domain)",
+        "L'Hôte L ve ark., Science advances 2026 (10.1126/sciadv.aeh3571), CC BY 4.0",
+        "Johannes Staub (Institut Bibliotheca Fuldensis der Theologischen Fakultät Fulda), Wikimedia Commons (CC0)"
+      ],
+      "video": {
+        "youtube": "QWQzUH0MKHs"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/QWQzUH0MKHs"
+        }
+      ]
+    },
+    {
       "id": "proj_41f8afcbfb",
       "slug": "2026-10-14-mavi-balinalar-okyanusta-krili-nasil-buluyor",
       "url": "yazi/2026-10-14-mavi-balinalar-okyanusta-krili-nasil-buluyor.html",
       "date": "2026-10-14T06:10:14.456350+00:00",
       "date_text": "14 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Mavi Balinalar Okyanusta Krili Nasıl Buluyor?",
       "standfirst": "Sensör ve uydu verileri, mavi balinaların soğuk ve ılık su sınırlarını yüzlerce kilometre izlediğini, bu cephelere ulaştıklarında keşif dalışları yaptığını gösterdi.",
@@ -1238,6 +2035,7 @@
       "url": "yazi/2026-10-14-naegleria-beyne-giden-dar-yollari-nasil-kullaniyor-olabilir.html",
       "date": "2026-10-14T06:10:14.446496+00:00",
       "date_text": "14 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Naegleria Beyne Giden Dar Yolları Nasıl Kullanıyor Olabilir?",
       "standfirst": "Zararsız bir Naegleria türü dar kanalları aktif olarak aradı ve içlerinde hızlı, yönlü ilerledi.",
@@ -1312,6 +2110,7 @@
       "url": "yazi/2026-10-14-betel-kullanimi-25-bin-yil-oncesine-kadar-gidiyor-olabilir-m.html",
       "date": "2026-10-14T06:10:14.443089+00:00",
       "date_text": "14 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Betel Kullanımı 25 Bin Yıl Öncesine Kadar Gidiyor Olabilir mi?",
       "standfirst": "Sulawesi’de iki avcı toplayıcının dişlerindeki oyuklar ve kimyasal izler, betel cevizinin 25 ile 16 bin yıl önce düzenli olarak emilmiş olabileceğini gösteriyor.",
@@ -1382,6 +2181,7 @@
       "url": "yazi/2026-10-14-roma-yollari-bugunun-ulasim-agini-hala-etkiliyor-mu.html",
       "date": "2026-10-14T06:10:14.437872+00:00",
       "date_text": "14 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Roma Yolları Bugünün Ulaşım Ağını Hala Etkiliyor mu?",
       "standfirst": "299.171 kilometrelik yeni dijital model, Roma yollarının araziye göre kıvrıldığını ve eski yol yoğunluğu ile bugünkü büyük yol yoğunluğu arasında güçlü bir ilişki bulunduğunu gösterdi.",
@@ -1454,6 +2254,7 @@
       "url": "yazi/2026-10-14-semaglutid-yasli-farelerde-yaslanmayi-yavaslatti-mi.html",
       "date": "2026-10-14T06:10:14.435083+00:00",
       "date_text": "14 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Semaglutid Yaşlı Farelerde Yaşlanmayı Yavaşlattı mı?",
       "standfirst": "Yaşlı dişi farelerde geç dönemde başlanan semaglutid, yaşlanma işaretlerini azalttı ve ortanca ömrü 742 günden 834 güne çıkardı.",
@@ -1525,6 +2326,7 @@
       "url": "yazi/2026-10-14-ciklit-baliklari-dislerini-nasil-bu-kadar-hizli-yeniliyor.html",
       "date": "2026-10-14T06:10:14.432232+00:00",
       "date_text": "14 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Çiklit Balıkları Dişlerini Nasıl Bu Kadar Hızlı Yeniliyor?",
       "standfirst": "Üç çiklit türünde diş çekilen çene yarısında yeni diş çıkışı yaklaşık üç kat hızlandı.",
@@ -1595,6 +2397,7 @@
       "url": "yazi/2026-10-14-bazi-myotis-yarasalari-neden-alti-kat-daha-uzun-yasiyor.html",
       "date": "2026-10-14T06:10:14.428487+00:00",
       "date_text": "14 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Bazı Myotis Yarasaları Neden Altı Kat Daha Uzun Yaşıyor?",
       "standfirst": "Sekiz Myotis türünün genomları, uzun ömrün bu cins içinde birden fazla kez evrimleştiğini ve kanser ile DNA hasarı yollarındaki değişimlerle bağlantılı olduğunu gösterdi.",
@@ -1666,6 +2469,7 @@
       "url": "yazi/2026-10-14-bir-insan-spider-man-gibi-duvara-yapisabilir-mi.html",
       "date": "2026-10-14T06:10:14.423711+00:00",
       "date_text": "14 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Bir İnsan Spider-Man Gibi Duvara Yapışabilir mi?",
       "standfirst": "225 duvara tırmanan türün karşılaştırıldığı çalışma, gekko benzeri yapışkan ayak mekanizmasının insan ölçeğine taşındığında devasa temas alanı gerektirdiğini gösteriyor.",
@@ -1745,6 +2549,7 @@
       "url": "yazi/2026-10-14-tibet-teki-guliya-buzulu-kac-yasinda-bilim-insanlari-neden-a.html",
       "date": "2026-10-14T06:10:14.419795+00:00",
       "date_text": "14 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Tibet'teki Guliya Buzulu Kaç Yaşında? Bilim İnsanları Neden Anlaşamıyor?",
       "standfirst": "Guliya buz örtüsünden alınan karotlar için bir ekip birkaç bin yıllık, diğer ekip yüz bin yıldan uzun bir yaş savunuyor.",
@@ -1807,12 +2612,17 @@
         "NASA's Goddard Space Flight Center Conceptual Image Lab / Jonathan North"
       ],
       "video": {
-        "youtube": "Ff9VZOKQvEQ"
+        "youtube": "Ff9VZOKQvEQ",
+        "instagram": "https://www.instagram.com/reel/Dedt4PIEyE6/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/Ff9VZOKQvEQ"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dedt4PIEyE6/"
         }
       ]
     },
@@ -1822,6 +2632,7 @@
       "url": "yazi/2026-10-14-heparin-denizanasi-zehrine-karsi-neden-ise-yaradi.html",
       "date": "2026-10-14T06:10:14.395594+00:00",
       "date_text": "14 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Heparin Denizanası Zehrine Karşı Neden İşe Yaradı?",
       "standfirst": "Bir CRISPR taraması deniz ısırganı zehrinin hücre yüzeyindeki şeker zincirlerini hedeflediğini gösterdi.",
@@ -1892,6 +2703,7 @@
       "url": "yazi/2026-10-09-molekullerin-de-sag-ve-sol-eli-var-2026-nobel-kimya-odulu-ne.html",
       "date": "2026-10-09T08:30:12.945299+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Moleküllerin de Sağ ve Sol Eli Var: 2026 Nobel Kimya Ödülü Neyi Çözdü?",
       "standfirst": "2026 Nobel Kimya Ödülü, küçük bir ayna dengesizliğinin nasıl büyüyüp neredeyse tam tek elliliğe dönüşebileceğini gösteren Henri Kagan ve Kenso Soai'ye verildi.",
@@ -1973,6 +2785,7 @@
       "url": "yazi/2026-10-09-bir-yosun-proteini-optogenetigi-nasil-dogurdu.html",
       "date": "2026-10-09T08:30:12.942079+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Bir Yosun Proteini Optogenetiği Nasıl Doğurdu?",
       "standfirst": "2026 Nobel Tıp Ödülü, ışıkla açılan iyon kanallarının keşfi ve optogenetik yöntemin geliştirilmesi için Karl Deisseroth, Peter Hegemann ve Georg Nagel'e verildi.",
@@ -2053,6 +2866,7 @@
       "url": "yazi/2026-10-09-bir-kilometrekup-buz-evrenin-en-kacak-parcaciklarini-nasil-y.html",
       "date": "2026-10-09T08:30:12.938725+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Bir Kilometreküp Buz Evrenin En Kaçak Parçacıklarını Nasıl Yakaladı?",
       "standfirst": "2026 Nobel Fizik Ödülü, IceCube Nötrino Gözlemevi'ne belirleyici katkıları ve astrofiziksel yüksek enerjili nötrinoların keşfi için Francis Halzen'e verildi.",
@@ -2134,6 +2948,7 @@
       "url": "yazi/2026-10-09-bir-otlak-yeniden-yeserdiginde-gercekten-iyilesmis-sayilir-m.html",
       "date": "2026-10-09T08:30:12.934371+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Bir Otlak Yeniden Yeşerdiğinde Gerçekten İyileşmiş Sayılır mı?",
       "standfirst": "Altı kıtadan 742 bitki türünü kapsayan veri derlemesi, sürülmüş ve daha sonra toparlanmış otlakların yüz yıl sonra bile kadim otlaklardan farklı bitki stratejilerine sahip olduğunu gösteriyor.",
@@ -2210,6 +3025,7 @@
       "url": "yazi/2026-10-09-alphaevolve-matematikte-gercekten-kesif-yapiyor-mu.html",
       "date": "2026-10-09T08:30:12.931007+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "AlphaEvolve Matematikte Gerçekten Keşif Yapıyor mu?",
       "standfirst": "Google DeepMind'ın AlphaEvolve sistemi, matematik problemlerini doğrudan cevaplamak yerine çözüm üreten bilgisayar programlarını evrimleştiriyor.",
@@ -2283,6 +3099,7 @@
       "url": "yazi/2026-10-09-yasam-dunya-nin-olusumundan-ne-kadar-sonra-baslamis-olabilir.html",
       "date": "2026-10-09T08:30:12.927825+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Yaşam Dünya'nın Oluşumundan Ne Kadar Sonra Başlamış Olabilir?",
       "standfirst": "Genç Dünya'nın asteroit ve kuyruklu yıldız bombardımanını modelleyen bir çalışma, RNA temelli erken kimyanın yaklaşık 4,33 milyar yıl önce sürdürülebilir hale gelebileceğini öne sürüyor.",
@@ -2361,6 +3178,7 @@
       "url": "yazi/2026-10-09-gizli-bilgili-oyunlarda-yapay-zeka-icin-yeni-bir-adim-atarax.html",
       "date": "2026-10-09T08:30:12.924400+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Gizli Bilgili Oyunlarda Yapay Zeka İçin Yeni Bir Adım: Ataraxos",
       "standfirst": "Ataraxos adlı yapay zeka, rakibin taşlarının kimliğinin gizli olduğu Stratego oyununda alanın en başarılı insan oyuncularından birini 20 maçlık seride açık farkla geçti.",
@@ -2439,6 +3257,7 @@
       "url": "yazi/2026-10-09-cansiz-bir-malzeme-neden-isiga-dogru-buyuyor.html",
       "date": "2026-10-09T08:30:12.919964+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Cansız Bir Malzeme Neden Işığa Doğru Büyüyor?",
       "standfirst": "Caltech araştırmacıları, canlı olmayan inorganik filmlerin ışığın geliş yönüne göre kendiliğinden yönlü yapılar oluşturabildiğini gösterdi.",
@@ -2508,6 +3327,7 @@
       "url": "yazi/2026-10-09-kulagimizdaki-duyu-hucreleriyle-denizanasinin-igne-hucreleri.html",
       "date": "2026-10-09T08:30:12.916630+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Kulağımızdaki Duyu Hücreleriyle Denizanasının İğne Hücreleri Akraba Olabilir mi?",
       "standfirst": "Denizanası ve deniz anemonlarının iğne fırlatan hücrelerinde, omurgalıların iç kulağındaki tüy hücrelerinde kullanılan TMC kanal proteinlerine benzeyen proteinler bulundu.",
@@ -2585,6 +3405,7 @@
       "url": "yazi/2026-10-09-arilari-oldurmeden-tarladan-uzak-tutmak-mumkun-mu.html",
       "date": "2026-10-09T08:30:12.913326+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Arıları Öldürmeden Tarladan Uzak Tutmak Mümkün mü?",
       "standfirst": "Araştırmacılar makine öğrenmesini kullanarak milyonlarca molekül arasından bal arılarının hoşlanmadığı kokuları seçti.",
@@ -2662,6 +3483,7 @@
       "url": "yazi/2026-10-09-tarlaya-kirec-atmak-gercekten-karbondioksit-saliyor-mu.html",
       "date": "2026-10-09T08:30:12.910119+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Tarlaya Kireç Atmak Gerçekten Karbondioksit Salıyor mu?",
       "standfirst": "Mississippi Nehri Havzası'nın yüz yıllık verilerini inceleyen araştırmacılar, tarımsal kireçlemenin kısa vadede karbondioksit salmasına rağmen uzun vadede atmosferden net karbon çeken bir sürece…",
@@ -2738,6 +3560,7 @@
       "url": "yazi/2026-10-09-bir-balik-arkadasinin-bir-anda-kaybolmasini-tehlike-olarak-o.html",
       "date": "2026-10-09T08:30:12.905730+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Bir Balık, Arkadaşının Bir Anda Kaybolmasını Tehlike Olarak Okuyor",
       "standfirst": "Danionella cerebrum adlı küçük sürü balığında bazı beyin hücreleri, başka bir balık hızla kaçtığında da bir anda görüntüden kaybolduğunda da benzer biçimde etkinleşiyor.",
@@ -2818,6 +3641,7 @@
       "url": "yazi/2026-10-09-karsit-madde-bir-kimyasal-bag-kurabilir-mi.html",
       "date": "2026-10-09T08:30:12.902455+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Karşıt Madde Bir Kimyasal Bağ Kurabilir mi?",
       "standfirst": "Kuantum hesapları, iki negatif hidrojen anyonunun elektronlar tarafından değil, iki pozitronun oluşturduğu ortak bir bulut sayesinde bağlanabileceğini gösteriyor.",
@@ -2895,6 +3719,7 @@
       "url": "yazi/2026-10-09-konusmaniz-biyolojik-yasiniz-hakkinda-ipucu-verebilir-mi.html",
       "date": "2026-10-09T08:30:12.899285+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Konuşmanız Biyolojik Yaşınız Hakkında İpucu Verebilir mi?",
       "standfirst": "Yöntem henüz bir tanı testi değil.",
@@ -2969,6 +3794,7 @@
       "url": "yazi/2026-10-09-kara-delikler-jeti-ziyafet-sonerken-firlatiyor.html",
       "date": "2026-10-09T08:30:12.896019+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Kara Delikler Jeti Ziyafet Sönerken Fırlatıyor",
       "standfirst": "Kara deliklerin en gösterişli davranışlarından biri, çevrelerindeki maddenin bir bölümünü kutuplarından çok yüksek hızlarda uzaya fırlatmalarıdır.",
@@ -3046,6 +3872,7 @@
       "url": "yazi/2026-10-09-gronland-in-cokuyor-alarmi-yanlis-bir-isaretten.html",
       "date": "2026-10-09T08:30:12.891710+00:00",
       "date_text": "9 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Grönland'ın 'Çöküyor' Alarmı Yanlış Bir İşaretten",
       "standfirst": "Grönland buz tabakası, küresel deniz seviyesi açısından dünyanın en kritik buz kütlelerinden biri.",
@@ -3121,6 +3948,7 @@
       "url": "yazi/2026-10-02-akimi-kesince-superiletken-hatirliyor.html",
       "date": "2026-10-02T06:54:34.633750+00:00",
       "date_text": "2 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Akımı Kesince Süperiletken Hatırlıyor",
       "standfirst": "Bilgisayar hafızasının en temel fikri şaşırtıcı derecede basittir.",
@@ -3193,6 +4021,7 @@
       "url": "yazi/2026-10-02-dev-kara-delikler-bu-kadar-erken-nasil-olustu.html",
       "date": "2026-10-02T06:54:34.629911+00:00",
       "date_text": "2 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Dev Kara Delikler Bu Kadar Erken Nasıl Oluştu?",
       "standfirst": "James Webb Uzay Teleskobu erken evrene baktığında beklenmedik bir nesne sınıfıyla karşılaştı.",
@@ -3269,6 +4098,7 @@
       "url": "yazi/2026-10-02-bati-ve-orta-avrupa-agac-cinslerinin-yuzde-75-ini-kaybetti.html",
       "date": "2026-10-02T06:54:34.625217+00:00",
       "date_text": "2 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Batı ve Orta Avrupa, Ağaç Cinslerinin Yüzde 75'ini Kaybetti",
       "standfirst": "Bugün bir Avrupa ormanına girdiğinizde gördüğünüz ağaç topluluğu size doğal ve kadim görünebilir.",
@@ -3345,6 +4175,7 @@
       "url": "yazi/2026-10-02-atomun-cekirdegini-saat-gibi-okudular.html",
       "date": "2026-10-02T06:54:34.621672+00:00",
       "date_text": "2 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Atomun Çekirdeğini Saat Gibi Okudular",
       "standfirst": "Bir saatin görevi düzenli tekrar eden bir olayı saymaktır.",
@@ -3421,6 +4252,7 @@
       "url": "yazi/2026-10-02-kurbaganin-yesili-kanin-yikim-urununden-geliyor.html",
       "date": "2026-10-02T06:54:34.617665+00:00",
       "date_text": "2 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Kurbağanın Yeşili Kanın Yıkım Ürününden Geliyor",
       "standfirst": "Bir yaprağın üzerinde duran yeşil bir kurbağaya baktığınızda, rengin deride üretilen yeşil bir pigmentten geldiğini düşünmek çok doğal.",
@@ -3492,6 +4324,7 @@
       "url": "yazi/2026-10-02-mars-in-magma-okyanusu-laboratuvarda-donduruldu.html",
       "date": "2026-10-02T06:54:34.613568+00:00",
       "date_text": "2 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Mars'ın Magma Okyanusu Laboratuvarda Donduruldu",
       "standfirst": "Bugünkü Mars soğuk, kuru ve büyük ölçüde katı bir gezegen.",
@@ -3563,6 +4396,7 @@
       "url": "yazi/2026-10-02-kedilerin-kokusunda-13-molekulluk-bir-fark-var.html",
       "date": "2026-10-02T06:54:34.608819+00:00",
       "date_text": "2 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Kedilerin Kokusunda 13 Moleküllük Bir Fark Var",
       "standfirst": "Bir kedinin başka bir kedinin bıraktığı idrarı uzun uzun koklaması bize garip gelebilir.",
@@ -3632,6 +4466,7 @@
       "url": "yazi/2026-10-02-drone-goremedigi-cam-duvari-biyigiyla-buluyor.html",
       "date": "2026-10-02T06:54:34.604847+00:00",
       "date_text": "2 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Drone, Göremediği Cam Duvarı Bıyığıyla Buluyor",
       "standfirst": "Küçük bir drone'u gerçekten küçük yapmak istediğinizde yalnızca gövdeyi küçültmeniz yetmiyor.",
@@ -3704,6 +4539,7 @@
       "url": "yazi/2026-10-02-kalbin-manyetik-alanini-elmasla-olcmek.html",
       "date": "2026-10-02T06:54:34.600444+00:00",
       "date_text": "2 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Kalbin Manyetik Alanını Elmasla Ölçmek",
       "standfirst": "Kalp her attığında elektriksel akımlar üretir.",
@@ -3783,6 +4619,7 @@
       "url": "yazi/2026-10-02-new-mexico-ormanlari-400-yildir-boyle-yanmamisti.html",
       "date": "2026-10-02T06:54:34.592436+00:00",
       "date_text": "2 Ekim 2026",
+      "publish_at": null,
       "draft": false,
       "title": "New Mexico Ormanları 400 Yıldır Böyle Yanmamıştı",
       "standfirst": "Orman yangını her zaman ormanın yok olması anlamına gelmez.",
@@ -3859,6 +4696,7 @@
       "url": "yazi/2026-09-27-juice-neden-dunya-ya-geri-donuyor.html",
       "date": "2026-09-27T15:51:13.934386+00:00",
       "date_text": "27 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Juice Neden Dünya'ya Geri Dönüyor?",
       "standfirst": "ESA'nın Jüpiter'e giden Juice sondası, 28 Eylül 2026'da Dünya'nın yalnızca 8.640 kilometre yakınından geçecek.",
@@ -3943,6 +4781,7 @@
       "url": "yazi/2026-09-27-genc-bir-yildizin-onunden-gecen-kuyruklu-yildizlar.html",
       "date": "2026-09-27T15:51:13.929475+00:00",
       "date_text": "27 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Genç Bir Yıldızın Önünden Geçen Kuyruklu Yıldızlar",
       "standfirst": "PDS 70, çevresinde hala gezegenlerin oluştuğu bir disk bulunan genç bir yıldız.",
@@ -4021,6 +4860,7 @@
       "url": "yazi/2026-09-27-165-milyon-yil-onceki-ormanin-sesi.html",
       "date": "2026-09-27T15:51:13.924519+00:00",
       "date_text": "27 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "165 Milyon Yıl Önceki Ormanın Sesi",
       "standfirst": "Dinozorların yaşadığı bir ormanın nasıl göründüğünü fosillerden az çok hayal edebiliyoruz.",
@@ -4106,6 +4946,7 @@
       "url": "yazi/2026-09-27-mars-in-guney-yarisinin-altinda-sicak-bir-manto.html",
       "date": "2026-09-27T15:51:13.915443+00:00",
       "date_text": "27 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Mars'ın Güney Yarısının Altında Sıcak Bir Manto",
       "standfirst": "Mars'ın kuzeyi ve güneyi yüzeyde birbirinden çok farklı.",
@@ -4183,6 +5024,7 @@
       "url": "yazi/2026-09-25-dunya-21-yuzyilda-daha-az-tozlu.html",
       "date": "2026-09-25T21:57:15.581807+00:00",
       "date_text": "25 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Dünya 21. Yüzyılda Daha Az Tozlu",
       "standfirst": "Lazer ölçümleri, uydu verileri ve yer istasyonları birlikte değerlendirildiğinde atmosferdeki çöl tozu son yirmi yılda yaklaşık yüzde on azalmış görünüyor.",
@@ -4262,6 +5104,7 @@
       "url": "yazi/2026-09-25-sahte-antik-eseri-manyetizma-ele-veriyor.html",
       "date": "2026-09-25T21:57:15.576577+00:00",
       "date_text": "25 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Sahte Antik Eseri Manyetizma Ele Veriyor",
       "standfirst": "Pişmiş kilin yıllar içinde kazandığı ikinci bir manyetik iz, eserin bin yıllık mı yoksa yeni mi olduğunu ayırt etmeye yarıyor.",
@@ -4341,6 +5184,7 @@
       "url": "yazi/2026-09-25-telefonun-gucunu-butun-vucuda-tasiyan-kiyafet.html",
       "date": "2026-09-25T21:57:15.565933+00:00",
       "date_text": "25 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Telefonun Gücünü Bütün Vücuda Taşıyan Kıyafet",
       "standfirst": "Telefon işlenmiş kumaşın bir ucuna konuyor, öbür uçtaki pilsiz sensör çalışmaya başlıyor; gücü taşıyan şey kıyafetin kendisi.",
@@ -4418,6 +5262,7 @@
       "url": "yazi/2026-09-23-roman-in-ilk-goruntusu-neden-yildizlarla-degil-halkalarla-do.html",
       "date": "2026-09-23T20:45:36.708551+00:00",
       "date_text": "23 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Roman'ın İlk Görüntüsü Neden Yıldızlarla Değil, Halkalarla Dolu?",
       "standfirst": "Roman'ın ilk test görüntüsünde yıldızlar nokta değil halka gibi görünüyor; teleskop bozuk değil, odağı henüz ayarlanmadı.",
@@ -4503,6 +5348,7 @@
       "url": "yazi/2026-09-22-bizim-cagimizda-acilan-en-buyuk-krater-ay-da.html",
       "date": "2026-09-22T06:11:29.050520+00:00",
       "date_text": "22 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Bizim Çağımızda Açılan En Büyük Krater Ay'da",
       "standfirst": "2024 baharında Ay'a çarpan bir göktaşı parçası 222 metre çapında bir krater açtı; bu, oluşumu fotoğraflarla belgelenen en büyük yeni krater.",
@@ -4580,6 +5426,7 @@
       "url": "yazi/2026-09-21-karakteri-kuran-ucuncu-sey-ogrenmenin-kendisi.html",
       "date": "2026-09-21T10:44:08.712403+00:00",
       "date_text": "21 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Karakteri Kuran Üçüncü Şey: Öğrenmenin Kendisi",
       "standfirst": "Genetik olarak aynı ve aynı koşullarda yetişmiş meyve sinekleri, yalnızca öğrenmeyi gerektiren görevlerde birbirinden kalıcı olarak ayrışıyor.",
@@ -4648,6 +5495,7 @@
       "url": "yazi/2026-09-18-konusmayan-yapay-zeka-metin-yerine-karar-ureten-bir-model.html",
       "date": "2026-09-18T21:30:29.770466+00:00",
       "date_text": "18 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Konuşmayan Yapay Zeka: Metin Yerine Karar Üreten Bir Model",
       "standfirst": "ChatGPT'nin arkasındaki yöntemleri kuran isimlerden biri, dil modellerinin otomasyon için yanlış araç olduğunu savunuyor ve hiç metin üretmeyen bir model duyurdu.",
@@ -4722,6 +5570,7 @@
       "url": "yazi/2026-09-18-renk-gormenin-susu-degil-bir-parcasi.html",
       "date": "2026-09-18T20:29:55.253382+00:00",
       "date_text": "18 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Renk Görmenin Süsü Değil, Bir Parçası",
       "standfirst": "Rengin taşıdığı ayrıntı, o rengin ne hızla değiştiğine göre değişiyor; aynı kural nesne tanımak için eğitilmiş yapay sinir ağlarında da kendiliğinden ortaya çıkıyor.",
@@ -4789,6 +5638,7 @@
       "url": "yazi/2026-09-18-uykuyu-bir-arada-tutan-hucreler-noron-degil.html",
       "date": "2026-09-18T15:42:08.941767+00:00",
       "date_text": "18 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Uykuyu Bir Arada Tutan Hücreler Nöron Değil",
       "standfirst": "Beynin bakım hücreleri sanılan mikroglia, uyanıklık ile uyku arasındaki geçişlere anında tepki veriyor ve uykunun parçalanmasını engelliyor.",
@@ -4864,6 +5714,7 @@
       "url": "yazi/2026-09-18-sosyal-rutbe-farelerin-korku-tepkisini-degistiriyor.html",
       "date": "2026-09-18T13:29:51.228266+00:00",
       "date_text": "18 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Sosyal Rütbe, Farelerin Korku Tepkisini Değiştiriyor",
       "standfirst": "Fareler bir tehditle karşılaştığında yanlarında başka bir fare varsa korku tepkisi değişiyor, üstelik bu değişimden en çok grubun baskın bireyleri yararlanıyor.",
@@ -4938,6 +5789,7 @@
       "url": "yazi/2026-09-18-bir-t-rex-disi-sahibinin-vucut-sicakligini-ele-verdi.html",
       "date": "2026-09-18T12:37:15.618757+00:00",
       "date_text": "18 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Bir T. rex Dişi, Sahibinin Vücut Sıcaklığını Ele Verdi",
       "standfirst": "Montana'da bulunan üç T. rex dişindeki izotop izleri, hayvanın vücudunu ortamından ve aynı katmandaki timsahlardan belirgin biçimde daha sıcak tuttuğunu gösteriyor.",
@@ -5012,6 +5864,7 @@
       "url": "yazi/2026-09-18-susuz-kalan-bitkiler-duyamadigimiz-seslerle-tikirdiyor.html",
       "date": "2026-09-18T06:39:53.578761+00:00",
       "date_text": "18 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Susuz Kalan Bitkiler Duyamadığımız Seslerle Tıkırdıyor",
       "standfirst": "Tel Aviv Üniversitesi ekibi, susuz kalan bitkilerin saatte 30-50 kez, duyulamayan 40-80 kilohertz frekansında tıkırtı çıkardığını ilk kez kaydetti.",
@@ -5078,6 +5931,7 @@
       "url": "yazi/2026-09-17-bal-arisi-beyni-sifiri-bile-en-az-diye-siralayabiliyor.html",
       "date": "2026-09-17T13:53:25.292703+00:00",
       "date_text": "17 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Bal arısı beyni sıfırı bile 'en az' diye sıralayabiliyor",
       "standfirst": "Avustralyalı araştırmacılar, hiç görmediği boş bir kartı bal arılarının diğer tüm sayılı kartlardan 'daha az' olarak seçtiğini buldu.",
@@ -5149,6 +6003,7 @@
       "url": "yazi/2026-09-17-uyuyan-ahtapotlarda-renk-degistiren-gizemli-uyku-evresi.html",
       "date": "2026-09-17T07:53:35.480739+00:00",
       "date_text": "17 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Uyuyan Ahtapotlarda Renk Değiştiren Gizemli Uyku Evresi",
       "standfirst": "Nature dergisinde yayımlanan yeni bir araştırma, ahtapotların uyurken de deri rengini değiştirdiğini ve bu anların insan REM uykusuna benzediğini gösteriyor.",
@@ -5223,6 +6078,7 @@
       "url": "yazi/2026-09-16-bir-fotonun-ayni-anda-1-4-milyon-yolu-denedigi-ilk-kez-goste.html",
       "date": "2026-09-16T09:08:32.831280+00:00",
       "date_text": "16 Eylül 2026",
+      "publish_at": null,
       "draft": false,
       "title": "Bir Fotonun Aynı Anda 1,4 Milyon Yolu Denediği İlk Kez Gösterildi",
       "standfirst": "Çin'deki bir deney, tek bir fotonun 1,4 milyon farklı yolu aynı anda izlediğini, Feynman'ın 1948 kuralını yaklaşık yüzde 95 doğrulukla doğrulayarak gösterdi.",
