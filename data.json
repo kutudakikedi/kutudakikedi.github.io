@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T08:30:31+00:00",
+  "generated_at": "2026-10-14T06:13:05+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -36,7 +36,7 @@
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 16,
+      "count": 24,
       "url": "kategori/biyoloji.html"
     },
     {
@@ -66,11 +66,17 @@
     {
       "slug": "yer-bilimleri",
       "label": "Yer Bilimleri",
-      "count": 1,
+      "count": 3,
       "url": "kategori/yer-bilimleri.html"
     }
   ],
   "tags": [
+    {
+      "slug": "biyoloji",
+      "label": "biyoloji",
+      "count": 10,
+      "url": "etiket/biyoloji.html"
+    },
     {
       "slug": "uzay",
       "label": "uzay",
@@ -78,21 +84,15 @@
       "url": "etiket/uzay.html"
     },
     {
-      "slug": "biyoloji",
-      "label": "biyoloji",
-      "count": 6,
-      "url": "etiket/biyoloji.html"
-    },
-    {
       "slug": "beyin",
       "label": "beyin",
-      "count": 5,
+      "count": 6,
       "url": "etiket/beyin.html"
     },
     {
       "slug": "iklim",
       "label": "iklim",
-      "count": 5,
+      "count": 6,
       "url": "etiket/iklim.html"
     },
     {
@@ -102,10 +102,28 @@
       "url": "etiket/cevre.html"
     },
     {
+      "slug": "evrim",
+      "label": "evrim",
+      "count": 4,
+      "url": "etiket/evrim.html"
+    },
+    {
+      "slug": "fizik",
+      "label": "fizik",
+      "count": 4,
+      "url": "etiket/fizik.html"
+    },
+    {
       "slug": "gezegen",
       "label": "gezegen",
       "count": 4,
       "url": "etiket/gezegen.html"
+    },
+    {
+      "slug": "saglik",
+      "label": "saglik",
+      "count": 4,
+      "url": "etiket/saglik.html"
     },
     {
       "slug": "teknoloji",
@@ -114,10 +132,10 @@
       "url": "etiket/teknoloji.html"
     },
     {
-      "slug": "fizik",
-      "label": "fizik",
+      "slug": "arkeoloji",
+      "label": "arkeoloji",
       "count": 3,
-      "url": "etiket/fizik.html"
+      "url": "etiket/arkeoloji.html"
     },
     {
       "slug": "kimya",
@@ -150,16 +168,46 @@
       "url": "etiket/yapayzeka.html"
     },
     {
-      "slug": "evrim",
-      "label": "evrim",
+      "slug": "balik",
+      "label": "balik",
       "count": 2,
-      "url": "etiket/evrim.html"
+      "url": "etiket/balik.html"
+    },
+    {
+      "slug": "buzul",
+      "label": "buzul",
+      "count": 2,
+      "url": "etiket/buzul.html"
+    },
+    {
+      "slug": "deniz",
+      "label": "deniz",
+      "count": 2,
+      "url": "etiket/deniz.html"
+    },
+    {
+      "slug": "denizanasi",
+      "label": "denizanasi",
+      "count": 2,
+      "url": "etiket/denizanasi.html"
+    },
+    {
+      "slug": "dis",
+      "label": "dis",
+      "count": 2,
+      "url": "etiket/dis.html"
     },
     {
       "slug": "fosil",
       "label": "fosil",
       "count": 2,
       "url": "etiket/fosil.html"
+    },
+    {
+      "slug": "genetik",
+      "label": "genetik",
+      "count": 2,
+      "url": "etiket/genetik.html"
     },
     {
       "slug": "karadelik",
@@ -192,6 +240,12 @@
       "url": "etiket/nasa.html"
     },
     {
+      "slug": "omur",
+      "label": "omur",
+      "count": 2,
+      "url": "etiket/omur.html"
+    },
+    {
       "slug": "orman",
       "label": "orman",
       "count": 2,
@@ -216,6 +270,12 @@
       "url": "etiket/ses.html"
     },
     {
+      "slug": "tarih",
+      "label": "tarih",
+      "count": 2,
+      "url": "etiket/tarih.html"
+    },
+    {
       "slug": "tarim",
       "label": "tarım",
       "count": 2,
@@ -226,6 +286,12 @@
       "label": "uyku",
       "count": 2,
       "url": "etiket/uyku.html"
+    },
+    {
+      "slug": "yaslanma",
+      "label": "yaslanma",
+      "count": 2,
+      "url": "etiket/yaslanma.html"
     },
     {
       "slug": "adenozin",
@@ -246,16 +312,16 @@
       "url": "etiket/alzheimer.html"
     },
     {
+      "slug": "amip",
+      "label": "amip",
+      "count": 1,
+      "url": "etiket/amip.html"
+    },
+    {
       "slug": "antik",
       "label": "antik",
       "count": 1,
       "url": "etiket/antik.html"
-    },
-    {
-      "slug": "arkeoloji",
-      "label": "arkeoloji",
-      "count": 1,
-      "url": "etiket/arkeoloji.html"
     },
     {
       "slug": "ari",
@@ -318,16 +384,22 @@
       "url": "etiket/agac.html"
     },
     {
-      "slug": "balik",
-      "label": "balık",
+      "slug": "balina",
+      "label": "balina",
       "count": 1,
-      "url": "etiket/balik.html"
+      "url": "etiket/balina.html"
     },
     {
       "slug": "bellek",
       "label": "bellek",
       "count": 1,
       "url": "etiket/bellek.html"
+    },
+    {
+      "slug": "betel",
+      "label": "betel",
+      "count": 1,
+      "url": "etiket/betel.html"
     },
     {
       "slug": "bilissel-bilim",
@@ -354,10 +426,10 @@
       "url": "etiket/biyocesitlilik.html"
     },
     {
-      "slug": "buzul",
-      "label": "buzul",
+      "slug": "buzkarotu",
+      "label": "buzkarotu",
       "count": 1,
-      "url": "etiket/buzul.html"
+      "url": "etiket/buzkarotu.html"
     },
     {
       "slug": "bocek",
@@ -394,12 +466,6 @@
       "label": "deniz biyolojisi",
       "count": 1,
       "url": "etiket/deniz-biyolojisi.html"
-    },
-    {
-      "slug": "denizanasi",
-      "label": "denizanası",
-      "count": 1,
-      "url": "etiket/denizanasi.html"
     },
     {
       "slug": "dil-modeli",
@@ -444,6 +510,12 @@
       "url": "etiket/esa.html"
     },
     {
+      "slug": "fare",
+      "label": "fare",
+      "count": 1,
+      "url": "etiket/fare.html"
+    },
+    {
       "slug": "fareler",
       "label": "fareler",
       "count": 1,
@@ -480,10 +552,10 @@
       "url": "etiket/ganymede.html"
     },
     {
-      "slug": "genetik",
-      "label": "genetik",
+      "slug": "gekko",
+      "label": "gekko",
       "count": 1,
-      "url": "etiket/genetik.html"
+      "url": "etiket/gekko.html"
     },
     {
       "slug": "gencdunya",
@@ -522,16 +594,34 @@
       "url": "etiket/gunes-sistemi.html"
     },
     {
+      "slug": "harita",
+      "label": "harita",
+      "count": 1,
+      "url": "etiket/harita.html"
+    },
+    {
       "slug": "hayvan",
       "label": "hayvan",
       "count": 1,
       "url": "etiket/hayvan.html"
     },
     {
+      "slug": "heparin",
+      "label": "heparin",
+      "count": 1,
+      "url": "etiket/heparin.html"
+    },
+    {
       "slug": "icecube",
       "label": "icecube",
       "count": 1,
       "url": "etiket/icecube.html"
+    },
+    {
+      "slug": "insan",
+      "label": "insan",
+      "count": 1,
+      "url": "etiket/insan.html"
     },
     {
       "slug": "izotop",
@@ -636,6 +726,12 @@
       "url": "etiket/krater.html"
     },
     {
+      "slug": "kril",
+      "label": "kril",
+      "count": 1,
+      "url": "etiket/kril.html"
+    },
+    {
       "slug": "kulak",
       "label": "kulak",
       "count": 1,
@@ -690,10 +786,22 @@
       "url": "etiket/matematik.html"
     },
     {
+      "slug": "mikrobiyoloji",
+      "label": "mikrobiyoloji",
+      "count": 1,
+      "url": "etiket/mikrobiyoloji.html"
+    },
+    {
       "slug": "mikroglia",
       "label": "mikroglia",
       "count": 1,
       "url": "etiket/mikroglia.html"
+    },
+    {
+      "slug": "naegleria",
+      "label": "naegleria",
+      "count": 1,
+      "url": "etiket/naegleria.html"
     },
     {
       "slug": "nfc",
@@ -736,6 +844,12 @@
       "label": "nötrino",
       "count": 1,
       "url": "etiket/notrino.html"
+    },
+    {
+      "slug": "okyanus",
+      "label": "okyanus",
+      "count": 1,
+      "url": "etiket/okyanus.html"
     },
     {
       "slug": "optogenetik",
@@ -810,6 +924,12 @@
       "url": "etiket/robotik.html"
     },
     {
+      "slug": "roma",
+      "label": "roma",
+      "count": 1,
+      "url": "etiket/roma.html"
+    },
+    {
       "slug": "roman",
       "label": "roman",
       "count": 1,
@@ -840,10 +960,10 @@
       "url": "etiket/sayisal-bilis.html"
     },
     {
-      "slug": "saglik",
-      "label": "sağlık",
+      "slug": "semaglutid",
+      "label": "semaglutid",
       "count": 1,
-      "url": "etiket/saglik.html"
+      "url": "etiket/semaglutid.html"
     },
     {
       "slug": "sinirbilim",
@@ -856,6 +976,12 @@
       "label": "sosyal rütbe",
       "count": 1,
       "url": "etiket/sosyal-rutbe.html"
+    },
+    {
+      "slug": "spiderman",
+      "label": "spiderman",
+      "count": 1,
+      "url": "etiket/spiderman.html"
     },
     {
       "slug": "stratego",
@@ -874,6 +1000,12 @@
       "label": "süperiletken",
       "count": 1,
       "url": "etiket/superiletken.html"
+    },
+    {
+      "slug": "superkahraman",
+      "label": "süperkahraman",
+      "count": 1,
+      "url": "etiket/superkahraman.html"
     },
     {
       "slug": "suru",
@@ -898,6 +1030,12 @@
       "label": "terencetao",
       "count": 1,
       "url": "etiket/terencetao.html"
+    },
+    {
+      "slug": "tibet",
+      "label": "tibet",
+      "count": 1,
+      "url": "etiket/tibet.html"
     },
     {
       "slug": "toprak",
@@ -954,22 +1092,46 @@
       "url": "etiket/yangin.html"
     },
     {
+      "slug": "yarasa",
+      "label": "yarasa",
+      "count": 1,
+      "url": "etiket/yarasa.html"
+    },
+    {
       "slug": "yasaminkokeni",
       "label": "yaşamınkökeni",
       "count": 1,
       "url": "etiket/yasaminkokeni.html"
     },
     {
-      "slug": "yaslanma",
-      "label": "yaşlanma",
+      "slug": "yenilenme",
+      "label": "yenilenme",
       "count": 1,
-      "url": "etiket/yaslanma.html"
+      "url": "etiket/yenilenme.html"
+    },
+    {
+      "slug": "yerbilimleri",
+      "label": "yerbilimleri",
+      "count": 1,
+      "url": "etiket/yerbilimleri.html"
+    },
+    {
+      "slug": "yollar",
+      "label": "yollar",
+      "count": 1,
+      "url": "etiket/yollar.html"
     },
     {
       "slug": "yildiz",
       "label": "yıldız",
       "count": 1,
       "url": "etiket/yildiz.html"
+    },
+    {
+      "slug": "zehir",
+      "label": "zehir",
+      "count": 1,
+      "url": "etiket/zehir.html"
     },
     {
       "slug": "col",
@@ -997,6 +1159,733 @@
     }
   ],
   "articles": [
+    {
+      "id": "proj_41f8afcbfb",
+      "slug": "2026-10-14-mavi-balinalar-okyanusta-krili-nasil-buluyor",
+      "url": "yazi/2026-10-14-mavi-balinalar-okyanusta-krili-nasil-buluyor.html",
+      "date": "2026-10-14T06:10:14.456350+00:00",
+      "date_text": "14 Ekim 2026",
+      "draft": false,
+      "title": "Mavi Balinalar Okyanusta Krili Nasıl Buluyor?",
+      "standfirst": "Sensör ve uydu verileri, mavi balinaların soğuk ve ılık su sınırlarını yüzlerce kilometre izlediğini, bu cephelere ulaştıklarında keşif dalışları yaptığını gösterdi.",
+      "paragraphs": [
+        "Sensör ve uydu verileri, mavi balinaların soğuk ve ılık su sınırlarını yüzlerce kilometre izlediğini, bu cephelere ulaştıklarında keşif dalışları yaptığını gösterdi.",
+        "Mavi balinalar, dünyanın en büyük hayvanları, neredeyse yalnızca kril denen küçük kabuklularla besleniyor. Kuzeydoğu Pasifik'te en yoğun kril sürüleri deniz tabanı şekilleri ve akıntılarla ilişkili. Ama balinaların bu dağınık ve sürekli yer değiştiren sürüleri uçsuz bucaksız okyanusta nasıl bulduğu bilinmiyordu.",
+        "Kaliforniya'daki Monterey Körfezi Akvaryumu Araştırma Enstitüsü'nden John Ryan'ın ekibi, balinalara takılan algılayıcılar ile uydu ölçümlerini birleştirdi. Derinden yüzeye soğuk su yükselen bir bölgenin sınırını, yani bir sıcaklık cephesini, yüzlerce kilometre boyunca izleyen balinaları takip ettiler.",
+        "Balinalar üç şeyi tekrar tekrar yaptı. Cepheye rastladıklarında rotalarını keskin biçimde değiştirip derin keşif dalışları yaptılar. Özellikle gündüzki yoğun beslenmeden önceki gece aramalarında cephenin hem içinden hem boyunca sistematik olarak geçtiler. Ve beslenirken önce en soğuk noktayı bulup sonra cephenin ılık tarafına doğru ilerlediler. Yazarlara göre bu, balinaların ana arama yönteminin sıcaklığı hissetmek ve hatırlamak olduğunu düşündürüyor.",
+        "Bu davranış balinaların sıcaklık farklarını kullanarak kril alanlarını bulduğunu düşündürüyor. Araştırmacılar şimdi bunun başka balinalarda da olup olmadığını ve sıcaklığı nasıl algıladıklarını anlamaya çalışıyor."
+      ],
+      "takeaway": "Mavi balinalar dev okyanusta kril sürülerini, deniz yüzeyindeki sıcaklık farklarını hissederek buluyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "balina",
+          "label": "balina",
+          "url": "etiket/balina.html"
+        },
+        {
+          "slug": "okyanus",
+          "label": "okyanus",
+          "url": "etiket/okyanus.html"
+        },
+        {
+          "slug": "kril",
+          "label": "kril",
+          "url": "etiket/kril.html"
+        },
+        {
+          "slug": "deniz",
+          "label": "deniz",
+          "url": "etiket/deniz.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Current Biology (2026)",
+          "url": "https://doi.org/10.1016/j.cub.2026.08.010"
+        }
+      ],
+      "image_credits": [
+        "Mike Baird from Morro Bay, USA, Wikimedia Commons (CC BY 2.0)",
+        "NASA MODIS, Wikimedia Commons (Public domain)",
+        "NASA's Scientific Visualization Studio - USRA/Kel Elkins, ADNET Systems, Inc./La, Wikimedia Commons (Public domain)",
+        "NMFS Northeast Fisheries Science Center (NOAA), Wikimedia Commons (Public domain)",
+        "Krill666.jpg: Uwe Kils I am willing to give the image in 1700 resolution to Wiki, Wikimedia Commons (CC BY-SA 3.0)"
+      ],
+      "video": {
+        "youtube": "KaeVS3lS2Ps"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/KaeVS3lS2Ps"
+        }
+      ]
+    },
+    {
+      "id": "proj_a0124b0ef4",
+      "slug": "2026-10-14-naegleria-beyne-giden-dar-yollari-nasil-kullaniyor-olabilir",
+      "url": "yazi/2026-10-14-naegleria-beyne-giden-dar-yollari-nasil-kullaniyor-olabilir.html",
+      "date": "2026-10-14T06:10:14.446496+00:00",
+      "date_text": "14 Ekim 2026",
+      "draft": false,
+      "title": "Naegleria Beyne Giden Dar Yolları Nasıl Kullanıyor Olabilir?",
+      "standfirst": "Zararsız bir Naegleria türü dar kanalları aktif olarak aradı ve içlerinde hızlı, yönlü ilerledi.",
+      "paragraphs": [
+        "Zararsız bir Naegleria türü dar kanalları aktif olarak aradı ve içlerinde hızlı, yönlü ilerledi. Araştırmacılar bunun hastalık yapan akraba için ipucu olabileceğini düşünüyor.",
+        "beyin yiyen amip olarak bilinen Naegleria fowleri, ılık göl ve göletlerde yaşayan ve normalde bakteri yiyen bir amip. Ama burundan girip beyne ulaşırsa ölümcül bir enfeksiyona yol açabiliyor. Bunun için koku sinirleri boyunca, kafatasındaki elek kemiğinin küçük deliklerinden geçip beyin dokusunda ilerlemesi gerekiyor. Bunu nasıl yaptığı bilinmiyordu.",
+        "Massachusetts Dartmouth Üniversitesi'nden Katrina Velle'nin ekibi, hastalık yapmayan akrabası Naegleria gruberi ile deneyler yaptı. Amipleri farklı biçimli ortamlara koydular: düz yüzeyler, iki yüzey arası, dar kanallar ve gölet çamurunu taklit eden jel tanecikleri.",
+        "Üç davranış öne çıktı. Amipler keşfederken yön hafızası taşıyor. Dar alanlara aktif olarak giriyor: başka bir amip türü kanal ağzından sık sık uzaklaşırken Naegleria kanalı yoklayıp içine giriyor. Ve içeri girince hızlı ve düz ilerliyor: dakikada 50 mikrometreden hızlı, 1 milimetreden uzun mesafeler boyunca.",
+        "Yazarlara göre bu davranışlar çamurda bakteri avlamak için gelişti ama yanlışlıkla hastalığa da yol açıyor olabilir: yön hafızası burun boşluğunu keşfetmeye, dar alan arayışı sinir lifleri arasına girmeye, kanalda hızlı ilerleme de beyne hızlı ulaşmaya uyuyor.",
+        "Bir sonraki adım, aynı davranışı beyin yiyen amibin kendisinde görmek. Amibin beyne nasıl ulaştığını anlamak, onu durdurmanın da ilk adımı olabilir."
+      ],
+      "takeaway": "Gölet çamurunda bakteri avlamak için gelişen bu davranış, burundan beyne giden yolu da açıyor olabilir.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "amip",
+          "label": "amip",
+          "url": "etiket/amip.html"
+        },
+        {
+          "slug": "naegleria",
+          "label": "naegleria",
+          "url": "etiket/naegleria.html"
+        },
+        {
+          "slug": "mikrobiyoloji",
+          "label": "mikrobiyoloji",
+          "url": "etiket/mikrobiyoloji.html"
+        },
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2534165123"
+        }
+      ],
+      "image_credits": [
+        "USCDC, Wikimedia Commons (Public domain)",
+        "Velle KB ve ark., PNAS 2026 (10.1073/pnas.2534165123), CC BY 4.0",
+        "Velle KB ve ark., Proceedings of the National Academy of Sciences of the United States of America 2026 (10.1073/pnas.2534165123), CC BY 4.0",
+        "CDC, Wikimedia Commons (Public domain)",
+        "Centers for Disease Control and Prevention, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "z5bruB52OQY"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/z5bruB52OQY"
+        }
+      ]
+    },
+    {
+      "id": "proj_c2f69237da",
+      "slug": "2026-10-14-betel-kullanimi-25-bin-yil-oncesine-kadar-gidiyor-olabilir-m",
+      "url": "yazi/2026-10-14-betel-kullanimi-25-bin-yil-oncesine-kadar-gidiyor-olabilir-m.html",
+      "date": "2026-10-14T06:10:14.443089+00:00",
+      "date_text": "14 Ekim 2026",
+      "draft": false,
+      "title": "Betel Kullanımı 25 Bin Yıl Öncesine Kadar Gidiyor Olabilir mi?",
+      "standfirst": "Sulawesi’de iki avcı toplayıcının dişlerindeki oyuklar ve kimyasal izler, betel cevizinin 25 ile 16 bin yıl önce düzenli olarak emilmiş olabileceğini gösteriyor.",
+      "paragraphs": [
+        "Sulawesi’de iki avcı toplayıcının dişlerindeki oyuklar ve kimyasal izler, betel cevizinin 25 ile 16 bin yıl önce düzenli olarak emilmiş olabileceğini gösteriyor.",
+        "Betel cevizi, areka palmiyesinin meyvesi. Bugün dünyada yaklaşık her 10 kişiden biri onu çiğniyor. Alkol, kafein ve nikotinden sonra dünyanın en yaygın dördüncü zihin etkileyen maddesi olarak anılıyor. Genellikle betel yaprağı ve sönmüş kireçle birlikte çiğneniyor. Kireç, cevizdeki arekolin adlı uyarıcı maddeyi vücudun daha kolay emeceği hale getiriyor ve dişlerde kırmızı-kahverengi lekeler bırakıyor.",
+        "Avustralya'daki Griffith Üniversitesi'nden Adam Brumm'un ekibi, Sulawesi'de iki ayrı mağarada bulunmuş iki yetişkin avcı-toplayıcının iskeletini inceledi. İkisinin de dişlerinde daha önce tanımlanmamış bir iz vardı: yuvarlak, oyuk biçimli olukları. Ekip bu izin, bütün bir betel cevizini ağızda uzun süre emmekten oluştuğunu ortaya koydu.",
+        "Soru şuydu: kireç olmadan, sadece cevizi emerek uyarıcı madde açığa çıkar mı? Ekip deney yaptı. Bütün betel cevizlerini vücut sıcaklığında uzun süre sıvı içinde bekletti. Arekolin çıktı, hem de vücutta etki yaratacak miktarda. Eski dişlerin kimyasal analizi de bu kullanım biçimiyle uyumlu çıktı.",
+        "Şimdiye kadarki en eski güvenilir kanıt, Tayland'da Tunç Çağı'ndan, yaklaşık 3.500-3.000 yıl önceden bir bireyin diş taşındaki arekolin izleriydi. Sulawesi'deki ilk birey ise 25 ile 16 bin yıl öncesinden.",
+        "Kanıt şimdilik iki kişiye dayanıyor. Ama bu bulgu, insanların bitkisel uyarıcıları sandığımızdan çok daha önce kullanmaya başlamış olabileceğini gösteriyor."
+      ],
+      "takeaway": "Endonezya'nın Sulawesi adasında yaşamış iki avcı-toplayıcının dişlerindeki yuvarlak oyuklar, betel cevizinin bütün halde uzun süre emildiğini gösteriyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "arkeoloji",
+          "label": "arkeoloji",
+          "url": "etiket/arkeoloji.html"
+        },
+        {
+          "slug": "betel",
+          "label": "betel",
+          "url": "etiket/betel.html"
+        },
+        {
+          "slug": "tarih",
+          "label": "tarih",
+          "url": "etiket/tarih.html"
+        },
+        {
+          "slug": "insan",
+          "label": "insan",
+          "url": "etiket/insan.html"
+        },
+        {
+          "slug": "dis",
+          "label": "dis",
+          "url": "etiket/dis.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aei1901"
+        }
+      ],
+      "image_credits": [
+        "Brumm A ve ark., Science advances 2026 (10.1126/sciadv.aei1901), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "LO4qsOrxe1A"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/LO4qsOrxe1A"
+        }
+      ]
+    },
+    {
+      "id": "proj_bf56f4959a",
+      "slug": "2026-10-14-roma-yollari-bugunun-ulasim-agini-hala-etkiliyor-mu",
+      "url": "yazi/2026-10-14-roma-yollari-bugunun-ulasim-agini-hala-etkiliyor-mu.html",
+      "date": "2026-10-14T06:10:14.437872+00:00",
+      "date_text": "14 Ekim 2026",
+      "draft": false,
+      "title": "Roma Yolları Bugünün Ulaşım Ağını Hala Etkiliyor mu?",
+      "standfirst": "299.171 kilometrelik yeni dijital model, Roma yollarının araziye göre kıvrıldığını ve eski yol yoğunluğu ile bugünkü büyük yol yoğunluğu arasında güçlü bir ilişki bulunduğunu gösterdi.",
+      "paragraphs": [
+        "299.171 kilometrelik yeni dijital model, Roma yollarının araziye göre kıvrıldığını ve eski yol yoğunluğu ile bugünkü büyük yol yoğunluğu arasında güçlü bir ilişki bulunduğunu gösterdi.",
+        "Roma İmparatorluğu en geniş halinde, MS 117'de, Akdeniz çevresinde yaklaşık 5,5 milyon kilometrekarelik bir alanı kaplıyordu. Avrupa'nın, Orta Doğu'nun ve Kuzey Afrika'nın büyük bölümü bu yollarla birbirine bağlanıyordu. Yollar insanları, hayvanları, malları, fikirleri, hastalıkları taşıdı. Ama bu ağın yapısı bütün imparatorluk ölçeğinde hiç sayılarla ölçülmemişti.",
+        "Danimarka'daki Aarhus Üniversitesi'nden bir ekip, Roma yollarının bugüne kadarki en kapsamlı ve ayrıntılı dijital modelini kurdu: 299.171 kilometre yol. Sonra yüzyıldır tartışılan soruları tek tek ölçtüler. Roma yolları gerçekten dümdüz müydü? Bugüne kadar ne kadarı yaşadı? Roma şehri gerçekten ağın merkezi miydi?",
+        "Sonuçlar: Roma yolları arazi izin verdiğinde düz gidiyor, eğim arttıkça kıvrılıyor. Yine de bugünün büyük yolları ortalamada Roma yollarından daha düz. Ağda en kritik aracılar Roma şehri değil, eyalet başkentleriydi. Ana yol sayılan yollar ikincil yollardan daha önemli bağlantı noktalarıydı. Ve Roma yollarının yoğun olduğu yerlerde bugün de büyük yollar yoğun. Bu ilişki özellikle Batı Avrupa'da güçlü, Yunanistan, Anadolu ve Kuzey Afrika'nın bazı yerlerinde bugün yol yoğunluğu daha düşük.",
+        "Bugünkü yollar Roma yollarının tam üstünde olmayabilir. Ama Roma'nın kurduğu ağın izi, bugün yolların nerede yoğunlaştığında hala görülüyor."
+      ],
+      "takeaway": "Roma İmparatorluğu'nun yaklaşık 300.000 kilometrelik yol ağının en ayrıntılı dijital haritası çıkarıldı.",
+      "impact": null,
+      "category": {
+        "slug": "yer-bilimleri",
+        "label": "Yer Bilimleri",
+        "url": "kategori/yer-bilimleri.html"
+      },
+      "tags": [
+        {
+          "slug": "tarih",
+          "label": "tarih",
+          "url": "etiket/tarih.html"
+        },
+        {
+          "slug": "roma",
+          "label": "roma",
+          "url": "etiket/roma.html"
+        },
+        {
+          "slug": "yollar",
+          "label": "yollar",
+          "url": "etiket/yollar.html"
+        },
+        {
+          "slug": "arkeoloji",
+          "label": "arkeoloji",
+          "url": "etiket/arkeoloji.html"
+        },
+        {
+          "slug": "harita",
+          "label": "harita",
+          "url": "etiket/harita.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-75453-3"
+        }
+      ],
+      "image_credits": [
+        "Pažout A ve ark., Nature communications 2026 (10.1038/s41467-026-75453-3), CC BY 4.0",
+        "Flavia Verona, Wikimedia Commons (CC BY-SA 4.0)",
+        "Vincenzo Giovannini, Wikimedia Commons (Public domain)",
+        "Rijksmuseum, Wikimedia Commons (CC0)"
+      ],
+      "video": {
+        "youtube": "NEq9DGQjwcc"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/NEq9DGQjwcc"
+        }
+      ]
+    },
+    {
+      "id": "proj_cf44ec3712",
+      "slug": "2026-10-14-semaglutid-yasli-farelerde-yaslanmayi-yavaslatti-mi",
+      "url": "yazi/2026-10-14-semaglutid-yasli-farelerde-yaslanmayi-yavaslatti-mi.html",
+      "date": "2026-10-14T06:10:14.435083+00:00",
+      "date_text": "14 Ekim 2026",
+      "draft": false,
+      "title": "Semaglutid Yaşlı Farelerde Yaşlanmayı Yavaşlattı mı?",
+      "standfirst": "Yaşlı dişi farelerde geç dönemde başlanan semaglutid, yaşlanma işaretlerini azalttı ve ortanca ömrü 742 günden 834 güne çıkardı.",
+      "paragraphs": [
+        "Yaşlı dişi farelerde geç dönemde başlanan semaglutid, yaşlanma işaretlerini azalttı ve farelerin yarısının hayatta kaldığı süreyi 742 günden 834 güne çıkardı.",
+        "Semaglutid, GLP-1 adlı bağırsak hormonunun etkisini taklit eden bir ilaç. İştahı azaltıyor ve tip 2 diyabet ile obezite tedavisinde kullanılıyor. Kullanımı yaygınlaştıkça kalp, böbrek, karaciğer hastalıkları ve sinir sistemi hastalıkları üzerinde de olumlu etkiler görüldü. Bunun nedeni pek bilinmiyor.",
+        "Kaliforniya Üniversitesi Berkeley'den bir ekip şu fikirden yola çıktı: kalori kısıtlaması, yani yetersiz beslenmeden az yemek, pek çok canlıda yaşlanmayı yavaşlatıyor ve ömrü uzatıyor. Semaglutid de iştahı kıstığına göre benzer bir etki yapabilir mi?",
+        "Ekip 20 aylık, yani yaşlı sayılan dişi farelere her gün semaglutid iğnesi yaptı. İlaç farelerin yediği yemeği yüzde 24 azalttı. Bir grup 3 ay tedavi gördü ve vücut işlevleri, yaşlanmanın biyolojik işaretleri ve yaşlanmayla ilgili genler incelendi. Fizyolojik işlevler iyileşti, yaşlanma işaretleri azaldı.",
+        "Ömür deneyinde tedavi hayat boyu sürdü. Kontrol grubundaki farelerin farelerin yarısının hayatta kaldığı süreyi 742 gün, semaglutid alanlarınki 834 gün oldu. Ekip ayrıca semaglutidi doğrudan kalori kısıtlamasıyla karşılaştırdı. İlaç, kısıtlamanın faydalarının çoğunu sağladı. Merak edip keşfetme isteği, mekansal hafıza ve kan şekeri kontrolünde kalori kısıtlamasından daha iyi sonuç verdi.",
+        "Araştırmacıların amacı, zayıflama ve diyabet ilaçlarının yaşlanmayı da yavaşlatıp yavaşlatmadığını anlamak. Deney şimdilik tek bir dişi fare soyunda yapıldı, insanlarda henüz denenmedi. Yani bu, yaşlanma bilimi açısından yeni ve önemli bir bulgu."
+      ],
+      "takeaway": "Zayıflama ve diyabet ilacı semaglutid, yaşlı dişi farelere hayatlarının geç döneminde verilmeye başlandığında yaşlanma belirtilerini yavaşlattı ve ömürlerini uzattı.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "yaslanma",
+          "label": "yaslanma",
+          "url": "etiket/yaslanma.html"
+        },
+        {
+          "slug": "semaglutid",
+          "label": "semaglutid",
+          "url": "etiket/semaglutid.html"
+        },
+        {
+          "slug": "fare",
+          "label": "fare",
+          "url": "etiket/fare.html"
+        },
+        {
+          "slug": "omur",
+          "label": "omur",
+          "url": "etiket/omur.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-10940-7"
+        }
+      ],
+      "image_credits": [
+        "Feng Y ve ark., Nature 2026 (10.1038/s41586-026-10940-7), CC BY 4.0",
+        "Li LY, Gao X, Zhang J, Wu WW, Li YT, eLife 2026 (10.7554/eLife.109571), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "YNFkzLZuQ9o"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/YNFkzLZuQ9o"
+        }
+      ]
+    },
+    {
+      "id": "proj_643c10ad65",
+      "slug": "2026-10-14-ciklit-baliklari-dislerini-nasil-bu-kadar-hizli-yeniliyor",
+      "url": "yazi/2026-10-14-ciklit-baliklari-dislerini-nasil-bu-kadar-hizli-yeniliyor.html",
+      "date": "2026-10-14T06:10:14.432232+00:00",
+      "date_text": "14 Ekim 2026",
+      "draft": false,
+      "title": "Çiklit Balıkları Dişlerini Nasıl Bu Kadar Hızlı Yeniliyor?",
+      "standfirst": "Üç çiklit türünde diş çekilen çene yarısında yeni diş çıkışı yaklaşık üç kat hızlandı.",
+      "paragraphs": [
+        "Üç çiklit türünde diş çekilen çene yarısında yeni diş çıkışı yaklaşık üç kat hızlandı. Hücre analizleri yenilenmenin bağışıklık, damar ve sinir sinyalleriyle ilerlediğini gösterdi.",
+        "Dişlerin yarım milyar yıllık tarihinde çoğu diş yenilenebiliyordu. Köpek balıkları, kertenkeleler, timsahlar ve pek çok balık ömür boyu yeni diş çıkarıyor. Memeliler ise bu yeteneği büyük ölçüde kaybetti. İnsan dişini hayatında yalnızca bir kez değiştiriyor, laboratuvar faresi hiç değiştirmiyor. Yazarların aktardığı Dünya Sağlık Örgütü verisine göre 60 yaşın üstündeki insanların yüzde 23'ünün hiç dişi kalmamış.",
+        "Fare dişini hiç değiştirmediği için diş yenilenmesini inceleyecek klasik bir laboratuvar hayvanı yok. Georgia Teknoloji Enstitüsü'nden Jeffrey T. Streelman'ın ekibi bu yüzden Malawi Gölü'nün çiklit balıklarını kullandı. Bu türlerin genomları birbirine çok benziyor ama dişleri çok farklı: kimi türde birkaç sıra iri, sivri tek uçlu diş, kimisinde yüzlerce küçük, üç uçlu diş var. Hepsinde her diş 30-40 günde bir, aynı biçimde yenisiyle değişiyor. Eski diş düşerken yerine birebir yenisi geliyor.",
+        "Ekip üç türde çenenin sağ yarısından dişleri çekti, sol yarıya dokunmadı. Eski ve yeni dişleri iki farklı boyayla işaretledi: eski dişler hem pembe hem yeşil, yeni çıkanlar yalnızca yeşil parlıyor. 15 gün sonra sayım yaptılar. Dişleri çekilen tarafta yeni diş çıkma hızı yaklaşık 3 katına çıkmıştı, çekilmeyen tarafta değişmemişti. Bu 3 katlık hızlanma, dişleri birbirinden çok farklı üç türde de neredeyse aynı çıktı. Yazarlar bunu bir üst sınır ya da biyolojik bir kısıt olabileceği şeklinde yorumluyor.",
+        "Sonra ekip, diş çekildikten sonraki ilk haftada dört ayrı zaman noktasında çene dokusundan 27.114 hücre çekirdeğinin genlerini tek tek okudu. Diş çekilince önce bağışıklık hücreleri devreye giriyor, sonra diş yapımı, damarlanma ve sinirlerin yeni dişe yol bulmasıyla ilgili sinyaller sırayla açılıyor. Balık dişindeki hücre türleri fare ve insan dişindekilerle büyük ölçüde aynı çıktı. Aradaki yüz milyonlarca yıllık evrim farkına rağmen.",
+        "Bu balıkların hangi hücre sinyalleriyle dişlerini yeniden çıkardığını anlamak, bir gün insanlarda yeni diş çıkarma konusunda da yol gösterebilir."
+      ],
+      "takeaway": "Malawi Gölü'nün çiklit balıkları ömür boyu dişlerini yeniliyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "dis",
+          "label": "dis",
+          "url": "etiket/dis.html"
+        },
+        {
+          "slug": "balik",
+          "label": "balik",
+          "url": "etiket/balik.html"
+        },
+        {
+          "slug": "yenilenme",
+          "label": "yenilenme",
+          "url": "etiket/yenilenme.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "eLife (2026)",
+          "url": "https://doi.org/10.7554/eLife.110584"
+        }
+      ],
+      "image_credits": [
+        "Mubeen T ve ark., eLife 2026 (10.7554/eLife.110584), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "L0iqN9q1WHc"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/L0iqN9q1WHc"
+        }
+      ]
+    },
+    {
+      "id": "proj_1009c6917f",
+      "slug": "2026-10-14-bazi-myotis-yarasalari-neden-alti-kat-daha-uzun-yasiyor",
+      "url": "yazi/2026-10-14-bazi-myotis-yarasalari-neden-alti-kat-daha-uzun-yasiyor.html",
+      "date": "2026-10-14T06:10:14.428487+00:00",
+      "date_text": "14 Ekim 2026",
+      "draft": false,
+      "title": "Bazı Myotis Yarasaları Neden Altı Kat Daha Uzun Yaşıyor?",
+      "standfirst": "Sekiz Myotis türünün genomları, uzun ömrün bu cins içinde birden fazla kez evrimleştiğini ve kanser ile DNA hasarı yollarındaki değişimlerle bağlantılı olduğunu gösterdi.",
+      "paragraphs": [
+        "Sekiz Myotis türünün genomları, uzun ömrün bu cins içinde birden fazla kez evrimleştiğini ve kanser ile DNA hasarı yollarındaki değişimlerle bağlantılı olduğunu gösterdi.",
+        "Yarasalar vücut büyüklüklerine göre olağanüstü uzun yaşıyor ve birçok virüse karşı şaşırtıcı bir tolerans gösteriyor. Myotis, yarasaların en büyük cinsi: yaklaşık 33 milyon yıl önce ortaya çıkmış, 6 kıtada 139'dan fazla türü var. Bu cins memeliler arasında ömür bakımından en uç farkları barındırıyor: Brandt yarasası (Myotis brandtii) 42 yıl yaşayabiliyor, Myotis nigricans ise 7 yıl. Aradaki fark 6 kat.",
+        "Kaliforniya Üniversitesi Berkeley'den bir ekip, sekiz yakın akraba Myotis türü için neredeyse eksiksiz genomlar ve hücre hatları üretti. Hangi genlerin doğal seçilimle değiştiğine, hangi genlerin kaç kopya olduğuna baktılar ve hücrelerde deneyler yaptılar.",
+        "Uzun ömrün bu cinste birden fazla kez evrimleştiği ve kanserle ilgili gen yollarındaki seçilimle bağlantılı olduğu çıktı. Uzun yaşayan küçük kahverengi yarasanın (Myotis lucifugus) hücreleri DNA hasarına kendine özgü bir tepki veriyor. Virüslere uyum da farklı: DNA virüsleriyle etkileşen proteinlerde seçilim, RNA virüsleriyle etkileşen proteinlerde ise kopya sayısı değişimi öne çıkıyor. Önemli bir bağışıklık geni olan PKR'nin birden fazla kopyası, türler arasında milyonlarca yıldır taşınıyor.",
+        "Tek bir uzun ömür geni yok. Ama uzun yaşayan yarasaların kanser ve DNA onarımında kullandığı yolları anlamak, yaşlanmanın biyolojisi için yeni ipuçları veriyor."
+      ],
+      "takeaway": "Aynı yarasa cinsi içinde bir tür 42 yıl, bir başkası 7 yıl yaşayabiliyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "yarasa",
+          "label": "yarasa",
+          "url": "etiket/yarasa.html"
+        },
+        {
+          "slug": "omur",
+          "label": "omur",
+          "url": "etiket/omur.html"
+        },
+        {
+          "slug": "genetik",
+          "label": "genetik",
+          "url": "etiket/genetik.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-10932-7"
+        }
+      ],
+      "image_credits": [
+        "Ester Premate, Wikimedia Commons (CC BY 4.0)",
+        "Urheber: Manuel Werner, Germany, Wikipedia-Kontakt: http://de.wikipedia.org/wiki, Wikimedia Commons (CC BY-SA 3.0)",
+        "Bouke ten Cate, Wikimedia Commons (CC BY 4.0)"
+      ],
+      "video": {
+        "youtube": "6uwE0llSmRc"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/6uwE0llSmRc"
+        }
+      ]
+    },
+    {
+      "id": "proj_ba4e1f3ca8",
+      "slug": "2026-10-14-bir-insan-spider-man-gibi-duvara-yapisabilir-mi",
+      "url": "yazi/2026-10-14-bir-insan-spider-man-gibi-duvara-yapisabilir-mi.html",
+      "date": "2026-10-14T06:10:14.423711+00:00",
+      "date_text": "14 Ekim 2026",
+      "draft": false,
+      "title": "Bir İnsan Spider-Man Gibi Duvara Yapışabilir mi?",
+      "standfirst": "225 duvara tırmanan türün karşılaştırıldığı çalışma, gekko benzeri yapışkan ayak mekanizmasının insan ölçeğine taşındığında devasa temas alanı gerektirdiğini gösteriyor.",
+      "paragraphs": [
+        "Spider-Man'in en ikonik özelliklerinden biri, duvarlara ve tavana sanki yerçekimi yokmuş gibi tutunabilmesi. Gerçek doğada da bunu yapan hayvanlar var. Gekkolar camda yürüyebiliyor. Bazı böcekler tavanda asılı kalabiliyor. Örümcekler ve akarlar kendi vücut ağırlıklarını küçük temas yüzeyleriyle taşıyabiliyor. O zaman soru basit görünüyor: Aynı sistemi büyütüp bir insana uygulasak, biz de duvara tırmanabilir miyiz? 2016'da yayımlanan çalışma bu soruya doğrudan Spider-Man üzerinden cevap vermiyor. Ancak yapışarak tırmanan hayvanların boyut sınırlarını ölçtüğü için, insan ölçeğine geldiğimizde oldukça net bir fiziksel sorun ortaya çıkıyor. Hüküm şu: Gekko benzeri yapışkan ayak tabanı yöntemiyle, insan ölçeğinde pratik bir duvar tırmanışı mümkün görünmüyor. Bu, insanın herhangi bir teknolojiyle duvara yapışmasının imkansız olduğu anlamına gelmiyor. Sorun özellikle doğadaki bu pasif yapışma yöntemini insan boyutuna büyütmekte.",
+        "Cambridge Üniversitesi Zooloji Bölümü'nden David Labonte, Walter Federle ve çalışma arkadaşları; akarlardan böceklere, örümceklerden kurbağalara ve gekkolara kadar duvara yapışarak tırmanabilen 225 türü karşılaştırdı. Bu hayvanların vücut ağırlıkları arasında yedi basamaktan fazla fark vardı. Araştırmacılar bunu bir hamamböceği ile Big Ben arasındaki farkla kıyaslıyor. Ekip ayaklarda veya diğer temas bölgelerinde bulunan yapışkan yüzeyin ne kadar büyük olduğuna baktı. Ortaya çıkan desen belirgindi: hayvan büyüdükçe yapışkan alan yalnızca hayvanla birlikte büyümüyor, vücuda oranla da giderek daha büyük hale gelmek zorunda kalıyor.",
+        "Bunun temelinde kare-küp ilkesi var. Bir cismin boyutlarını aynı oranda büyüttüğünüzde yüzey alanı karesel, hacim ve benzer yoğunlukta ağırlık ise küpsel olarak artar. Yani büyüdükçe taşımanız gereken ağırlık, temas edebileceğiniz yüzey alanından daha hızlı artar. Bu, küçük bir böceğin duvara yapışmasını görece kolaylaştırır. Ama hayvan büyüdükçe aynı prensibi sürdürebilmek için ayakların orantısız biçimde büyümesi gerekir. Çalışmada akarlardan gekkolara doğru gidildiğinde yapışkan ayak alanının toplam vücut alanına oranı yaklaşık 200 kat artıyordu. Bu artış sonsuza kadar devam edemez. Araştırmacılara göre doğal yapışkan ayak sistemleri açısından bu sınırın yakınında gekkolar bulunuyor.",
+        "Gekko benzeri bir yapışma mekanizmasının insan ağırlığını taşıyabilmesi için, insan vücudunun toplam yüzey alanının yaklaşık yüzde 40'ının yapışkan yüzey olması gerektiği hesaplanıyor. İnsana önden baktığınızda ise bu alan yaklaşık yüzde 80'e denk geliyor. Yani yalnızca avuç içlerini ve ayak tabanlarını biraz daha yapışkan yapmak yeterli değil. Vücudun çok büyük bir bölümünün yüzeye temas etmesi gerekir. Araştırmacılardan Walter Federle bunu basın açıklamasında daha akılda kalıcı bir benzetmeyle anlatıyor: çözümü yalnızca ayaklarımızı büyütmekte arasaydık, ayakkabılarımızın Avrupa ölçüsüyle yaklaşık 145 numara olması gerekirdi. Bu sayı makaledeki ayrı bir ayakkabı hesabı değil. Gereken orantısız temas alanını anlatmak için kullanılan bir benzetme.",
+        "Var olabilir. Çalışmanın ortak yazarlarından Christofer Clemente'nin dikkat çektiği noktalardan biri kurbağalar. Bazı kurbağalar yalnızca yapışkan ped alanını büyütmek yerine, temas yüzeylerinin birim alan başına daha güçlü yapışmasını sağlıyor. Bu önemli, çünkü insan için verilen yüzde 40 hesabı gekko benzeri doğal yapışma sisteminin insan ölçeğine taşındığı varsayımına dayanıyor. Santimetrekare başına çok daha yüksek kuvvet üreten farklı bir mekanizma geliştirilirse gereken toplam alan azalabilir. Dolayısıyla çalışma 'insan asla duvara tırmanamaz' demiyor. Daha doğru ifade şu: Gekko benzeri yapışkan ayakları yalnızca ölçekleyerek insanı duvara çıkarmak bu yöntemle gerçekçi değil.",
+        "Bu çalışma Spider-Man'in çizgi romandaki biyolojisini test etmiyor. Biz yalnızca gerçek hayvansal yapışma sistemlerinden birinin insan ölçeğine taşındığında ne olduğunu soruyoruz. Eğer mekanizma gekko benzeri pasif yapışkan yüzeylerse, avuç ve ayak tabanları yetmiyor. Gerekli temas alanı insan anatomisinin büyük ölçüde değişmesini gerektiriyor. Bu yüzden hüküm kartımız:",
+        "Ama 'bu yöntemle' kısmı kritik. Daha güçlü sentetik yapıştırıcılar, aktif sistemler veya farklı mikro yapılar aynı sınırı değiştirebilir. Ve dönüp açılışa gelirsek: sorun yalnızca ellerimizin büyüklüğü değil. Yapışkanlığı artırmadan yalnızca alanı büyütmeye kalkarsak, ölçek fiziği bizi 145 numara ayakkabıya kadar götürüyor."
+      ],
+      "takeaway": "Yapışkan ayakla tırmanan en büyük hayvan gekko.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "spiderman",
+          "label": "spiderman",
+          "url": "etiket/spiderman.html"
+        },
+        {
+          "slug": "gekko",
+          "label": "gekko",
+          "url": "etiket/gekko.html"
+        },
+        {
+          "slug": "superkahraman",
+          "label": "süperkahraman",
+          "url": "etiket/superkahraman.html"
+        },
+        {
+          "slug": "fizik",
+          "label": "fizik",
+          "url": "etiket/fizik.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2016)",
+          "url": "https://doi.org/10.1073/pnas.1519459113"
+        },
+        {
+          "label": "University of Cambridge basın açıklaması (2016)",
+          "url": "https://www.sciencedaily.com/releases/2016/01/160118184359.htm"
+        }
+      ],
+      "image_credits": [
+        "Kutudaki Kedi animasyonu (Labonte ve ark., PNAS 2016 ve Cambridge basın açıklamasındaki sayılarla)",
+        "David Clements, Wikimedia Commons (kamu malı)",
+        "Shyamal, Wikimedia Commons (CC0)",
+        "Peter Heeling, Wikimedia Commons (CC0)",
+        "No machine-readable author provided. Hexasoft assumed (based, Wikimedia Commons (kamu malı)"
+      ],
+      "video": {
+        "youtube": "XId52tZwFAQ"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/XId52tZwFAQ"
+        }
+      ]
+    },
+    {
+      "id": "proj_64f9f33270",
+      "slug": "2026-10-14-tibet-teki-guliya-buzulu-kac-yasinda-bilim-insanlari-neden-a",
+      "url": "yazi/2026-10-14-tibet-teki-guliya-buzulu-kac-yasinda-bilim-insanlari-neden-a.html",
+      "date": "2026-10-14T06:10:14.419795+00:00",
+      "date_text": "14 Ekim 2026",
+      "draft": false,
+      "title": "Tibet'teki Guliya Buzulu Kaç Yaşında? Bilim İnsanları Neden Anlaşamıyor?",
+      "standfirst": "Guliya buz örtüsünden alınan karotlar için bir ekip birkaç bin yıllık, diğer ekip yüz bin yıldan uzun bir yaş savunuyor.",
+      "paragraphs": [
+        "Buzullar yalnızca donmuş su kütleleri değildir. Her yıl yağan kar zamanla sıkışıp buza dönüşürken atmosferden, sıcaklıktan ve çevreden izler taşır. Bu nedenle uzun bir buz karotu geçmiş iklimin katman katman tutulduğu doğal bir arşiv olabilir. Kutuplarda yüz binlerce yıl geriye giden kayıtlar biliyoruz. Dağ buzulları ise genellikle çok daha gençtir. Tibet Platosu'ndaki Guliya buz örtüsü bu nedenle uzun süredir dikkat çekiyor. Ve son yıllarda çok temel bir tartışmanın merkezinde: Bu buz gerçekten yüz binlerce yıllık mı, yoksa yalnızca birkaç bin yıllık mı?",
+        "1992'de Guliya'dan yaklaşık 309 metre uzunluğunda bir buz karotu çıkarıldı. Bu karot için daha sonra yaklaşık 760.000 yıllık çok eski bir yaş önerildi. Eğer doğruysa bu, kutup bölgeleri dışındaki en eski buz kayıtlarından biri olacaktı. Fakat bu kadar eski dağ buzunu tarihlemek kolay değil. Buz katmanları derinde sıkışabilir, akabilir, karışabilir ve klasik yıllık katman sayımı giderek zorlaşabilir. Bu nedenle zaman ölçeği farklı jeokimyasal ve iklimsel göstergelerle kurulmak zorunda.",
+        "Eylül 2025'te başka bir araştırma ekibi yakın bölgede 2021 yılında açılan yeni bir karotu radyoaktif tarihleme yöntemleriyle analiz etti. Sonuç oldukça çarpıcıydı. Yaklaşık 175 metre derinlikteki buzun 3.000 yıldan genç olduğu sonucuna vardılar. Eski Guliya zaman ölçeğinde benzer bir derinlik yaklaşık 100.000 yıllık kabul ediliyordu. İki sonuç arasındaki fark küçük bir kalibrasyon sorunu değil. Bir tarafta birkaç bin yıl, diğer tarafta yüz bin yıl var. Bu yüzden Guliya'nın yaş kaydı ciddi biçimde tartışmaya açıldı.",
+        "Lonnie Thompson ve çalışma arkadaşları yeni makalede 2015 yılında açılmış yaklaşık 310 metrelik başka bir Guliya karotunu analiz ediyor. İlk argümanları tekrar edilebilirlik. 2015 karotundaki oksijen izotopu değişimleri, 1992'de alınan karottaki örüntüyü büyük ölçüde yeniden üretiyor. Oksijen izotopları geçmiş sıcaklık ve atmosferik koşullar hakkında bilgi taşıyabilir. İki karotun yaklaşık çeyrek yüzyıl arayla benzer desen göstermesi, araştırmacılara göre eski kaydın tamamen rastgele veya yerel bir bozulmanın ürünü olmadığını düşündürüyor. Fakat asıl güçlü test, bağımsız zaman işaretleri.",
+        "Dünya'nın manyetik alanı geçmişte zaman zaman çok zayıfladı ve yönünde büyük değişimler yaşandı. Bunlardan biri yaklaşık 41.000 yıl önce gerçekleşen Laschamp olayı. Manyetik alan zayıfladığında uzaydan gelen kozmik parçacıklar atmosfere daha kolay ulaşır. Bu da berilyum-10 ve klor-36 gibi kozmik kökenli izotopların üretiminde değişiklik bırakır. Araştırmacılar Guliya karotunda bu izotopların davranışına baktı ve Laschamp olayıyla uyumlu bir işaret belirlediklerini bildiriyor. Eğer eşleştirme doğruysa, bu tek başına buzun en az yaklaşık 41 bin yıl geriye gittiğini gösteren bağımsız bir zaman çıpası sağlar.",
+        "Ekip Guliya oksijen izotopu kaydını Asya muson sistemini yansıtan mağara oluşumlarındaki kayıtlarla karşılaştırdı. Bu eşleştirmeye göre buz karotu yaklaşık 128.000 yıl öncesine kadar uzanıyor. Klor-36 ile berilyum-10 oranı da araştırmacılara göre buzun 100.000 yıldan yaşlı olduğunu destekliyor. Bu sonuç doğruysa Guliya kaydı Tibet Platosu'ndan bilinen en eski buz kayıtlarından biri olacak. Fakat burada önemli bir düzeltme var: Yeni çalışma eski 760.000 yıl iddiasını doğrulamıyor. Savunduğu zaman ölçeği yaklaşık 128 bin yıl. Yani eski “çok yaşlı buz” fikrinin daha sınırlı bir sürümünü destekliyor.",
+        "Şu aşamada kesin bir cevap vermek mümkün değil. Yeni makale 2025'teki itiraza verilmiş bilimsel bir yanıt. Önceki ekip radyoaktif tarihlemeden birkaç bin yıllık yaş çıkarırken, Thompson ekibi izotop örüntüleri, manyetik olay işareti ve bölgesel iklim kayıtlarıyla yüz bin yıldan uzun bir zaman ölçeği savunuyor. Bu tür anlaşmazlıklar bilimde olağandışı değil. Özellikle eski doğal arşivlerde farklı tarihleme yöntemleri farklı varsayımlara dayanabilir. Asıl çözüm genellikle yeni bağımsız ölçümlerden gelir.",
+        "Yeni zaman ölçeği son buzul çağının bazı bölümlerinde Haziran güneşlenmesiyle beklenen ilişkiyi gösteriyor. Fakat buzul çağı sona erdikten sonra ilişkinin tersine döndüğü bildiriliyor. Yazarlar bu davranışın nedenini henüz açıklayamadıklarını kabul ediyor. Bu da zaman modelinin tartışmasız hale gelmediğini gösteriyor.",
+        "Dışarıdan bakıldığında “bir ekip 3 bin diyor, diğeri 100 bin” durumu bilimin güvenilmezliği gibi görünebilir. Aslında tam tersi. Farklı ekiplerin aynı doğal kaydı bağımsız yöntemlerle sınaması, zayıf varsayımların ortaya çıkmasını sağlar. Eğer Guliya gerçekten 128 bin yıllık kesintisiz bir iklim arşivi taşıyorsa, Tibet'in geçmiş iklimini anlamak için olağanüstü değerli olacaktır. Eğer daha genç olduğu doğrulanırsa, dağ buzlarının nasıl aktığı ve tarihleme yöntemlerinin nerede yanıldığı hakkında önemli bir ders verecektir. Şimdilik söylenebilecek en doğru şey şu: Yeni çalışma Guliya buzunun 100 bin yıldan yaşlı olduğunu savunan güçlü yeni kanıtlar sunuyor. Ama tartışma kapanmış değil."
+      ],
+      "takeaway": "Tibet'teki Guliya buzulunun yaşı bir yıl önce sorgulanmıştı.",
+      "impact": null,
+      "category": {
+        "slug": "yer-bilimleri",
+        "label": "Yer Bilimleri",
+        "url": "kategori/yer-bilimleri.html"
+      },
+      "tags": [
+        {
+          "slug": "yerbilimleri",
+          "label": "yerbilimleri",
+          "url": "etiket/yerbilimleri.html"
+        },
+        {
+          "slug": "buzul",
+          "label": "buzul",
+          "url": "etiket/buzul.html"
+        },
+        {
+          "slug": "tibet",
+          "label": "tibet",
+          "url": "etiket/tibet.html"
+        },
+        {
+          "slug": "iklim",
+          "label": "iklim",
+          "url": "etiket/iklim.html"
+        },
+        {
+          "slug": "buzkarotu",
+          "label": "buzkarotu",
+          "url": "etiket/buzkarotu.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aeh2912"
+        }
+      ],
+      "image_credits": [
+        "Helle Astrid Kjær (Wikimedia Commons), CC BY 4.0",
+        "NOAA, GISP2 buz karotu (Wikimedia Commons), kamu malı",
+        "Lonnie Thompson, Byrd Polar Research Center, Ohio State University (Wikimedia Commons), kamu malı",
+        "NASA's Scientific Visualization Studio / AJ Christensen",
+        "NASA's Goddard Space Flight Center Conceptual Image Lab / Jonathan North"
+      ],
+      "video": {
+        "youtube": "Ff9VZOKQvEQ"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/Ff9VZOKQvEQ"
+        }
+      ]
+    },
+    {
+      "id": "proj_f737cc4be8",
+      "slug": "2026-10-14-heparin-denizanasi-zehrine-karsi-neden-ise-yaradi",
+      "url": "yazi/2026-10-14-heparin-denizanasi-zehrine-karsi-neden-ise-yaradi.html",
+      "date": "2026-10-14T06:10:14.395594+00:00",
+      "date_text": "14 Ekim 2026",
+      "draft": false,
+      "title": "Heparin Denizanası Zehrine Karşı Neden İşe Yaradı?",
+      "standfirst": "Bir CRISPR taraması deniz ısırganı zehrinin hücre yüzeyindeki şeker zincirlerini hedeflediğini gösterdi.",
+      "paragraphs": [
+        "Bir CRISPR taraması deniz ısırganı zehrinin hücre yüzeyindeki şeker zincirlerini hedeflediğini gösterdi. Heparin hücrelerde zehri, farelerde ağrıyı engelledi.",
+        "Atlantik deniz ısırganı (Chrysaora quinquecirrha), ABD'nin Atlantik kıyılarında her yıl milyonlarca insanı sokuyor. Öldürücü değil ama anında yakıcı bir ağrı ve bazen kabarık kızarıklık yapıyor. Zehrin nasıl çalıştığı pek bilinmiyor ve bilimsel temelli bir tedavisi yok. Bugünkü yaygın uygulama, kalan iğne hücrelerinin patlamasını önlemek için karbonat-su karışımı sürmek.",
+        "Avustralya'daki Sidney Üniversitesi'nden Greg Neely'nin ekibi, insan hücrelerinde genlerin tek tek kapatıldığı bir CRISPR taraması yaptı. Hangi gen kapatıldığında hücre zehirden etkilenmiyor? En güçlü sonuç, hücre yüzeyindeki proteoglikan denen şeker zincirli molekülleri üreten genlerden çıktı. Yani zehir bunlara tutunarak çalışıyor.",
+        "Buradan bir fikir doğdu. Heparin de benzer bir şeker zinciri ve hastanelerde kan sulandırıcı olarak yaygın kullanılan, ucuz, güvenli bir ilaç. Ekip heparinin zehri yakalayıp hücreye ulaşmasını önleyip önlemeyeceğini denedi. Heparin, vücutta ulaşılabilecek bir dozda zehrin hücre öldürücü etkisini engelledi. Zehirden 1 saat sonra verildiğinde bile işe yaradı. Farelerde de zehrin yol açtığı ani ağrıyı, sıcağa ve dokunmaya karşı aşırı hassasiyeti önledi.",
+        "Heparin bir kan sulandırıcı ve denizanası sokmasında henüz kendi kendine kullanılacak bir tedavi değil. Ama araştırmacılar, hastanelerde zaten kullanılan bu ilacın bir gün sokmalara karşı da kullanılabileceğini umuyor."
+      ],
+      "takeaway": "Her yıl milyonlarca insanı sokan deniz ısırganı denizanasının zehri, hücre yüzeyindeki şeker zincirli moleküllere tutunarak etki ediyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "denizanasi",
+          "label": "denizanasi",
+          "url": "etiket/denizanasi.html"
+        },
+        {
+          "slug": "zehir",
+          "label": "zehir",
+          "url": "etiket/zehir.html"
+        },
+        {
+          "slug": "heparin",
+          "label": "heparin",
+          "url": "etiket/heparin.html"
+        },
+        {
+          "slug": "deniz",
+          "label": "deniz",
+          "url": "etiket/deniz.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aec7585"
+        }
+      ],
+      "image_credits": [
+        "Denes CE ve ark., Science advances 2026 (10.1126/sciadv.aec7585), CC BY 4.0",
+        "Li LY, Gao X, Zhang J, Wu WW, Li YT, eLife 2026 (10.7554/eLife.109571), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "G6BXBxM5qpI"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/G6BXBxM5qpI"
+        }
+      ]
+    },
     {
       "id": "proj_be98213bba",
       "slug": "2026-10-09-molekullerin-de-sag-ve-sol-eli-var-2026-nobel-kimya-odulu-ne",
@@ -1064,12 +1953,17 @@
         "Synpath, Wikimedia Commons (CC BY-SA 4.0)"
       ],
       "video": {
-        "youtube": "I3ZZn8W56O4"
+        "youtube": "I3ZZn8W56O4",
+        "instagram": "https://www.instagram.com/reel/DeRuHPfmPln/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/I3ZZn8W56O4"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRuHPfmPln/"
         }
       ]
     },
@@ -1139,12 +2033,17 @@
         "Christopher Michel, Wikimedia Commons (CC BY-SA 4.0)"
       ],
       "video": {
-        "youtube": "uTmK0cFKKco"
+        "youtube": "uTmK0cFKKco",
+        "instagram": "https://www.instagram.com/reel/DeRncc3k9x7/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/uTmK0cFKKco"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRncc3k9x7/"
         }
       ]
     },
@@ -1215,12 +2114,17 @@
         "NASA's Scientific Visualization Studio / Amy Moran"
       ],
       "video": {
-        "youtube": "NEtPiFIP52A"
+        "youtube": "NEtPiFIP52A",
+        "instagram": "https://www.instagram.com/reel/DeRpVUKEzd7/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/NEtPiFIP52A"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRpVUKEzd7/"
         }
       ]
     },
@@ -1286,12 +2190,17 @@
       ],
       "image_credits": [],
       "video": {
-        "youtube": "lbiFxbSVBG8"
+        "youtube": "lbiFxbSVBG8",
+        "instagram": "https://www.instagram.com/reel/DeSJOGiE6pc/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/lbiFxbSVBG8"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeSJOGiE6pc/"
         }
       ]
     },
@@ -1354,12 +2263,17 @@
         "Georgiev B, Gómez-Serrano J, Tao T, Wagner AZ, arXiv:2511.02864 (PNAS 2026), CC BY 4.0"
       ],
       "video": {
-        "youtube": "w1oA9BCeo-M"
+        "youtube": "w1oA9BCeo-M",
+        "instagram": "https://www.instagram.com/reel/DeRfFsJE4De/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/w1oA9BCeo-M"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRfFsJE4De/"
         }
       ]
     },
@@ -1427,12 +2341,17 @@
         "Abramov O ve ark., Nature Communications 2026 (10.1038/s41467-026-76978-3), CC BY 4.0 — Türkçe etiket eklendi"
       ],
       "video": {
-        "youtube": "gNt9oMC4sdw"
+        "youtube": "gNt9oMC4sdw",
+        "instagram": "https://www.instagram.com/reel/DeRdIwZk2jq/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/gNt9oMC4sdw"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRdIwZk2jq/"
         }
       ]
     },
@@ -1500,12 +2419,17 @@
         "Sokota S ve ark., Nature 2026 (10.1038/s41586-026-11036-y), CC BY 4.0"
       ],
       "video": {
-        "youtube": "iYSVpbXc3D4"
+        "youtube": "iYSVpbXc3D4",
+        "instagram": "https://www.instagram.com/reel/DeRZrY0k404/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/iYSVpbXc3D4"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRZrY0k404/"
         }
       ]
     },
@@ -1564,12 +2488,17 @@
       ],
       "image_credits": [],
       "video": {
-        "youtube": "QvnEXztR1vk"
+        "youtube": "QvnEXztR1vk",
+        "instagram": "https://www.instagram.com/reel/DeRYddCEzle/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/QvnEXztR1vk"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRYddCEzle/"
         }
       ]
     },
@@ -1636,12 +2565,17 @@
         "Lars Chittka, Axel Brockmann (Wikimedia Commons), CC BY 2.5 — yazılar kaldırıldı, Türkçe etiket eklendi"
       ],
       "video": {
-        "youtube": "y4tOP-oZklM"
+        "youtube": "y4tOP-oZklM",
+        "instagram": "https://www.instagram.com/reel/DeRVAySE1Dr/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/y4tOP-oZklM"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRVAySE1Dr/"
         }
       ]
     },
@@ -1708,12 +2642,17 @@
         "Kowalewski J ve ark., eLife 2026 (10.7554/eLife.104831), CC BY 4.0"
       ],
       "video": {
-        "youtube": "bHqByD-pOf0"
+        "youtube": "bHqByD-pOf0",
+        "instagram": "https://www.instagram.com/reel/DeRTyifkyBj/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/bHqByD-pOf0"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRTyifkyBj/"
         }
       ]
     },
@@ -1779,12 +2718,17 @@
       ],
       "image_credits": [],
       "video": {
-        "youtube": "ecPV840qtSU"
+        "youtube": "ecPV840qtSU",
+        "instagram": "https://www.instagram.com/reel/DeRQUVYk0wU/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/ecPV840qtSU"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRQUVYk0wU/"
         }
       ]
     },
@@ -1854,12 +2798,17 @@
         "Hoffmann M ve ark., Nature Communications 2023 (10.1038/s41467-023-43741-x), CC BY 4.0"
       ],
       "video": {
-        "youtube": "KlE5ouHYKVw"
+        "youtube": "KlE5ouHYKVw",
+        "instagram": "https://www.instagram.com/reel/DeRPHgrE3s-/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/KlE5ouHYKVw"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRPHgrE3s-/"
         }
       ]
     },
@@ -1926,12 +2875,17 @@
         "Kutudaki Kedi şeması (Charry ve Tkatchenko, Science Advances 2026 anlatımına göre)"
       ],
       "video": {
-        "youtube": "znq6OCf_t4M"
+        "youtube": "znq6OCf_t4M",
+        "instagram": "https://www.instagram.com/reel/DeRLh7IE67P/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/znq6OCf_t4M"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRLh7IE67P/"
         }
       ]
     },
@@ -1995,12 +2949,17 @@
       ],
       "image_credits": [],
       "video": {
-        "youtube": "4lexvH_TCN4"
+        "youtube": "4lexvH_TCN4",
+        "instagram": "https://www.instagram.com/reel/DeRKYD_kxsr/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/4lexvH_TCN4"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRKYD_kxsr/"
         }
       ]
     },
@@ -2067,12 +3026,17 @@
         "ESA/Webb, NASA & CSA, H. Atek, M. Zamani (ESA/Webb), N. Bartmann (ESA/Webb)"
       ],
       "video": {
-        "youtube": "RkZx2Mh164A"
+        "youtube": "RkZx2Mh164A",
+        "instagram": "https://www.instagram.com/reel/DeRGE7HE-HH/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/RkZx2Mh164A"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRGE7HE-HH/"
         }
       ]
     },
@@ -2137,12 +3101,17 @@
         "Robel AA ve ark., PNAS 2026 (10.1073/pnas.2623190123), CC BY 4.0"
       ],
       "video": {
-        "youtube": "ma65Gfp_rZo"
+        "youtube": "ma65Gfp_rZo",
+        "instagram": "https://www.instagram.com/reel/DeRFlXVE0Av/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/ma65Gfp_rZo"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeRFlXVE0Av/"
         }
       ]
     },
