@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T06:52:57+00:00",
+  "generated_at": "2026-10-21T23:36:38+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -36,7 +36,7 @@
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 24,
+      "count": 34,
       "url": "kategori/biyoloji.html"
     },
     {
@@ -60,7 +60,7 @@
     {
       "slug": "teknoloji",
       "label": "Teknoloji",
-      "count": 5,
+      "count": 6,
       "url": "kategori/teknoloji.html"
     },
     {
@@ -74,20 +74,26 @@
     {
       "slug": "biyoloji",
       "label": "biyoloji",
-      "count": 10,
+      "count": 14,
       "url": "etiket/biyoloji.html"
+    },
+    {
+      "slug": "evrim",
+      "label": "evrim",
+      "count": 11,
+      "url": "etiket/evrim.html"
+    },
+    {
+      "slug": "beyin",
+      "label": "beyin",
+      "count": 8,
+      "url": "etiket/beyin.html"
     },
     {
       "slug": "uzay",
       "label": "uzay",
       "count": 7,
       "url": "etiket/uzay.html"
-    },
-    {
-      "slug": "beyin",
-      "label": "beyin",
-      "count": 6,
-      "url": "etiket/beyin.html"
     },
     {
       "slug": "iklim",
@@ -97,21 +103,33 @@
     },
     {
       "slug": "cevre",
-      "label": "çevre",
+      "label": "cevre",
       "count": 5,
       "url": "etiket/cevre.html"
     },
     {
-      "slug": "evrim",
-      "label": "evrim",
-      "count": 4,
-      "url": "etiket/evrim.html"
+      "slug": "teknoloji",
+      "label": "teknoloji",
+      "count": 5,
+      "url": "etiket/teknoloji.html"
     },
     {
       "slug": "fizik",
       "label": "fizik",
       "count": 4,
       "url": "etiket/fizik.html"
+    },
+    {
+      "slug": "fosil",
+      "label": "fosil",
+      "count": 4,
+      "url": "etiket/fosil.html"
+    },
+    {
+      "slug": "genetik",
+      "label": "genetik",
+      "count": 4,
+      "url": "etiket/genetik.html"
     },
     {
       "slug": "gezegen",
@@ -126,16 +144,34 @@
       "url": "etiket/saglik.html"
     },
     {
-      "slug": "teknoloji",
-      "label": "teknoloji",
+      "slug": "tarih",
+      "label": "tarih",
       "count": 4,
-      "url": "etiket/teknoloji.html"
+      "url": "etiket/tarih.html"
     },
     {
       "slug": "arkeoloji",
       "label": "arkeoloji",
       "count": 3,
       "url": "etiket/arkeoloji.html"
+    },
+    {
+      "slug": "balik",
+      "label": "balik",
+      "count": 3,
+      "url": "etiket/balik.html"
+    },
+    {
+      "slug": "deniz",
+      "label": "deniz",
+      "count": 3,
+      "url": "etiket/deniz.html"
+    },
+    {
+      "slug": "gorme",
+      "label": "gorme",
+      "count": 3,
+      "url": "etiket/gorme.html"
     },
     {
       "slug": "kimya",
@@ -156,6 +192,12 @@
       "url": "etiket/nobel-2026.html"
     },
     {
+      "slug": "paleontoloji",
+      "label": "paleontoloji",
+      "count": 3,
+      "url": "etiket/paleontoloji.html"
+    },
+    {
       "slug": "yapay-zeka",
       "label": "yapay-zeka",
       "count": 3,
@@ -168,10 +210,10 @@
       "url": "etiket/yapayzeka.html"
     },
     {
-      "slug": "balik",
-      "label": "balik",
+      "slug": "ari",
+      "label": "ari",
       "count": 2,
-      "url": "etiket/balik.html"
+      "url": "etiket/ari.html"
     },
     {
       "slug": "buzul",
@@ -180,16 +222,16 @@
       "url": "etiket/buzul.html"
     },
     {
-      "slug": "deniz",
-      "label": "deniz",
-      "count": 2,
-      "url": "etiket/deniz.html"
-    },
-    {
       "slug": "denizanasi",
       "label": "denizanasi",
       "count": 2,
       "url": "etiket/denizanasi.html"
+    },
+    {
+      "slug": "dinozor",
+      "label": "dinozor",
+      "count": 2,
+      "url": "etiket/dinozor.html"
     },
     {
       "slug": "dis",
@@ -198,16 +240,22 @@
       "url": "etiket/dis.html"
     },
     {
-      "slug": "fosil",
-      "label": "fosil",
+      "slug": "dna",
+      "label": "dna",
       "count": 2,
-      "url": "etiket/fosil.html"
+      "url": "etiket/dna.html"
     },
     {
-      "slug": "genetik",
-      "label": "genetik",
+      "slug": "insan",
+      "label": "insan",
       "count": 2,
-      "url": "etiket/genetik.html"
+      "url": "etiket/insan.html"
+    },
+    {
+      "slug": "isitme",
+      "label": "isitme",
+      "count": 2,
+      "url": "etiket/isitme.html"
     },
     {
       "slug": "karadelik",
@@ -240,6 +288,12 @@
       "url": "etiket/nasa.html"
     },
     {
+      "slug": "noroloji",
+      "label": "noroloji",
+      "count": 2,
+      "url": "etiket/noroloji.html"
+    },
+    {
       "slug": "omur",
       "label": "omur",
       "count": 2,
@@ -270,12 +324,6 @@
       "url": "etiket/ses.html"
     },
     {
-      "slug": "tarih",
-      "label": "tarih",
-      "count": 2,
-      "url": "etiket/tarih.html"
-    },
-    {
       "slug": "tarim",
       "label": "tarım",
       "count": 2,
@@ -294,6 +342,12 @@
       "url": "etiket/yaslanma.html"
     },
     {
+      "slug": "zehir",
+      "label": "zehir",
+      "count": 2,
+      "url": "etiket/zehir.html"
+    },
+    {
       "slug": "adenozin",
       "label": "adenozin",
       "count": 1,
@@ -304,6 +358,12 @@
       "label": "ahtapot",
       "count": 1,
       "url": "etiket/ahtapot.html"
+    },
+    {
+      "slug": "akar",
+      "label": "akar",
+      "count": 1,
+      "url": "etiket/akar.html"
     },
     {
       "slug": "alzheimer",
@@ -322,12 +382,6 @@
       "label": "antik",
       "count": 1,
       "url": "etiket/antik.html"
-    },
-    {
-      "slug": "ari",
-      "label": "ari",
-      "count": 1,
-      "url": "etiket/ari.html"
     },
     {
       "slug": "arilar",
@@ -372,6 +426,12 @@
       "url": "etiket/avci-tehdidi.html"
     },
     {
+      "slug": "avustralya",
+      "label": "avustralya",
+      "count": 1,
+      "url": "etiket/avustralya.html"
+    },
+    {
       "slug": "ay",
       "label": "ay",
       "count": 1,
@@ -388,6 +448,12 @@
       "label": "balina",
       "count": 1,
       "url": "etiket/balina.html"
+    },
+    {
+      "slug": "bebek",
+      "label": "bebek",
+      "count": 1,
+      "url": "etiket/bebek.html"
     },
     {
       "slug": "bellek",
@@ -418,6 +484,18 @@
       "label": "bitkiler",
       "count": 1,
       "url": "etiket/bitkiler.html"
+    },
+    {
+      "slug": "biyomekanik",
+      "label": "biyomekanik",
+      "count": 1,
+      "url": "etiket/biyomekanik.html"
+    },
+    {
+      "slug": "biyoteknoloji",
+      "label": "biyoteknoloji",
+      "count": 1,
+      "url": "etiket/biyoteknoloji.html"
     },
     {
       "slug": "biyocesitlilik",
@@ -472,12 +550,6 @@
       "label": "dil-modeli",
       "count": 1,
       "url": "etiket/dil-modeli.html"
-    },
-    {
-      "slug": "dinozor",
-      "label": "dinozor",
-      "count": 1,
-      "url": "etiket/dinozor.html"
     },
     {
       "slug": "dokunma",
@@ -552,6 +624,12 @@
       "url": "etiket/ganymede.html"
     },
     {
+      "slug": "gebelik",
+      "label": "gebelik",
+      "count": 1,
+      "url": "etiket/gebelik.html"
+    },
+    {
       "slug": "gekko",
       "label": "gekko",
       "count": 1,
@@ -564,16 +642,16 @@
       "url": "etiket/gencdunya.html"
     },
     {
+      "slug": "gida",
+      "label": "gida",
+      "count": 1,
+      "url": "etiket/gida.html"
+    },
+    {
       "slug": "giyilebilir",
       "label": "giyilebilir",
       "count": 1,
       "url": "etiket/giyilebilir.html"
-    },
-    {
-      "slug": "gorme",
-      "label": "gorme",
-      "count": 1,
-      "url": "etiket/gorme.html"
     },
     {
       "slug": "gronland",
@@ -606,6 +684,12 @@
       "url": "etiket/hayvan.html"
     },
     {
+      "slug": "hayvanlar",
+      "label": "hayvanlar",
+      "count": 1,
+      "url": "etiket/hayvanlar.html"
+    },
+    {
       "slug": "heparin",
       "label": "heparin",
       "count": 1,
@@ -616,18 +700,6 @@
       "label": "icecube",
       "count": 1,
       "url": "etiket/icecube.html"
-    },
-    {
-      "slug": "insan",
-      "label": "insan",
-      "count": 1,
-      "url": "etiket/insan.html"
-    },
-    {
-      "slug": "isitme",
-      "label": "isitme",
-      "count": 1,
-      "url": "etiket/isitme.html"
     },
     {
       "slug": "izotop",
@@ -714,10 +786,22 @@
       "url": "etiket/kiralite.html"
     },
     {
+      "slug": "kokhucre",
+      "label": "kokhucre",
+      "count": 1,
+      "url": "etiket/kokhucre.html"
+    },
+    {
       "slug": "korku",
       "label": "korku",
       "count": 1,
       "url": "etiket/korku.html"
+    },
+    {
+      "slug": "koyun",
+      "label": "koyun",
+      "count": 1,
+      "url": "etiket/koyun.html"
     },
     {
       "slug": "krater",
@@ -798,6 +882,12 @@
       "url": "etiket/mikroglia.html"
     },
     {
+      "slug": "mikroskop",
+      "label": "mikroskop",
+      "count": 1,
+      "url": "etiket/mikroskop.html"
+    },
+    {
       "slug": "naegleria",
       "label": "naegleria",
       "count": 1,
@@ -858,6 +948,12 @@
       "url": "etiket/optogenetik.html"
     },
     {
+      "slug": "ortacag",
+      "label": "ortacag",
+      "count": 1,
+      "url": "etiket/ortacag.html"
+    },
+    {
       "slug": "otlak",
       "label": "otlak",
       "count": 1,
@@ -880,12 +976,6 @@
       "label": "oyun",
       "count": 1,
       "url": "etiket/oyun.html"
-    },
-    {
-      "slug": "paleontoloji",
-      "label": "paleontoloji",
-      "count": 1,
-      "url": "etiket/paleontoloji.html"
     },
     {
       "slug": "parcacik-fizigi",
@@ -942,6 +1032,12 @@
       "url": "etiket/saat.html"
     },
     {
+      "slug": "sagir",
+      "label": "sagir",
+      "count": 1,
+      "url": "etiket/sagir.html"
+    },
+    {
       "slug": "sahte",
       "label": "sahte",
       "count": 1,
@@ -964,6 +1060,12 @@
       "label": "semaglutid",
       "count": 1,
       "url": "etiket/semaglutid.html"
+    },
+    {
+      "slug": "sempanze",
+      "label": "sempanze",
+      "count": 1,
+      "url": "etiket/sempanze.html"
     },
     {
       "slug": "sinirbilim",
@@ -1062,6 +1164,12 @@
       "url": "etiket/tyrannosaurus-rex.html"
     },
     {
+      "slug": "ucus",
+      "label": "ucus",
+      "count": 1,
+      "url": "etiket/ucus.html"
+    },
+    {
       "slug": "ultrason",
       "label": "ultrason",
       "count": 1,
@@ -1072,6 +1180,18 @@
       "label": "uydu",
       "count": 1,
       "url": "etiket/uydu.html"
+    },
+    {
+      "slug": "vantuz",
+      "label": "vantuz",
+      "count": 1,
+      "url": "etiket/vantuz.html"
+    },
+    {
+      "slug": "virus",
+      "label": "virus",
+      "count": 1,
+      "url": "etiket/virus.html"
     },
     {
       "slug": "vucut-sicakligi",
@@ -1090,6 +1210,12 @@
       "label": "yangın",
       "count": 1,
       "url": "etiket/yangin.html"
+    },
+    {
+      "slug": "yapayet",
+      "label": "yapayet",
+      "count": 1,
+      "url": "etiket/yapayet.html"
     },
     {
       "slug": "yarasa",
@@ -1116,22 +1242,28 @@
       "url": "etiket/yerbilimleri.html"
     },
     {
+      "slug": "yilan",
+      "label": "yilan",
+      "count": 1,
+      "url": "etiket/yilan.html"
+    },
+    {
+      "slug": "yildiz",
+      "label": "yildiz",
+      "count": 1,
+      "url": "etiket/yildiz.html"
+    },
+    {
       "slug": "yollar",
       "label": "yollar",
       "count": 1,
       "url": "etiket/yollar.html"
     },
     {
-      "slug": "yildiz",
-      "label": "yıldız",
+      "slug": "yuruyus",
+      "label": "yuruyus",
       "count": 1,
-      "url": "etiket/yildiz.html"
-    },
-    {
-      "slug": "zehir",
-      "label": "zehir",
-      "count": 1,
-      "url": "etiket/zehir.html"
+      "url": "etiket/yuruyus.html"
     },
     {
       "slug": "col",
@@ -1160,12 +1292,1662 @@
   ],
   "articles": [
     {
+      "id": "proj_df7ce15b01",
+      "slug": "2026-11-01-ayni-enzim-biyoplastigi-ve-penisilini-nasil-parcalayabiliyor",
+      "url": "yazi/2026-11-01-ayni-enzim-biyoplastigi-ve-penisilini-nasil-parcalayabiliyor.html",
+      "date": "2026-11-01T13:00:00+00:00",
+      "date_text": "1 Kasım 2026",
+      "publish_at": "2026-11-01T13:00:00Z",
+      "draft": false,
+      "title": "Aynı Enzim Biyoplastiği ve Penisilini Nasıl Parçalayabiliyor?",
+      "standfirst": "Toprak DNA'sından bulunan geniş oluklu bir enzim belirli biyoplastikleri ve beta laktam antibiyotikleri parçalayabiliyor.",
+      "paragraphs": [
+        "Bugünkü plastiklerin çoğu doğada çok yavaş parçalanıyor; üniversitenin bültenine göre sert plastik HDPE'nin doğada tamamen yok olması yüzlerce hatta binlerce yıl sürebilir. Bu yüzden bitkisel yağlardan yapılabilen, geri dönüştürülebilir ve doğada parçalanabilen yeni plastikler geliştiriliyor. Bunlardan biri uzun zincirli alifatik polyesterler (LCAP). Konstanz Üniversitesi'nde geliştirilen bu malzemeler sert plastiğe benzer özellikler gösteriyor. Ama doğada hangi mikropların bunları nasıl yediği bilinmiyordu. Ayrıca plastik yüzeylerinde yaşayan mikrop topluluklarında antibiyotik direnç genlerinin alışılmadık derecede fazla olduğu biliniyordu.",
+        "Ekip iki deney yaptı. İlkinde plastik filmleri Konstanz Üniversitesi botanik bahçesindeki ormanın toprağına gömdü ve yaklaşık bir yıl sonra çıkardı. Elektron mikroskobunda filmlerin yüzeyinde tek tek bakteri hücresi büyüklüğünde ve şeklinde oyuklar görüldü. Sanki bakteriler plastiği tam bulundukları yerde kemirmişti. İkincisinde aynı orman toprağına toz haline getirilmiş plastik kattılar ve mikropların çıkardığı karbondioksiti 300 günden uzun süre ölçtüler.",
+        "Yaklaşık 250 gün sonunda iki LCAP türünde ve karşılaştırma için kullanılan PHBV biyoplastiğinde, plastikteki karbonun yüzde 49 ile 58'i karbondioksit olarak çıkmıştı. Mikroplar karbonun yaklaşık yarısını solur, yarısını kendi bedenlerine kattığı için bu tam bir parçalanmaya işaret ediyor. Sıradan sert plastik HDPE'de ise bu oran en fazla yüzde 3'te kaldı, yani neredeyse hiç parçalanmadı.",
+        "Sonra topraktaki mikropların DNA'sını okudular ve plastik parçalayabilecek 2624 aday gen buldular. En dikkat çekici aday, toprakta yaşayan Acidobacteria grubundan bir bakteriye ait bir enzimdi; adını LCPH1 koydular. Yapay zeka aracı AlphaFold ile çıkarılan üç boyutlu modelinde enzimin etkin bölgesi dar bir tünel yerine geniş, açık bir oluk gibiydi. Araştırmacılar bu şekli Pac-Man'e benzetti. Bu geniş ağız hem uzun plastik zincirlerini hem de iri antibiyotik moleküllerini alabiliyor. Laboratuvarda üretilen enzim gerçekten de LCAP plastiğini yapı taşlarına ayırdı; bunu ünlü PET yiyen bakteri Ideonella sakaiensis'in enzimine benzer miktarda yaptı. Penisilin G'yi 24 saatte neredeyse tamamen, ampisilini de parçaladı. Enzimle karşılaşan ampisilin, E. coli bakterisini artık durduramadı.",
+        "Enzimin genetik kodu, onun bakterinin dış zarına bağlı kaldığını düşündürüyor. Yani bakteri enzimi etrafa salmak yerine kendi yüzeyinde tutup plastiği yerinde kemiriyor olabilir. Bu da plastikte görülen bakteri biçimli oyukları açıklayabilir. Araştırmanın amacı yeni nesil biyoplastiklerin doğada nasıl tamamen yok olduğunu ve plastik yiyen mikroplarla antibiyotik direnci arasındaki bağı anlamak. Ekip, geri dönüşümden kaçan plastik için, mümkün olan yerlerde doğada parçalanabilen polyesterlerin kullanılmasını savunuyor.",
+        "Araştırmacılar yeni nesil biyoplastiklerin doğada nasıl tamamen yok olduğunu ve plastik yiyen mikroplarla antibiyotik direnci arasındaki bağı anlamak istiyor. Bu bilgi, doğaya kaçan plastiğin iz bırakmadan parçalanacağı malzemeler tasarlamaya yardım edebilir."
+      ],
+      "takeaway": "Orman toprağındaki bakterilerde, ağzı Pac-Man gibi ardına kadar açık bir enzim bulundu.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "plastik",
+          "label": "plastik",
+          "url": "etiket/plastik.html"
+        },
+        {
+          "slug": "enzim",
+          "label": "enzim",
+          "url": "etiket/enzim.html"
+        },
+        {
+          "slug": "bakteri",
+          "label": "bakteri",
+          "url": "etiket/bakteri.html"
+        },
+        {
+          "slug": "antibiyotik",
+          "label": "antibiyotik",
+          "url": "etiket/antibiyotik.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "The ISME Journal (2026)",
+          "url": "https://doi.org/10.1093/ismejo/wrag203"
+        }
+      ],
+      "image_credits": [
+        "Lerner H, Casaburi D, Meier NC ve ark., The ISME Journal 2026 (10.1093/ismejo/wrag203), CC BY 4.0",
+        "Ben Mills, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "Q0DfaolFWJk"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/Q0DfaolFWJk"
+        }
+      ]
+    },
+    {
+      "id": "proj_23e6af0e67",
+      "slug": "2026-11-01-apoe4-alzheimer-riskini-beyin-damarlari-uzerinden-nasil-arti",
+      "url": "yazi/2026-11-01-apoe4-alzheimer-riskini-beyin-damarlari-uzerinden-nasil-arti.html",
+      "date": "2026-11-01T03:00:00+00:00",
+      "date_text": "1 Kasım 2026",
+      "publish_at": "2026-11-01T03:00:00Z",
+      "draft": false,
+      "title": "APOE4 Alzheimer Riskini Beyin Damarları Üzerinden Nasıl Artırabilir?",
+      "standfirst": "APOE4, damar çevresinde fibronektin birikimini artırıyor.",
+      "paragraphs": [
+        "APOE geninin ε4 adlı çeşidi, ileri yaşta başlayan Alzheimer için bilinen en güçlü genetik risk etkeni. Yine de bu çeşidi taşıyan herkes hastalanmıyor; bazıları ileri yaşlarda zihnen sağlıklı kalıyor. Columbia Üniversitesi'nden aynı ekip 2024'te bunun bir nedenini bulmuştu: iki kopya APOE4 taşıyan 7185 kişilik bir grupta, fibronektin geninde (FN1) nadir bir değişiklik taşıyanların Alzheimer olma ihtimali yüzde 71 daha düşüktü ve hastalık ortalama 3,37 yıl geç başlıyordu. Bu koruyucu değişiklik fibronektin proteininin işlevini azaltıyor. Ama fazla fibronektinin beyne nasıl zarar verdiği bilinmiyordu.",
+        "Yeni çalışma bu soruya cevap arıyor. Beyin, kandaki zararlı maddelerden kan beyin bariyeri denen bir duvarla korunuyor. Bu duvar, damar hücreleri ile onları saran astrosit adlı destek hücreleri arasındaki iletişimle ayakta duruyor. Alzheimer'da, özellikle APOE4 taşıyanlarda, bu bariyer erken dönemde bozuluyor.",
+        "Ekip bağışlanmış 23 insan beyninde, insan kök hücrelerinden üretilmiş üç boyutlu damar modellerinde, zebra balıklarında ve insan APOE genini taşıyan 21-22 aylık yaşlı farelerde çalıştı. Alzheimer ya da damar hastalığı olan beyinlerde damarların çevresinde fibronektin birikmişti. APOE4 taşıyan farelerin beyninde fibronektin, APOE3 taşıyanlara göre yüzde 98,9, yani yaklaşık 2 kat fazlaydı ve bariyerde sızıntı vardı. Alzheimer hastalarının beyin omurilik sıvısında da fibronektin yüksek bulundu.",
+        "Deneyler fibronektinin yalnızca bir işaret değil, bir sebep olabileceğini gösterdi. Astrositlere fazladan fibronektin ürettirildiğinde bariyer sızdırdı. Fazla fibronektin, damarların bakımı için gereken büyüme sinyallerini (VEGF, HB-EGF, IGF-1) bozuyordu. Fibronektini azaltmak ya da bu büyüme sinyallerini geri vermek, laboratuvar modellerinde ve canlı hayvanlarda bariyerin işlevini düzeltti. Bu, 2024'te bulunan koruyucu değişikliğin neden işe yaradığını açıklıyor olabilir: fibronektin birikimini sınırlayarak damar bariyerini koruyor.",
+        "Araştırmacıların amacı APOE4 taşıyanlarda beyin damarlarını koruyacak yeni tedavi hedefleri bulmak. Önerdikleri yollar fibronektin birikimini önlemek, onun tetiklediği bozuk sinyalleri durdurmak ya da büyüme sinyallerini geri vermek. Fibronektin yara iyileşmesi gibi önemli işler de gördüğü için bir tedavinin yalnızca zararlı birikimi hedeflemesi gerekiyor. Bu yaklaşımlar henüz laboratuvar aşamasında.",
+        "Araştırmacılar, Alzheimer için genetik risk taşıyan insanlarda beyin damarlarını korumak için yeni tedavi hedefleri arıyor: fibronektin birikimini önlemek ya da bozduğu sinyalleri geri vermek. Doğanın bazı insanlara verdiği korumayı bir gün ilaçla taklit etmek istiyorlar."
+      ],
+      "takeaway": "APOE4 taşıyan yaşlı farelerin beyninde fibronektin, APOE3 taşıyanlara göre yaklaşık 2 kat (yüzde 98,9 fazla) çıktı.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "alzheimer",
+          "label": "alzheimer",
+          "url": "etiket/alzheimer.html"
+        },
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        },
+        {
+          "slug": "genetik",
+          "label": "genetik",
+          "url": "etiket/genetik.html"
+        },
+        {
+          "slug": "apoe4",
+          "label": "apoe4",
+          "url": "etiket/apoe4.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Aging (2026)",
+          "url": "https://doi.org/10.1038/s43587-026-01204-0"
+        }
+      ],
+      "image_credits": [
+        "Armin Kübelbeck, Wikimedia Commons (CC BY 3.0)",
+        "Jawahar Swaminathan and MSD staff at the European Bioinformatics Institute, Wikimedia Commons (Public domain)",
+        "Rama, Wikimedia Commons (CC BY-SA 2.0 fr)",
+        "Uemura MT, Maki T, Ihara M, Lee VMY and Trojanowski JQ, Wikimedia Commons (CC BY 4.0)",
+        "Soulkeeper, Wikimedia Commons (Public domain)",
+        "Spal05 at English Wikipedia, Wikimedia Commons (Public domain)",
+        "real name: Karol Głąb\npl.wiki: Karol007\ncommons: Karol007\ne-mail: kamikaze007 (a, Wikimedia Commons (CC BY-SA 3.0)",
+        "Understanding Animal Research, Wikimedia Commons (CC BY 2.0)"
+      ],
+      "video": {
+        "youtube": "_fIuqrnQK2Q"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/_fIuqrnQK2Q"
+        }
+      ]
+    },
+    {
+      "id": "proj_9e0027bee6",
+      "slug": "2026-10-31-bir-yildiz-gercekten-yesil-gorunebilir-mi",
+      "url": "yazi/2026-10-31-bir-yildiz-gercekten-yesil-gorunebilir-mi.html",
+      "date": "2026-10-31T13:00:00+00:00",
+      "date_text": "31 Ekim 2026",
+      "publish_at": "2026-10-31T13:00:00Z",
+      "draft": false,
+      "title": "Bir Yıldız Gerçekten Yeşil Görünebilir mi?",
+      "standfirst": "Bir beyaz cücenin tayfı insan renk görmesiyle modellendiğinde soluk fıstık yeşili çıkıyor.",
+      "paragraphs": [
+        "Yıldızlar sıcaklıklarına göre turuncu, beyaz ya da mavimsi görünür. Bu yüzden gökyüzünde yeşil bir yıldız yok. Beyaz cüceler ise farklı. Bunlar, Güneş gibi yıldızların yakıtı bittikten sonra geriye kalan, Dünya büyüklüğünde ama çok yoğun yıldız çekirdekleri. En soğuk beyaz cücelerin atmosferi santimetreküp başına yaklaşık 1 gram yoğunluğa, yani suyun yoğunluğuna ulaşıyor. Bu kadar yoğun bir atmosferde karbon, kalsiyum ya da sodyum gibi elementler ışığın çok geniş bir bölümünü yutabiliyor.",
+        "Warwick Üniversitesi'nden Mark Hollands ve ekibi, bilinen beyaz cücelerin ışık tayflarını (ışığın renklere ayrılmış hali) aldı ve bunları insan renk görmesinin bir modelinden geçirdi. Böylece her yıldızın, diski seçilebilecek kadar yakından bakan bir insana hangi renkte görüneceğini hesapladılar. Bu yıldızların hiçbiri çıplak gözle görülemiyor; renkler hesaplama ile bulundu.",
+        "En şaşırtıcı sonuç WD J1330+6435 adlı beyaz cüceden çıktı. Yüzey sıcaklığı 4240 kelvin, yani yaklaşık 4000 santigrat derece. Atmosferinde sodyum, kalsiyum ve lityum var. Ekip ve basın bülteni bu maddelerin, yıldızın eski gezegen sisteminden gelen kayalık enkazı yutmasından kaynaklandığını söylüyor. Sodyum turuncu ışığı, kalsiyum mor ışığı yutuyor. Geriye kalan ışık 500 nanometre civarında, yani yeşilde zirve yapıyor. Sonuç, araştırmacıların deyişiyle fıstık yeşili (chartreuse). Makaleye göre başka hiçbir yıldız için yeşil renk ileri sürülmemişti; bu da beyaz cüceleri şimdilik yeşil yıldız üretmenin bilinen tek yolu yapıyor.",
+        "Ekip başka renkler de buldu. Karbonca zengin beyaz cüceler pembe ya da mor, enkaz yutmuş bazı beyaz cüceler sarı, hidrojen ve helyum karışımı atmosferli soğuk olanlar camgöbeği görünüyor. 48 ışık yılı uzaktaki WD J1011+2845 koyu somon pembesi renginde ve algılanan renk bakımından muhtemelen bilinen en kırmızı yıldız.",
+        "Güneş'e 20 parsek, yani yaklaşık 65 ışık yılı mesafedeki 152 beyaz cüce incelendiğinde yalnızca 5'inin rengi sıradan yıldız renklerinden belirgin biçimde ayrıldı: 2'si sarı, 3'ü pembe. Bu, beyaz cücelerin yaklaşık yüzde 3,4'üne, kabaca 30'da 1'ine denk geliyor. Geri kalanların ortanca renk sıcaklığı, yani grubun tam ortasındaki yıldızın değeri, yaklaşık 6800 kelvin. Bu gün ışığı beyazına çok yakın. Kısacası beyaz cüceler ortalamada gerçekten beyaz; resimlerde alışılmış mavimsi beyaz cüce görüntüsü yanıltıcı.",
+        "Çalışmanın amacı, yıldızların insan gözüne gerçekte hangi renkte görüneceğini doğru hesaplamak ve bu modellerden yıldız disklerinin renk açısından doğru görüntülerini üretmek. Ekip, soğuk ve metal yutmuş beyaz cüceler arasında daha canlı yeşil, camgöbeği ve mavi yıldızların gelecekteki gözlem taramalarında bulunabileceğini öngörüyor.",
+        "Araştırmacılar yıldızların insan gözüne gerçekte hangi renkte görüneceğini doğru hesaplamak ve yakından nasıl görüneceklerini gösteren renk açısından doğru görüntüler üretmek istiyor. Daha canlı yeşil ve mavi beyaz cücelerin gelecekteki taramalarda bulunmasını bekliyorlar."
+      ],
+      "takeaway": "Gökbilimciler, insan gözüne gerçekten yeşil görünecek bilinen ilk yıldızı hesapladı.",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Astronomi",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "yildiz",
+          "label": "yildiz",
+          "url": "etiket/yildiz.html"
+        },
+        {
+          "slug": "beyazcuce",
+          "label": "beyazcuce",
+          "url": "etiket/beyazcuce.html"
+        },
+        {
+          "slug": "renk",
+          "label": "renk",
+          "url": "etiket/renk.html"
+        },
+        {
+          "slug": "astronomi",
+          "label": "astronomi",
+          "url": "etiket/astronomi.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "RAS Techniques and Instruments (2026)",
+          "url": "https://doi.org/10.1093/rasti/rzag069"
+        }
+      ],
+      "image_credits": [
+        "Hollands MA ve ark., RAS Techniques and Instruments 2026 (10.1093/rasti/rzag069), CC BY 4.0",
+        "NASA/ESA, Wikimedia Commons (CC BY 4.0)",
+        "Artwork: NASA, ESA, Joseph Olmsted (STScI), Wikimedia Commons (Public domain)",
+        "NASA, ESA, H. Bond (STScI), and M. Barstow (University of Leicester); modified b, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "k2H8Ql0C93k"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/k2H8Ql0C93k"
+        }
+      ]
+    },
+    {
+      "id": "proj_2c7ae3bc3f",
+      "slug": "2026-10-31-yapay-zeka-acik-erd-s-problemlerini-nasil-dogrulanmis-ispatl",
+      "url": "yazi/2026-10-31-yapay-zeka-acik-erd-s-problemlerini-nasil-dogrulanmis-ispatl.html",
+      "date": "2026-10-31T03:00:00+00:00",
+      "date_text": "31 Ekim 2026",
+      "publish_at": "2026-10-31T03:00:00Z",
+      "draft": false,
+      "title": "Yapay Zeka Açık Erdős Problemlerini Nasıl Doğrulanmış İspatlarla Çözdü?",
+      "standfirst": "DeepMind sistemi 353 açık Erdős probleminden 9'una bilgisayarla doğrulanmış ispat üretti.",
+      "paragraphs": [
+        "Büyük dil modelleri matematik sorularında giderek iyileşiyor. Ama güvenilmezler. İkna edici görünen ama hatalı ispatlar yazabiliyorlar. Bu yüzden matematik araştırmasında kullanımları sınırlı. Bir çözüm, modele ispatı Lean gibi biçimsel bir ispat dilinde yazdırmak. Lean'de her adımı bir derleyici, yani bir bilgisayar programı kontrol ediyor. Hatalı adım geçmiyor.",
+        "Google DeepMind'dan 21 kişilik ekip bu yaklaşımın açık, yani henüz kimsenin çözemediği problemlerde büyük ölçekte işe yarayıp yaramadığını sınadı. Kurdukları yapay zeka ajanı bir dil modeline ispat taslakları ürettiriyor, Lean bunları kontrol ediyor ve süreç doğrulanmış bir ispat çıkana kadar sürüyor. Ekip ajanı, 20. yüzyılın en üretken matematikçilerinden Paul Erdős'ün bıraktığı açık problemlere ve tam sayı dizilerinin ansiklopedisi OEIS'teki açık sanılara uyguladı.",
+        "Ajan 353 açık Erdős probleminden 9'unu kendi başına çözdü. OEIS'teki 492 sanıdan 44'ünü ispatladı. Dil modeliyle üretim ve Lean ile kontrolü sırayla yapan basit bir ajan bile aynı 9 Erdős başarısını tekrarlayabildi. Sistem şimdi kombinatorik, optimizasyon, çizge kuramı, cebirsel geometri ve kuantum optiği araştırmalarında kullanılıyor.",
+        "Kanalın daha önce anlattığı AlphaEvolve çalışmasından farkı şu. AlphaEvolve bir yapay zekaya programlar yazdırıp daha iyi örnekler ve sınırlar arıyordu; 67 problemde çoğunlukla bilinen sonuçları yeniden buldu ve bazı sınırları iyileştirdi. Bu yeni çalışmada ise yapay zeka doğrudan ispat yazıyor, ispatın her adımı bilgisayarla doğrulanıyor ve hedef, matematikçilerin listelediği hala açık problemler.",
+        "Araştırmacıların amacı, dil modellerinin güvenilmezliğini bilgisayar doğrulamasıyla aşıp yapay zekayı matematik araştırmasında kendi başına keşif yapabilen bir yardımcıya dönüştürmek. Ekip, biçimsel ispat aramasının özerk matematik keşfinin önünü açtığını söylüyor.",
+        "Araştırmacılar, dil modellerinin hata yapma eğilimini her adımı bilgisayarla doğrulayarak aşmak ve yapay zekayı açık matematik problemlerinde kendi başına keşif yapabilen bir araştırma ortağına dönüştürmek istiyor."
+      ],
+      "takeaway": "Google DeepMind'ın yapay zeka ajanı, ünlü matematikçi Paul Erdős'ün bıraktığı 353 açık problemden 9'unu kendi başına çözdü.",
+      "impact": null,
+      "category": {
+        "slug": "yapay-zeka",
+        "label": "Yapay Zekâ",
+        "url": "kategori/yapay-zeka.html"
+      },
+      "tags": [
+        {
+          "slug": "yapayzeka",
+          "label": "yapayzeka",
+          "url": "etiket/yapayzeka.html"
+        },
+        {
+          "slug": "matematik",
+          "label": "matematik",
+          "url": "etiket/matematik.html"
+        },
+        {
+          "slug": "ispat",
+          "label": "ispat",
+          "url": "etiket/ispat.html"
+        },
+        {
+          "slug": "erdos",
+          "label": "erdos",
+          "url": "etiket/erdos.html"
+        },
+        {
+          "slug": "deepmind",
+          "label": "deepmind",
+          "url": "etiket/deepmind.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science (2026)",
+          "url": "https://doi.org/10.1126/science.aej2213"
+        }
+      ],
+      "image_credits": [
+        "Kmhkmh, Wikimedia Commons (CC BY 3.0)",
+        "Google DeepMind, alphaproof-nexus-results (GitHub), Apache 2.0 / CC BY 4.0; rendered as an editor view",
+        "either Billy or Grace Tao, Wikimedia Commons (CC BY-SA 2.0)"
+      ],
+      "video": {
+        "youtube": "om4nS1S6Dpo"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/om4nS1S6Dpo"
+        }
+      ]
+    },
+    {
+      "id": "proj_03498e95bf",
+      "slug": "2026-10-30-yapay-zeka-insan-gibi-yazmaya-ayarlansa-bile-neden-ayirt-edi",
+      "url": "yazi/2026-10-30-yapay-zeka-insan-gibi-yazmaya-ayarlansa-bile-neden-ayirt-edi.html",
+      "date": "2026-10-30T13:00:00+00:00",
+      "date_text": "30 Ekim 2026",
+      "publish_at": "2026-10-30T13:00:00Z",
+      "draft": false,
+      "title": "Yapay Zeka İnsan Gibi Yazmaya Ayarlansa Bile Neden Ayırt Ediliyor?",
+      "standfirst": "Dokuz açık model üç sosyal platformun kullanıcılarını taklit etti.",
+      "paragraphs": [
+        "Sosyal bilimciler insan davranışını ve iletişimini taklit etmek için büyük dil modellerini, yani ChatGPT benzeri yapay zeka sistemlerini giderek daha çok kullanıyor. Ama bu sahte insan mesajlarının gerçeğe ne kadar benzediğini ölçmenin iyi bir yolu yok. Genelde insanlara 'bu inandırıcı mı' diye soruluyor. Bu hem kaba hem de güvenilmez bir ölçü.",
+        "Zürih Üniversitesi'nden Nicolo Pagan, Amsterdam Üniversitesi'nden Petter Törnberg, Duke Üniversitesi'nden Christopher Bail ve New York Üniversitesi ile Oxford'dan Christopher Barrie bu boşluğu doldurmak için CHAT adını verdikleri bir doğrulama çerçevesi geliştirdi. Çerçeve, metnin bir bilgisayar sınıflandırıcısı tarafından ne kadar kolay yakalandığını, insanın cevabıyla anlamca ne kadar benzediğini ve üslup ile konu gibi anlaşılır dil özelliklerini birlikte ölçüyor.",
+        "Ekip 9 açık ağırlıklı dil modelini, yani kodu ve ağırlıkları serbestçe indirilebilen modelleri test etti. Ön baskıdaki listeye göre bunlar Apertus-8B, DeepSeek-R1-Distill-Llama-8B, Gemma 3 4B Instruct, Llama 3.1 8B, Llama 3.1 8B Instruct, Llama 3.1 70B, Mistral 7B v0.1, Mistral 7B Instruct v0.2 ve Qwen 2.5 7B Instruct. Modellere X, Bluesky ve Reddit'teki gerçek kullanıcı yazışmalarına cevap yazdırıldı. Modelleri insana benzetmek için 5 farklı ayar yöntemi denendi; aralarında modeli bu verilerle ek eğitimden geçirmek, üslup örnekleri vermek ve kullanıcının önceki mesajlarını bağlam olarak sunmak var.",
+        "Sonuç, ayarlamadan sonra bile yapay zeka yazılarının insan yazısından açıkça ayırt edilebildiği oldu. En büyük fark duygusal tonda ve duygu ifadesindeydi. Sohbet için özel eğitilmiş, talimat izleyen modeller genelde temel modellerden daha kötü sonuç verdi. Daha büyük modeller de belirgin biçimde daha insansı yazmadı. Ekip bir ödünleşim de buldu: yazıyı daha insansı gösteren yöntemler, onu gerçek insanın verdiği cevabın içeriğinden uzaklaştırıyordu.",
+        "Araştırmacıların amacı, yapay zekayla yapılan toplum simülasyonlarının gerçekçiliğini ölçmek ve modelleri gerçek verilere göre ayarlamak için ölçeklenebilir bir araç sunmak. Bulgu, bugünkü modellerin insan iletişimini yeniden üretmede hala sınırları olduğunu gösteriyor.",
+        "Araştırmacılar, yapay zekayla insan topluluklarını simüle eden sosyal bilimciler için bu simülasyonların gerçeğe ne kadar yakın olduğunu ölçen ve modelleri gerçek verilere göre ayarlamaya yarayan ölçeklenebilir bir araç sunmak istiyor."
+      ],
+      "takeaway": "Araştırmacılar 9 açık kaynaklı yapay zeka dil modelini X, Bluesky ve Reddit'teki gerçek kullanıcılar gibi yazmaya ayarladı.",
+      "impact": null,
+      "category": {
+        "slug": "yapay-zeka",
+        "label": "Yapay Zekâ",
+        "url": "kategori/yapay-zeka.html"
+      },
+      "tags": [
+        {
+          "slug": "yapayzeka",
+          "label": "yapayzeka",
+          "url": "etiket/yapayzeka.html"
+        },
+        {
+          "slug": "dilmodeli",
+          "label": "dilmodeli",
+          "url": "etiket/dilmodeli.html"
+        },
+        {
+          "slug": "sosyalmedya",
+          "label": "sosyalmedya",
+          "url": "etiket/sosyalmedya.html"
+        },
+        {
+          "slug": "teknoloji",
+          "label": "teknoloji",
+          "url": "etiket/teknoloji.html"
+        },
+        {
+          "slug": "metin",
+          "label": "metin",
+          "url": "etiket/metin.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (Proceedings of the National Academy of Sciences) (2026)",
+          "url": "https://doi.org/10.1073/pnas.2531748123"
+        }
+      ],
+      "image_credits": [],
+      "video": {
+        "youtube": "fiq21YlBRDQ"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/fiq21YlBRDQ"
+        }
+      ]
+    },
+    {
+      "id": "proj_a99f2fca44",
+      "slug": "2026-10-30-alaska-daki-13-800-yillik-kamp-ilk-amerikalilarin-yasamini-n",
+      "url": "yazi/2026-10-30-alaska-daki-13-800-yillik-kamp-ilk-amerikalilarin-yasamini-n.html",
+      "date": "2026-10-30T03:00:00+00:00",
+      "date_text": "30 Ekim 2026",
+      "publish_at": "2026-10-30T03:00:00Z",
+      "draft": false,
+      "title": "Alaska'daki 13.800 Yıllık Kamp İlk Amerikalıların Yaşamını Nasıl Gösteriyor?",
+      "standfirst": "Ocaklı barınak izi, toprak fırın, kemik iğneler ve on binlerce buluntu, Alaska'daki 13.800 yıllık bir ana kampın ayrıntılı görüntüsünü sunuyor.",
+      "paragraphs": [
+        "İnsanların Amerika kıtasına Asya'dan, bugün Bering Boğazı'nın bulunduğu yerdeki kara köprüsünden geçerek geldiği düşünülüyor. Bu bölgeye Beringia deniyor. Genetik çalışmalar o dönemde Beringia'da birden fazla insan topluluğu olduğunu öngörüyor, ama bu toplulukların arkeolojik kalıntılarla nasıl eşleştiği belirsiz. Alaska'nın iç kesimindeki Tanana Nehri havzası, Amerika'da Clovis kültüründen (yaklaşık 13.200 yıl önce) daha eski ya da onunla yaşıt kazı alanlarının en yoğun toplandığı yer.",
+        "Kansas Üniversitesi'nden bir ekip, yerli toplulukların da katıldığı bir çalışmayla 2016'dan beri Fairbanks kentinin 55 kilometre güney-güneydoğusundaki bir kazı alanını inceliyor. Alanın adı Shég' Xdaltth'í'; Alaska yerlilerinin Atabaskan dilinde 'Onlar oradaydı' anlamına geliyor. Tanana Nehri'ne bakan, yaklaşık 35 metre yüksekliğinde bir yamaçta. Alanda üç ayrı buzul çağı yerleşim katmanı var: 13.800, 13.000 ve 12.700 yıl önce. Yaşlar 66 radyokarbon tarihine dayanıyor; bunların 50'si en eski katmandan.",
+        "En eski katman 13.850 ile 13.500 yıl önce arasına tarihleniyor ve yaklaşık 284 yıl boyunca tekrar tekrar kullanılmış. 25 metrekarelik kazı alanında içinde ocak, küçük bir çukur ve direk deliği bulunan en az 3 metre çapında bir alan bulundu. Ekip bunu güneye açık, kısmen örtülü bir barınak olarak yorumluyor. Yakında kemik atık yığını ve kızgın taşlarla dolu bir toprak fırın var; et muhtemelen burada yavaş yavaş pişirilmiş. Yaklaşık 7.000 kemik parçası bulundu: bizon, misk öküzü, ren geyiği, yünlü mamut, at, kurt, tilki, vaşak, kaz, kuğu, turna gibi pek çok hayvan. Kemikten 8 dikiş iğnesi parçası, bir biz (delgi), delikli bir kolye ucu ve fildişi bir uç da çıktı.",
+        "Alanda bulunan elmas biçimli, sapa takılan taş uçlar Alaska'da eşsiz. Benzerleri ise kara köprüsünün öbür yakasında, Sibirya'daki Nikita Gölü ve Berelekh alanlarında, aynı döneme ait katmanlarda bulunmuştu. Obsidyen parçalarının hepsi 370 kilometre batıdaki bir kaynaktan geliyor. Ekip bunu Bering kara köprüsünün iki yakası arasında kültürel bir bağ olarak yorumluyor ve bu insanların Arktik kuzeydoğu Asya'dan gelmiş olabileceğini öne sürüyor. Bulunan bir kurt çene kemiği bilinen eski ve bugünkü Alaska kurtlarından farklı; ekip bu insanların köpek sahibi olmuş olabileceğini, ama bunun henüz kanıtlanmadığını belirtiyor.",
+        "Araştırmacılara göre bu kamp küçük bir av grubunun kısa durağı değil, uzun kalınan ya da düzenli dönülen bir ana kamp. 13.800 yıl önce Alaska'daki insanlar çevrelerini iyi tanıyordu. Sapa takılan uçlar, kemik iğneler, süs eşyası, kırmızı boya ve mamut avı gibi özellikler daha güneydeki ilk Amerikalılarla da ortak. Ekip, bu insanların hangi topluluktan geldiğini kesin olarak anlamak için eski DNA'ya ihtiyaç olduğunu söylüyor.",
+        "Araştırmacılar Beringia'dan Amerika'ya geçen insanların kimler olduğunu ve yeni topraklara nasıl yerleştiklerini anlamak istiyor. Ekip bu kampı, arkeolojik bulguları genetik çalışmaların öngördüğü eski topluluklarla eşleştirmenin bir adımı olarak görüyor."
+      ],
+      "takeaway": "Alaska'nın iç kesiminde 13.800 yıl öncesine ait bir ana kamp bulundu: ocaklı bir barınak izi, et pişirmek için bir toprak fırın, kemikten dikiş iğneleri ve 25 metrekarede 70.000'i aşkın buluntu.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "arkeoloji",
+          "label": "arkeoloji",
+          "url": "etiket/arkeoloji.html"
+        },
+        {
+          "slug": "alaska",
+          "label": "alaska",
+          "url": "etiket/alaska.html"
+        },
+        {
+          "slug": "beringia",
+          "label": "beringia",
+          "url": "etiket/beringia.html"
+        },
+        {
+          "slug": "buzulcagi",
+          "label": "buzulcagi",
+          "url": "etiket/buzulcagi.html"
+        },
+        {
+          "slug": "tarih",
+          "label": "tarih",
+          "url": "etiket/tarih.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aeh0802"
+        }
+      ],
+      "image_credits": [
+        "James St. John, Wikimedia Commons (CC BY 2.0)",
+        "Unknown authorUnknown author, Wikimedia Commons (Public domain)",
+        "Enrico Blasutto, Wikimedia Commons (CC BY-SA 4.0)",
+        "USFWSAlaska, Wikimedia Commons (Public domain)",
+        "Vassil, Wikimedia Commons (CC0)",
+        "Original uploader was Chris 73 at the English language Wikipedia, Wikimedia Commons (Public domain)",
+        "Liz from Fairbanks, AK, USA, Wikimedia Commons (CC BY 2.0)",
+        "BLM Alaska, Wikimedia Commons (Public domain)",
+        "Mauricio Antón, Wikimedia Commons (CC BY 2.5)",
+        "National Park Service, Alaska Region, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "tvnz5xP9OxM"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/tvnz5xP9OxM"
+        }
+      ]
+    },
+    {
+      "id": "proj_c398432048",
+      "slug": "2026-10-29-resif-yapan-mercan-turlerinin-neredeyse-yarisi-neden-tehdit-",
+      "url": "yazi/2026-10-29-resif-yapan-mercan-turlerinin-neredeyse-yarisi-neden-tehdit-.html",
+      "date": "2026-10-29T13:00:00+00:00",
+      "date_text": "29 Ekim 2026",
+      "publish_at": "2026-10-29T13:00:00Z",
+      "draft": false,
+      "title": "Resif Yapan Mercan Türlerinin Neredeyse Yarısı Neden Tehdit Altında?",
+      "standfirst": "Yeterli veri bulunan 774 resif mercanı türünün 340'ı IUCN Kırmızı Liste'de tehdit altındaki kategorilere girdi.",
+      "paragraphs": [
+        "Mercan resifleri 100'den fazla tropikal ülkede kıyıları korur, balıklara yuva olur, insanlara geçim sağlar. Bu resifleri kuran canlılar, resif yapan mercan türleridir. Isınan denizler mercanların ağarmasına yol açıyor ve küresel ağarma olayları giderek sıklaşıyor. Bu türlerin yok olma riski ilk kez 2008'de dünya çapında değerlendirilmişti. O zamandan beri tam bir güncelleme yapılmamıştı.",
+        "Doğa koruma örgütü IUCN'nin Mercan Uzmanlık Grubu bu güncellemeyi yaptı. Grubun eş başkanları, Kenya'daki CORDIO Doğu Afrika'dan David Obura ve İngiltere'deki Portsmouth Üniversitesi'nden Francoise Cabada-Blanco. 60'tan fazla uzman, IUCN Kırmızı Liste'deki 892 resif yapan mercan türünü yeniden değerlendirdi. Kırmızı Liste, türleri yok olma riskine göre sınıflandıran uluslararası listedir.",
+        "Sorun şuydu. Mercan türlerinin çoğu için tür tür sayım verisi yok. Bu yüzden ekip, nüfus düşüşünü dolaylı yoldan tahmin etti. Dünya genelindeki mercan örtüsünün azalma eğilimini, orta düzey bir iklim senaryosunda önümüzdeki 30 yılda her yıl yaşanması beklenen şiddetli ağarmaları ve her türün ısıya ne kadar dayanıksız olduğunu gösteren biyolojik özelliklerini birleştirdiler.",
+        "Verisi yeterli olan 774 türün 340'ı, yani yüzde 44'ü tehdit altındaki kategorilere girdi. Bunların 33'ü 'kritik tehlikede', 251'i 'tehlikede', 56'sı 'hassas' sınıfında. 2008'de bu oran yaklaşık üçte birdi. Atlas Okyanusu'ndaki türlerin yüzde 50'si, Hint-Pasifik'tekilerin yüzde 43'ü tehdit altında. Hint-Pasifik'te, geyik boynuzu mercanlarını da içeren Acroporidae ailesinde 279 türün 191'i, yani yüzde 68'i 'tehlikede' sınıfına girdi. En yüksek risk grubundaki türlerin yüzde 90'ından fazlasında asıl belirleyici iklim değişikliği oldu.",
+        "Üstelik bu tablo iyimser olabilir. Değerlendirme 2020'ye kadarki verilere dayanıyor. Yani kayıtlardaki en sıcak üç yıldan ve 2023-2025 arasındaki dördüncü küresel ağarma olayından önce yapıldı. Araştırmacılar gerçek oranın bugün muhtemelen daha yüksek olduğunu söylüyor. IUCN'nin hesapladığı mercan Kırmızı Liste Endeksi de 1998 öncesinde 0,96 iken 2008'de 0,89'a, 2024'te 0,74'e düştü. Bu endekste 1 hiçbir türün yüksek risk altında olmadığı, 0 ise hepsinin yok olduğu anlamına geliyor.",
+        "Araştırmanın amacı, mercanların yok olma riskini güncel ve karşılaştırılabilir biçimde ortaya koyarak koruma çalışmalarına yön vermek. Yazarlara göre bulgular, mercan çeşitliliğini ve resiflerin işlevini korumak için ısınmayı daha fazla artmadan sınırlamanın önemini gösteriyor. Sonraki değerlendirmelerin tür düzeyinde nüfus verileriyle ve ısı stresi ile iyileşmeyi daha iyi ölçen göstergelerle güçlendirilmesi gerekiyor.",
+        "Araştırmacılar, resif yapan mercanların yok olma riskini güncel olarak ortaya koyup koruma önceliklerine yön vermeyi amaçlıyor. Bulgular, mercan çeşitliliğini korumak için ısınmayı sınırlamanın ne kadar önemli olduğunu gösteriyor."
+      ],
+      "takeaway": "Resif yapan mercan türlerinin neredeyse yarısı artık yok olma tehlikesi altında.",
+      "impact": null,
+      "category": {
+        "slug": "cevre",
+        "label": "Çevre",
+        "url": "kategori/cevre.html"
+      },
+      "tags": [
+        {
+          "slug": "cevre",
+          "label": "cevre",
+          "url": "etiket/cevre.html"
+        },
+        {
+          "slug": "mercan",
+          "label": "mercan",
+          "url": "etiket/mercan.html"
+        },
+        {
+          "slug": "neslitukenme",
+          "label": "neslitukenme",
+          "url": "etiket/neslitukenme.html"
+        },
+        {
+          "slug": "resif",
+          "label": "resif",
+          "url": "etiket/resif.html"
+        },
+        {
+          "slug": "iklim",
+          "label": "iklim",
+          "url": "etiket/iklim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-11263-3"
+        }
+      ],
+      "image_credits": [
+        "Christian Jensen, Wikimedia Commons (CC BY 2.0)",
+        "Vardhanjp, Wikimedia Commons (CC BY-SA 4.0)",
+        "NOAA, Wikimedia Commons (Public domain)",
+        "Ananda Ellis/NOAA, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "FBsVqk2GYC4"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/FBsVqk2GYC4"
+        }
+      ]
+    },
+    {
+      "id": "proj_2a83cb5fd2",
+      "slug": "2026-10-29-bakteriler-kendilerini-olduren-viruslerden-hareket-ederek-ka",
+      "url": "yazi/2026-10-29-bakteriler-kendilerini-olduren-viruslerden-hareket-ederek-ka.html",
+      "date": "2026-10-29T03:00:00+00:00",
+      "date_text": "29 Ekim 2026",
+      "publish_at": "2026-10-29T03:00:00Z",
+      "draft": false,
+      "title": "Bakteriler Kendilerini Öldüren Virüslerden Hareket Ederek Kaçabilir mi?",
+      "standfirst": "E. coli bakterileri yapay jelde kimyasal eğimi takip ederek göç etti ve fajların yayılmasından hızlı kalan bir cephe oluşturdu.",
+      "paragraphs": [
+        "Fajlar, yani bakteriyofajlar, yalnızca bakterileri enfekte edip öldüren virüsler. Dünyadaki en kalabalık biyolojik varlıklar. İnsan bağırsağından toprağa ve okyanus tortusuna kadar her yerdeler ve bazı ortamlarda bakterilerden on kata kadar fazla olabiliyorlar. Bakteriler ise bu ortamlarda yerinde durmuyor. Bir besin maddesinin izini takip ederek topluca uzun mesafeler göç ediyorlar. Bu harekete kemotaksi deniyor. Soru şuydu: bakteriler virüs dolu bir araziden nasıl geçiyor da yok olmuyor? Laboratuvar deneyleri genelde iyice karıştırılmış sıvı kültürlerde yapıldığı için bu soru pek yanıtlanamamıştı.",
+        "Princeton Üniversitesi'nden bir ekip, toprak ve doku gibi gözenekli doğal ortamları taklit eden şeffaf bir jel kurdu. Jel, yaklaşık 10 mikrometre çapında, sıvıyla şişmiş minik taneciklerden oluşuyor. Bakteriler ve virüsler taneciklerin arasındaki boşluklarda hareket ediyor. Ekip 3 santimetrelik ince cam tüplerin bir ucuna yoğun bir Escherichia coli (bağırsak bakterisi) kümesi koydu. Bakteriler yeşil ışık saçan bir protein taşıdığı için mikroskopla canlı izlenebildi. Jele farklı yoğunluklarda T4 adlı bakteri öldüren virüs karıştırıldı: mililitrede 100 milyon, 1 milyar ve 10 milyar virüs.",
+        "Bakteriler önlerindeki çekici maddeyi tüketerek kendi kimyasal eğimlerini yarattı ve bu eğimi takip ederek yaklaşık 1 milimetre genişliğinde bir göç cephesi oluşturdu. Virüssüz ortamda cephe yaklaşık 2 saatte kuruldu ve dakikada yaklaşık 17 mikrometre hızla ilerledi. En düşük virüs yoğunluğunda cephe virüssüz ortamdakinden ayırt edilemedi. Oysa aynı virüs yoğunluğu, karıştırılmış kültürde bakteri çoğalmasını güçlü biçimde baskıladı. Daha yüksek yoğunluklarda cephenin kurulması gecikti, ama bir kez kurulduğunda virüssüz ortamdaki ile aynı hız, genişlik ve yoğunlukla ilerledi. Cephenin 1 santimetre yol alması virüssüz ortamda ve en düşük virüs yoğunluğunda yaklaşık 7 saat, orta yoğunlukta yaklaşık 11 saat, en yüksek yoğunlukta yaklaşık 19 saat sürdü.",
+        "Peki bakteriler virüse dayanıklı hale mi geldi? Ekip cepheden bakteri alıp virüslü ortamda çoğalıp çoğalamadıklarına baktı. Düşük ve orta yoğunluklarda cephedeki bakteriler virüslü ortamda koloni oluşturamadı, yani hala savunmasızdı. En yüksek yoğunlukta cephedeki bakterilerin yaklaşık yüzde 30'u daha az duyarlıydı, yaklaşık yüzde 70'i yine savunmasızdı. Başlangıçtaki bakteri stokunda da yaklaşık yüzde 1 oranında daha az duyarlı bakteri vardı. Yani kaçışın sırrı esas olarak yeni bir direnç değil, hız. Bakteriler yeterince hızlı göç ettiğinde, enfekte hücrelerden çıkan yeni virüsler cephenin gerisinde kalıyor. Virüs çok yoğunsa duyarlı bakteriler önce çöküyor, cepheyi daha az duyarlı küçük bir grup yeniden kuruyor.",
+        "Ekip bunu bir bilgisayar modeliyle açıkladı ve göç hızı ile enfeksiyon hızını karşılaştıran tek bir 'kaçış parametresi' tanımladı. Model, jel tanecikleri daha gevşek paketlenip bakteriler daha rahat yüzebildiğinde cephenin hiç gecikmeden kurulacağını öngördü. Deney bunu doğruladı. Araştırmacılara göre kemotaksinin besin bulmanın ötesinde bir işlevi daha var: avcıdan kaçmak. Bu bilgi, bakteri öldüren virüslerle enfeksiyon tedavisi (faj terapisi) tasarlarken bakterilerin dokuda göç ederek kaçabileceğini hesaba katmak için kullanılabilir.",
+        "Araştırmacılar bakterilerin virüs dolu ortamlarda nasıl hayatta kaldığını anlamak ve hangi koşulda kaçıp hangi koşulda çökeceklerini önceden hesaplamak istiyor. Bu, faj terapisinde bakterilerin dokuda göç ederek kaçma ihtimalini hesaba katan tedaviler tasarlamaya yardımcı olabilir."
+      ],
+      "takeaway": "Bakteriler, kendilerini öldüren virüslerle (faj) dolu bir ortamda, topluca bir kimyasal izi takip ederek göç ettiklerinde virüslerin yayılmasından daha hızlı ilerleyip kaçabiliyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "bakteri",
+          "label": "bakteri",
+          "url": "etiket/bakteri.html"
+        },
+        {
+          "slug": "virus",
+          "label": "virus",
+          "url": "etiket/virus.html"
+        },
+        {
+          "slug": "faj",
+          "label": "faj",
+          "url": "etiket/faj.html"
+        },
+        {
+          "slug": "mikrobiyoloji",
+          "label": "mikrobiyoloji",
+          "url": "etiket/mikrobiyoloji.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aeg2358"
+        }
+      ],
+      "image_credits": [
+        "NIAID, Wikimedia Commons (CC BY 2.0)",
+        "Muir VG ve ark., Science Advances 2026 (10.1126/sciadv.aeg2358), CC BY 4.0",
+        "Eugenijus Šimoliūnas, Monika Vilkaitytė, Laura Kaliniene, Aurelija Zajančkauskai, Wikimedia Commons (CC BY 4.0)",
+        "AFADadcADSasd, Wikimedia Commons (CC BY 4.0)"
+      ],
+      "video": {
+        "youtube": "LGJJ9sr5kBE"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/LGJJ9sr5kBE"
+        }
+      ]
+    },
+    {
+      "id": "proj_a3cf5847ab",
+      "slug": "2026-10-28-deniz-kuslari-bir-atol-adasinin-yukselmesine-nasil-katki-sag",
+      "url": "yazi/2026-10-28-deniz-kuslari-bir-atol-adasinin-yukselmesine-nasil-katki-sag.html",
+      "date": "2026-10-28T13:00:00+00:00",
+      "date_text": "28 Ekim 2026",
+      "publish_at": "2026-10-28T13:00:00Z",
+      "draft": false,
+      "title": "Deniz Kuşları Bir Atol Adasının Yükselmesine Nasıl Katkı Sağlayabilir?",
+      "standfirst": "Sıçansız ve deniz kuşları bol atol adalarında hesaplanan lagün resifi büyüme potansiyeli, sıçanlı adalardan yaklaşık 1,8 kat daha yüksekti.",
+      "paragraphs": [
+        "Atoller, mercan resiflerinin üzerinde oluşmuş alçak kum adalarıdır. Hint ve Pasifik okyanuslarında en yaygın ada türüdür ve bazı ülkelerin tek karasıdır. Deniz seviyesi yükseldikçe bu adaların geleceği tehlikede. Atoller aynı zamanda tropikal deniz kuşlarının önemli yuvalarıdır. Ama çoğu atolde deniz kuşları azalmış durumda. Bunun en büyük nedenlerinden biri insanların taşıdığı sıçanlar; kuşların yumurtalarını ve yavrularını yiyorlar. Doğal ormanlar da büyük ölçüde hindistancevizi tarlalarına dönüşmüş. Pasifik atol ormanlarının yaklaşık yüzde 60'ında artık hindistancevizi ağaçları baskın. Bu adaları eski haline getirmenin onları iklim değişikliğine karşı güçlendirip güçlendirmeyeceği bilinmiyordu.",
+        "İngiltere'deki Lancaster Üniversitesi'nden Nicholas Graham'ın yönettiği ekip, Hint Okyanusu'ndaki Seyşeller ve Chagos Takımadaları ile Fransız Polinezyası'ndaki Teti'aroa Atolü'nde toplam 28 adayı inceledi. Adaların bir kısmında sıçan vardı, bir kısmında yoktu. Bazılarını doğal orman, bazılarını hindistancevizi kaplıyordu. Ekip deniz kuşlarını saydı ve kuşların okyanustan avlanıp adaya dışkıyla taşıdığı azotu hesapladı. Sonra bu besinin adadaki bitki köklerine, kıyıdaki mercanlara ve papağan balıklarına etkisini inceledi.",
+        "Deniz kuşları açık okyanusta avlanıp adaya dönüyor ve dışkılarıyla bol besin bırakıyor. Bu besin denize sızıyor ve resifi de besliyor. Ekip, adaya gelen kuş kaynaklı azot 10 kat arttığında kıyıdaki papağan balıklarının enerji akışının yüzde 10,3 arttığını buldu. Mercanların fotosentez üretimi de arttı. Daha fazla üretim, daha fazla kireç iskeleti yapımı demek. Papağan balıkları ise mercanı kemirip kuma çeviriyor ve adaları besleyen beyaz kumun önemli kısmını üretiyor.",
+        "Asıl çarpıcı sonuç Chagos'taki 6 adadan geldi. Bunların 3'ü sıçansız, 3'ü sıçanlıydı. Sıçansız ve kuşlarla dolu adaların lagün resifleri yılda ortanca 5,92 milimetre yükseliyor. Ortanca, ölçümlerin yarısının üstünde, yarısının altında kaldığı değer. Bu, sıçanlı adalardakinin 1,8 katı. 2 derecelik ısınma senaryosunda bölgede 2100'e kadar deniz seviyesinin yılda yaklaşık 6 milimetre yükselmesi bekleniyor. Yani sıçansız adaların resifleri bu yükselişe neredeyse yetişebiliyor. Sıçanlı adaların resifleri ise bugünkü yılda yaklaşık 3,3 milimetrelik yükselişe bile yetişmekte zorlanıyor. Sıçansız adaların lagün resiflerinde kum üretimi de 2,3 kat daha yüksekti. Teti'aroa'da doğal ormanın yüzde 75'ten fazla olduğu yerlerde toprağı tutan ince köklerin toplam uzunluğu 4,6 kat daha fazlaydı, metrekare başına yaklaşık 15,8 kilometre.",
+        "Yani kuşlar, sıçanlar ve ağaçlar aynı zincirin halkaları. Sıçan olmayan adada kuşlar çoğalıyor, kuşlar resifi besliyor, resif yükselip kum üretiyor, doğal orman da bu kumu kökleriyle tutuyor. Araştırmacıların amacı, sıçanları temizlemenin ve doğal ormanı geri getirmenin yalnızca türleri korumakla kalmayıp alçak atol adalarını iklim değişikliğine karşı güçlendirebileceğini göstermek. Bu sayede ada restorasyonu için iklime uyum fonlarının da kullanılabileceğini düşünüyorlar. Sırada resiflerden adaya ne kadar kum taşındığını ve köklerin erozyonu nasıl önlediğini ayrıntılı olarak ölçmek ve modellemek var.",
+        "Araştırmacılar, sıçanları temizleyip doğal ormanı geri getirmenin yalnızca türleri korumakla kalmayıp alçak atol adalarını deniz seviyesi yükselişine karşı güçlendirebileceğini göstermeyi amaçlıyor. Bu, ada restorasyonunun iklime uyum aracı olarak da desteklenmesinin yolunu açabilir."
+      ],
+      "takeaway": "Sıçansız, deniz kuşlarıyla dolu atol adalarının lagün resifleri yılda yaklaşık 5,9 milimetre yükseliyor.",
+      "impact": null,
+      "category": {
+        "slug": "cevre",
+        "label": "Çevre",
+        "url": "kategori/cevre.html"
+      },
+      "tags": [
+        {
+          "slug": "cevre",
+          "label": "cevre",
+          "url": "etiket/cevre.html"
+        },
+        {
+          "slug": "atol",
+          "label": "atol",
+          "url": "etiket/atol.html"
+        },
+        {
+          "slug": "denizkusu",
+          "label": "denizkusu",
+          "url": "etiket/denizkusu.html"
+        },
+        {
+          "slug": "resif",
+          "label": "resif",
+          "url": "etiket/resif.html"
+        },
+        {
+          "slug": "denizseviyesi",
+          "label": "denizseviyesi",
+          "url": "etiket/denizseviyesi.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aei1145"
+        }
+      ],
+      "image_credits": [
+        "USFWS volunteer photo: Dan Rapp – USFWS Pacific, Wikimedia Commons (Public domain)",
+        "Graham NAJ ve ark., Science Advances 2026 (10.1126/sciadv.aei1145), CC BY 4.0",
+        "division, CSIRO, Wikimedia Commons (CC BY 3.0)",
+        "Parchaco, Wikimedia Commons (CC0)",
+        "Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Wikimedia Commons (Public domain)",
+        "Duncan Wright, USFWS, Wikimedia Commons (Public domain)",
+        "fred_pnd, Wikimedia Commons (CC BY 2.0)"
+      ],
+      "video": {
+        "youtube": "WiciBE1GOfY"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/WiciBE1GOfY"
+        }
+      ]
+    },
+    {
+      "id": "proj_bdc39a6390",
+      "slug": "2026-10-28-tugla-dayanimini-kilin-icindeki-iki-mineral-nasil-degistiriy",
+      "url": "yazi/2026-10-28-tugla-dayanimini-kilin-icindeki-iki-mineral-nasil-degistiriy.html",
+      "date": "2026-10-28T03:00:00+00:00",
+      "date_text": "28 Ekim 2026",
+      "publish_at": "2026-10-28T03:00:00Z",
+      "draft": false,
+      "title": "Tuğla Dayanımını Kilin İçindeki İki Mineral Nasıl Değiştiriyor?",
+      "standfirst": "Kaolinit ve illit oranı ayarlanan laboratuvar tuğlaları, uygun pişirme koşullarında ABD standardındaki asgari dayanımın 8,5 katına ulaştı.",
+      "paragraphs": [
+        "İnsanlar 6 bin yılı aşkın süredir pişmiş tuğla yapıyor ve dünyada her yıl yaklaşık 1,5 trilyon kil tuğla üretiliyor. Buna rağmen en iyi üretim hatlarında bile tuğlaların yüzde 3 ila 5'i çatlak, kırık ya da lekeli çıkıyor. Bunun büyük nedeni kilin her yerde farklı olması. Tuğla kilinin en önemli bileşenleri kil mineralleri, özellikle kaolinit ve illit. Ama bu ikisi doğada hep iç içe bulunuyor ve ayırmak çok zor. Bu yüzden her birinin tuğlayı nasıl etkilediği bilinmiyordu ve tuğla üretimi hala büyük ölçüde deneme yanılmaya dayanıyordu.",
+        "Avustralya'daki Queensland Teknoloji Üniversitesi ile Çin Bilimler Akademisi'nden bir ekip, bir tuğla şirketiyle birlikte bu sorunu çözmeye çalıştı. Queensland'deki bir tuğla fabrikasının kilinden kil minerallerini ayırıp geriye kalan iri taneli kısmı (çoğu kuvars) aldılar. Kaolinit ve illiti de ayrı ayrı saflaştırıp saflıklarını yaklaşık yüzde 94'e çıkardılar. Sonra bu üç bileşeni farklı oranlarda karıştırdılar: toplam kil oranı yüzde 20, 35 ya da 50, kil içindeki kaolinit payı sıfırdan yüzde 100'e kadar beş farklı düzey. 15 karışımın her birini 900, 1050, 1200 ve 1350 derecede pişirerek 60 farklı tuğla tarifi elde ettiler. Deney tuğlaları 4 santim çapında küçük disklerdi.",
+        "Sonuç, en iyi karışımın pişirme sıcaklığına göre değiştiğini gösterdi. 900 derecede kaolinitçe zengin kil daha sağlam tuğla verdi. 1050 ve 1200 derecede illitçe zengin kil öne çıktı, çünkü illitteki potasyum kilin kısmen erimesini ve sıkı bir camsı yapı oluşturmasını kolaylaştırıyor. 1350 derecede en sağlam tuğla, kilin yüzde 35 olduğu ve bunun üçte birinin kaolinit olduğu karışımdan çıktı. Basınç dayanımı 172,4 megapaskal oldu. Fazla illit ise yüksek sıcaklıkta tuğlayı aşırı pişirip şişirdi, kara lekeler ve çatlaklar oluşturdu.",
+        "Ekip tam boy tuğlaların küçük disklerden yaklaşık yüzde 15 daha zayıf olduğunu da ölçtü. Bu düzeltmeyle en iyi tarifler, ABD'nin ASTM C62 standardında orta iklim koşullarına dayanıklı tuğla için istenen en düşük dayanımın (17,2 megapaskal) 900 derecede 2, 1050 derecede 6, 1200 derecede 7, 1350 derecede 8,5 katına ulaşıyor. Bir sürpriz de çıktı: tuğlayı güçlendirdiği düşünülen mullit adlı iğne biçimli kristal, bu tuğlalarda dayanımla ters yönde ilişkiliydi. Mullit, tuğlayı asıl bir arada tutan camsı yapıyı tüketiyor olabilir.",
+        "Araştırmanın amacı, tuğla üreticilerine ellerindeki kile ve fırın sıcaklığına göre hangi kil karışımını seçeceklerini gösteren pratik bir rehber sunmak. Ekip, sıcaklığa göre kaolinit ve illit seçimini anlatan bir karar şeması da hazırladı. Daha az hatalı tuğla, boşa giden enerjinin, kilin ve karbon salımının da azalması demek.",
+        "Araştırmacılar, tuğla üreticilerinin ellerindeki kile ve fırın sıcaklığına göre en sağlam ve en az hatalı tuğlayı veren kil karışımını seçebilmesini istiyor. Daha az hatalı tuğla, daha az boşa giden enerji, kil ve karbon salımı demek."
+      ],
+      "takeaway": "Tuğla kilindeki iki mineralin, kaolinit ve illitin oranı ayarlanınca, üretim yöntemi değiştirilmeden tuğla dayanımı ABD standardındaki asgari değerin 8,5 katına kadar çıktı.",
+      "impact": null,
+      "category": {
+        "slug": "malzeme",
+        "label": "Malzeme",
+        "url": "kategori/malzeme.html"
+      },
+      "tags": [
+        {
+          "slug": "malzeme",
+          "label": "malzeme",
+          "url": "etiket/malzeme.html"
+        },
+        {
+          "slug": "tugla",
+          "label": "tugla",
+          "url": "etiket/tugla.html"
+        },
+        {
+          "slug": "kil",
+          "label": "kil",
+          "url": "etiket/kil.html"
+        },
+        {
+          "slug": "insaat",
+          "label": "insaat",
+          "url": "etiket/insaat.html"
+        },
+        {
+          "slug": "muhendislik",
+          "label": "muhendislik",
+          "url": "etiket/muhendislik.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-78652-0"
+        }
+      ],
+      "image_credits": [
+        "Wang S, Gainey L, Liu L ve ark., Nature Communications 2026 (10.1038/s41467-026-78652-0), CC BY 4.0",
+        "Marie-Lan Taÿ Pamart, Wikimedia Commons (CC BY 4.0)",
+        "Shannon Heinle, Wikimedia Commons (CC0)"
+      ],
+      "video": {
+        "youtube": "s6zSChavZN0"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/s6zSChavZN0"
+        }
+      ]
+    },
+    {
+      "id": "proj_a8d3b6d4e1",
+      "slug": "2026-10-27-statik-elektrigin-arti-ya-da-eksi-olmasi-kontrol-edilebilir-",
+      "url": "yazi/2026-10-27-statik-elektrigin-arti-ya-da-eksi-olmasi-kontrol-edilebilir-.html",
+      "date": "2026-10-27T13:00:00+00:00",
+      "date_text": "27 Ekim 2026",
+      "publish_at": "2026-10-27T13:00:00Z",
+      "draft": false,
+      "title": "Statik Elektriğin Artı ya da Eksi Olması Kontrol Edilebilir mi?",
+      "standfirst": "Aynı plastik parçalar sürtünürken uygulanan dış elektrik alanı, oluşan kalıcı yükün hem miktarını hem işaretini değiştirdi.",
+      "paragraphs": [
+        "Kazak çıkarırken çıtırdayan saçlar ya da halıda yürüdükten sonra kapı kolundan çarpılmak, sürtünmeyle oluşan statik elektriğin sonucu. Bilimde buna temasla elektriklenme deniyor. Bu olay bazen sorun çıkarıyor, örneğin toz halindeki maddelerin işlenmesi sırasında yük birikiyor. Bazen de faydalı: sürtünmeden elektrik üreten küçük jeneratörler bu ilkeyle çalışıyor. Ama yükü hangi parçacıkların taşıdığı tartışmalı olduğu gibi, yükleri bir yüzeyden ayırıp öbürüne götüren itici gücün ne olduğu da hala bilinmiyor. Özellikle aynı plastikten iki parça sürtününce bile birinin artı, öbürünün eksi yüklenebilmesi bir bilmece.",
+        "Letonya'daki Riga Teknik Üniversitesi ile Avustralya'daki RMIT ve Melbourne üniversitelerinden bir ekip, bu itici gücün elektrik alanı olabileceğini test etti. Bir parça polistiren plastiği, yine polistirenle kaplanmış bir bakır elektroda 500 kez bastırıp ayırdılar. Bu sırada elektroda artı 3 ile eksi 3 kilovolt arasında gerilim uyguladılar. Koruyucu plastik katman metalden plastiğe doğrudan yük geçişini engelliyordu ama elektrik alanını geçiriyordu. Sonra gerilimi kapatıp plastiğin üzerinde kalan yükü dokunmadan ölçtüler.",
+        "Gerilim sıfırken özdeş iki plastik arasında net bir yük oluşmadı. Gerilim uygulanınca yük ortaya çıktı ve işareti uygulanan alanın yönüne bağlıydı. İlk anda ölçülen yük, plastiğin alan yüzünden geçici olarak kutuplanmasından geliyordu ve zıt işaretliydi. Birkaç dakika içinde bu kutuplanma söndü ve geriye işareti uygulanan gerilimle aynı olan, daha kalıcı bir yük kaldı. Bu yükün büyüklüğü uygulanan gerilimle doğru orantılıydı ve en az 60 dakika sürdü, ama oda koşullarında yavaş yavaş azaldı. Aynı davranış teflon, silikon kauçuk, poliimid ve PEBA adlı plastiklerde de görüldü.",
+        "Kontrol deneyleri de yapıldı. Yüzeyler birbirine değmeden yalnızca alan uygulandığında yük sıfıra doğru söndü ve işaret değiştirmedi, yani kalıcı yük için temas ve sürtünme şart. Etanolle yıkanınca yük neredeyse sıfıra indi, bu da yükün yüzeyde durduğunu gösteriyor.",
+        "Ekip bu sonucu doğal bir etkiyle ilişkilendirdi. Pürüzlü bir yüzeydeki minik çıkıntılar temas sırasında ezilip büküldüğünde, malzemede fleksoelektrik etki denen bir olayla kendiliğinden elektrik alanı oluşabiliyor. Bilgisayar benzetimlerinde bu alanın ortalama büyüklüğü, deneyde dışarıdan uygulanan alanla aynı mertebede çıktı. Pürüzlü ve pürüzsüz polistirenle yapılan deneyler de bu fikirle uyumluydu. Yani sürtünmede yükleri yönlendiren şey, temas anında yüzeyde oluşan bu geçici elektrik alanları olabilir.",
+        "Araştırmacılar sürtünmeyle oluşan statik yükün neden belli bir yöne gittiğini anlamak istiyor. Yüzeydeki elektrik alanlarını kontrol etmek, hem sürtünmeden elektrik üreten cihazları hem de statik elektriği önleyen kaplama ve malzemeleri bilinçli olarak tasarlamanın yolunu açabilir."
+      ],
+      "takeaway": "Aynı plastikten iki parça birbirine sürtünürken dışarıdan bir elektrik alanı uygulanınca, oluşan statik yükün hem miktarı hem de işareti (artı mı eksi mi olacağı) kontrol edilebildi.",
+      "impact": null,
+      "category": {
+        "slug": "fizik",
+        "label": "Fizik",
+        "url": "kategori/fizik.html"
+      },
+      "tags": [
+        {
+          "slug": "fizik",
+          "label": "fizik",
+          "url": "etiket/fizik.html"
+        },
+        {
+          "slug": "statikelektrik",
+          "label": "statikelektrik",
+          "url": "etiket/statikelektrik.html"
+        },
+        {
+          "slug": "elektrik",
+          "label": "elektrik",
+          "url": "etiket/elektrik.html"
+        },
+        {
+          "slug": "plastik",
+          "label": "plastik",
+          "url": "etiket/plastik.html"
+        },
+        {
+          "slug": "malzeme",
+          "label": "malzeme",
+          "url": "etiket/malzeme.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-77733-4"
+        }
+      ],
+      "image_credits": [
+        "MikeRun, Wikimedia Commons (CC BY-SA 4.0)",
+        "Šutka A, Lapčinskis L, Linarts A ve ark., Nature Communications 2026 (10.1038/s41467-026-77733-4), CC BY 4.0",
+        "Ken Bosma from Green Valley, Arizona, USA, Wikimedia Commons (CC BY 2.0)",
+        "U.S. Department of Energy from United States, Wikimedia Commons (Public domain)",
+        "Sean McGrath, Wikimedia Commons (CC BY 2.0)"
+      ],
+      "video": {
+        "youtube": "QG32ppyL5WA"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/QG32ppyL5WA"
+        }
+      ]
+    },
+    {
+      "id": "proj_dca0e16cd3",
+      "slug": "2026-10-27-white-sands-ayak-izleri-buzul-cagindaki-ani-kurakligi-nasil-",
+      "url": "yazi/2026-10-27-white-sands-ayak-izleri-buzul-cagindaki-ani-kurakligi-nasil-.html",
+      "date": "2026-10-27T03:00:00+00:00",
+      "date_text": "27 Ekim 2026",
+      "publish_at": "2026-10-27T03:00:00Z",
+      "draft": false,
+      "title": "White Sands Ayak İzleri Buzul Çağındaki Ani Kuraklığı Nasıl Kaydetti?",
+      "standfirst": "23.500-21.700 yıllık ayak izleri, insanların Son Buzul Maksimumu sırasında hızla kuruyan bir göl çevresini kullanmaya devam ettiğini gösteriyor.",
+      "paragraphs": [
+        "ABD'nin New Mexico eyaletindeki White Sands Ulusal Parkı'nda bulunan insan ayak izleri, insanların Kuzey Amerika'da son buzul çağının en sert döneminde, yani Son Buzul Maksimumu'nda yaşadığını gösteren en önemli kanıtlardan biri. İzlerin yaşı daha önce yaklaşık 23.000-21.000 yıl olarak verilmişti ve bu tarihler bazı araştırmacılarca tartışılmıştı. Ama bu insanların nasıl bir çevrede yaşadığı ayrıntılı bilinmiyordu.",
+        "ABD Jeoloji Araştırmaları Kurumu (USGS), Arizona Üniversitesi, Bournemouth Üniversitesi ve Ulusal Park Servisi'nden bir ekip, 2022'de kazı hendeğini 11 metreden 25 metreye uzattı ve yaklaşık 2,7 metrelik bir toprak dizisini açtı. İnsan ayak izleri içeren katman sayısı 20'ye çıktı; bunların dördü daha önce bilinen izlerin altında. Toplam 152 insan ayak izi ölçüldü. Katmanlarda hortumlu memelilerin (mamut akrabaları), yer tembellerinin, köpekgillerin ve kuşların izleri, insanların çektiği sürgü benzeri taşıma araçlarının (travois) bıraktığı çizgiler de var. Ayak izlerinin boyutuna göre izlerin bir kısmı çocuklara ait: 8'i 4 yaşından küçük, 72'si yaklaşık 6 yaşında, 12'si yaklaşık 12 yaşında çocuk büyüklüğünde; 60'ı ergen ya da yetişkin. Alanda yerleşim izi ya da alet bulunmadı; araştırmacılar burayı insanların geçtiği bir güzergah olarak yorumluyor.",
+        "Yaşı kesinleştirmek için ekip, aynı katmanlardaki su bitkisi tohumlarını ve iğne yapraklı ağaç polenlerini radyokarbonla tarihledi. Polen yaşlarındaki belirsizliği beş kat azaltan yeni bir laboratuvar yöntemi geliştirdiler; örnek başına 75.000'e kadar polen tanesini ayıkladılar. Sonuçta ayak izli katmanların yaşı 23.500 ile 21.700 yıl önce arasına yerleşti. Katmanlardaki yaprak mumu kimyası, Grönland buz karotlarındaki iklim kaydıyla örtüştü ve tarihleri bağımsız olarak destekledi.",
+        "Ekip polen, mikroorganizmaların bıraktığı yağ molekülleri (biyobelirteçler), küçük kabuklu canlılar ve mineraller üzerinden ortalama 50 yıllık aralıklarla bir iklim kaydı çıkardı. Başta bölgeyi Otero adlı büyük bir göl kaplıyordu, çevredeki dağlarda iğne yapraklı ormanlar vardı ve ortalama sıcaklık yaklaşık 12 dereceydi, bugünden yaklaşık 4 derece soğuk. Yaklaşık 23.600 yıl önce ısınma başladı, göl çekilmeye başladı. Yaklaşık 23.200 yıl önce, Grönland'de görülen ani ısınma olaylarından biriyle (Dansgaard-Oeschger olayı 2) aynı anda, kısa ama şiddetli bir kuraklık yaşandı. Göl kalıcı olarak ıslak, tuzlu bir düzlüğe (playa) dönüştü. En eski ayak izi katmanı tam bu kuraklık dönemine denk geliyor. Ormanların yerini meşe ve pelin otu bozkırı aldı.",
+        "Araştırmacılara göre buradaki insanlar orman örtüsünün tamamen değişmesine, gölün çekilmesine ve yüzyıllık ölçekte ıslak ve kurak dönemlere tanık oldu; yine de bölgeye yaklaşık 2.000 yıl boyunca tekrar tekrar geldiler. Ekip, bu kaydın Kuzey Amerika'daki ilk insanların hızla değişen bir iklimde hangi koşullarla karşılaştığını, tek bir insan ömrü içindeki değişimleri bile anlamaya yardım ettiğini söylüyor.",
+        "Araştırmacılar Kuzey Amerika'daki ilk insanların buzul çağının en sert döneminde nasıl bir iklim ve çevreyle karşılaştığını, tek bir insan ömrü ölçeğinde bile anlamak istiyor. Bu kayıt, hızlı iklim değişimlerinin geçmişte insanların yaşadığı yerleri nasıl dönüştürdüğünü gösteriyor."
+      ],
+      "takeaway": "New Mexico'daki White Sands'te 20 ayrı katmanda bulunan insan ayak izleri 23.500 ile 21.700 yıl öncesine tarihlendi.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "arkeoloji",
+          "label": "arkeoloji",
+          "url": "etiket/arkeoloji.html"
+        },
+        {
+          "slug": "ayakizi",
+          "label": "ayakizi",
+          "url": "etiket/ayakizi.html"
+        },
+        {
+          "slug": "buzulcagi",
+          "label": "buzulcagi",
+          "url": "etiket/buzulcagi.html"
+        },
+        {
+          "slug": "amerika",
+          "label": "amerika",
+          "url": "etiket/amerika.html"
+        },
+        {
+          "slug": "iklim",
+          "label": "iklim",
+          "url": "etiket/iklim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aeh0707"
+        }
+      ],
+      "image_credits": [
+        "US Geological Service, Wikimedia Commons (Public domain)",
+        "Springer KB ve ark., Science Advances 2026 (10.1126/sciadv.aeh0707), CC BY 4.0",
+        "Springer KB ve ark., Science Advances 2026 (10.1126/sciadv.aeh0707), CC BY 4.0; fotograf USGS/Bournemouth Universitesi",
+        "uncredited National Park Service (NPS) artist, Wikimedia Commons (Public domain)",
+        "xiquinhosilva, Wikimedia Commons (CC BY 4.0)",
+        "NPS, Wikimedia Commons (Public domain)",
+        "Larry Mills, Wikimedia Commons (CC BY 2.0)"
+      ],
+      "video": {
+        "youtube": "XQ8BySz-5i0"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/XQ8BySz-5i0"
+        }
+      ]
+    },
+    {
+      "id": "proj_67518aa807",
+      "slug": "2026-10-26-kalamar-dna-sini-degistirmeden-proteinlerini-nasil-yeniden-y",
+      "url": "yazi/2026-10-26-kalamar-dna-sini-degistirmeden-proteinlerini-nasil-yeniden-y.html",
+      "date": "2026-10-26T13:00:00+00:00",
+      "date_text": "26 Ekim 2026",
+      "publish_at": "2026-10-26T13:00:00Z",
+      "draft": false,
+      "title": "Kalamar DNA'sını Değiştirmeden Proteinlerini Nasıl Yeniden Yazıyor?",
+      "standfirst": "Araştırmacılar kalamarda 7.997 RNA düzenlemesinin gerçekten proteinlere yansıdığını ve proteinlerin dayanıklılığını, yerini ya da etkinliğini değiştirebildiğini gösterdi.",
+      "paragraphs": [
+        "Bir genin bilgisi önce DNA'dan RNA'ya kopyalanıyor, sonra RNA'ya göre protein üretiliyor. Bazı canlılarda ADAR adlı enzimler bu RNA kopyasında tek tek harfleri değiştirebiliyor. Böylece DNA aynı kalırken üretilen protein farklı olabiliyor. Buna RNA düzenleme deniyor. Kalamar, ahtapot ve mürekkep balığının içinde olduğu kafadanbacaklılar, bilinen bütün canlılar arasında bu düzenlemeyi en yoğun yapan grup. Ama bu düzenlemelerin çoğunun proteinin işini gerçekten değiştirip değiştirmediği bilinmiyordu.",
+        "Kaliforniya Üniversitesi San Francisco ve Gladstone Enstitüleri'nden bir ekip, ABD'nin Atlantik kıyılarında yaşayan uzun yüzgeçli kıyı kalamarını (Doryteuthis pealeii) inceledi. Kalamarın beyninin görme bölümü olan optik lobdan ve solungaçlarından alınan proteinleri kütle spektrometrisi adlı yöntemle taradılar. Bu yöntem proteinleri parçalayıp tartarak hangi amino asit dizisini taşıdıklarını gösteriyor. Ardından biyokimyasal deneyler ve hücre deneyleriyle düzenlenmiş proteinlerin nasıl davrandığına baktılar.",
+        "Ekip, RNA düzenlemesinin yol açtığı 7.997 amino asit değişikliğinin protein düzeyinde gerçekten üretildiğini doğruladı. Düzenlenmiş proteinler düzenlenmemiş hallerinden farklı davranabiliyordu. Bazılarının dayanıklılığı, bazılarının hücre içinde bulunduğu yer, bazılarının enzim olarak etkinliği değişti. Düzenleme ayrıca proteinlerin üzerine sonradan eklenen kimyasal etiketlerin bağlanacağı noktaları yaratabiliyor ya da yok edebiliyordu. Bu etiketler proteinin işini ve başka proteinlerle etkileşimini doğrudan etkiliyor.",
+        "En çarpıcı örnek MARCHF5 adlı bir protein. Bu protein başka proteinlere ubikitin denen küçük bir etiket takıyor ve hücrenin enerji santrali olan mitokondrilerin düzeniyle ilgili. MARCHF5'in düzenlenmiş hali, hangi proteinlerin etiketleneceğini geniş çapta değiştirdi ve mitokondrilerin dengesini bozdu. Bu, RNA düzenlemenin bir hücre organelinin işleyişini bile etkileyebileceğini gösteriyor.",
+        "Araştırmacılar bu çalışmanın, kafadanbacaklılarda yoğun RNA düzenlemenin protein çeşitliliğini nasıl artırdığına dair ilk protein ölçeğinde görünümü sunduğunu söylüyor. Amaç, RNA düzeyindeki bu esnekliğin protein işlevini ve hücrenin fizyolojisini nasıl biçimlendirdiğini anlamak için bir çerçeve kurmak.",
+        "Araştırmacılar kafadanbacaklılardaki yoğun RNA düzenlemenin proteinlerin işini nasıl çeşitlendirdiğini ilk kez protein ölçeğinde görmek ve RNA düzeyindeki bu esnekliğin hücrenin işleyişini nasıl biçimlendirdiğini anlamak için bir çerçeve kurmak istiyor."
+      ],
+      "takeaway": "Kalamar, DNA'sını değiştirmeden RNA'sını düzenleyerek proteinlerini yeniden yazıyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "kalamar",
+          "label": "kalamar",
+          "url": "etiket/kalamar.html"
+        },
+        {
+          "slug": "rna",
+          "label": "rna",
+          "url": "etiket/rna.html"
+        },
+        {
+          "slug": "protein",
+          "label": "protein",
+          "url": "etiket/protein.html"
+        },
+        {
+          "slug": "genetik",
+          "label": "genetik",
+          "url": "etiket/genetik.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Cell (2026)",
+          "url": "https://doi.org/10.1016/j.cell.2026.09.043"
+        }
+      ],
+      "image_credits": [
+        "Minette from Seattle, Washington, Wikimedia Commons (CC BY 2.0)",
+        "SEFSC Pascagoula Laboratory; Collection of Brandi Noble, NOAA/NMFS/SEFSC, Wikimedia Commons (Public domain)",
+        "Moen JM ve ark., Cell 2026 (10.1016/j.cell.2026.09.043), CC BY 4.0",
+        "Suzuki M, Kimura T, Ogawa H, Hotta K, Oka K, Wikimedia Commons (CC BY 2.5)",
+        "Eric A. Lazo-Wasem, Wikimedia Commons (CC0)"
+      ],
+      "video": {
+        "youtube": "ksQ8yQsMNn4"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/ksQ8yQsMNn4"
+        }
+      ]
+    },
+    {
+      "id": "proj_af4b20558f",
+      "slug": "2026-10-26-insanlar-ton-baligini-ne-zamandan-beri-avliyor",
+      "url": "yazi/2026-10-26-insanlar-ton-baligini-ne-zamandan-beri-avliyor.html",
+      "date": "2026-10-26T03:00:00+00:00",
+      "date_text": "26 Ekim 2026",
+      "publish_at": "2026-10-26T03:00:00Z",
+      "draft": false,
+      "title": "İnsanlar Ton Balığını Ne Zamandan Beri Avlıyor?",
+      "standfirst": "Dünya çapındaki kanıtların derlemesi ton avını en az 44 bin yıl geriye götürüyor.",
+      "paragraphs": [
+        "Ton balıkları açık okyanusun en büyük avcılarından. Bazı türleri 3 metreyi aşan boylara ulaşıyor ve 40 yıldan uzun yaşıyor. Bugün her yıl milyonlarca ton ton balığı avlanıyor ve bu sektör yılda yaklaşık 40 milyar dolarlık bir pazar. Ama ton stoklarıyla ilgili bilimsel değerlendirmelerin çoğu yalnızca son 75 yıla bakıyor ve 1950 yılını başlangıç noktası alıyor. İnsanların bu balıkları ne zamandan beri, nerede ve nasıl avladığı pek bilinmiyordu.",
+        "Smithsonian Enstitüsü'nden arkeolog Torben Rick ve biyolog Emma Elliott Smith'in de aralarında bulunduğu 18 araştırmacılık uluslararası bir ekip, dünyanın dört bir yanındaki kanıtları bir araya getirdi. Arkeolojik kazılarda bulunan ton balığı ile kılıçbalığı ve yelken balığı gibi gagalı balıkların kemikleri, kaya resimleri, fresk ve vazo resimleri, yazılı tarihi kayıtlar ve yerli toplulukların anlatıları incelendi. Çalışma yeni bir kazı değil, var olan kanıtların dünya çapında bir derlemesi.",
+        "En eski kesin kanıt, Doğu Timor'daki Jerimalai mağarasında bulunan ve büyük olasılıkla çizgili orkinosa (skipjack) ait kemikler. Yaşları yaklaşık 44 bin yıl. Araştırmacılara göre burada kıyıya yakın derin su kanalları tonları sahile yaklaştırmış olabilir. Bu erken örnek bir istisna. Dünyanın çoğu yerinde ton avının izleri 10 bin yıl önce ya da daha yakın dönemlerde başlıyor. Gagalı balıkların avına ait en eski kanıt da yaklaşık 10 bin yıl öncesine uzanıyor.",
+        "Sonraki dönemlerde örnekler çoğalıyor. Yunanistan'da Kiladha Körfezi'ne bakan bir mağarada 9 bin ila 11 bin yıl öncesine ait binlerce ton kemiği bulundu. Japonya ve Kore'de ton avı en az 7 bin yıl önce başladı. Kuzey Amerika'nın kuzeybatı kıyısında yerli halklar 5 bin yılı aşkın süre Pasifik mavi yüzgeçli orkinosunu zıpkınla avladı. Akdeniz'de yaklaşık 3 bin yıl önce ticari bir orkinos balıkçılığı kurulmuştu. Bu erken avcılığın çoğu tonların kıyıya yaklaştığı yerlerde yapıldı. Denizaltı kanyonları, mevsimlik göçler ya da sıcak deniz dönemleri balıkları sahile getiriyordu. Ton avı çoğu zaman tören ve ritüellerle de bağlantılıydı. Eski Yunanlılar Poseidon'a ton sunuyordu.",
+        "Araştırmacılar arkeolojik alanlardaki kemik miktarını kaba bir ölçü olarak kullanınca şu sonuca vardı: en büyük antik balıkçılık olan Akdeniz'dekiler bile binlerce yıl boyunca toplamda binlerce ton balık çıkarmış olabilir. Bugün ise her yıl milyonlarca ton avlanıyor. Açık okyanusta yoğun ve sürekli ticari avcılık insanlık tarihinde çok yeni, büyük kısmı son 200 yılda gerçekleşti.",
+        "Ekibin amacı, ton ve benzeri okyanus avcılarının bugünkü durumunu yalnızca 1950'den beri değil, binlerce yıllık bir geçmişle birlikte görmek. Bu uzun bakış, insanların kıyı ekosistemleri ile açık okyanus üzerindeki etkisinin ne zaman ve nasıl farklılaştığını gösteriyor ve tonların sürdürülebilir yönetimi tartışmasına derin bir zaman bakışı katıyor.",
+        "Araştırmacılar ton ve benzeri okyanus avcılarının bugünkü durumunu yalnızca son 75 yılla değil, insanlarla binlerce yıllık ilişkisiyle birlikte değerlendirmek istiyor. Bu derin geçmiş, okyanus avcılığının ne kadar yeni ve hızlı büyüdüğünü göstererek ton stoklarının sürdürülebilir yönetimine yön verebilir."
+      ],
+      "takeaway": "İnsanlar ton balığını en az 44 bin yıldır avlıyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "arkeoloji",
+          "label": "arkeoloji",
+          "url": "etiket/arkeoloji.html"
+        },
+        {
+          "slug": "tonbaligi",
+          "label": "tonbaligi",
+          "url": "etiket/tonbaligi.html"
+        },
+        {
+          "slug": "balikcilik",
+          "label": "balikcilik",
+          "url": "etiket/balikcilik.html"
+        },
+        {
+          "slug": "tarih",
+          "label": "tarih",
+          "url": "etiket/tarih.html"
+        },
+        {
+          "slug": "okyanus",
+          "label": "okyanus",
+          "url": "etiket/okyanus.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (Proceedings of the National Academy of Sciences) (2026)",
+          "url": "https://doi.org/10.1073/pnas.2512066123"
+        }
+      ],
+      "image_credits": [
+        "Jean Ogden Just Chaos Photography, Wikimedia Commons (CC BY 2.0)",
+        "National Marine Sanctuaries, Wikimedia Commons (Public domain)",
+        "Joris Carolus, Wikimedia Commons (Public domain)",
+        "http://reportagesicilia.blogspot.co.uk/2010_10_01_archive.html, Wikimedia Commons (Public domain)",
+        "Danilo Cedrone (United Nations Food and Agriculture Organization), Wikimedia Commons (Public domain)",
+        "Anthonikovii, Wikimedia Commons (CC BY 4.0)",
+        "Mr. Cormish, Wikimedia Commons (CC BY 2.0)"
+      ],
+      "video": {
+        "youtube": "TYTuV_uOQDo"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/TYTuV_uOQDo"
+        }
+      ]
+    },
+    {
+      "id": "proj_aee2443d5e",
+      "slug": "2026-10-25-thwaites-buzulunun-altina-giren-deniz-suyu-tahminleri-neden-",
+      "url": "yazi/2026-10-25-thwaites-buzulunun-altina-giren-deniz-suyu-tahminleri-neden-.html",
+      "date": "2026-10-25T13:00:00+00:00",
+      "date_text": "25 Ekim 2026",
+      "publish_at": "2026-10-25T13:00:00Z",
+      "draft": false,
+      "title": "Thwaites Buzulunun Altına Giren Deniz Suyu Tahminleri Neden Değiştiriyor?",
+      "standfirst": "Buzulun altına kilometrelerce sızan deniz suyunu hesaba katan model, Thwaites'in 2100'e kadar deniz seviyesine katkısını yaklaşık 30 mm buldu.",
+      "paragraphs": [
+        "Batı Antarktika'daki Thwaites Buzulu, Antarktika'nın kaybettiği buzun en büyük kaynaklarından biri. Tamamı erise deniz seviyesini yaklaşık 65 santimetre yükseltecek kadar buz taşıyor. Buzulun denize uzanan ucunun altına ılık okyanus suyu giriyor ve buzu alttan eritiyor. Buzun deniz tabanına oturduğu yerle suda yüzmeye başladığı yer arasındaki sınıra 'oturma çizgisi' deniyor. Bu çizgi 1996'dan beri buzulun en hızlı akan kolunda yaklaşık 25 kilometre, yılda ortalama 800 metre geriledi.",
+        "Sorun şu: buz modellerinin çoğu bu sınırı keskin bir çizgi gibi ele alıyor. Oysa ICEYE uydularının yüksek çözünürlüklü radar görüntüleri, gelgitle birlikte deniz suyunun buzun altına birkaç kilometre sızdığını, buzu dönem dönem kaldırdığını gösterdi. Buna 'oturma bölgesi' deniyor. Mevcut modeller ayrıca geçmişte gözlenen geri çekilmeyi, incelmeyi ve hızlanmayı birlikte doğru üretmekte zorlanıyordu.",
+        "Kaliforniya Üniversitesi (Los Angeles ve Irvine), NASA Jet Propulsion Laboratuvarı ve Dartmouth Koleji'nden bir ekip, ISSM adlı buz tabakası modeline, içinde erimenin sürdüğü 1 ile 6 kilometre genişliğinde bir oturma bölgesi ekledi. Modeli 1990'ların ortasındaki durumla başlatıp 2023'e kadar çalıştırdılar ve sonucu üç bağımsız gözlemle karşılaştırdılar: buzulun akış hızı, buz kalınlığı ve oturma çizgisinin konumu. Geçmişi en iyi, 2 ile 5 kilometrelik bir oturma bölgesi ve yılda 90-120 metrelik alttan erime üretti. Oturma bölgesi olmayan modellerin geçmişi doğru üretme olasılığı dört kat daha düşüktü.",
+        "Aynı model 2100'e uzatıldığında, buzulu bugün tutan deniz altı tümseği Mouginot Sırtı'nın önemi ortaya çıktı. Bu sırt deniz seviyesinin yaklaşık 950 metre altında ve buzulu şimdilik yerinde tutuyor. 2-3 kilometrelik oturma bölgesinde buzulun yüzyıl sonuna kadar sırttan kopma olasılığı yaklaşık yüzde 45; uydu gözlemlerine uyan 4-6 kilometrede yaklaşık yüzde 60. 5-6 kilometrede kopma 2038 kadar erken gerçekleşiyor. Deniz seviyesine katkı oturma bölgesi olmadan 8,3 milimetre, 3 kilometrede 19,4 milimetre, 5 kilometrede 30,1 milimetre çıktı. Karşılaştırma için, uluslararası model karşılaştırma projesi ISMIP6'nın aynı senaryodaki ortalaması 15,2 milimetre.",
+        "Bu tahminler iklimin 1996-2023 ortalamasında sabit kaldığı varsayımıyla yapıldı, yani bir alt sınır. Okyanusun 0,5-0,7 derece daha ısınması buz kaybını yaklaşık yüzde 15 artırıyor. Ekip, oturma bölgesinin genişliğinin sonucu okyanus sıcaklığındaki orta düzeydeki değişimlerden daha çok etkilediğini, her 1 kilometrelik artışın tahmini ortalama yüzde 22 değiştirdiğini buldu. Araştırmacılar, erimenin sürdüğü oturma bölgelerinin bütün buz tabakası modellerine eklenmesini ve oturma çizgisi yakınında daha fazla yerinde ölçüm yapılmasını öneriyor. Amaç Antarktika'nın gelecekteki deniz seviyesi yükselmesine katkısındaki belirsizliği daraltmak.",
+        "Araştırmacılar Antarktika'nın gelecekte deniz seviyesine katkısındaki belirsizliği daraltmak istiyor. Bunun için buzun altına sızan deniz suyunun bütün buz modellerine eklenmesini ve oturma çizgisi yakınında daha çok ölçüm yapılmasını öneriyorlar."
+      ],
+      "takeaway": "Bu, önceki modellerin ortalaması olan yaklaşık 15 milimetrenin iki katı; üstelik iklimin daha fazla ısınmadığı varsayımıyla.",
+      "impact": null,
+      "category": {
+        "slug": "yer-bilimleri",
+        "label": "Yer Bilimleri",
+        "url": "kategori/yer-bilimleri.html"
+      },
+      "tags": [
+        {
+          "slug": "iklim",
+          "label": "iklim",
+          "url": "etiket/iklim.html"
+        },
+        {
+          "slug": "antarktika",
+          "label": "antarktika",
+          "url": "etiket/antarktika.html"
+        },
+        {
+          "slug": "buzul",
+          "label": "buzul",
+          "url": "etiket/buzul.html"
+        },
+        {
+          "slug": "denizseviyesi",
+          "label": "denizseviyesi",
+          "url": "etiket/denizseviyesi.html"
+        },
+        {
+          "slug": "thwaites",
+          "label": "thwaites",
+          "url": "etiket/thwaites.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-77976-1"
+        }
+      ],
+      "image_credits": [
+        "NASA, Wikimedia Commons (Public domain)",
+        "Poinelli M ve ark., Nature Communications 2026 (10.1038/s41467-026-77976-1), CC BY 4.0",
+        "Contains modified Copernicus Sentinel data (2017–2019), processed by ESA",
+        "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S, Wikimedia Commons (Public domain)",
+        "United States Antarctic Program, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "bYfbiLFQjE0"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/bYfbiLFQjE0"
+        }
+      ]
+    },
+    {
+      "id": "proj_3869e97e65",
+      "slug": "2026-10-25-arktik-morinalari-son-buzul-cagini-nasil-atlatti",
+      "url": "yazi/2026-10-25-arktik-morinalari-son-buzul-cagini-nasil-atlatti.html",
+      "date": "2026-10-25T03:00:00+00:00",
+      "date_text": "25 Ekim 2026",
+      "publish_at": "2026-10-25T03:00:00Z",
+      "draft": false,
+      "title": "Arktik Morinaları Son Buzul Çağını Nasıl Atlattı?",
+      "standfirst": "256 balık kulak taşı, kutup ve buz morinalarının on binlerce yıl önce Arktik'in çok kuzeyinde yaşadığını ve iklim değişimine farklı tepki verdiğini gösteriyor.",
+      "paragraphs": [
+        "Son buzul çağında, yaklaşık 50.000 ile 12.000 yıl önce, Arktik Okyanusu'nun orta kesiminin kalın ve hiç erimeyen bir buzla kaplı olduğu, altında neredeyse hiç canlı üretimi olmadığı düşünülüyordu. Bu yüzden orada balık gibi omurgalıların yaşayıp yaşamadığı bilinmiyordu. Bugün bölgede iki soğuk sever morina türü yaşıyor: kutup morinası (Boreogadus saida) ve buz morinası (Arctogadus glacialis). İkisi de yalnızca Arktik'te bulunan, kanlarındaki antifriz proteinleri sayesinde sıfırın altındaki suda yaşayabilen balıklar ve Arktik besin zincirinin kilit halkaları.",
+        "Stockholm Üniversitesi ve Almanya'daki Alfred Wegener Enstitüsü'nden bir ekip, 2021'de İsveç buzkıranı Oden ile yapılan bir seferde, 84 ile 89 derece kuzey arasındaki beş noktadan, 901 ile 1537 metre derinlikten deniz dibi çamuru aldı. Çamurun içinden balıkların kulak taşlarını ayıkladılar. Kulak taşı (otolit), kemikli balıkların kafasında bulunan, kireçten yapılmış küçük bir taş. Her türün kulak taşının şekli farklı olduğu için hangi balığa ait olduğu anlaşılabiliyor ve çamurda binlerce yıl korunabiliyor.",
+        "Toplam 256 kulak taşı bulundu. 206'sının türü belirlendi: 145'i kutup morinasına, 57'si buz morinasına, 4'ü bir salyangoz balığı türüne ait. 79 kulak taşının yaşı radyokarbon yöntemiyle ölçüldü. Kutbun hemen yakınındaki Lomonosov Sırtı'nda (87-89 derece kuzey) iki morina türü de yaklaşık 48.000-35.000 yıl önce yaşıyordu. Buzul çağının görece ılık dönemlerinde Atlantik ve Pasifik'ten gelen su akışı ve incelen deniz buzu, balıkları besleyecek kadar canlı üretimi sağlamış olabilir.",
+        "Sonra yaklaşık 25.000 yıllık bir boşluk geliyor. Lomonosov Sırtı'ndan yaşı ölçülen 44 kulak taşının 25'i 35.000 yıldan eski, 19'u 12.000 yıldan genç; arada tek bir tane bile yok. Buzul çağının en sert döneminde balıklar oradan çekilmiş, yaklaşık 12.000 yıl önce iklim ısınınca geri dönmüşler. Ama Grönland'in kuzeyindeki Morris Jesup Yükseltisi'nde (84-85 derece kuzey) buz morinası, buzul çağının zirvesinde, 20.300 ile 18.600 yıl önce arasındaki yaklaşık 1.700 yıllık bir dönemde de vardı. Kutup morinası ise o dönemde orada yoktu. Ekip bunu, buz morinasının buzun ortasındaki açık su alanlarında, bir tür sığınakta hayatta kaldığı, kutup morinasının ise daha güneye çekildiği şeklinde yorumluyor. Bu ayrı yollar iki türün evrimsel olarak birbirinden ayrışmasına katkı yapmış olabilir.",
+        "Araştırmacılara göre buzul çağındaki Arktik Okyanusu ıssız bir buz çölü değildi; soğuğa uyum sağlamış balıklar için bir yaşam alanıydı. Ekip, bu iki türün 50.000 yıldır yaşadığı buzla kaplı Arktik ortamının bugün hızla ısındığını hatırlatıyor. Özellikle genetik çeşitliliği düşük ve buzul kenarına bağımlı olan buz morinasının ısınmaya karşı en savunmasız Arktik morinası olabileceğini belirtiyor. Bulgular, bu türlerin geçmişte iklim değişimlerine nasıl tepki verdiğini anlayarak geleceklerini tahmin etmeye yardım ediyor.",
+        "Araştırmacılar Arktik balıklarının buzul çağının sert koşullarına nasıl dayandığını anlamak istiyor. Bu geçmiş, bugün hızla ısınan Arktik'te kutup morinası ve özellikle buz morinasının nasıl etkileneceğini öngörmeye yardım ediyor."
+      ],
+      "takeaway": "Kuzey Kutbu yakınında deniz dibi çamurundan çıkan 256 balık kulak taşı, iki Arktik morina türünün buzul çağında da orada yaşadığını gösterdi.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "balik",
+          "label": "balik",
+          "url": "etiket/balik.html"
+        },
+        {
+          "slug": "arktik",
+          "label": "arktik",
+          "url": "etiket/arktik.html"
+        },
+        {
+          "slug": "buzulcagi",
+          "label": "buzulcagi",
+          "url": "etiket/buzulcagi.html"
+        },
+        {
+          "slug": "iklim",
+          "label": "iklim",
+          "url": "etiket/iklim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-78810-4"
+        }
+      ],
+      "image_credits": [
+        "Totti, Wikimedia Commons (CC BY-SA 4.0)",
+        "Chawarski J ve ark., Nature Communications 2026 (10.1038/s41467-026-78810-4), CC BY 4.0",
+        "Havforskningsinstituttet, Wikimedia Commons (CC BY 4.0)",
+        "Claude Nozères, Wikimedia Commons (CC BY 4.0)"
+      ],
+      "video": {
+        "youtube": "5KVp8_IR-Ps"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/5KVp8_IR-Ps"
+        }
+      ]
+    },
+    {
+      "id": "proj_13dcb8b462",
+      "slug": "2026-10-24-bir-salyangozun-kabugu-neden-saga-digerininki-sola-donuyor",
+      "url": "yazi/2026-10-24-bir-salyangozun-kabugu-neden-saga-digerininki-sola-donuyor.html",
+      "date": "2026-10-24T13:00:00+00:00",
+      "date_text": "24 Ekim 2026",
+      "publish_at": "2026-10-24T13:00:00Z",
+      "draft": false,
+      "title": "Bir Salyangozun Kabuğu Neden Sağa, Diğerininki Sola Dönüyor?",
+      "standfirst": "Japon kara salyangozlarında kabuk yönü, miyozin motor proteinindeki doğal gen farklarıyla bağlantılı.",
+      "paragraphs": [
+        "Hayvanların çoğunun vücudu dışarıdan simetrik görünse de içi asimetrik. İnsanda kalp solda, karaciğer sağda. Bu sağ-sol düzeni neredeyse bütün hayvanlarda sabit ve tersine dönmesi genellikle embriyo gelişiminde sorunlarla birlikte görülüyor. Bu yüzden sağ-solun nasıl belirlendiğini incelemek zor: karşılaştırılacak doğal bir 'ters' örnek pek yok.",
+        "Salyangozlar bunun istisnası. Kabuğun kıvrılma yönü, sağ-sol yönünü dışarıdan gösteriyor. Salyangozların çoğunun kabuğu sağa kıvrılıyor ama bazı yabani türlerde sola kıvrılanlar da bol. Şimdiye kadarki bilgi ise büyük gölet salyangozu (Lymnaea stagnalis) gibi, sola kıvrılmanın nadir olduğu ve hastalık yarattığı türlerden geliyordu. Bu salyangozda sola kıvrılmaya formin adlı başka bir gendeki bozucu bir mutasyon yol açıyor.",
+        "İngiltere'deki Nottingham Üniversitesi ve Japonya'daki Tohoku Üniversitesi'nden araştırmacılar, Japonya'ya özgü yabani Euhadra kara salyangozlarını inceledi. Basın bültenine göre çalışmayı mümkün kılan, Japonya'nın dağlarının derinliklerinde sağa ve sola kıvrılan salyangozların birbiriyle çiftleşebildiği bir vadinin bulunması oldu. Ekip, kıvrılma yönündeki farkın miyozin I a/b adlı alışılmadık bir miyozin genindeki işlevsel farklardan kaynaklandığını gösterdi. Miyozinler, hücrelerin hareket etmesine ve şekil değiştirmesine yardım eden proteinler. Bu miyozin türü daha önce hiçbir hayvanda sağ-sol belirlenmesiyle ilişkilendirilmemişti.",
+        "Sola ve sağa kıvıran gen sürümlerinin ikisi de çok eski. Tek hücreli embriyoda gen etkinliğinde çok küçük farklar yaratıyorlar ve hastalıkla ilişkili değiller. Sola kıvıran sürümde, proteinin motor bölgesinde ve bu bölgenin kaldıraç koluna bağlandığı yerde birkaç amino asit değişikliği var. Bu değişiklikler baskın etki gösteriyor ve miyozinin hücre iskeletindeki aktinle etkileşimini değiştirebilir. Araştırmacılar, bu değişikliklerin evrimde seçilim baskısının gevşemesiyle mümkün olduğunu düşünüyor. Karşılaştırma için gölet salyangozuna da baktılar: orada sağa ve sola kıvrılan embriyolar arasında binlerce genin etkinliği farklıydı.",
+        "Araştırmacılara göre birkaç küçük değişiklik, gelişimin en erken aşamasında hücrelerin saat yönünde mi ters yönde mi döneceğini etkiliyor. Bu erken yön de yetişkin salyangozun hem kabuğunun hem iç organlarının yönünü belirliyor. Proje lideri Angus Davison'a göre miyozin genindeki küçük değişiklikler ayna görüntüsü salyangozlar üretiyor ve bu salyangozlar sağlıklı. Ekip, bulguların miyozin ve aktinin sağ-sol simetrisinin kırılmasındaki rolünü güçlendirdiğini ve miyozindeki bu kilit noktaların başka hayvanlarda da araştırılması gerektiğini söylüyor.",
+        "Araştırmacılar hayvanlarda sağ ile solun gelişimin en başında nasıl ayrıldığını anlamak istiyor. Hastalık yaratmadan yönü tersine çeviren bu doğal gen farkı, sağ-sol asimetrisinin moleküler temelini başka hayvanlarda da araştırmak için bir başlangıç noktası sunuyor."
+      ],
+      "takeaway": "Japonya'daki Euhadra kara salyangozlarında kabuğun sağa mı sola mı kıvrılacağını, hücre içinde hareket üreten miyozin adlı bir motor proteinin genindeki doğal farklar belirliyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "salyangoz",
+          "label": "salyangoz",
+          "url": "etiket/salyangoz.html"
+        },
+        {
+          "slug": "genetik",
+          "label": "genetik",
+          "url": "etiket/genetik.html"
+        },
+        {
+          "slug": "asimetri",
+          "label": "asimetri",
+          "url": "etiket/asimetri.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Current Biology (2026)",
+          "url": "https://doi.org/10.1016/j.cub.2026.09.059"
+        }
+      ],
+      "image_credits": [
+        "Lewis AM ve ark., Current Biology 2026 (10.1016/j.cub.2026.09.059), CC BY 4.0",
+        "Davison A, Chiba S, Barton NH, Clarke B ve ark., PLoS Biology 2005 (10.1371/journal.pbio.0030282), Wikimedia Commons, CC BY 2.5",
+        "Nesnad, Wikimedia Commons (CC BY-SA 4.0)",
+        "Takahashi, Wikimedia Commons (Public domain)",
+        "Angus Davison and Satoshi Chiba, Wikimedia Commons (CC BY 2.5)"
+      ],
+      "video": {
+        "youtube": "DC06rbtc6zg"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/DC06rbtc6zg"
+        }
+      ]
+    },
+    {
+      "id": "proj_23cfaa6b5c",
+      "slug": "2026-10-24-orangutan-anneleri-yavrularina-oyun-arkadasi-bulmak-icin-yol",
+      "url": "yazi/2026-10-24-orangutan-anneleri-yavrularina-oyun-arkadasi-bulmak-icin-yol.html",
+      "date": "2026-10-24T03:00:00+00:00",
+      "date_text": "24 Ekim 2026",
+      "publish_at": "2026-10-24T03:00:00Z",
+      "draft": false,
+      "title": "Orangutan Anneleri Yavrularına Oyun Arkadaşı Bulmak İçin Yol mu Değiştiriyor?",
+      "standfirst": "15 yıllık gözlemler, orangutan annelerinin yavruların oyun günlerinden önce komşu annelerin bölgelerine yöneldiğini ve bunun enerji maliyeti olduğunu gösteriyor.",
+      "paragraphs": [
+        "Çoğu omurgalıda yaşıtlarla oynamak, yavrunun davranışsal gelişimi için temel kabul ediliyor. Ama orangutanlar büyük maymunların en yalnız yaşayanı. Anneler yavrularıyla tek başına dolaşıyor ve tek yavru doğuruyor. Böyle bir türde yavrunun oyun arkadaşı bulması zor. Annelerin bunu bilerek kolaylaştırıp kolaylaştırmadığı ve bunun onlara neye mal olduğu bilinmiyordu.",
+        "Max Planck Hayvan Davranışı Enstitüsü, Zürih Üniversitesi, Endonezya'daki Universitas Nasional ve Rutgers Üniversitesi'nden araştırmacılar, Borneo adasındaki Tuanan Araştırma İstasyonu'nda 2003'ten beri toplanan verileri inceledi. 15 yıllık davranış ve hareket kaydı, yaklaşık 32.600 gözlem saati ve 31 yabani Borneo orangutanı (Pongo pygmaeus wurmbii) anne-yavru çifti analiz edildi.",
+        "Yaşıt yavrusu olan komşu anneler yıl boyunca ormanın aynı kısımlarını beklenenden çok daha fazla paylaşıyordu. Bu, akrabalıktan ya da meyve bolluğundan bağımsızdı. Yavrular yaşça birbirine ne kadar yakınsa o kadar sık oynuyordu. Yavruların yaşıtlarıyla oynadığı günlerde anneler daha uzun yol yürüdü ve beslenmeye daha az zaman ayırdı. Yürüdükleri mesafe oyundan önceki ve sonraki günlerde de arttı. Oyundan önce anneler oyun arkadaşının annesinin asıl yaşadığı bölgeye doğru, oyundan sonra da kendi bölgelerine doğru ilerledi.",
+        "Araştırmacılara göre bu, karşılaşmaların tesadüf olmadığını, birkaç gün boyunca planlanıp peşine düşüldüğünü düşündürüyor. Basın bültenine göre bu oyun günleri gözlenen günlerin yaklaşık yüzde 6'sında, yani kabaca 20 günde bir yaşandı ve yavrular o gün toplam 20 dakika kadar oynadı. Yani anneler kısa bir oyun için kendi enerjilerinden fedakarlık ediyor.",
+        "Araştırmacıların amacı, en yalnız yaşayan türlerde bile gelişimin sosyal ihtiyaçlarının nasıl karşılandığını anlamak. Bulgu, annelerin yavrularının sosyal ihtiyacını günlük yol seçimlerine kattığını ve bunun gözden kaçmış bir annelik yatırımı olduğunu gösteriyor. Ekibe göre henüz yanıtlanmamış soru, bu oyunların yavruya ileride bir avantaj sağlayıp sağlamadığı.",
+        "Araştırmacılar, en yalnız yaşayan büyük maymunda bile yavruların sosyal gelişim ihtiyacının nasıl karşılandığını anlamak istiyor. Bulgu, annelerin kendi enerjisinden vererek yavrusuna oyun arkadaşı aradığı, gözden kaçmış bir annelik yatırımını ortaya koyuyor."
+      ],
+      "takeaway": "Borneo'daki yabani orangutan anneleri, yavrularının yaşıtlarıyla oynayabilmesi için günler öncesinden komşu annenin bölgesine doğru yol alıyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "orangutan",
+          "label": "orangutan",
+          "url": "etiket/orangutan.html"
+        },
+        {
+          "slug": "maymun",
+          "label": "maymun",
+          "url": "etiket/maymun.html"
+        },
+        {
+          "slug": "oyun",
+          "label": "oyun",
+          "url": "etiket/oyun.html"
+        },
+        {
+          "slug": "hayvandavranisi",
+          "label": "hayvandavranisi",
+          "url": "etiket/hayvandavranisi.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (Proceedings of the National Academy of Sciences) (2026)",
+          "url": "https://doi.org/10.1073/pnas.2621225123"
+        }
+      ],
+      "image_credits": [
+        "Thomas Fuhrmann, Wikimedia Commons (CC BY-SA 4.0)",
+        "Jorge Franganillo, Wikimedia Commons (CC BY 2.0)",
+        "USAID Indonesia, Wikimedia Commons (Public domain)",
+        "Nanosanchez, Wikimedia Commons (CC BY-SA 4.0)",
+        "Neil WWW.NEILSRTW.BLOGSPOT.COM, Wikimedia Commons (CC BY 2.0)"
+      ],
+      "video": {
+        "youtube": "ful-HbtPHA0"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/ful-HbtPHA0"
+        }
+      ]
+    },
+    {
+      "id": "proj_d4b6d3cead",
+      "slug": "2026-10-23-modern-yasama-gecis-uykuyu-on-yilda-nasil-degistirdi",
+      "url": "yazi/2026-10-23-modern-yasama-gecis-uykuyu-on-yilda-nasil-degistirdi.html",
+      "date": "2026-10-23T13:00:00+00:00",
+      "date_text": "23 Ekim 2026",
+      "publish_at": "2026-10-23T13:00:00Z",
+      "draft": false,
+      "title": "Modern Yaşama Geçiş Uykuyu On Yılda Nasıl Değiştirdi?",
+      "standfirst": "Toba Qom topluluklarında uyku başlangıcı yaklaşık bir saat gecikti.",
+      "paragraphs": [
+        "Elektrik ışığının ve telefon, internet gibi dijital teknolojilerin uykuyu geciktirip kısalttığı yaygın bir kabul. Ama bunu aynı insanları yıllarca izleyerek doğrudan gösteren veri çok az. Sanayileşmeyle insan uykusunun nasıl değiştiği tartışmalı, çünkü o dönüşüm çoğu yerde çoktan bitti ve ölçülemedi.",
+        "Arjantin'deki Universidad de San Andrés ve CONICET'ten Leandro Casiraghi ile ABD'deki Washington Üniversitesi'nden Horacio de la Iglesia'nın da aralarında bulunduğu ekip, bu dönüşümü canlı izleyebileceği bir yer buldu. Toba/Qom, Arjantin'in kuzeyinde yaşayan, eskiden avcı-toplayıcı olan yerli bir halk. Ekip 2012'den 2024'e kadar iki grubu izledi. Birincisi elektriğe yeni kavuşan kırsal topluluklar, ikincisi elektriğe daha önce erişmiş, kasabaya yakın yarı kentsel topluluklar. Kırsal köylere elektrik 2016'dan sonra geldi. Son yıllarda da internet ve akıllı telefon yayıldı.",
+        "Katılımcılar bileğe takılan, saat benzeri hareket ölçerler taktı. Bu cihazlar kolun ne zaman hareketsiz kaldığından kişinin ne zaman uyuyup uyandığını tahmin ediyor. Farklı dönemlerde 156 kişiden 12.000'den fazla uyku kaydı toplandı ve istatistik modellerle zaman içindeki değişim hesaplandı.",
+        "Sonuç çarpıcıydı. Her iki grupta da uykuya geçiş saati yaklaşık 1 saat gecikti. Kırsal topluluklardaki katılımcılar yaklaşık on yıl içinde 35 dakika uyku kaybetti. Ancak ekibin analizine göre ne elektriğin gelişi ne de akıllı telefon ve internet tek başına bu kaymayı tamamen açıklayabiliyor. Araştırmacılar bunun daha geniş bir modernleşme ve kültürel değişim süreciyle uyumlu olabileceğini söylüyor.",
+        "Araştırmacıların amacı, sanayileşmenin insan uykusunu nasıl değiştirdiğini tahmin etmek yerine bir topluluğun içinde gerçek zamanlı görmek. Ekip bu hızlı değişimi, dünyanın sanayileşme sırasında yaşadığı varsayılan uyku dönüşümünün günümüzdeki bir benzeri olarak görüyor. Bir sonraki adım olarak ön baskı sürümünde, Toba/Qom halkının elektrik, televizyon ve internet deneyimini kendi anlatımlarıyla da araştırmak gerektiği belirtiliyor.",
+        "Araştırmacılar, sanayileşmenin insan uykusunu nasıl değiştirdiğini tahmin etmek yerine bu dönüşümü yaşayan bir toplulukta gerçek zamanlı izlemek istiyor. Bulgu, modern yaşama geçişin uykuyu ne kadar hızlı değiştirebildiğini gösteriyor."
+      ],
+      "takeaway": "Arjantin'in kuzeyindeki yerli Toba/Qom topluluklarını 2012-2024 arasında izleyen araştırmacılar, uykuya geçiş saatinin yaklaşık 1 saat geciktiğini gördü.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "uyku",
+          "label": "uyku",
+          "url": "etiket/uyku.html"
+        },
+        {
+          "slug": "elektrik",
+          "label": "elektrik",
+          "url": "etiket/elektrik.html"
+        },
+        {
+          "slug": "insan",
+          "label": "insan",
+          "url": "etiket/insan.html"
+        },
+        {
+          "slug": "modernlesme",
+          "label": "modernlesme",
+          "url": "etiket/modernlesme.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Current Biology (2026)",
+          "url": "https://doi.org/10.1016/j.cub.2026.09.058"
+        }
+      ],
+      "image_credits": [
+        "Iro Bosero, Wikimedia Commons (CC BY-SA 4.0)",
+        "No machine-readable author provided. Pertile assumed (based on copyright claims), Wikimedia Commons (Public domain)",
+        "GrandEscogriffe, Milenioscuro, Wikimedia Commons (CC BY-SA 4.0)"
+      ],
+      "video": {
+        "youtube": "CJKg2RLp5wk"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/CJKg2RLp5wk"
+        }
+      ]
+    },
+    {
+      "id": "proj_b71ee9bd65",
+      "slug": "2026-10-23-jura-doneminde-kus-soyunun-ucamayan-bir-uyesi-mi-yasiyordu",
+      "url": "yazi/2026-10-23-jura-doneminde-kus-soyunun-ucamayan-bir-uyesi-mi-yasiyordu.html",
+      "date": "2026-10-23T03:00:00+00:00",
+      "date_text": "23 Ekim 2026",
+      "publish_at": "2026-10-23T03:00:00Z",
+      "draft": false,
+      "title": "Jura Döneminde Kuş Soyunun Uçamayan Bir Üyesi mi Yaşıyordu?",
+      "standfirst": "Çin'deki 148-150 milyon yıllık fosilin kısa ön kolları ve bacak oranları, kuş soyunun erken bir üyesinin yerde yaşadığını düşündürüyor.",
+      "paragraphs": [
+        "Kuşların dinozorlardan nasıl çıktığı ve ilk kuşların nasıl çeşitlendiği hala tartışmalı. Hesaplar kuşlar soyunun Jura döneminde dallandığını söylüyor ama bu döneme ait fosil çok az. Bu yüzden kuş vücut planının nasıl oluştuğu tam bilinmiyor. Yaygın görüş, ilk kuşların iskeletindeki değişiklikleri asıl olarak uçma yönündeki seçilimin sürüklediği yönünde.",
+        "Çin Bilimler Akademisi Omurgalı Paleontolojisi ve Paleoantropoloji Enstitüsü'nden Min Wang'ın yürüttüğü ekip, güneydoğu Çin'in Fujian eyaletinde yeni bir tür tanımladı: Yuezhuornis yangyuanensis. Fosil, Yangyuan köyü yakınındaki Nanyuan Formasyonu'ndan, Zhenghe Faunası denen Geç Jura dönemine ait bir fosil topluluğundan çıktı. Yaşı yaklaşık 148-150 milyon yıl. Tür, kuşlar soyunun (bilim dilinde Avialae) en erken dallarından biri ve ünlü ilk kuş Archaeopteryx'in hemen ötesine yerleştiriliyor.",
+        "Hayvan şaşırtıcı bir karışım. Kalçası ve arka bacakları kuşa benziyor. Kafatasında hem kuş hem de troodontid denen küçük, kuşa yakın etçil dinozorların özellikleri var. Dişleri sık dizili ve testere ağızlı. Ayağının ikinci parmağı geriye doğru fazlaca kalkabiliyor ve ucunda orak biçimli bir pençe var. Bu özellik Velociraptor'un da içinde olduğu deinonikozor dinozorlarında görülüyor, ama kuşlarda daha önce bilinmiyordu.",
+        "Ekip, hayvanın bacak oranlarını yaşayan 377 kuş türüyle karşılaştırdı. Ön kollar arka bacaklardan yaklaşık üçte bir daha kısaydı. Bu kısa ön kol, kuş olmayan etçil dinozorlarda yaygın bir durum. Bacak oranları en çok sülün gibi yerde yaşayan kuşlarınkine benziyordu. Araştırmacılara göre bu, hayvanın uçamadığını ve karada yaşadığını güçlü biçimde gösteriyor. Ağırlığı yaklaşık 821 gram olarak tahmin edildi.",
+        "Araştırmacıların vardığı sonuç şu: en erken kuşlar yalnızca uçmaya doğru giden tek bir yolda ilerlemiyordu. Daha ilk dallanma sırasında farklı yaşam biçimleri denendi. Ekip, ilk kuşların düşünülenden çok daha çeşitli yaşam biçimlerine sahip olduğunu söylüyor. Fosil tek ve eksik bir örnek olduğu için, yaşam biçimini ve soy ağacındaki yerini kesinleştirmek için yeni fosiller gerekiyor.",
+        "Araştırmacılar kuşların dinozorlardan ayrıldığı ilk dönemde vücut planının nasıl oluştuğunu anlamak istiyor. Bu fosil, uçma dışındaki yaşam biçimlerinin de erken kuş evrimini biçimlendirdiğini gösteriyor; ekip yeni fosillerle bu tabloyu tamamlamayı hedefliyor."
+      ],
+      "takeaway": "Çin'de bulunan yaklaşık 148-150 milyon yıllık bir fosil, kuşlar soyunun en erken üyelerinden birinin uçamadığını ve yerde yaşadığını gösteriyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "paleontoloji",
+          "label": "paleontoloji",
+          "url": "etiket/paleontoloji.html"
+        },
+        {
+          "slug": "kus",
+          "label": "kus",
+          "url": "etiket/kus.html"
+        },
+        {
+          "slug": "dinozor",
+          "label": "dinozor",
+          "url": "etiket/dinozor.html"
+        },
+        {
+          "slug": "fosil",
+          "label": "fosil",
+          "url": "etiket/fosil.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (cilt 658, s. 690-697) (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-10972-z"
+        }
+      ],
+      "image_credits": [
+        "HTO, Wikimedia Commons (Public domain)",
+        "Didier Descouens, Wikimedia Commons (CC BY-SA 3.0)",
+        "Adolf Bernhard Meyer (1840-1911), Wikimedia Commons (Public domain)",
+        "LadyofHats, Wikimedia Commons (Public domain)",
+        "James St. John, Wikimedia Commons (CC BY 2.0)",
+        "H. Raab (User: Vesta), Wikimedia Commons (CC BY-SA 3.0)"
+      ],
+      "video": {
+        "youtube": "gUvCZo4vTYk"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/gUvCZo4vTYk"
+        }
+      ]
+    },
+    {
+      "id": "proj_87afc5c471",
+      "slug": "2026-10-22-ruzgar-bir-kusun-ucus-maliyetini-ne-kadar-degistirir",
+      "url": "yazi/2026-10-22-ruzgar-bir-kusun-ucus-maliyetini-ne-kadar-degistirir.html",
+      "date": "2026-10-22T13:00:00+00:00",
+      "date_text": "22 Ekim 2026",
+      "publish_at": "2026-10-22T13:00:00Z",
+      "draft": false,
+      "title": "Rüzgar Bir Kuşun Uçuş Maliyetini Ne Kadar Değiştirir?",
+      "standfirst": "Aynı ağırlıktaki kondor ve kuğu arasında kilometre başına enerji maliyeti beş kata yakın değişebiliyor.",
+      "paragraphs": [
+        "Ders kitaplarına göre hayvanlar için en ucuz yolculuk yüzmek, sonra uçmak, en pahalısı koşmak. Bu sıralama laboratuvar ölçümlerinden geliyor: yüzme tankları, rüzgar tünelleri ve koşu bantları. Ama bu ölçümlerde hava durgun kabul ediliyor. Oysa doğada uçan hayvanlar rüzgardan ve yükselen sıcak hava akımlarından, yani termallerden sürekli yararlanıyor. Havanın gerçek uçuş maliyetini ne kadar değiştirdiği bilinmiyordu.",
+        "Almanya'daki Max Planck Hayvan Davranışı Enstitüsü'nden Martina Scacco'nun yönettiği, İngiltere'deki Swansea Üniversitesi'nin de yer aldığı uluslararası bir ekip bu soruyu doğada sordu. 68 araştırmacının verisi bir araya geldi. Ekip, 38 türden 850 kuş ve yarasanın 17 yıllık GPS ve hareket sensörü kayıtlarını, küçük uçucular için 4 yıllık radar verisiyle birleştirdi. Toplam 50 kuş ve yarasa türü, 12 gramdan 11 kilogramın üstüne kadar. Hareket sensörleri, enerji harcatan kanat çırpmayı neredeyse bedava süzülmeden ayırdı. GPS ise uçuşun her bölümünü o andaki rüzgar ve yükselen havayla eşleştirdi. Böylece her hayvanın metre başına harcadığı enerjiyi, yani yolculuk maliyetini tahmin ettiler.",
+        "En çarpıcı örnek iki dev kuş. Andes kondoru ve trompetçi kuğu ikisi de yaklaşık 11 kilogram. Kondor uçuş süresinin yalnızca yüzde 0,1'inde kanat çırpıyor, kuğu yüzde 99'unda. Sonuçta kondor her kilometre için kuğunun enerjisinin yaklaşık beşte birini harcıyor; yolculuk maliyeti yüzde 79 daha düşük. Basın bültenine göre kondorun süzülerek uçması yüzmekten bile ucuz. Çalışmadaki 7 akbaba türü toplam yaklaşık 128 bin gün uçup 4,3 milyon kilometreden fazla yol katetti. Bu, dünyanın çevresini 100 kereden fazla dolaşmaya yetiyor. Akbabalar uçuş sürelerinin yalnızca yüzde 0,1 ile 7'sinde kanat çırptı.",
+        "Analiz, türleri iki ana gruba ayırdı: süzülenler ve kanat çırpanlar. Süzülenlerde maliyeti asıl termaller belirliyor, rüzgar daha az etkili. Ağır süzülen kuşlar daha az kanat çırpıyor ve daha ucuza uçuyor ama ne zaman ve nerede uçabilecekleri havaya bağlı. Kanat çırpanlarda ise rüzgar en önemli etken. Arkadan esen rüzgar yardım ediyor, karşıdan esen zorlaştırıyor. Bu kuşlar değişken havada daha rahat uçabiliyor ama bunun bedelini daha fazla enerjiyle ödüyor. Makalenin özetine göre doğadaki uçuş, ortama, vücut yapısına ve davranışa bağlı olarak yüzmekten ucuz olabiliyor ama neredeyse koşmak kadar pahalı da olabiliyor.",
+        "Araştırmacıların amacı, uçuş maliyetini atmosfer koşullarına bağlayarak iklim değişikliğiyle değişen rüzgarların ve hava akımlarının uçan hayvanların enerjisini, hareketlerini ve yayılışını nasıl değiştireceğini öngörebilmek. Sırada, enerji harcamasını kalp atış hızı gibi yöntemlerle doğrudan ölçmek var.",
+        "Araştırmacılar, uçuş maliyetini rüzgar ve yükselen hava akımlarına bağlayarak iklim değişikliğiyle değişen atmosferin uçan hayvanların enerjisini, hareketlerini ve yayılışını nasıl etkileyeceğini öngörebilmek istiyor."
+      ],
+      "takeaway": "Andes kondoru ile trompetçi kuğu aynı ağırlıkta, yaklaşık 11 kilogram.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "kus",
+          "label": "kus",
+          "url": "etiket/kus.html"
+        },
+        {
+          "slug": "kondor",
+          "label": "kondor",
+          "url": "etiket/kondor.html"
+        },
+        {
+          "slug": "ucus",
+          "label": "ucus",
+          "url": "etiket/ucus.html"
+        },
+        {
+          "slug": "enerji",
+          "label": "enerji",
+          "url": "etiket/enerji.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science (2026)",
+          "url": "https://doi.org/10.1126/science.aee6550"
+        }
+      ],
+      "image_credits": [
+        "Jan Ebr, Wikimedia Commons (CC BY 4.0)",
+        "Eduardo Schmeda from Talca, Chile, Wikimedia Commons (CC BY 2.0)",
+        "US Army Corps of Engineers from USA, Wikimedia Commons (CC BY 2.0)",
+        "Mosmas, Wikimedia Commons (CC BY-SA 4.0)",
+        "USFWS Mountain-Prairie, Wikimedia Commons (Public domain)",
+        "U.S. Fish and Wildlife Service - Midwest Region, Wikimedia Commons (Public domain)",
+        "Yellowstone National Park, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "dGKjuRTknCw"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/dGKjuRTknCw"
+        }
+      ]
+    },
+    {
+      "id": "proj_eefa4250af",
+      "slug": "2026-10-22-agarmis-bir-mercan-saglikli-mercana-temas-edince-nasil-iyile",
+      "url": "yazi/2026-10-22-agarmis-bir-mercan-saglikli-mercana-temas-edince-nasil-iyile.html",
+      "date": "2026-10-22T03:00:00+00:00",
+      "date_text": "22 Ekim 2026",
+      "publish_at": "2026-10-22T03:00:00Z",
+      "draft": false,
+      "title": "Ağarmış Bir Mercan Sağlıklı Mercana Temas Edince Nasıl İyileşti?",
+      "standfirst": "Aynı koloniden sağlıklı mercana temas eden ağarmış parçalar 4-8 haftada iyileşti.",
+      "paragraphs": [
+        "Mercanların renginin ve besininin çoğu, dokularında yaşayan mikroskobik alglerden gelir. Bu algler fotosentez yapar ve ürettikleri besinin çoğunu mercana verir. Deniz suyu fazla ısındığında mercan bu algleri dışarı atar ve bembeyaz kalır. Buna mercan ağarması denir. Ağarmış mercan aç kalır, üstünü ipliksi yosunlar sarar ve çoğu zaman ölür. Isı geçtikten sonra iyileşme mümkün ama bu genelde aylar sürer. Dünya 1998, 2010, 2015-2016 ve 2023-2025 yıllarında dört küresel ağarma olayı yaşadı. Ağarmış mercanı hızla kurtarmanın doğal bir yolu bilinmiyordu.",
+        "Stanford Üniversitesi'nin Hopkins Deniz İstasyonu'ndan bir ekip basit bir soru sordu. Resifte ağarmış bir mercanın hemen yanında çoğu zaman sağlıklı bir mercan durur. Sağlıklı komşu, alglerini ağarmış olana aktarabilir mi? Ekip, akvaryumda yetiştirilen dallı bir sert mercan türünü, Pocillopora damicornis'i kullandı. Dalları ısıtılmış bir tankta 12-16 gün tutarak ağarttılar. Sonra 1-1,5 santimetrelik ağarmış parçaları aynı kolonideki, yani genetik olarak birebir aynı sağlıklı parçalarla yan yana koydular.",
+        "Sonuç çarpıcıydı. Sağlıklı parçaya değen 5 ağarmış parçanın hepsi 8 hafta içinde tamamen iyileşti, biri yalnızca 4 haftada. Algler önce temas noktasında göründü, sonra bütün parçaya yayıldı. Değmeden 5-7 milimetre uzakta duran 5 parça ise haftalarca beyaz kaldı. 9 haftanın sonunda bunlardan 2'si yosunla tamamen kaplanıp öldü, diğer 3'ünün de en az yüzde 87'sini yosun sarmıştı. Temas süresini kısaltınca da şaşırtıcı bir şey çıktı. Bir haftalık temas yetti. Ağarmış parça ayrıldıktan sonra da kendi kendine tamamen iyileşti. Bir parça yalnızca 5 günlük temasla bile tam iyileşti.",
+        "Hız da dikkat çekiciydi. Başlangıçta ağarmış parçalar alglerinin yüzde 99,9 ile 100'ünü kaybetmişti. İkinci haftada algler yaklaşık her 4 günde ikiye katlandı. Araştırmacılara göre bu, doğada ölçülen iyileşmelerin çoğundan 10 kata kadar daha hızlı. 12. günde ağarmış parçadaki alg yoğunluğu, yanındaki sağlıklı parçanın ortalama yüzde 70'ine ulaşmıştı.",
+        "Peki nasıl oluyor? İki mercan değdikten yaklaşık 36-60 saat sonra dokuları birbirine kaynaşıyor ve aralarında doku köprüleri oluşuyor. Algler bu köprülerden geçiyor. Bu kaynaşma yalnızca aynı genetik yapıdaki mercanlar arasında oluyor. Farklı genetik yapıdaki iki mercan değdiğinde ise birbirine iğneli iplikçikler uzatıp savaşıyor. Bu denemelerde ağarmış parçaların hiçbiri iyileşmedi, sağlıklı mercan onların üstünü kapladı. Ekip ayrıca ikinci, daha yavaş bir yol da gördü. Sağlıklı mercanın dışarı attığı algler ağarmış mercanın poliplerine geçiyor ama bu tek başına iyileşmeye yetmiyor.",
+        "Araştırmacıların amacı, ağarmış mercanları ağarma olayından sonra hızla kurtaracak yeni müdahalelerin temelini atmak. Sırada bu sürecin başka mercan türlerinde de olup olmadığını görmek, farklı genetik yapıdaki mercanlar arasında aktarımı mümkün kılmanın yolunu aramak ve deneyi akvaryumdan gerçek resiflere taşımak var.",
+        "Araştırmacılar, ağarma olayından sonra ağarmış mercanlara alglerini hızla geri kazandıracak yeni bir kurtarma yönteminin temelini atmayı amaçlıyor. Bulgu, sağlıklı mercanların ağarmış komşularını iyileştirmek için kullanılabileceği müdahalelere ilham verebilir."
+      ],
+      "takeaway": "Ağarmış mercan parçaları, aynı koloniden gelen sağlıklı bir parçaya değdirildiğinde 8 hafta içinde tamamen iyileşti.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "mercan",
+          "label": "mercan",
+          "url": "etiket/mercan.html"
+        },
+        {
+          "slug": "agarma",
+          "label": "agarma",
+          "url": "etiket/agarma.html"
+        },
+        {
+          "slug": "deniz",
+          "label": "deniz",
+          "url": "etiket/deniz.html"
+        },
+        {
+          "slug": "resif",
+          "label": "resif",
+          "url": "etiket/resif.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aeh1580"
+        }
+      ],
+      "image_credits": [
+        "Diego Delso, Wikimedia Commons (CC BY-SA 4.0)",
+        "Ryan McMinds, Wikimedia Commons (CC BY 2.0)",
+        "Ananda Ellis/NOAA, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "rU7Qnt0eiok"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/rU7Qnt0eiok"
+        }
+      ]
+    },
+    {
       "id": "proj_0551694948",
       "slug": "2026-10-20-rotiferler-dna-hasarini-neden-birkac-kusaga-yayiyor",
       "url": "yazi/2026-10-20-rotiferler-dna-hasarini-neden-birkac-kusaga-yayiyor.html",
       "date": "2026-10-20T03:00:00+00:00",
       "date_text": "20 Ekim 2026",
-      "publish_at": "2026-10-20T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Rotiferler DNA Hasarını Neden Birkaç Kuşağa Yayıyor?",
       "standfirst": "Adineta vaga genomları, kırık kromozomların tek kuşakta değil birkaç kuşak boyunca homolog rekombinasyonla tamamlandığını gösteren bir modele destek verdi.",
@@ -1223,12 +3005,17 @@
         "Wikimedia Commons, Wikimedia Commons (Public domain)"
       ],
       "video": {
-        "youtube": "DfqBZ5CTJTw"
+        "youtube": "DfqBZ5CTJTw",
+        "instagram": "https://www.instagram.com/reel/Deu7VSDk4ox/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/DfqBZ5CTJTw"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Deu7VSDk4ox/"
         }
       ]
     },
@@ -1238,7 +3025,7 @@
       "url": "yazi/2026-10-19-varroa-akarlarinin-erkekleri-neden-annelerinin-klonu.html",
       "date": "2026-10-19T13:00:00+00:00",
       "date_text": "19 Ekim 2026",
-      "publish_at": "2026-10-19T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Varroa Akarlarının Erkekleri Neden Annelerinin Klonu?",
       "standfirst": "Üç kuşaklık genetik izleme, erkek Varroa akarlarının annelerinin iki genom kopyasını da taşıdığını gösterdi.",
@@ -1296,12 +3083,17 @@
         "Denis Anderson, CSIRO, Wikimedia Commons (CC BY 3.0)"
       ],
       "video": {
-        "youtube": "ZZzGePvpPjs"
+        "youtube": "ZZzGePvpPjs",
+        "instagram": "https://www.instagram.com/reel/Deu2q_Fk2wV/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/ZZzGePvpPjs"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Deu2q_Fk2wV/"
         }
       ]
     },
@@ -1311,7 +3103,7 @@
       "url": "yazi/2026-10-19-baliklarda-ayni-vantuz-neden-uc-kez-evrimlesti.html",
       "date": "2026-10-19T03:00:00+00:00",
       "date_text": "19 Ekim 2026",
-      "publish_at": "2026-10-19T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Balıklarda Aynı Vantuz Neden Üç Kez Evrimleşti?",
       "standfirst": "960 türlük soy ağacı ve yeni genomlar, karın yüzgeçlerinden oluşan vantuzun üç uzak balık soyunda bağımsız olarak evrimleştiğini gösterdi.",
@@ -1368,12 +3160,17 @@
         "OldMateWA, Wikimedia Commons (CC BY-SA 4.0)"
       ],
       "video": {
-        "youtube": "QDok1aE99cc"
+        "youtube": "QDok1aE99cc",
+        "instagram": "https://www.instagram.com/reel/Deux_99Eyq6/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/QDok1aE99cc"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Deux_99Eyq6/"
         }
       ]
     },
@@ -1383,7 +3180,7 @@
       "url": "yazi/2026-10-18-hayvanlarin-kokeni-fosil-kayitlarindan-cok-daha-eski-olabili.html",
       "date": "2026-10-18T03:00:00+00:00",
       "date_text": "18 Ekim 2026",
-      "publish_at": "2026-10-18T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Hayvanların Kökeni Fosil Kayıtlarından Çok Daha Eski Olabilir mi?",
       "standfirst": "Moğolistan’daki Kheseen yatağı, fosil yokluğunun hayvanların yokluğu anlamına gelmediğini gösterdi.",
@@ -1442,12 +3239,17 @@
         "Citronnel, Wikimedia Commons (CC BY-SA 4.0)"
       ],
       "video": {
-        "youtube": "baD3GA8mnIM"
+        "youtube": "baD3GA8mnIM",
+        "instagram": "https://www.instagram.com/reel/DeutUIYk2AJ/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/baD3GA8mnIM"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeutUIYk2AJ/"
         }
       ]
     },
@@ -1457,7 +3259,7 @@
       "url": "yazi/2026-10-17-erken-sagirlik-beynin-gorme-haritasini-nasil-degistiriyor.html",
       "date": "2026-10-17T13:00:00+00:00",
       "date_text": "17 Ekim 2026",
-      "publish_at": "2026-10-17T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Erken Sağırlık Beynin Görme Haritasını Nasıl Değiştiriyor?",
       "standfirst": "Fonksiyonel MR, erken sağır yetişkinlerde çevresel görüş temsilinin daha geniş, merkezi görüş temsilinin daha küçük olduğunu gösterdi.",
@@ -1527,7 +3329,7 @@
       "url": "yazi/2026-10-17-insanlar-neden-yururken-once-topuguyla-basiyor.html",
       "date": "2026-10-17T03:00:00+00:00",
       "date_text": "17 Ekim 2026",
-      "publish_at": "2026-10-17T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "İnsanlar Neden Yürürken Önce Topuğuyla Basıyor?",
       "standfirst": "İnsan ve şempanze yürüyüşlerini karşılaştıran çalışma, topukla basmanın insanlarda enerji maliyetini düşürdüğünü, ancak daha yüksek darbe kuvvetleri oluşturduğunu gösterdi.",
@@ -1584,12 +3386,17 @@
         "Holowka NB ve ark., Proceedings of the National Academy of Sciences of the United States of America 2026 (10.1073/pnas.2533918123), CC BY 4.0"
       ],
       "video": {
-        "youtube": "WQn-3-mD1KU"
+        "youtube": "WQn-3-mD1KU",
+        "instagram": "https://www.instagram.com/reel/DeujFqhk1rM/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/WQn-3-mD1KU"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeujFqhk1rM/"
         }
       ]
     },
@@ -1599,7 +3406,7 @@
       "url": "yazi/2026-10-16-beynin-gorme-haritasi-gormeden-once-nasil-kuruluyor.html",
       "date": "2026-10-16T13:00:00+00:00",
       "date_text": "16 Ekim 2026",
-      "publish_at": "2026-10-16T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Beynin Görme Haritası Görmeden Önce Nasıl Kuruluyor?",
       "standfirst": "871 beyin taraması, görme korteksindeki proto-retinotopik bağlantı örüntülerinin gebeliğin 21. haftasında, gözler açılmadan önce ortaya çıktığını gösterdi.",
@@ -1653,12 +3460,17 @@
       ],
       "image_credits": [],
       "video": {
-        "youtube": "SyJ18LQ_gy8"
+        "youtube": "SyJ18LQ_gy8",
+        "instagram": "https://www.instagram.com/reel/DeudrL8k3q2/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/SyJ18LQ_gy8"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeudrL8k3q2/"
         }
       ]
     },
@@ -1668,7 +3480,7 @@
       "url": "yazi/2026-10-16-dinozorlarda-ucus-birden-fazla-kez-mi-evrimlesti.html",
       "date": "2026-10-16T03:00:00+00:00",
       "date_text": "16 Ekim 2026",
-      "publish_at": "2026-10-16T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Dinozorlarda Uçuş Birden Fazla Kez mi Evrimleşti?",
       "standfirst": "Yeni Norellraptor fosili ve soy ağacı analizi, mikroraptorlardaki uçuş donanımının kuş soyundan bağımsız ve farklı bir sırayla gelişmiş olabileceğini destekliyor.",
@@ -1728,12 +3540,17 @@
         "Tom Page, Wikimedia Commons (CC BY-SA 2.0)"
       ],
       "video": {
-        "youtube": "clm5RvPfZg0"
+        "youtube": "clm5RvPfZg0",
+        "instagram": "https://www.instagram.com/reel/DeuZAUJE7eZ/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/clm5RvPfZg0"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeuZAUJE7eZ/"
         }
       ]
     },
@@ -1743,7 +3560,7 @@
       "url": "yazi/2026-10-15-taypan-zehri-kan-pihtilasma-sisteminden-nasil-evrimlesti.html",
       "date": "2026-10-15T13:00:00+00:00",
       "date_text": "15 Ekim 2026",
-      "publish_at": "2026-10-15T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Taypan Zehri Kan Pıhtılaşma Sisteminden Nasıl Evrimleşti?",
       "standfirst": "Genom analizi, Avustralya taypanları ve kahverengi yılanlardaki pıhtılaştırıcı zehrin hem normal kan proteinlerinden hem de eski sinir zehirlerinden evrimleştiğini gösterdi.",
@@ -1803,12 +3620,17 @@
         "Sebastian80, Wikimedia Commons (CC BY-SA 3.0)"
       ],
       "video": {
-        "youtube": "I0cfrplrkc4"
+        "youtube": "I0cfrplrkc4",
+        "instagram": "https://www.instagram.com/reel/Dewr31Dk5oQ/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/I0cfrplrkc4"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Dewr31Dk5oQ/"
         }
       ]
     },
@@ -1818,7 +3640,7 @@
       "url": "yazi/2026-10-15-laboratuvar-eti-icin-kas-sinir-ve-damari-ayni-anda-uretmek-n.html",
       "date": "2026-10-15T03:00:00+00:00",
       "date_text": "15 Ekim 2026",
-      "publish_at": "2026-10-15T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Laboratuvar Eti İçin Kas Sinir ve Damarı Aynı Anda Üretmek Neden Önemli?",
       "standfirst": "Sığır embriyonik kök hücrelerinden kas, sinir ve damar hücreleri aynı kültürde gelişti.",
@@ -1873,12 +3695,17 @@
         "Sanaki-Matsumiya M ve ark., Nature communications 2026 (10.1038/s41467-026-76569-2), CC BY 4.0"
       ],
       "video": {
-        "youtube": "35aqR58RH3M"
+        "youtube": "35aqR58RH3M",
+        "instagram": "https://www.instagram.com/reel/DewmVDzEw80/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/35aqR58RH3M"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DewmVDzEw80/"
         }
       ]
     },
@@ -1888,7 +3715,7 @@
       "url": "yazi/2026-10-14-ortacag-parsomenleri-viruslerin-tarihini-nasil-sakladi.html",
       "date": "2026-10-14T13:00:00+00:00",
       "date_text": "14 Ekim 2026",
-      "publish_at": "2026-10-14T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Ortaçağ Parşömenleri Virüslerin Tarihini Nasıl Sakladı?",
       "standfirst": "Hayvan derisinden yapılan el yazmaları ve Tunç Çağı koyun dişlerinden okunan eski DNA, koyun çiçeği virüsünün en az 3.700 yıllık evrimini izlemeyi sağladı.",
@@ -1946,12 +3773,17 @@
         "Johannes Staub (Institut Bibliotheca Fuldensis der Theologischen Fakultät Fulda), Wikimedia Commons (CC0)"
       ],
       "video": {
-        "youtube": "QWQzUH0MKHs"
+        "youtube": "QWQzUH0MKHs",
+        "instagram": "https://www.instagram.com/reel/DeuIZQNEyZ7/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/QWQzUH0MKHs"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeuIZQNEyZ7/"
         }
       ]
     },
@@ -2020,12 +3852,17 @@
         "Krill666.jpg: Uwe Kils I am willing to give the image in 1700 resolution to Wiki, Wikimedia Commons (CC BY-SA 3.0)"
       ],
       "video": {
-        "youtube": "KaeVS3lS2Ps"
+        "youtube": "KaeVS3lS2Ps",
+        "instagram": "https://www.instagram.com/reel/DeeVWJxkyyx/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/KaeVS3lS2Ps"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeeVWJxkyyx/"
         }
       ]
     },
@@ -2095,12 +3932,17 @@
         "Centers for Disease Control and Prevention, Wikimedia Commons (Public domain)"
       ],
       "video": {
-        "youtube": "z5bruB52OQY"
+        "youtube": "z5bruB52OQY",
+        "instagram": "https://www.instagram.com/reel/Ded76yrk009/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/z5bruB52OQY"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Ded76yrk009/"
         }
       ]
     },
@@ -2166,12 +4008,17 @@
         "Brumm A ve ark., Science advances 2026 (10.1126/sciadv.aei1901), CC BY 4.0"
       ],
       "video": {
-        "youtube": "LO4qsOrxe1A"
+        "youtube": "LO4qsOrxe1A",
+        "instagram": "https://www.instagram.com/reel/DeeP5kAEzNe/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/LO4qsOrxe1A"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeeP5kAEzNe/"
         }
       ]
     },
@@ -2239,12 +4086,17 @@
         "Rijksmuseum, Wikimedia Commons (CC0)"
       ],
       "video": {
-        "youtube": "NEq9DGQjwcc"
+        "youtube": "NEq9DGQjwcc",
+        "instagram": "https://www.instagram.com/reel/DeeJ__JE2pV/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/NEq9DGQjwcc"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeeJ__JE2pV/"
         }
       ]
     },
@@ -2311,12 +4163,17 @@
         "Li LY, Gao X, Zhang J, Wu WW, Li YT, eLife 2026 (10.7554/eLife.109571), CC BY 4.0"
       ],
       "video": {
-        "youtube": "YNFkzLZuQ9o"
+        "youtube": "YNFkzLZuQ9o",
+        "instagram": "https://www.instagram.com/reel/Ded3Kyak7H1/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/YNFkzLZuQ9o"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/Ded3Kyak7H1/"
         }
       ]
     },
@@ -2382,12 +4239,17 @@
         "Mubeen T ve ark., eLife 2026 (10.7554/eLife.110584), CC BY 4.0"
       ],
       "video": {
-        "youtube": "L0iqN9q1WHc"
+        "youtube": "L0iqN9q1WHc",
+        "instagram": "https://www.instagram.com/reel/DeeFVKRE53t/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/L0iqN9q1WHc"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeeFVKRE53t/"
         }
       ]
     },
@@ -2454,12 +4316,17 @@
         "Bouke ten Cate, Wikimedia Commons (CC BY 4.0)"
       ],
       "video": {
-        "youtube": "6uwE0llSmRc"
+        "youtube": "6uwE0llSmRc",
+        "instagram": "https://www.instagram.com/reel/DeeaBljk5kE/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/6uwE0llSmRc"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeeaBljk5kE/"
         }
       ]
     },
@@ -2534,12 +4401,17 @@
         "No machine-readable author provided. Hexasoft assumed (based, Wikimedia Commons (kamu malı)"
       ],
       "video": {
-        "youtube": "XId52tZwFAQ"
+        "youtube": "XId52tZwFAQ",
+        "instagram": "https://www.instagram.com/reel/DedyhlWk-Gi/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/XId52tZwFAQ"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DedyhlWk-Gi/"
         }
       ]
     },
@@ -2688,12 +4560,17 @@
         "Li LY, Gao X, Zhang J, Wu WW, Li YT, eLife 2026 (10.7554/eLife.109571), CC BY 4.0"
       ],
       "video": {
-        "youtube": "G6BXBxM5qpI"
+        "youtube": "G6BXBxM5qpI",
+        "instagram": "https://www.instagram.com/reel/DeeAks6k86D/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/G6BXBxM5qpI"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DeeAks6k86D/"
         }
       ]
     },
