@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T23:36:38+00:00",
+  "generated_at": "2026-11-02T20:12:11+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -24,31 +24,37 @@
     {
       "slug": "fizik",
       "label": "Fizik",
-      "count": 6,
+      "count": 7,
       "url": "kategori/fizik.html"
     },
     {
       "slug": "uzay",
       "label": "Astronomi",
-      "count": 8,
+      "count": 9,
       "url": "kategori/uzay.html"
     },
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 34,
+      "count": 48,
       "url": "kategori/biyoloji.html"
+    },
+    {
+      "slug": "malzeme",
+      "label": "Malzeme",
+      "count": 1,
+      "url": "kategori/malzeme.html"
     },
     {
       "slug": "yapay-zeka",
       "label": "Yapay Zekâ",
-      "count": 1,
+      "count": 3,
       "url": "kategori/yapay-zeka.html"
     },
     {
       "slug": "cevre",
       "label": "Çevre",
-      "count": 6,
+      "count": 8,
       "url": "kategori/cevre.html"
     },
     {
@@ -66,7 +72,7 @@
     {
       "slug": "yer-bilimleri",
       "label": "Yer Bilimleri",
-      "count": 3,
+      "count": 4,
       "url": "kategori/yer-bilimleri.html"
     }
   ],
@@ -74,62 +80,98 @@
     {
       "slug": "biyoloji",
       "label": "biyoloji",
-      "count": 14,
+      "count": 22,
       "url": "etiket/biyoloji.html"
     },
     {
       "slug": "evrim",
       "label": "evrim",
-      "count": 11,
+      "count": 13,
       "url": "etiket/evrim.html"
+    },
+    {
+      "slug": "iklim",
+      "label": "iklim",
+      "count": 10,
+      "url": "etiket/iklim.html"
     },
     {
       "slug": "beyin",
       "label": "beyin",
-      "count": 8,
+      "count": 9,
       "url": "etiket/beyin.html"
     },
     {
       "slug": "uzay",
       "label": "uzay",
-      "count": 7,
+      "count": 8,
       "url": "etiket/uzay.html"
-    },
-    {
-      "slug": "iklim",
-      "label": "iklim",
-      "count": 6,
-      "url": "etiket/iklim.html"
     },
     {
       "slug": "cevre",
       "label": "cevre",
-      "count": 5,
+      "count": 7,
       "url": "etiket/cevre.html"
+    },
+    {
+      "slug": "genetik",
+      "label": "genetik",
+      "count": 7,
+      "url": "etiket/genetik.html"
+    },
+    {
+      "slug": "arkeoloji",
+      "label": "arkeoloji",
+      "count": 6,
+      "url": "etiket/arkeoloji.html"
+    },
+    {
+      "slug": "saglik",
+      "label": "saglik",
+      "count": 6,
+      "url": "etiket/saglik.html"
+    },
+    {
+      "slug": "tarih",
+      "label": "tarih",
+      "count": 6,
+      "url": "etiket/tarih.html"
     },
     {
       "slug": "teknoloji",
       "label": "teknoloji",
-      "count": 5,
+      "count": 6,
       "url": "etiket/teknoloji.html"
     },
     {
       "slug": "fizik",
       "label": "fizik",
-      "count": 4,
+      "count": 5,
       "url": "etiket/fizik.html"
     },
     {
       "slug": "fosil",
       "label": "fosil",
-      "count": 4,
+      "count": 5,
       "url": "etiket/fosil.html"
     },
     {
-      "slug": "genetik",
-      "label": "genetik",
+      "slug": "yapayzeka",
+      "label": "yapayzeka",
+      "count": 5,
+      "url": "etiket/yapayzeka.html"
+    },
+    {
+      "slug": "balik",
+      "label": "balik",
       "count": 4,
-      "url": "etiket/genetik.html"
+      "url": "etiket/balik.html"
+    },
+    {
+      "slug": "deniz",
+      "label": "deniz",
+      "count": 4,
+      "url": "etiket/deniz.html"
     },
     {
       "slug": "gezegen",
@@ -138,40 +180,46 @@
       "url": "etiket/gezegen.html"
     },
     {
-      "slug": "saglik",
-      "label": "saglik",
+      "slug": "malzeme",
+      "label": "malzeme",
       "count": 4,
-      "url": "etiket/saglik.html"
+      "url": "etiket/malzeme.html"
     },
     {
-      "slug": "tarih",
-      "label": "tarih",
+      "slug": "paleontoloji",
+      "label": "paleontoloji",
       "count": 4,
-      "url": "etiket/tarih.html"
+      "url": "etiket/paleontoloji.html"
     },
     {
-      "slug": "arkeoloji",
-      "label": "arkeoloji",
+      "slug": "buzul",
+      "label": "buzul",
       "count": 3,
-      "url": "etiket/arkeoloji.html"
+      "url": "etiket/buzul.html"
     },
     {
-      "slug": "balik",
-      "label": "balik",
+      "slug": "buzulcagi",
+      "label": "buzulcagi",
       "count": 3,
-      "url": "etiket/balik.html"
+      "url": "etiket/buzulcagi.html"
     },
     {
-      "slug": "deniz",
-      "label": "deniz",
+      "slug": "dinozor",
+      "label": "dinozor",
       "count": 3,
-      "url": "etiket/deniz.html"
+      "url": "etiket/dinozor.html"
     },
     {
       "slug": "gorme",
       "label": "gorme",
       "count": 3,
       "url": "etiket/gorme.html"
+    },
+    {
+      "slug": "insan",
+      "label": "insan",
+      "count": 3,
+      "url": "etiket/insan.html"
     },
     {
       "slug": "kimya",
@@ -192,10 +240,22 @@
       "url": "etiket/nobel-2026.html"
     },
     {
-      "slug": "paleontoloji",
-      "label": "paleontoloji",
+      "slug": "renk",
+      "label": "renk",
       "count": 3,
-      "url": "etiket/paleontoloji.html"
+      "url": "etiket/renk.html"
+    },
+    {
+      "slug": "resif",
+      "label": "resif",
+      "count": 3,
+      "url": "etiket/resif.html"
+    },
+    {
+      "slug": "uyku",
+      "label": "uyku",
+      "count": 3,
+      "url": "etiket/uyku.html"
     },
     {
       "slug": "yapay-zeka",
@@ -204,10 +264,10 @@
       "url": "etiket/yapay-zeka.html"
     },
     {
-      "slug": "yapayzeka",
-      "label": "yapayzeka",
-      "count": 3,
-      "url": "etiket/yapayzeka.html"
+      "slug": "alzheimer",
+      "label": "alzheimer",
+      "count": 2,
+      "url": "etiket/alzheimer.html"
     },
     {
       "slug": "ari",
@@ -216,10 +276,22 @@
       "url": "etiket/ari.html"
     },
     {
-      "slug": "buzul",
-      "label": "buzul",
+      "slug": "astronomi",
+      "label": "astronomi",
       "count": 2,
-      "url": "etiket/buzul.html"
+      "url": "etiket/astronomi.html"
+    },
+    {
+      "slug": "bakteri",
+      "label": "bakteri",
+      "count": 2,
+      "url": "etiket/bakteri.html"
+    },
+    {
+      "slug": "deepmind",
+      "label": "deepmind",
+      "count": 2,
+      "url": "etiket/deepmind.html"
     },
     {
       "slug": "denizanasi",
@@ -228,10 +300,10 @@
       "url": "etiket/denizanasi.html"
     },
     {
-      "slug": "dinozor",
-      "label": "dinozor",
+      "slug": "denizseviyesi",
+      "label": "denizseviyesi",
       "count": 2,
-      "url": "etiket/dinozor.html"
+      "url": "etiket/denizseviyesi.html"
     },
     {
       "slug": "dis",
@@ -246,10 +318,10 @@
       "url": "etiket/dna.html"
     },
     {
-      "slug": "insan",
-      "label": "insan",
+      "slug": "elektrik",
+      "label": "elektrik",
       "count": 2,
-      "url": "etiket/insan.html"
+      "url": "etiket/elektrik.html"
     },
     {
       "slug": "isitme",
@@ -270,16 +342,34 @@
       "url": "etiket/koku.html"
     },
     {
-      "slug": "malzeme",
-      "label": "malzeme",
+      "slug": "kus",
+      "label": "kus",
       "count": 2,
-      "url": "etiket/malzeme.html"
+      "url": "etiket/kus.html"
     },
     {
       "slug": "mars",
       "label": "mars",
       "count": 2,
       "url": "etiket/mars.html"
+    },
+    {
+      "slug": "matematik",
+      "label": "matematik",
+      "count": 2,
+      "url": "etiket/matematik.html"
+    },
+    {
+      "slug": "mercan",
+      "label": "mercan",
+      "count": 2,
+      "url": "etiket/mercan.html"
+    },
+    {
+      "slug": "mikrobiyoloji",
+      "label": "mikrobiyoloji",
+      "count": 2,
+      "url": "etiket/mikrobiyoloji.html"
     },
     {
       "slug": "nasa",
@@ -294,6 +384,12 @@
       "url": "etiket/noroloji.html"
     },
     {
+      "slug": "okyanus",
+      "label": "okyanus",
+      "count": 2,
+      "url": "etiket/okyanus.html"
+    },
+    {
       "slug": "omur",
       "label": "omur",
       "count": 2,
@@ -306,10 +402,22 @@
       "url": "etiket/orman.html"
     },
     {
-      "slug": "renk",
-      "label": "renk",
+      "slug": "oyun",
+      "label": "oyun",
       "count": 2,
-      "url": "etiket/renk.html"
+      "url": "etiket/oyun.html"
+    },
+    {
+      "slug": "plastik",
+      "label": "plastik",
+      "count": 2,
+      "url": "etiket/plastik.html"
+    },
+    {
+      "slug": "rna",
+      "label": "rna",
+      "count": 2,
+      "url": "etiket/rna.html"
     },
     {
       "slug": "sensor",
@@ -330,16 +438,28 @@
       "url": "etiket/tarim.html"
     },
     {
-      "slug": "uyku",
-      "label": "uyku",
+      "slug": "ucus",
+      "label": "ucus",
       "count": 2,
-      "url": "etiket/uyku.html"
+      "url": "etiket/ucus.html"
+    },
+    {
+      "slug": "virus",
+      "label": "virus",
+      "count": 2,
+      "url": "etiket/virus.html"
     },
     {
       "slug": "yaslanma",
       "label": "yaslanma",
       "count": 2,
       "url": "etiket/yaslanma.html"
+    },
+    {
+      "slug": "yildiz",
+      "label": "yildiz",
+      "count": 2,
+      "url": "etiket/yildiz.html"
     },
     {
       "slug": "zehir",
@@ -354,6 +474,12 @@
       "url": "etiket/adenozin.html"
     },
     {
+      "slug": "agarma",
+      "label": "agarma",
+      "count": 1,
+      "url": "etiket/agarma.html"
+    },
+    {
       "slug": "ahtapot",
       "label": "ahtapot",
       "count": 1,
@@ -366,10 +492,16 @@
       "url": "etiket/akar.html"
     },
     {
-      "slug": "alzheimer",
-      "label": "alzheimer",
+      "slug": "alaska",
+      "label": "alaska",
       "count": 1,
-      "url": "etiket/alzheimer.html"
+      "url": "etiket/alaska.html"
+    },
+    {
+      "slug": "amerika",
+      "label": "amerika",
+      "count": 1,
+      "url": "etiket/amerika.html"
     },
     {
       "slug": "amip",
@@ -378,16 +510,46 @@
       "url": "etiket/amip.html"
     },
     {
+      "slug": "antarktika",
+      "label": "antarktika",
+      "count": 1,
+      "url": "etiket/antarktika.html"
+    },
+    {
+      "slug": "antibiyotik",
+      "label": "antibiyotik",
+      "count": 1,
+      "url": "etiket/antibiyotik.html"
+    },
+    {
       "slug": "antik",
       "label": "antik",
       "count": 1,
       "url": "etiket/antik.html"
     },
     {
+      "slug": "apoe4",
+      "label": "apoe4",
+      "count": 1,
+      "url": "etiket/apoe4.html"
+    },
+    {
+      "slug": "arktik",
+      "label": "arktik",
+      "count": 1,
+      "url": "etiket/arktik.html"
+    },
+    {
       "slug": "arilar",
       "label": "arılar",
       "count": 1,
       "url": "etiket/arilar.html"
+    },
+    {
+      "slug": "asimetri",
+      "label": "asimetri",
+      "count": 1,
+      "url": "etiket/asimetri.html"
     },
     {
       "slug": "astrobiyoloji",
@@ -402,16 +564,16 @@
       "url": "etiket/astrofizik.html"
     },
     {
-      "slug": "astronomi",
-      "label": "astronomi",
-      "count": 1,
-      "url": "etiket/astronomi.html"
-    },
-    {
       "slug": "atmosfer",
       "label": "atmosfer",
       "count": 1,
       "url": "etiket/atmosfer.html"
+    },
+    {
+      "slug": "atol",
+      "label": "atol",
+      "count": 1,
+      "url": "etiket/atol.html"
     },
     {
       "slug": "atom",
@@ -438,10 +600,22 @@
       "url": "etiket/ay.html"
     },
     {
+      "slug": "ayakizi",
+      "label": "ayakizi",
+      "count": 1,
+      "url": "etiket/ayakizi.html"
+    },
+    {
       "slug": "agac",
       "label": "ağaç",
       "count": 1,
       "url": "etiket/agac.html"
+    },
+    {
+      "slug": "balikcilik",
+      "label": "balikcilik",
+      "count": 1,
+      "url": "etiket/balikcilik.html"
     },
     {
       "slug": "balina",
@@ -462,10 +636,22 @@
       "url": "etiket/bellek.html"
     },
     {
+      "slug": "beringia",
+      "label": "beringia",
+      "count": 1,
+      "url": "etiket/beringia.html"
+    },
+    {
       "slug": "betel",
       "label": "betel",
       "count": 1,
       "url": "etiket/betel.html"
+    },
+    {
+      "slug": "beyazcuce",
+      "label": "beyazcuce",
+      "count": 1,
+      "url": "etiket/beyazcuce.html"
     },
     {
       "slug": "bilissel-bilim",
@@ -522,12 +708,6 @@
       "url": "etiket/davranis.html"
     },
     {
-      "slug": "deepmind",
-      "label": "deepmind",
-      "count": 1,
-      "url": "etiket/deepmind.html"
-    },
-    {
       "slug": "demans",
       "label": "demans",
       "count": 1,
@@ -546,10 +726,22 @@
       "url": "etiket/deniz-biyolojisi.html"
     },
     {
+      "slug": "denizkusu",
+      "label": "denizkusu",
+      "count": 1,
+      "url": "etiket/denizkusu.html"
+    },
+    {
       "slug": "dil-modeli",
       "label": "dil-modeli",
       "count": 1,
       "url": "etiket/dil-modeli.html"
+    },
+    {
+      "slug": "dilmodeli",
+      "label": "dilmodeli",
+      "count": 1,
+      "url": "etiket/dilmodeli.html"
     },
     {
       "slug": "dokunma",
@@ -576,10 +768,34 @@
       "url": "etiket/elmas.html"
     },
     {
+      "slug": "enerji",
+      "label": "enerji",
+      "count": 1,
+      "url": "etiket/enerji.html"
+    },
+    {
+      "slug": "enzim",
+      "label": "enzim",
+      "count": 1,
+      "url": "etiket/enzim.html"
+    },
+    {
+      "slug": "erdos",
+      "label": "erdos",
+      "count": 1,
+      "url": "etiket/erdos.html"
+    },
+    {
       "slug": "esa",
       "label": "esa",
       "count": 1,
       "url": "etiket/esa.html"
+    },
+    {
+      "slug": "faj",
+      "label": "faj",
+      "count": 1,
+      "url": "etiket/faj.html"
     },
     {
       "slug": "fare",
@@ -684,6 +900,12 @@
       "url": "etiket/hayvan.html"
     },
     {
+      "slug": "hayvandavranisi",
+      "label": "hayvandavranisi",
+      "count": 1,
+      "url": "etiket/hayvandavranisi.html"
+    },
+    {
       "slug": "hayvanlar",
       "label": "hayvanlar",
       "count": 1,
@@ -700,6 +922,18 @@
       "label": "icecube",
       "count": 1,
       "url": "etiket/icecube.html"
+    },
+    {
+      "slug": "insaat",
+      "label": "insaat",
+      "count": 1,
+      "url": "etiket/insaat.html"
+    },
+    {
+      "slug": "ispat",
+      "label": "ispat",
+      "count": 1,
+      "url": "etiket/ispat.html"
     },
     {
       "slug": "izotop",
@@ -736,6 +970,12 @@
       "label": "jüpiter",
       "count": 1,
       "url": "etiket/jupiter.html"
+    },
+    {
+      "slug": "kalamar",
+      "label": "kalamar",
+      "count": 1,
+      "url": "etiket/kalamar.html"
     },
     {
       "slug": "kalp",
@@ -780,6 +1020,12 @@
       "url": "etiket/kedi.html"
     },
     {
+      "slug": "kil",
+      "label": "kil",
+      "count": 1,
+      "url": "etiket/kil.html"
+    },
+    {
       "slug": "kiralite",
       "label": "kiralite",
       "count": 1,
@@ -790,6 +1036,12 @@
       "label": "kokhucre",
       "count": 1,
       "url": "etiket/kokhucre.html"
+    },
+    {
+      "slug": "kondor",
+      "label": "kondor",
+      "count": 1,
+      "url": "etiket/kondor.html"
     },
     {
       "slug": "korku",
@@ -864,16 +1116,16 @@
       "url": "etiket/manyetizma.html"
     },
     {
-      "slug": "matematik",
-      "label": "matematik",
+      "slug": "maymun",
+      "label": "maymun",
       "count": 1,
-      "url": "etiket/matematik.html"
+      "url": "etiket/maymun.html"
     },
     {
-      "slug": "mikrobiyoloji",
-      "label": "mikrobiyoloji",
+      "slug": "metin",
+      "label": "metin",
       "count": 1,
-      "url": "etiket/mikrobiyoloji.html"
+      "url": "etiket/metin.html"
     },
     {
       "slug": "mikroglia",
@@ -888,10 +1140,28 @@
       "url": "etiket/mikroskop.html"
     },
     {
+      "slug": "modernlesme",
+      "label": "modernlesme",
+      "count": 1,
+      "url": "etiket/modernlesme.html"
+    },
+    {
+      "slug": "muhendislik",
+      "label": "muhendislik",
+      "count": 1,
+      "url": "etiket/muhendislik.html"
+    },
+    {
       "slug": "naegleria",
       "label": "naegleria",
       "count": 1,
       "url": "etiket/naegleria.html"
+    },
+    {
+      "slug": "neslitukenme",
+      "label": "neslitukenme",
+      "count": 1,
+      "url": "etiket/neslitukenme.html"
     },
     {
       "slug": "nfc",
@@ -936,16 +1206,16 @@
       "url": "etiket/notrino.html"
     },
     {
-      "slug": "okyanus",
-      "label": "okyanus",
-      "count": 1,
-      "url": "etiket/okyanus.html"
-    },
-    {
       "slug": "optogenetik",
       "label": "optogenetik",
       "count": 1,
       "url": "etiket/optogenetik.html"
+    },
+    {
+      "slug": "orangutan",
+      "label": "orangutan",
+      "count": 1,
+      "url": "etiket/orangutan.html"
     },
     {
       "slug": "ortacag",
@@ -972,12 +1242,6 @@
       "url": "etiket/otomasyon.html"
     },
     {
-      "slug": "oyun",
-      "label": "oyun",
-      "count": 1,
-      "url": "etiket/oyun.html"
-    },
-    {
       "slug": "parcacik-fizigi",
       "label": "parçacık fiziği",
       "count": 1,
@@ -990,6 +1254,12 @@
       "url": "etiket/pozitron.html"
     },
     {
+      "slug": "protein",
+      "label": "protein",
+      "count": 1,
+      "url": "etiket/protein.html"
+    },
+    {
       "slug": "rem-uykusu",
       "label": "rem uykusu",
       "count": 1,
@@ -1000,12 +1270,6 @@
       "label": "restorasyon",
       "count": 1,
       "url": "etiket/restorasyon.html"
-    },
-    {
-      "slug": "rna",
-      "label": "rna",
-      "count": 1,
-      "url": "etiket/rna.html"
     },
     {
       "slug": "robotik",
@@ -1044,6 +1308,12 @@
       "url": "etiket/sahte.html"
     },
     {
+      "slug": "salyangoz",
+      "label": "salyangoz",
+      "count": 1,
+      "url": "etiket/salyangoz.html"
+    },
+    {
       "slug": "savunma-davranisi",
       "label": "savunma davranışı",
       "count": 1,
@@ -1080,10 +1350,22 @@
       "url": "etiket/sosyal-rutbe.html"
     },
     {
+      "slug": "sosyalmedya",
+      "label": "sosyalmedya",
+      "count": 1,
+      "url": "etiket/sosyalmedya.html"
+    },
+    {
       "slug": "spiderman",
       "label": "spiderman",
       "count": 1,
       "url": "etiket/spiderman.html"
+    },
+    {
+      "slug": "statikelektrik",
+      "label": "statikelektrik",
+      "count": 1,
+      "url": "etiket/statikelektrik.html"
     },
     {
       "slug": "stratego",
@@ -1134,10 +1416,22 @@
       "url": "etiket/terencetao.html"
     },
     {
+      "slug": "thwaites",
+      "label": "thwaites",
+      "count": 1,
+      "url": "etiket/thwaites.html"
+    },
+    {
       "slug": "tibet",
       "label": "tibet",
       "count": 1,
       "url": "etiket/tibet.html"
+    },
+    {
+      "slug": "tonbaligi",
+      "label": "tonbaligi",
+      "count": 1,
+      "url": "etiket/tonbaligi.html"
     },
     {
       "slug": "toprak",
@@ -1158,16 +1452,16 @@
       "url": "etiket/toz.html"
     },
     {
+      "slug": "tugla",
+      "label": "tugla",
+      "count": 1,
+      "url": "etiket/tugla.html"
+    },
+    {
       "slug": "tyrannosaurus-rex",
       "label": "tyrannosaurus rex",
       "count": 1,
       "url": "etiket/tyrannosaurus-rex.html"
-    },
-    {
-      "slug": "ucus",
-      "label": "ucus",
-      "count": 1,
-      "url": "etiket/ucus.html"
     },
     {
       "slug": "ultrason",
@@ -1186,12 +1480,6 @@
       "label": "vantuz",
       "count": 1,
       "url": "etiket/vantuz.html"
-    },
-    {
-      "slug": "virus",
-      "label": "virus",
-      "count": 1,
-      "url": "etiket/virus.html"
     },
     {
       "slug": "vucut-sicakligi",
@@ -1248,12 +1536,6 @@
       "url": "etiket/yilan.html"
     },
     {
-      "slug": "yildiz",
-      "label": "yildiz",
-      "count": 1,
-      "url": "etiket/yildiz.html"
-    },
-    {
       "slug": "yollar",
       "label": "yollar",
       "count": 1,
@@ -1297,7 +1579,7 @@
       "url": "yazi/2026-11-01-ayni-enzim-biyoplastigi-ve-penisilini-nasil-parcalayabiliyor.html",
       "date": "2026-11-01T13:00:00+00:00",
       "date_text": "1 Kasım 2026",
-      "publish_at": "2026-11-01T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Aynı Enzim Biyoplastiği ve Penisilini Nasıl Parçalayabiliyor?",
       "standfirst": "Toprak DNA'sından bulunan geniş oluklu bir enzim belirli biyoplastikleri ve beta laktam antibiyotikleri parçalayabiliyor.",
@@ -1369,7 +1651,7 @@
       "url": "yazi/2026-11-01-apoe4-alzheimer-riskini-beyin-damarlari-uzerinden-nasil-arti.html",
       "date": "2026-11-01T03:00:00+00:00",
       "date_text": "1 Kasım 2026",
-      "publish_at": "2026-11-01T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "APOE4 Alzheimer Riskini Beyin Damarları Üzerinden Nasıl Artırabilir?",
       "standfirst": "APOE4, damar çevresinde fibronektin birikimini artırıyor.",
@@ -1447,7 +1729,7 @@
       "url": "yazi/2026-10-31-bir-yildiz-gercekten-yesil-gorunebilir-mi.html",
       "date": "2026-10-31T13:00:00+00:00",
       "date_text": "31 Ekim 2026",
-      "publish_at": "2026-10-31T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Bir Yıldız Gerçekten Yeşil Görünebilir mi?",
       "standfirst": "Bir beyaz cücenin tayfı insan renk görmesiyle modellendiğinde soluk fıstık yeşili çıkıyor.",
@@ -1522,7 +1804,7 @@
       "url": "yazi/2026-10-31-yapay-zeka-acik-erd-s-problemlerini-nasil-dogrulanmis-ispatl.html",
       "date": "2026-10-31T03:00:00+00:00",
       "date_text": "31 Ekim 2026",
-      "publish_at": "2026-10-31T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Yapay Zeka Açık Erdős Problemlerini Nasıl Doğrulanmış İspatlarla Çözdü?",
       "standfirst": "DeepMind sistemi 353 açık Erdős probleminden 9'una bilgisayarla doğrulanmış ispat üretti.",
@@ -1595,7 +1877,7 @@
       "url": "yazi/2026-10-30-yapay-zeka-insan-gibi-yazmaya-ayarlansa-bile-neden-ayirt-edi.html",
       "date": "2026-10-30T13:00:00+00:00",
       "date_text": "30 Ekim 2026",
-      "publish_at": "2026-10-30T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Yapay Zeka İnsan Gibi Yazmaya Ayarlansa Bile Neden Ayırt Ediliyor?",
       "standfirst": "Dokuz açık model üç sosyal platformun kullanıcılarını taklit etti.",
@@ -1664,7 +1946,7 @@
       "url": "yazi/2026-10-30-alaska-daki-13-800-yillik-kamp-ilk-amerikalilarin-yasamini-n.html",
       "date": "2026-10-30T03:00:00+00:00",
       "date_text": "30 Ekim 2026",
-      "publish_at": "2026-10-30T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Alaska'daki 13.800 Yıllık Kamp İlk Amerikalıların Yaşamını Nasıl Gösteriyor?",
       "standfirst": "Ocaklı barınak izi, toprak fırın, kemik iğneler ve on binlerce buluntu, Alaska'daki 13.800 yıllık bir ana kampın ayrıntılı görüntüsünü sunuyor.",
@@ -1744,7 +2026,7 @@
       "url": "yazi/2026-10-29-resif-yapan-mercan-turlerinin-neredeyse-yarisi-neden-tehdit-.html",
       "date": "2026-10-29T13:00:00+00:00",
       "date_text": "29 Ekim 2026",
-      "publish_at": "2026-10-29T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Resif Yapan Mercan Türlerinin Neredeyse Yarısı Neden Tehdit Altında?",
       "standfirst": "Yeterli veri bulunan 774 resif mercanı türünün 340'ı IUCN Kırmızı Liste'de tehdit altındaki kategorilere girdi.",
@@ -1819,7 +2101,7 @@
       "url": "yazi/2026-10-29-bakteriler-kendilerini-olduren-viruslerden-hareket-ederek-ka.html",
       "date": "2026-10-29T03:00:00+00:00",
       "date_text": "29 Ekim 2026",
-      "publish_at": "2026-10-29T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Bakteriler Kendilerini Öldüren Virüslerden Hareket Ederek Kaçabilir mi?",
       "standfirst": "E. coli bakterileri yapay jelde kimyasal eğimi takip ederek göç etti ve fajların yayılmasından hızlı kalan bir cephe oluşturdu.",
@@ -1893,7 +2175,7 @@
       "url": "yazi/2026-10-28-deniz-kuslari-bir-atol-adasinin-yukselmesine-nasil-katki-sag.html",
       "date": "2026-10-28T13:00:00+00:00",
       "date_text": "28 Ekim 2026",
-      "publish_at": "2026-10-28T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Deniz Kuşları Bir Atol Adasının Yükselmesine Nasıl Katkı Sağlayabilir?",
       "standfirst": "Sıçansız ve deniz kuşları bol atol adalarında hesaplanan lagün resifi büyüme potansiyeli, sıçanlı adalardan yaklaşık 1,8 kat daha yüksekti.",
@@ -1970,7 +2252,7 @@
       "url": "yazi/2026-10-28-tugla-dayanimini-kilin-icindeki-iki-mineral-nasil-degistiriy.html",
       "date": "2026-10-28T03:00:00+00:00",
       "date_text": "28 Ekim 2026",
-      "publish_at": "2026-10-28T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Tuğla Dayanımını Kilin İçindeki İki Mineral Nasıl Değiştiriyor?",
       "standfirst": "Kaolinit ve illit oranı ayarlanan laboratuvar tuğlaları, uygun pişirme koşullarında ABD standardındaki asgari dayanımın 8,5 katına ulaştı.",
@@ -2043,7 +2325,7 @@
       "url": "yazi/2026-10-27-statik-elektrigin-arti-ya-da-eksi-olmasi-kontrol-edilebilir-.html",
       "date": "2026-10-27T13:00:00+00:00",
       "date_text": "27 Ekim 2026",
-      "publish_at": "2026-10-27T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Statik Elektriğin Artı ya da Eksi Olması Kontrol Edilebilir mi?",
       "standfirst": "Aynı plastik parçalar sürtünürken uygulanan dış elektrik alanı, oluşan kalıcı yükün hem miktarını hem işaretini değiştirdi.",
@@ -2118,7 +2400,7 @@
       "url": "yazi/2026-10-27-white-sands-ayak-izleri-buzul-cagindaki-ani-kurakligi-nasil-.html",
       "date": "2026-10-27T03:00:00+00:00",
       "date_text": "27 Ekim 2026",
-      "publish_at": "2026-10-27T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "White Sands Ayak İzleri Buzul Çağındaki Ani Kuraklığı Nasıl Kaydetti?",
       "standfirst": "23.500-21.700 yıllık ayak izleri, insanların Son Buzul Maksimumu sırasında hızla kuruyan bir göl çevresini kullanmaya devam ettiğini gösteriyor.",
@@ -2180,12 +2462,17 @@
         "Larry Mills, Wikimedia Commons (CC BY 2.0)"
       ],
       "video": {
-        "youtube": "XQ8BySz-5i0"
+        "youtube": "XQ8BySz-5i0",
+        "instagram": "https://www.instagram.com/reel/DfAEJsCE7t6/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/XQ8BySz-5i0"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfAEJsCE7t6/"
         }
       ]
     },
@@ -2195,7 +2482,7 @@
       "url": "yazi/2026-10-26-kalamar-dna-sini-degistirmeden-proteinlerini-nasil-yeniden-y.html",
       "date": "2026-10-26T13:00:00+00:00",
       "date_text": "26 Ekim 2026",
-      "publish_at": "2026-10-26T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Kalamar DNA'sını Değiştirmeden Proteinlerini Nasıl Yeniden Yazıyor?",
       "standfirst": "Araştırmacılar kalamarda 7.997 RNA düzenlemesinin gerçekten proteinlere yansıdığını ve proteinlerin dayanıklılığını, yerini ya da etkinliğini değiştirebildiğini gösterdi.",
@@ -2270,7 +2557,7 @@
       "url": "yazi/2026-10-26-insanlar-ton-baligini-ne-zamandan-beri-avliyor.html",
       "date": "2026-10-26T03:00:00+00:00",
       "date_text": "26 Ekim 2026",
-      "publish_at": "2026-10-26T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "İnsanlar Ton Balığını Ne Zamandan Beri Avlıyor?",
       "standfirst": "Dünya çapındaki kanıtların derlemesi ton avını en az 44 bin yıl geriye götürüyor.",
@@ -2333,12 +2620,17 @@
         "Mr. Cormish, Wikimedia Commons (CC BY 2.0)"
       ],
       "video": {
-        "youtube": "TYTuV_uOQDo"
+        "youtube": "TYTuV_uOQDo",
+        "instagram": "https://www.instagram.com/reel/De_58PkEzut/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/TYTuV_uOQDo"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/De_58PkEzut/"
         }
       ]
     },
@@ -2348,7 +2640,7 @@
       "url": "yazi/2026-10-25-thwaites-buzulunun-altina-giren-deniz-suyu-tahminleri-neden-.html",
       "date": "2026-10-25T13:00:00+00:00",
       "date_text": "25 Ekim 2026",
-      "publish_at": "2026-10-25T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Thwaites Buzulunun Altına Giren Deniz Suyu Tahminleri Neden Değiştiriyor?",
       "standfirst": "Buzulun altına kilometrelerce sızan deniz suyunu hesaba katan model, Thwaites'in 2100'e kadar deniz seviyesine katkısını yaklaşık 30 mm buldu.",
@@ -2408,12 +2700,17 @@
         "United States Antarctic Program, Wikimedia Commons (Public domain)"
       ],
       "video": {
-        "youtube": "bYfbiLFQjE0"
+        "youtube": "bYfbiLFQjE0",
+        "instagram": "https://www.instagram.com/reel/De_1SDnk98L/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/bYfbiLFQjE0"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/De_1SDnk98L/"
         }
       ]
     },
@@ -2423,7 +2720,7 @@
       "url": "yazi/2026-10-25-arktik-morinalari-son-buzul-cagini-nasil-atlatti.html",
       "date": "2026-10-25T03:00:00+00:00",
       "date_text": "25 Ekim 2026",
-      "publish_at": "2026-10-25T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Arktik Morinaları Son Buzul Çağını Nasıl Atlattı?",
       "standfirst": "256 balık kulak taşı, kutup ve buz morinalarının on binlerce yıl önce Arktik'in çok kuzeyinde yaşadığını ve iklim değişimine farklı tepki verdiğini gösteriyor.",
@@ -2482,12 +2779,17 @@
         "Claude Nozères, Wikimedia Commons (CC BY 4.0)"
       ],
       "video": {
-        "youtube": "5KVp8_IR-Ps"
+        "youtube": "5KVp8_IR-Ps",
+        "instagram": "https://www.instagram.com/reel/De_wnlhkylx/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/5KVp8_IR-Ps"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/De_wnlhkylx/"
         }
       ]
     },
@@ -2497,7 +2799,7 @@
       "url": "yazi/2026-10-24-bir-salyangozun-kabugu-neden-saga-digerininki-sola-donuyor.html",
       "date": "2026-10-24T13:00:00+00:00",
       "date_text": "24 Ekim 2026",
-      "publish_at": "2026-10-24T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Bir Salyangozun Kabuğu Neden Sağa, Diğerininki Sola Dönüyor?",
       "standfirst": "Japon kara salyangozlarında kabuk yönü, miyozin motor proteinindeki doğal gen farklarıyla bağlantılı.",
@@ -2557,12 +2859,17 @@
         "Angus Davison and Satoshi Chiba, Wikimedia Commons (CC BY 2.5)"
       ],
       "video": {
-        "youtube": "DC06rbtc6zg"
+        "youtube": "DC06rbtc6zg",
+        "instagram": "https://www.instagram.com/reel/De_r8VJE_oC/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/DC06rbtc6zg"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/De_r8VJE_oC/"
         }
       ]
     },
@@ -2572,7 +2879,7 @@
       "url": "yazi/2026-10-24-orangutan-anneleri-yavrularina-oyun-arkadasi-bulmak-icin-yol.html",
       "date": "2026-10-24T03:00:00+00:00",
       "date_text": "24 Ekim 2026",
-      "publish_at": "2026-10-24T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Orangutan Anneleri Yavrularına Oyun Arkadaşı Bulmak İçin Yol mu Değiştiriyor?",
       "standfirst": "15 yıllık gözlemler, orangutan annelerinin yavruların oyun günlerinden önce komşu annelerin bölgelerine yöneldiğini ve bunun enerji maliyeti olduğunu gösteriyor.",
@@ -2632,12 +2939,17 @@
         "Neil WWW.NEILSRTW.BLOGSPOT.COM, Wikimedia Commons (CC BY 2.0)"
       ],
       "video": {
-        "youtube": "ful-HbtPHA0"
+        "youtube": "ful-HbtPHA0",
+        "instagram": "https://www.instagram.com/reel/De_nRw0E-wB/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/ful-HbtPHA0"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/De_nRw0E-wB/"
         }
       ]
     },
@@ -2647,7 +2959,7 @@
       "url": "yazi/2026-10-23-modern-yasama-gecis-uykuyu-on-yilda-nasil-degistirdi.html",
       "date": "2026-10-23T13:00:00+00:00",
       "date_text": "23 Ekim 2026",
-      "publish_at": "2026-10-23T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Modern Yaşama Geçiş Uykuyu On Yılda Nasıl Değiştirdi?",
       "standfirst": "Toba Qom topluluklarında uyku başlangıcı yaklaşık bir saat gecikti.",
@@ -2705,12 +3017,17 @@
         "GrandEscogriffe, Milenioscuro, Wikimedia Commons (CC BY-SA 4.0)"
       ],
       "video": {
-        "youtube": "CJKg2RLp5wk"
+        "youtube": "CJKg2RLp5wk",
+        "instagram": "https://www.instagram.com/reel/De_im3Gk1AX/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/CJKg2RLp5wk"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/De_im3Gk1AX/"
         }
       ]
     },
@@ -2720,7 +3037,7 @@
       "url": "yazi/2026-10-23-jura-doneminde-kus-soyunun-ucamayan-bir-uyesi-mi-yasiyordu.html",
       "date": "2026-10-23T03:00:00+00:00",
       "date_text": "23 Ekim 2026",
-      "publish_at": "2026-10-23T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Jura Döneminde Kuş Soyunun Uçamayan Bir Üyesi mi Yaşıyordu?",
       "standfirst": "Çin'deki 148-150 milyon yıllık fosilin kısa ön kolları ve bacak oranları, kuş soyunun erken bir üyesinin yerde yaşadığını düşündürüyor.",
@@ -2781,12 +3098,17 @@
         "H. Raab (User: Vesta), Wikimedia Commons (CC BY-SA 3.0)"
       ],
       "video": {
-        "youtube": "gUvCZo4vTYk"
+        "youtube": "gUvCZo4vTYk",
+        "instagram": "https://www.instagram.com/reel/De_d1KYE8ly/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/gUvCZo4vTYk"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/De_d1KYE8ly/"
         }
       ]
     },
@@ -2796,7 +3118,7 @@
       "url": "yazi/2026-10-22-ruzgar-bir-kusun-ucus-maliyetini-ne-kadar-degistirir.html",
       "date": "2026-10-22T13:00:00+00:00",
       "date_text": "22 Ekim 2026",
-      "publish_at": "2026-10-22T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Rüzgar Bir Kuşun Uçuş Maliyetini Ne Kadar Değiştirir?",
       "standfirst": "Aynı ağırlıktaki kondor ve kuğu arasında kilometre başına enerji maliyeti beş kata yakın değişebiliyor.",
@@ -2858,12 +3180,17 @@
         "Yellowstone National Park, Wikimedia Commons (Public domain)"
       ],
       "video": {
-        "youtube": "dGKjuRTknCw"
+        "youtube": "dGKjuRTknCw",
+        "instagram": "https://www.instagram.com/reel/De_ZJzIkzE2/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/dGKjuRTknCw"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/De_ZJzIkzE2/"
         }
       ]
     },
@@ -2873,7 +3200,7 @@
       "url": "yazi/2026-10-22-agarmis-bir-mercan-saglikli-mercana-temas-edince-nasil-iyile.html",
       "date": "2026-10-22T03:00:00+00:00",
       "date_text": "22 Ekim 2026",
-      "publish_at": "2026-10-22T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Ağarmış Bir Mercan Sağlıklı Mercana Temas Edince Nasıl İyileşti?",
       "standfirst": "Aynı koloniden sağlıklı mercana temas eden ağarmış parçalar 4-8 haftada iyileşti.",
@@ -2932,12 +3259,17 @@
         "Ananda Ellis/NOAA, Wikimedia Commons (Public domain)"
       ],
       "video": {
-        "youtube": "rU7Qnt0eiok"
+        "youtube": "rU7Qnt0eiok",
+        "instagram": "https://www.instagram.com/reel/De_UeodE3_m/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/rU7Qnt0eiok"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/De_UeodE3_m/"
         }
       ]
     },
