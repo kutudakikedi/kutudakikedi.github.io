@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T20:12:11+00:00",
+  "generated_at": "2026-11-03T07:46:06+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -433,7 +433,7 @@
     },
     {
       "slug": "tarim",
-      "label": "tarım",
+      "label": "tarim",
       "count": 2,
       "url": "etiket/tarim.html"
     },
@@ -672,6 +672,12 @@
       "url": "etiket/bitkiler.html"
     },
     {
+      "slug": "biyocesitlilik",
+      "label": "biyocesitlilik",
+      "count": 1,
+      "url": "etiket/biyocesitlilik.html"
+    },
+    {
       "slug": "biyomekanik",
       "label": "biyomekanik",
       "count": 1,
@@ -684,12 +690,6 @@
       "url": "etiket/biyoteknoloji.html"
     },
     {
-      "slug": "biyocesitlilik",
-      "label": "biyoçeşitlilik",
-      "count": 1,
-      "url": "etiket/biyocesitlilik.html"
-    },
-    {
       "slug": "buzkarotu",
       "label": "buzkarotu",
       "count": 1,
@@ -700,6 +700,12 @@
       "label": "böcek",
       "count": 1,
       "url": "etiket/bocek.html"
+    },
+    {
+      "slug": "col",
+      "label": "col",
+      "count": 1,
+      "url": "etiket/col.html"
     },
     {
       "slug": "davranis",
@@ -870,16 +876,16 @@
       "url": "etiket/giyilebilir.html"
     },
     {
+      "slug": "goktasi",
+      "label": "goktasi",
+      "count": 1,
+      "url": "etiket/goktasi.html"
+    },
+    {
       "slug": "gronland",
       "label": "grönland",
       "count": 1,
       "url": "etiket/gronland.html"
-    },
-    {
-      "slug": "goktasi",
-      "label": "göktaşı",
-      "count": 1,
-      "url": "etiket/goktasi.html"
     },
     {
       "slug": "gunes-sistemi",
@@ -1195,7 +1201,7 @@
     },
     {
       "slug": "noron",
-      "label": "nöron",
+      "label": "noron",
       "count": 1,
       "url": "etiket/noron.html"
     },
@@ -1495,7 +1501,7 @@
     },
     {
       "slug": "yangin",
-      "label": "yangın",
+      "label": "yangin",
       "count": 1,
       "url": "etiket/yangin.html"
     },
@@ -1548,12 +1554,6 @@
       "url": "etiket/yuruyus.html"
     },
     {
-      "slug": "col",
-      "label": "çöl",
-      "count": 1,
-      "url": "etiket/col.html"
-    },
-    {
       "slug": "comlek",
       "label": "çömlek",
       "count": 1,
@@ -1573,6 +1573,2904 @@
     }
   ],
   "articles": [
+    {
+      "id": "proj_6b9885c343",
+      "slug": "2026-11-23-yasli-farelerde-beyin-enzimi-artirilinca-hafiza-testinde-iyi",
+      "url": "yazi/2026-11-23-yasli-farelerde-beyin-enzimi-artirilinca-hafiza-testinde-iyi.html",
+      "date": "2026-11-23T03:00:00+00:00",
+      "date_text": "23 Kasım 2026",
+      "publish_at": "2026-11-23T03:00:00Z",
+      "draft": false,
+      "title": "Yaşlı farelerde beyin enzimi artırılınca hafıza testinde iyileşme görüldü",
+      "standfirst": "16 aylık farelerde PLA2G2F enzimi beyne gen aktarımıyla artırıldı.",
+      "paragraphs": [
+        "Yaşa bağlı hafıza değişimleri yalnızca nöron kaybıyla açıklanmıyor. Beyindeki yağ moleküllerinin işlenmesi ve hücresel koruma yolları da araştırılan etkenler arasında.",
+        "Araştırmacılar 16 aylık farelerin hafızayla ilişkili beyin bölgesinde PLA2G2F enzimi üretimini virüs aracılı gen aktarımıyla artırdı. Beş hafta sonra nesnelerin konumunu tanıma davranışını kontrol grubuyla karşılaştırdı.",
+        "Enzim düzeyi artırılan fareler, yeri değiştirilen nesneyi ayırt etme testinde anlamlı başarı gösterdi; aynı yaştaki kontrol farelerinde aynı başarı görülmedi. Bu, enzimin beyin yaşlanmasında araştırılmaya değer bir rolü olabileceğini düşündürüyor.",
+        "Çalışma farelerle ve küçük gruplarla yapıldı. Enzimi artırmanın güvenliği, uzun vadeli etkisi veya insanlarda hafıza üzerindeki sonucu henüz gösterilmedi. Deneysel gen aktarımı, kullanıma hazır bir ilaç değil.",
+        "Beynin kendi koruyucu biyolojisini anlamak, gelecekte yaşa bağlı hafıza değişimlerine yönelik daha hedefli çalışmalar tasarlamaya yardımcı olabilir."
+      ],
+      "takeaway": "PLA2G2F adlı beyin enzimi yaşlı farelerin hafıza bölgesinde artırıldığında, 5 hafta sonra hafıza testinde yer değiştiren nesneyi fark etmeyi başardılar.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "hafiza",
+          "label": "hafiza",
+          "url": "etiket/hafiza.html"
+        },
+        {
+          "slug": "yaslanma",
+          "label": "yaslanma",
+          "url": "etiket/yaslanma.html"
+        },
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        },
+        {
+          "slug": "enzim",
+          "label": "enzim",
+          "url": "etiket/enzim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Neuroscience (2026)",
+          "url": "https://doi.org/10.1038/s41593-026-02465-z"
+        }
+      ],
+      "image_credits": [
+        "Rama, Wikimedia Commons (CC BY-SA 2.0 fr)",
+        "RAZVAN V. MARINESCU, Wikimedia Commons (CC BY 4.0)",
+        "Commissioned by Understanding Animal Research, Wikimedia Commons (CC BY-SA 4.0)",
+        "Understanding Animal Research, Wikimedia Commons (CC BY 2.0)"
+      ],
+      "video": {
+        "youtube": "aVrJypz-qbg"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/aVrJypz-qbg"
+        }
+      ]
+    },
+    {
+      "id": "proj_30dc5ea9cb",
+      "slug": "2026-11-22-insan-beyninde-dna-kopya-hatalari-tasiyan-noronlarin-orani-d",
+      "url": "yazi/2026-11-22-insan-beyninde-dna-kopya-hatalari-tasiyan-noronlarin-orani-d.html",
+      "date": "2026-11-22T13:00:00+00:00",
+      "date_text": "22 Kasım 2026",
+      "publish_at": "2026-11-22T13:00:00Z",
+      "draft": false,
+      "title": "İnsan beyninde DNA kopya hataları taşıyan nöronların oranı doğumdan sonra düşüyo",
+      "standfirst": "Bağışlanmış insan beyinlerinde geniş DNA kopya değişikliği taşıyan nöron oranı doğum öncesi yüzde 25,9, sonrası yaklaşık yüzde 6 bulundu.",
+      "paragraphs": [
+        "Beyin gelişirken hücreler hızla çoğalır ve farklılaşır. Bu süreçte DNA’nın bazı bölgelerinin gereğinden fazla veya az kopyalanması gibi büyük değişiklikler ortaya çıkabilir.",
+        "Araştırmacılar farklı yaşlarda bağışlanmış insan beyin dokularındaki nöronların DNA kopya sayısını karşılaştırdı. Doğum öncesi ve sonrası örneklerde geniş kopya farklılıklarının oranını hesapladı.",
+        "Doğum öncesi örneklerde ortalama yüzde 25,9 olan oran, doğum sonrası örneklerde yaklaşık yüzde 6 düzeyine indi. Bu fark, gelişim sürecinde bazı hücrelerin seçilerek azalabileceği hipotezini destekliyor.",
+        "Aynı bireyler veya aynı nöronlar zaman içinde izlenmedi. Hatalı nöronların öldüğü doğrudan görüntülenmedi; eleme mekanizması gruplar arasındaki farktan çıkarılıyor. Otizm ya da epilepsiyle nedensel bağ da henüz gösterilmiş değil.",
+        "Gelişen beynin DNA kalitesini nasıl denetlediğini anlamak, normal nöron olgunlaşması ve gelişim bozuklukları hakkında yeni sorulara yol açabilir."
+      ],
+      "takeaway": "Doğumdan önce beyin kabuğundaki nöronların ortalama yüzde 25,9'unda DNA'sında geniş kopya hataları var, ama doğumdan sonra bu oran yaklaşık yüzde 6'ya iniyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        },
+        {
+          "slug": "noron",
+          "label": "noron",
+          "url": "etiket/noron.html"
+        },
+        {
+          "slug": "genetik",
+          "label": "genetik",
+          "url": "etiket/genetik.html"
+        },
+        {
+          "slug": "gelisim",
+          "label": "gelisim",
+          "url": "etiket/gelisim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-11190-3"
+        }
+      ],
+      "image_credits": [
+        "Shao DD ve ark., Nature 2026 (10.1038/s41586-026-11190-3), CC BY 4.0",
+        "ManuelSchottdorf, Wikimedia Commons (CC BY-SA 4.0)",
+        "Doc. RNDr. Josef Reischig, CSc., Wikimedia Commons (CC BY-SA 3.0)"
+      ],
+      "video": {
+        "youtube": "17wJcoM5V6M"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/17wJcoM5V6M"
+        }
+      ]
+    },
+    {
+      "id": "proj_06db33d5c5",
+      "slug": "2026-11-22-237-milyon-yillik-zirhli-amfibi-denizde-yasamis-olabilir",
+      "url": "yazi/2026-11-22-237-milyon-yillik-zirhli-amfibi-denizde-yasamis-olabilir.html",
+      "date": "2026-11-22T03:00:00+00:00",
+      "date_text": "22 Kasım 2026",
+      "publish_at": "2026-11-22T03:00:00Z",
+      "draft": false,
+      "title": "237 milyon yıllık zırhlı amfibi denizde yaşamış olabilir",
+      "standfirst": "Çin’de bulunan yaklaşık 237 milyon yıllık iki fosil, deniz ortamında yaşamış olabilecek zırhlı amfibi Gerrothorax maritimus’a ait.",
+      "paragraphs": [
+        "Günümüzde amfibilerin çoğu yaşam döngülerinde tatlı suya veya karaya ihtiyaç duyar. Bütünüyle denize uyumlu modern amfibi türlerinin bulunmaması, eski fosillerin ekolojisini ilginç kılıyor.",
+        "Çin’de tanımlanan iki Geç Trias fosilinin kemik yapısı ve bulunduğu jeolojik ortam değerlendirildi. Fosil yaklaşık 74 santimetrelik bir zırhlı amfibi türünü temsil ediyor.",
+        "Anatomik ve tortul veriler türün deniz yaşamına uyum sağlamış olabileceğini düşündürüyor. Bu, eski amfibilerin ekolojik çeşitliliğinin sanılandan daha geniş olabileceğine dair yeni bir örnek.",
+        "Kanıt iki fosil örneğiyle sınırlı. Hayvanın tüm yaşamını denizde geçirdiği doğrudan gözlem değil, fosil ortamı ve anatomiden çıkarılıyor. Bütün amfibilerin denizde yaşayabildiği anlamına gelmiyor.",
+        "Bu türün daha ayrıntılı karşılaştırılması, amfibilerin tuzlu suya geçişini sınırlayan etkenleri ve antik ekosistemlerdeki istisnaları anlamaya yardımcı olabilir."
+      ],
+      "takeaway": "Bugün 8 binden fazla amfibi türünün hiçbiri yalnızca denizde yaşamıyor, ama Çin'de bulunan 237 milyon yıllık, yaklaşık 74 santimetrelik zırhlı bir amfibi öyle yaşamış görünüyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "paleontoloji",
+          "label": "paleontoloji",
+          "url": "etiket/paleontoloji.html"
+        },
+        {
+          "slug": "amfibi",
+          "label": "amfibi",
+          "url": "etiket/amfibi.html"
+        },
+        {
+          "slug": "fosil",
+          "label": "fosil",
+          "url": "etiket/fosil.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        },
+        {
+          "slug": "deniz",
+          "label": "deniz",
+          "url": "etiket/deniz.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Ecology & Evolution (2026)",
+          "url": "https://doi.org/10.1038/s41559-026-03209-9"
+        }
+      ],
+      "image_credits": [
+        "Petruss, Wikimedia Commons (Public domain)",
+        "Nobu Tamura (https://spinops.blogspot.com), Wikimedia Commons (CC BY 3.0)",
+        "ДиБгд, Wikimedia Commons (CC BY-SA 4.0)",
+        "Ethmostigmus, Wikimedia Commons (CC BY-SA 4.0)",
+        "Ghedoghedo, Wikimedia Commons (CC BY-SA 3.0)",
+        "Ghedoghedo, Wikimedia Commons (CC BY-SA 4.0)",
+        "Rick Stuart-Smith / Reef Life Survey, Wikimedia Commons (CC BY 4.0)"
+      ],
+      "video": {
+        "youtube": "JngQ1So10NY"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/JngQ1So10NY"
+        }
+      ]
+    },
+    {
+      "id": "proj_bfb47f2390",
+      "slug": "2026-11-21-alti-aylik-uzay-ucusundan-donen-astronotlarin-kalbi-mars-yer",
+      "url": "yazi/2026-11-21-alti-aylik-uzay-ucusundan-donen-astronotlarin-kalbi-mars-yer.html",
+      "date": "2026-11-21T13:00:00+00:00",
+      "date_text": "21 Kasım 2026",
+      "publish_at": "2026-11-21T13:00:00Z",
+      "draft": false,
+      "title": "Altı aylık uzay uçuşundan dönen astronotların kalbi Mars yerçekiminde sınandı",
+      "standfirst": "Yaklaşık altı ay ISS’de kalan 13 astronotta kalp değişimleri ve Dünya’da Mars yerçekimi benzetimindeki dolaşım tepkisi incelendi.",
+      "paragraphs": [
+        "Uzayda mikro yerçekimi, vücudun kan dağılımını ve kalbin üzerindeki yükü değiştirir. Uzun bir Mars yolculuğundan sonra kısmi yerçekimine geçişin nasıl tolere edileceği henüz açık değildir.",
+        "Araştırmacılar Uluslararası Uzay İstasyonu’nda ortanca 164 gün kalan 13 astronotu inceledi. Uçuş sırasında kalp biçim ve hacim değişimlerini izledi; dönüş sonrasında Mars yerçekimi benzetimiyle dolaşım yanıtını değerlendirdi.",
+        "İlk haftalarda görülen kalp küçülmesinden sonra uçuş boyunca bir toparlanma örüntüsü vardı. Ancak dönüş sonrası kısmi yerçekimi benzetimindeki dolaşım yanıtı, uçuş öncesinde Dünya'da ayakta durmaktan daha zorlayıcı değildi.",
+        "Bu küçük, kontrol grubu olmayan keşif amaçlı çalışma. Test gerçek Mars ortamında değil, Dünya’daki benzetimde yapıldı; sonuç bütün astronotlara genellenemez.",
+        "Mars’a indikten sonra güvenli hareket etme ve çalışma kapasitesini değerlendirmek, uzun görevler için egzersiz, hazırlık ve tıbbi izleme planlarına yön verebilir."
+      ],
+      "takeaway": "Uluslararası Uzay İstasyonu'nda yaklaşık 6 ay kalan 13 astronotun kalbi, ilk iki haftadaki küçülmenin ardından toparlandı.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "astronot",
+          "label": "astronot",
+          "url": "etiket/astronot.html"
+        },
+        {
+          "slug": "kalp",
+          "label": "kalp",
+          "url": "etiket/kalp.html"
+        },
+        {
+          "slug": "mars",
+          "label": "mars",
+          "url": "etiket/mars.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Circulation (2026)",
+          "url": "https://doi.org/10.1161/CIRCULATIONAHA.125.078665"
+        }
+      ],
+      "image_credits": [
+        "NASA Johnson Space Center, Wikimedia Commons (Public domain)",
+        "NASA, Wikimedia Commons (Public domain)",
+        "Wikimedia Commons, Wikimedia Commons (Public domain)",
+        "NASA/JPL-Caltech/ASU, Wikimedia Commons (Public domain)",
+        "NASA/JPL-Caltech, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "hAzY70DjNMc"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/hAzY70DjNMc"
+        }
+      ]
+    },
+    {
+      "id": "proj_4de154ad7a",
+      "slug": "2026-11-21-zimbabwe-de-210-milyon-yillik-yeni-bir-dinozor-tanimlandi",
+      "url": "yazi/2026-11-21-zimbabwe-de-210-milyon-yillik-yeni-bir-dinozor-tanimlandi.html",
+      "date": "2026-11-21T03:00:00+00:00",
+      "date_text": "21 Kasım 2026",
+      "publish_at": "2026-11-21T03:00:00Z",
+      "draft": false,
+      "title": "Zimbabwe'de 210 milyon yıllık yeni bir dinozor tanımlandı",
+      "standfirst": "Kariba Gölü yakınındaki kısmi iskelet, yaklaşık 210 milyon yıllık yeni bir dinozor türü Musango matusadonaensis olarak tanımlandı.",
+      "paragraphs": [
+        "Geç Trias dönemindeki dinozorlar sonraki çağların dev türlerinden farklı ekosistemlerde çeşitleniyordu. Afrika’nın güneyindeki fosiller, erken dinozor topluluklarının coğrafi farklarını anlamak açısından önemli.",
+        "Zimbabwe’de Kariba Gölü çevresinden çıkarılan kısmi iskelet anatomik özelliklerine göre karşılaştırıldı ve yeni bir tür olarak tanımlandı. Çalışma bulunan kemiklerden boy ve vücut kütlesi tahminleri yaptı.",
+        "Fosilin yaşı yaklaşık 210 milyon yıl. Türün tahmini boyu 4,5 metre, kütlesi yaklaşık 222 kilogram. Böylece Zimbabwe’den adlandırılan dinozor türlerinin sayısı beşe ulaştı.",
+        "Kafatası yok ve iskelet eksik. Boy ve ağırlık doğrudan ölçülmüş canlı değerleri değil, karşılaştırmalı tahminler. Canlı hayvanın renkleri veya ayrıntılı davranışları bu fosilden bilinmiyor.",
+        "Yeni fosiller, Geç Trias güney Afrika’sının ekosistemleri arasındaki farkları ve erken dinozorların nasıl çeşitlendiğini açıklayabilir."
+      ],
+      "takeaway": "Zimbabwe'de Kariba Gölü kıyısında bulunan yaklaşık 210 milyon yıllık kısmi iskelet, yeni bir dinozor türü çıktı: Musango matusadonaensis.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "paleontoloji",
+          "label": "paleontoloji",
+          "url": "etiket/paleontoloji.html"
+        },
+        {
+          "slug": "dinozor",
+          "label": "dinozor",
+          "url": "etiket/dinozor.html"
+        },
+        {
+          "slug": "fosil",
+          "label": "fosil",
+          "url": "etiket/fosil.html"
+        },
+        {
+          "slug": "afrika",
+          "label": "afrika",
+          "url": "etiket/afrika.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Journal of Systematic Palaeontology (2026)",
+          "url": "https://doi.org/10.1080/14772019.2026.2678610"
+        }
+      ],
+      "image_credits": [
+        "Suesen, Wikimedia Commons (CC BY-SA 3.0)",
+        "Zimbabwe_relief_location_map.jpg: Carport\nLake Kariba.jpg: Paobac\nderivative wor, Wikimedia Commons (CC BY-SA 3.0)",
+        "Friedrich von Huene, Wikimedia Commons (Public domain)",
+        "Joseph J. W. Sertich, Mark A. Loewen, Wikimedia Commons (CC BY 2.5)",
+        "Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "Sqlwkhq7fZ4"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/Sqlwkhq7fZ4"
+        }
+      ]
+    },
+    {
+      "id": "proj_a24674641e",
+      "slug": "2026-11-20-yarasalarin-ortak-atasinin-avrupa-da-yasamis-olmasi-guclu-ol",
+      "url": "yazi/2026-11-20-yarasalarin-ortak-atasinin-avrupa-da-yasamis-olmasi-guclu-ol.html",
+      "date": "2026-11-20T13:00:00+00:00",
+      "date_text": "20 Kasım 2026",
+      "publish_at": "2026-11-20T13:00:00Z",
+      "draft": false,
+      "title": "Yarasaların ortak atasının Avrupa'da yaşamış olması güçlü olasılık",
+      "standfirst": "103 yarasa genomu ve 44 fosil kaydına dayanan model, ortak atanın 65–60 milyon yıl önce Avrupa’da bulunmuş olabileceğini destekliyor.",
+      "paragraphs": [
+        "Yarasalar uçabilen tek memeli grubu. Ancak uçuşun ve birçok türde bulunan sesle yön bulma yeteneğinin evrimsel sırasını anlamak için soy ağacının kökenini ve zamanlamasını bilmek gerekiyor.",
+        "Ekip 103 yarasa türünün kromozom düzeyinde genomunu, 44 fosil kaydını ve farklı biyocoğrafi modelleri birleştirdi. Böylece yarasa aileleri arasındaki akrabalığı ve olası atasal coğrafyayı değerlendirdi.",
+        "İncelenen modele göre bütün yarasaların ortak atasının Avrupa’da yaşama olasılığı yüzde 99,2 çıktı; zaman aralığı yaklaşık 65–60 milyon yıl öncesiydi.",
+        "Bu bir ataya ait doğrudan fosil keşfi değil, genetik ve fosil verisinden yapılan model çıkarımı. Bilinen en eski yarasa fosilleri bu önerilen atadan milyonlarca yıl daha genç ve birden fazla kıtadan geliyor.",
+        "Sağlamlaştırılmış bir soy ağacı, uçuş ve sesle yön bulma gibi yarasa özelliklerinin hangi evrimsel aşamalarda ortaya çıktığını araştırmak için temel oluşturabilir."
+      ],
+      "takeaway": "103 yarasa türünün genomu ve 44 fosil birlikte incelendi.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "yarasa",
+          "label": "yarasa",
+          "url": "etiket/yarasa.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        },
+        {
+          "slug": "genetik",
+          "label": "genetik",
+          "url": "etiket/genetik.html"
+        },
+        {
+          "slug": "fosil",
+          "label": "fosil",
+          "url": "etiket/fosil.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-11007-3"
+        }
+      ],
+      "image_credits": [
+        "U.S. Fish and Wildlife Service Headquarters, Wikimedia Commons (Public domain)",
+        "Morales AE ve ark., Nature 2026 (10.1038/s41586-026-11007-3), CC BY 4.0 (Sekil 2a)",
+        "Morales AE ve ark., Nature 2026 (10.1038/s41586-026-11007-3), CC BY 4.0 (Sekil 5c; ata ve Yango siluetleri CC BY-SA 3.0)",
+        "Morales AE ve ark., Nature 2026 (10.1038/s41586-026-11007-3), CC BY 4.0 (Sekil 5a; ata siluetleri CC BY-SA 3.0)",
+        "NPS Photo, Wikimedia Commons (Public domain)",
+        "Ryan Schwark, Wikimedia Commons (CC0)"
+      ],
+      "video": {
+        "youtube": "9o_LS3FLKEw"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/9o_LS3FLKEw"
+        }
+      ]
+    },
+    {
+      "id": "proj_78ed679565",
+      "slug": "2026-11-20-cin-kiyisinda-istilaci-otun-yayilmasini-biriken-camur-hizlan",
+      "url": "yazi/2026-11-20-cin-kiyisinda-istilaci-otun-yayilmasini-biriken-camur-hizlan.html",
+      "date": "2026-11-20T03:00:00+00:00",
+      "date_text": "20 Kasım 2026",
+      "publish_at": "2026-11-20T03:00:00Z",
+      "draft": false,
+      "title": "Çin kıyısında istilacı otun yayılmasını biriken çamur hızlandırıyor",
+      "standfirst": "Çin kıyılarında Spartina bataklık otunun gecikmeli yayılması, zamanla biriken tortuyla ilişkilendirildi.",
+      "paragraphs": [
+        "Bazı istilacı bitkiler yeni bir alana girdikten hemen sonra hızla yayılmaz; yıllarca küçük bir alanda kalıp ardından genişleyebilir. Bu gecikmeyi neyin sonlandırdığı koruma açısından önemlidir.",
+        "Araştırmacılar Çin kıyısındaki Spartina alterniflora adlı bataklık otunun yayılımını kıyı tortusu birikimiyle birlikte değerlendirdi. Kıyının fiziksel biçimi ve bitkinin çoğalması arasındaki ilişkiyi araştırdı.",
+        "Çalışmanın özetine göre tortu birikimi arttıkça otun yayılması kolaylaştı ve uzun bekleme evresinden hızlı genişleme evresine geçiş açıklanabildi.",
+        "Tam metin ve basın açıklaması erişilemedi.Sonuç her istilacı türe doğrudan genellenemez.",
+        "İstilacı türlerin hangi kıyıda ne zaman hızlanabileceğini öngörmek için fiziksel tortu koşullarını da izlemek yararlı olabilir."
+      ],
+      "takeaway": "Çin kıyılarına getirilen bir bataklık otu (Spartina alterniflora) yıllarca sessiz kaldıktan sonra patlarcasına yayıldı.",
+      "impact": null,
+      "category": {
+        "slug": "cevre",
+        "label": "Çevre",
+        "url": "kategori/cevre.html"
+      },
+      "tags": [
+        {
+          "slug": "cevre",
+          "label": "cevre",
+          "url": "etiket/cevre.html"
+        },
+        {
+          "slug": "bitki",
+          "label": "bitki",
+          "url": "etiket/bitki.html"
+        },
+        {
+          "slug": "istila",
+          "label": "istila",
+          "url": "etiket/istila.html"
+        },
+        {
+          "slug": "kiyi",
+          "label": "kiyi",
+          "url": "etiket/kiyi.html"
+        },
+        {
+          "slug": "cin",
+          "label": "cin",
+          "url": "etiket/cin.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2622290123"
+        }
+      ],
+      "image_credits": [
+        "Wikimedia Commons, Wikimedia Commons (Public domain)",
+        "Cephas, Wikimedia Commons (CC BY-SA 4.0)",
+        "Ewen Cameron, Wikimedia Commons (CC BY 4.0)",
+        "Patrice Dupont, Wikimedia Commons (CC BY 4.0)"
+      ],
+      "video": {
+        "youtube": "ZwzLZkHKxIo"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/ZwzLZkHKxIo"
+        }
+      ]
+    },
+    {
+      "id": "proj_3c04aca16c",
+      "slug": "2026-11-19-himalayalarin-yukselisi-sahra-nin-kurumasiyla-baglantili-ola",
+      "url": "yazi/2026-11-19-himalayalarin-yukselisi-sahra-nin-kurumasiyla-baglantili-ola.html",
+      "date": "2026-11-19T13:00:00+00:00",
+      "date_text": "19 Kasım 2026",
+      "publish_at": "2026-11-19T13:00:00Z",
+      "draft": false,
+      "title": "Himalayaların yükselişi Sahra'nın kurumasıyla bağlantılı olabilir",
+      "standfirst": "İklim benzetimleri Himalayaların yükselişiyle güçlenen Asya musonunun Kuzey Afrika’daki uzun süreli kuraklaşmayla bağlantılı olabileceğini gösterdi.",
+      "paragraphs": [
+        "Günümüzde Sahra kurak bir bölge ama jeolojik geçmişinde daha nemli dönemler yaşadı. Büyük dağ sistemleri hava akımlarını değiştirerek çok uzaktaki yağış düzenlerini de etkileyebilir.",
+        "Araştırmacılar yaklaşık elli milyon yıl önceki Dünya’dan yakın dönemlere uzanan jeolojik topografya ve iklim koşullarını modellere verdi. Himalayaların yükselişini ve Güney Asya musonunun değişimini Kuzey Afrika yağışlarıyla karşılaştırdı.",
+        "Modellerde Himalayalar yükselirken Güney Asya musonu güçlenip kuzeye kaydı; Kuzey Afrika’daki nem taşınımı ve yağış düzeni değişti. Sonuçlar jeolojik kayıtlarla karşılaştırılarak değerlendirildi.",
+        "Bunlar bugünkü yağış ölçümlerinden doğrudan çıkarılmış neden-sonuç değil, iklim benzetimleri. Sahra’nın oluşumunda başka jeolojik ve iklimsel etkenler de rol oynuyor olabilir.",
+        "Kıtalar arası iklim bağlantılarını anlamak, uzun jeolojik dönemlerde musonların ve çöl kuşaklarının nasıl oluştuğunu açıklamaya katkıda bulunabilir."
+      ],
+      "takeaway": "İklim benzetimlerine göre, Himalayalar yükselirken güçlenip kuzeye kayan Güney Asya musonu Kuzey Afrika'yı kuruttu.",
+      "impact": null,
+      "category": {
+        "slug": "yer-bilimleri",
+        "label": "Yer Bilimleri",
+        "url": "kategori/yer-bilimleri.html"
+      },
+      "tags": [
+        {
+          "slug": "iklim",
+          "label": "iklim",
+          "url": "etiket/iklim.html"
+        },
+        {
+          "slug": "sahra",
+          "label": "sahra",
+          "url": "etiket/sahra.html"
+        },
+        {
+          "slug": "muson",
+          "label": "muson",
+          "url": "etiket/muson.html"
+        },
+        {
+          "slug": "jeoloji",
+          "label": "jeoloji",
+          "url": "etiket/jeoloji.html"
+        },
+        {
+          "slug": "himalaya",
+          "label": "himalaya",
+          "url": "etiket/himalaya.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aee1112"
+        }
+      ],
+      "image_credits": [
+        "NASA, Wikimedia Commons (Public domain)",
+        "efghf, Wikimedia Commons (CC BY 3.0)",
+        "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Wikimedia Commons (Public domain)",
+        "NASA Johnson Space Center, Wikimedia Commons (Public domain)",
+        "Robert Simmon, NASA GSFC, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "HRBKnFiytlA"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/HRBKnFiytlA"
+        }
+      ]
+    },
+    {
+      "id": "proj_73f91c413a",
+      "slug": "2026-11-19-tatli-su-canlilari-icin-45-tehdidin-dunya-haritasi-cikarildi",
+      "url": "yazi/2026-11-19-tatli-su-canlilari-icin-45-tehdidin-dunya-haritasi-cikarildi.html",
+      "date": "2026-11-19T03:00:00+00:00",
+      "date_text": "19 Kasım 2026",
+      "publish_at": "2026-11-19T03:00:00Z",
+      "draft": false,
+      "title": "Tatlı su canlıları için 45 tehdidin dünya haritası çıkarıldı",
+      "standfirst": "21.490 tatlı su türü için 45 tehdit küresel haritada karşılaştırıldı.",
+      "paragraphs": [
+        "Göller, nehirler ve sulak alanlar türler için yaşamsal habitatlardır. Fakat bu ortamları tehdit eden baskılar bölgeden bölgeye değişir; tek bir küresel sıralama, yerel çözüm için yetersiz kalabilir.",
+        "Ekip 21.490 tatlı su türünün dağılımı ve bunlar için raporlanan 45 tehdit türünü aynı coğrafi çerçevede birleştirdi. Balıklar, amfibiler, bazı memeliler, sürüngenler ve suyla ilişkili böcek grupları kapsamdaydı.",
+        "Tarım, barajlar ve tarım kaynaklı kirlilik geniş alanlarda öne çıktı. Avrupa ve Kuzeybatı Afrika, çok sayıda tehdidin örtüştüğü bölgeler arasında belirlendi.",
+        "Bu harita bütün tatlı su canlılarını veya her derenin eksiksiz ölçümünü temsil etmiyor.",
+        "Koruma kararlarını, yalnız tür varlığına değil her havzada baskın olan insan etkilerine göre planlamak daha hedefli müdahalelere imkan sağlayabilir."
+      ],
+      "takeaway": "Araştırmacılar 21.490 tatlı su türünü tehdit eden 45 etkeni dünya haritasına döktü.",
+      "impact": null,
+      "category": {
+        "slug": "cevre",
+        "label": "Çevre",
+        "url": "kategori/cevre.html"
+      },
+      "tags": [
+        {
+          "slug": "cevre",
+          "label": "cevre",
+          "url": "etiket/cevre.html"
+        },
+        {
+          "slug": "su",
+          "label": "su",
+          "url": "etiket/su.html"
+        },
+        {
+          "slug": "biyocesitlilik",
+          "label": "biyocesitlilik",
+          "url": "etiket/biyocesitlilik.html"
+        },
+        {
+          "slug": "nehir",
+          "label": "nehir",
+          "url": "etiket/nehir.html"
+        },
+        {
+          "slug": "koruma",
+          "label": "koruma",
+          "url": "etiket/koruma.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science (2026)",
+          "url": "https://doi.org/10.1126/science.aeb7910"
+        }
+      ],
+      "image_credits": [],
+      "video": {
+        "youtube": "fo822cuNo4c"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/fo822cuNo4c"
+        }
+      ]
+    },
+    {
+      "id": "proj_63a9e9144d",
+      "slug": "2026-11-18-kalici-yaz-saati-cocuklarin-karanlikta-okula-gittigi-sabahla",
+      "url": "yazi/2026-11-18-kalici-yaz-saati-cocuklarin-karanlikta-okula-gittigi-sabahla.html",
+      "date": "2026-11-18T13:00:00+00:00",
+      "date_text": "18 Kasım 2026",
+      "publish_at": "2026-11-18T13:00:00Z",
+      "draft": false,
+      "title": "Kalıcı yaz saati çocukların karanlıkta okula gittiği sabahları artırabilir",
+      "standfirst": "ABD’de kalıcı yaz saati senaryosu, öğrencilerin karanlıkta okula gittiği yolculuk sayısını yılda iki milyardan fazla artırabilir.",
+      "paragraphs": [
+        "Yaz saatini kalıcılaştırmak, akşamları daha geç kararmasını sağlayabilir. Fakat sabah gün doğumunu da saat üzerinde ileri kaydırır; çocuklar için okul yolculuğunun aydınlık olup olmadığı önemli bir değerlendirme konusu.",
+        "Araştırmacılar ABD’deki okul başlangıç saatlerini ve bölgesel gün doğumu zamanlarını eşleştirdi. Mevcut saat değiştirme düzenini, yıl boyunca kalıcı yaz saati uygulanacak varsayımsal senaryoyla karşılaştırdı.",
+        "Hesaplar yılda iki milyarı aşkın ek karanlık sabah okul yolculuğuna işaret ediyor. Bu sayı benzersiz öğrenci sayısı değil, bir yıl içindeki toplam yolculuk hesabı.",
+        "Kalıcı yaz saati bu çalışma sırasında uygulanmamıştı. Ölçülen bir kaza artışı veya sağlık sonucu yok. Evden çıkış saati gibi varsayımlar toplam tahmini değiştirebiliyor.",
+        "Saat politikası değerlendirilirken akşam ve sabah ışığının farklı gruplar üzerindeki etkilerini birlikte düşünmek, daha dengeli kararlar alınmasına yardımcı olabilir."
+      ],
+      "takeaway": "ABD'de saatler kalıcı olarak yaz saatine sabitlenirse, çocukların hava aydınlanmadan okula gittiği sabahlar ülke genelinde yılda 2 milyardan fazla artabilir.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "uyku",
+          "label": "uyku",
+          "url": "etiket/uyku.html"
+        },
+        {
+          "slug": "yazsaati",
+          "label": "yazsaati",
+          "url": "etiket/yazsaati.html"
+        },
+        {
+          "slug": "cocuk",
+          "label": "cocuk",
+          "url": "etiket/cocuk.html"
+        },
+        {
+          "slug": "okul",
+          "label": "okul",
+          "url": "etiket/okul.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Current Biology (2026)",
+          "url": "https://doi.org/10.1016/j.cub.2026.10.014"
+        }
+      ],
+      "image_credits": [
+        "Rodriguez Ferrante G ve ark., medRxiv 2026 on baski (10.64898/2026.08.24.26361097), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "I09RfoSR4do"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/I09RfoSR4do"
+        }
+      ]
+    },
+    {
+      "id": "proj_364f8450ea",
+      "slug": "2026-11-18-mars-in-cevresindeki-plazma-jetleri-beklenenden-genis-alana-",
+      "url": "yazi/2026-11-18-mars-in-cevresindeki-plazma-jetleri-beklenenden-genis-alana-.html",
+      "date": "2026-11-18T03:00:00+00:00",
+      "date_text": "18 Kasım 2026",
+      "publish_at": "2026-11-18T03:00:00Z",
+      "draft": false,
+      "title": "Mars'ın çevresindeki plazma jetleri beklenenden geniş alana yayılıyor",
+      "standfirst": "Mars çevresindeki 733 plazma jetinin dağılımı, Dünya’daki manyetik alan yönüne bağlı örüntüden farklı çıktı.",
+      "paragraphs": [
+        "Güneş’ten gelen yüklü parçacık akımı bir gezegenin çevresinde sıkışıp yön değiştirebilir. Bu bölgelerde kısa süreli, yoğun plazma jetleri oluşur. Dünya ile Mars’ın manyetik ortamları çok farklıdır.",
+        "İki uzay aracının verileri kullanılarak Mars çevresinde 733 jet incelendi. Jetlerin şok cephesinin manyetik alan yönüne göre farklı konumlarında ne kadar görüldüğü karşılaştırıldı.",
+        "Dünya’daki jetlerin belirli bölgelerde yoğunlaşmasının aksine, Mars’ta olaylar daha geniş bir bölgeye dağılmıştı. Bu desen, küresel manyetik alanın bulunmamasının güneş rüzgarı etkileşimini nasıl değiştirebildiğine işaret ediyor.",
+        "Bu sonuç Mars yüzeyinde bir hasar veya belirli bir atmosfer kaybı miktarını ölçmüyor.",
+        "Manyetik alanı olmayan gezegenlerdeki bu etkileşimleri anlamak, benzer koşullara sahip başka gezegenlerin çevresini modellemeyi kolaylaştırabilir."
+      ],
+      "takeaway": "İki uzay aracının verileriyle incelenen 733 plazma jeti, Mars'ın çevresinde bu jetlerin her yerde oluştuğunu gösterdi.",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Astronomi",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "mars",
+          "label": "mars",
+          "url": "etiket/mars.html"
+        },
+        {
+          "slug": "plazma",
+          "label": "plazma",
+          "url": "etiket/plazma.html"
+        },
+        {
+          "slug": "gunesruzgari",
+          "label": "gunesruzgari",
+          "url": "etiket/gunesruzgari.html"
+        },
+        {
+          "slug": "gezegen",
+          "label": "gezegen",
+          "url": "etiket/gezegen.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2616582123"
+        }
+      ],
+      "image_credits": [
+        "NASA/Goddard Space Flight Center, Wikimedia Commons (Public domain)",
+        "NASA Scientific Visualization Studio, Solar Wind and Mars Bow Shock (svs.gsfc.nasa.gov/4393)",
+        "NASA/GSFC / Joy Ng",
+        "NASA, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "QQZSHqIgqjg"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/QQZSHqIgqjg"
+        }
+      ]
+    },
+    {
+      "id": "proj_3e13eb5717",
+      "slug": "2026-11-17-cok-gezegenli-sistemler-kutleye-gore-iki-farkli-davranis-gru",
+      "url": "yazi/2026-11-17-cok-gezegenli-sistemler-kutleye-gore-iki-farkli-davranis-gru.html",
+      "date": "2026-11-17T13:00:00+00:00",
+      "date_text": "17 Kasım 2026",
+      "publish_at": "2026-11-17T13:00:00Z",
+      "draft": false,
+      "title": "Çok gezegenli sistemler kütleye göre iki farklı davranış grubuna ayrıldı",
+      "standfirst": "298 çok gezegenli sistemin kütle ve yörüngelerine dayanan analiz, ağır ve hafif iki aileyle bunların dinamik farklarına işaret ediyor.",
+      "paragraphs": [
+        "Güneş Sistemi dışındaki gezegenler çok çeşitli düzenlerde bulunuyor. Bazı yıldızların çevresinde daha sakin yörüngeler, bazılarında ise güçlü karşılıklı çekim etkileri görülebiliyor.",
+        "Araştırmacılar kütleleri ve yörüngeleri güvenilir biçimde ölçülmüş 298 çok gezegenli sistemi istatistiksel olarak karşılaştırdı. Sistemlerin toplam gezegen malzemesiyle dinamik düzenleri arasındaki bağı aradı.",
+        "Analizde daha ağır aile, hafif aileye ve Güneş Sistemi’ne kıyasla yaklaşık on kat daha güçlü dinamik çalkantıyla ilişkilendirildi. Bu iki farklı gelişim yolu, gezegen sistemlerinin çeşitliliğini açıklamak için bir çerçeve sunabilir.",
+        "Bu örnek, bilinen bütün gezegen sistemlerini kapsamıyor; yalnız yeterli ölçümü bulunanları kapsıyor. İki aile modelinden her bir gezegenin gelecekteki yörüngesi tek başına kesin tahmin edilemez.",
+        "Başlangıçtaki disk malzemesinin ve yıldız özelliklerinin uzun vadeli gezegen düzenine nasıl dönüştüğünü anlamak, gezegen oluşum modellerini geliştirebilir."
+      ],
+      "takeaway": "298 çok gezegenli sistem incelendi ve sistemlerin kütlece iki aileye ayrıldığı görüldü.",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Astronomi",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "gezegen",
+          "label": "gezegen",
+          "url": "etiket/gezegen.html"
+        },
+        {
+          "slug": "otegezegen",
+          "label": "otegezegen",
+          "url": "etiket/otegezegen.html"
+        },
+        {
+          "slug": "yildiz",
+          "label": "yildiz",
+          "url": "etiket/yildiz.html"
+        },
+        {
+          "slug": "astronomi",
+          "label": "astronomi",
+          "url": "etiket/astronomi.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Astronomy (2026)",
+          "url": "https://doi.org/10.1038/s41550-026-02990-8"
+        }
+      ],
+      "image_credits": [
+        "Turrini D ve ark., Nature Astronomy 2026 (10.1038/s41550-026-02990-8), CC BY 4.0",
+        "ESA/Hubble, CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "zE3FJKjV_Eo"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/zE3FJKjV_Eo"
+        }
+      ]
+    },
+    {
+      "id": "proj_7d165b1c67",
+      "slug": "2026-11-17-mars-ta-uzay-giysisi-malzemelerinde-cok-ince-toz-taneleri-ol",
+      "url": "yazi/2026-11-17-mars-ta-uzay-giysisi-malzemelerinde-cok-ince-toz-taneleri-ol.html",
+      "date": "2026-11-17T03:00:00+00:00",
+      "date_text": "17 Kasım 2026",
+      "publish_at": "2026-11-17T03:00:00Z",
+      "draft": false,
+      "title": "Mars'ta uzay giysisi malzemelerinde çok ince toz taneleri ölçüldü",
+      "standfirst": "Perseverance üzerindeki malzeme örneklerinde 100 nanometreye kadar küçülen Mars tozu tanecikleri tespit edildi.",
+      "paragraphs": [
+        "Mars tozu yalnızca araçların üstünü kapatan bir kir tabakası değil. Gelecekte insanlı görevlerde malzeme aşınması, filtreler ve yaşam alanı sızdırmazlığı için incelenmesi gereken çevresel bir etken.",
+        "Perseverance gezgininin taşıdığı uzay giysisi malzemesi örneklerinde biriken tanecikler mikroskobik ölçekte analiz edildi. Önceki yaklaşık üç mikrometrelik ölçüm sınırının altındaki boyut aralığına bakıldı.",
+        "Tanelerin 100 nanometreye kadar küçülebildiği görüldü. Bu, daha önce erişilmeyen çok ince toz nüfusu hakkında doğrudan bir Mars gözlemi sağladı.",
+        "Bir astronotun bu tozu soluduğu veya bundan zarar gördüğü gösterilmedi. Tozun her Mars bölgesindeki miktarı ve insan sağlığındaki sonuçları bu ölçümden çıkarılamaz.",
+        "Gerçek parçacık boyutu dağılımını bilmek, gelecekte uzay giysilerinin, yaşam alanlarının ve hava temizleme sistemlerinin gereksinimlerini daha doğru belirlemeye yarayabilir."
+      ],
+      "takeaway": "Perseverance gezgini, üzerinde taşıdığı uzay giysisi malzemesi örneklerinde Mars'ta bugüne dek ölçülen en küçük toz taneciklerini saptadı.",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Astronomi",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "mars",
+          "label": "mars",
+          "url": "etiket/mars.html"
+        },
+        {
+          "slug": "toz",
+          "label": "toz",
+          "url": "etiket/toz.html"
+        },
+        {
+          "slug": "astronot",
+          "label": "astronot",
+          "url": "etiket/astronot.html"
+        },
+        {
+          "slug": "nasa",
+          "label": "nasa",
+          "url": "etiket/nasa.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2620747123"
+        }
+      ],
+      "image_credits": [
+        "NASA, Wikimedia Commons (Public domain)",
+        "en:Mars Reconnaissance Orbiter, en:NASA . Image Credit: NASA/JPL-Caltech/Univ. o, Wikimedia Commons (Public domain)",
+        "NASA/ESA, James Bell (Cornell Univ.), Michael Wolff (Space Science Inst.), and t, Wikimedia Commons (Public domain)",
+        "nasa, Wikimedia Commons (Public domain)",
+        "NASA/JPL-Caltech/MSSS, Wikimedia Commons (Public domain)",
+        "NASA/JPL-Caltech, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "Ux5WwTIWXAk"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/Ux5WwTIWXAk"
+        }
+      ]
+    },
+    {
+      "id": "proj_2f526cc7d8",
+      "slug": "2026-11-16-model-araba-cevre-desenini-okuyup-kamuflajini-saniyenin-alti",
+      "url": "yazi/2026-11-16-model-araba-cevre-desenini-okuyup-kamuflajini-saniyenin-alti.html",
+      "date": "2026-11-16T13:00:00+00:00",
+      "date_text": "16 Kasım 2026",
+      "publish_at": "2026-11-16T13:00:00Z",
+      "draft": false,
+      "title": "Model araba çevre desenini okuyup kamuflajını saniyenin altında değiştirdi",
+      "standfirst": "Mürekkep balıklarından esinlenen sistem 1/12 ölçekli model arabanın ekran desenini yaklaşık 0,4 saniyede çevreye uyarladı.",
+      "paragraphs": [
+        "Mürekkep balıkları ve ahtapotlar çevrelerine uyum sağlayan görünümleriyle tanınır. Mühendislikte bunu taklit etmenin zorluğu, ortamı algılama ile yüzeyi hızlı güncellemeyi birleştirmektir.",
+        "Tsinghua Üniversitesi ekibi kameralı ve ekran kaplamalı 1/12 ölçekli model araç geliştirdi. Basılı arka planlar önünde görüntü eşleştirme ve ek öğrenme yöntemlerini sınadı. Görünürlüğü hem insan algısı hem de bilgisayar algılayıcıları açısından değerlendirdi.",
+        "Yerel işlemcideki hızlı eşleştirmeyle ekran deseni yaklaşık 0,4 saniyede güncellenebildi. İlave gerçek zamanlı öğrenme daha uzun sürdü ve görüntü uyumunu geliştirdi.",
+        "Bu sonuç gerçek trafikte ya da gerçek tam boyutlu araçta doğrulanmış değil. Ortamlar kontrollü basılı arka planlardı; yapay zeka algılayıcılarına karşı her koşulda görünmezlik gösterilmedi.",
+        "Esnek ekran ve kameralı algılama sistemlerinin ilerlemesi, çevreye daha hızlı uyum sağlayan yüzeylerin nasıl tasarlanacağını araştırmaya yardım edebilir."
+      ],
+      "takeaway": "Tsinghua Üniversitesi'nden araştırmacılar mürekkep balığı ve ahtapottan esinlenen bir kamuflaj sistemi yaptı.",
+      "impact": null,
+      "category": {
+        "slug": "yapay-zeka",
+        "label": "Yapay Zekâ",
+        "url": "kategori/yapay-zeka.html"
+      },
+      "tags": [
+        {
+          "slug": "teknoloji",
+          "label": "teknoloji",
+          "url": "etiket/teknoloji.html"
+        },
+        {
+          "slug": "kamuflaj",
+          "label": "kamuflaj",
+          "url": "etiket/kamuflaj.html"
+        },
+        {
+          "slug": "yapayzeka",
+          "label": "yapayzeka",
+          "url": "etiket/yapayzeka.html"
+        },
+        {
+          "slug": "ahtapot",
+          "label": "ahtapot",
+          "url": "etiket/ahtapot.html"
+        },
+        {
+          "slug": "arac",
+          "label": "arac",
+          "url": "etiket/arac.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-78334-x"
+        }
+      ],
+      "image_credits": [
+        "Auckland Museum  Collections from Auckland, Aotearoa New Zealand, Wikimedia Commons (CC BY 2.0)",
+        "Fun Ho! Toy Company, Wikimedia Commons (CC BY 4.0)"
+      ],
+      "video": {
+        "youtube": "C6_tc_o5BcI"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/C6_tc_o5BcI"
+        }
+      ]
+    },
+    {
+      "id": "proj_a02be43fd7",
+      "slug": "2026-11-16-canli-alglerle-kapli-jel-isikta-bukulup-karanlikta-duzeldi",
+      "url": "yazi/2026-11-16-canli-alglerle-kapli-jel-isikta-bukulup-karanlikta-duzeldi.html",
+      "date": "2026-11-16T03:00:00+00:00",
+      "date_text": "16 Kasım 2026",
+      "publish_at": "2026-11-16T03:00:00Z",
+      "draft": false,
+      "title": "Canlı alglerle kaplı jel ışıkta bükülüp karanlıkta düzeldi",
+      "standfirst": "Canlı mikroalglerle kaplı yumuşak jel, fotosentezin değiştirdiği pH nedeniyle ışıkta bükülüp karanlıkta geri döndü.",
+      "paragraphs": [
+        "Yumuşak robotikte hareket, çoğu zaman motor veya harici pompa gerektirir. Canlı hücrelerin kendi metabolizmasının hareket üreten bir parçayı çalıştırıp çalıştıramayacağı araştırılıyor.",
+        "Delft Teknik Üniversitesi ekibi ışığa duyarlı mikroalgleri iki katlı bir hidrojel şerit üzerinde yetiştirdi. Katlardan biri pH değişimine duyarlıydı. Şeridi ışık-karanlık döngülerinde test etti ve farklı biçimlerde küçük tutucu örnekleri oluşturdu.",
+        "Işıkta fotosentezin çevre pH’ını değiştirmesi jelin bir katını şişirdi; şerit kıvrıldı. Karanlıkta metabolizma değişince eski hale döndü. Tepki altmış gün sonra da devam ediyordu; laboratuvarda küçük bir topu kavrayan tutucu gösterildi.",
+        "Bu henüz tek tek hareket eden parçalar için kavram kanıtı, kendi başına yürüyen veya yüzen tam bir robot değil. Büyük bükülmeler saatler alıyor; sistem sıvı besin ortamında ve kontrollü ışıkta çalıştı.",
+        "Canlı hücrelerin doğal enerji ve kimya döngülerinden yararlanmak, ileride dışarıdan daha az mekanik parça gerektiren yumuşak hareket sistemleri tasarlamaya yardım edebilir."
+      ],
+      "takeaway": "Araştırmacılar 2 santimlik yumuşak bir jel şeridin üzerine canlı mikroalg yerleştirdi.",
+      "impact": null,
+      "category": {
+        "slug": "malzeme",
+        "label": "Malzeme",
+        "url": "kategori/malzeme.html"
+      },
+      "tags": [
+        {
+          "slug": "teknoloji",
+          "label": "teknoloji",
+          "url": "etiket/teknoloji.html"
+        },
+        {
+          "slug": "alg",
+          "label": "alg",
+          "url": "etiket/alg.html"
+        },
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "malzeme",
+          "label": "malzeme",
+          "url": "etiket/malzeme.html"
+        },
+        {
+          "slug": "yumusakrobotik",
+          "label": "yumusakrobotik",
+          "url": "etiket/yumusakrobotik.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-78653-z"
+        }
+      ],
+      "image_credits": [
+        "Kevin Dooley from Chandler, AZ, USA, Wikimedia Commons (CC BY 2.0)",
+        "Dartmouth Electron Microscope Facility, Dartmouth College, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "gf4sQOLMV50"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/gf4sQOLMV50"
+        }
+      ]
+    },
+    {
+      "id": "proj_c993f6be4a",
+      "slug": "2026-11-15-manyetik-origami-modulleri-sensor-olmadan-baslangic-konumuna",
+      "url": "yazi/2026-11-15-manyetik-origami-modulleri-sensor-olmadan-baslangic-konumuna.html",
+      "date": "2026-11-15T13:00:00+00:00",
+      "date_text": "15 Kasım 2026",
+      "publish_at": "2026-11-15T13:00:00Z",
+      "draft": false,
+      "title": "Manyetik origami modülleri sensör olmadan başlangıç konumuna döndürüldü",
+      "standfirst": "Dönen manyetik alan, Kresling tipi origami modüllerini bilinmeyen başlangıç durumundan ortak bir duruma taşıyabildi.",
+      "paragraphs": [
+        "Katlanabilir mekanik sistemlerde çok sayıda kararlı durum olabilir. Yapı bir önceki hareketten etkileniyorsa uzaktan kontrol karmaşıklaşır; her modüle ayrı sensör takmak da sistemi büyütür.",
+        "Princeton ekibi mıknatıslarla donatılmış burularak katlanan Kresling origami hücrelerine dönen manyetik alanlar ve farklı atım dizileri uyguladı. Çok durumlu yapıyı bir durum makinesi olarak ele aldı.",
+        "Dönen alanın başlangıç durumu bilinmeyen yapıyı ortak bir denge durumuna götürebildiği gösterildi. Ardından önceden belirlenmiş manyetik atımlar diğer kararlı durumlara geçiş için kullanıldı.",
+        "Makalenin erişilen özetinde hücre sayısı, alan şiddeti veya uygulama ölçeği bulunmuyor. Bu düzenek henüz vücut içinde ilaç taşıyan bir cihaz ya da kendi başına düşünen robot değil.",
+        "Sıfırlanabilir ve programlanabilir mekanik modüller, gelecekte geri bildirime ihtiyaç duymayan daha basit uzaktan kontrol ilkeleri geliştirmeye yardımcı olabilir."
+      ],
+      "takeaway": "Princeton'dan araştırmacılar mıknatıslı origami modülleri, hangi durumda oldukları bilinmeden ve hiçbir sensör kullanılmadan, dönen bir manyetik alanla bilinen bir başlangıç durumuna döndürdü.",
+      "impact": null,
+      "category": {
+        "slug": "malzeme",
+        "label": "Malzeme",
+        "url": "kategori/malzeme.html"
+      },
+      "tags": [
+        {
+          "slug": "teknoloji",
+          "label": "teknoloji",
+          "url": "etiket/teknoloji.html"
+        },
+        {
+          "slug": "origami",
+          "label": "origami",
+          "url": "etiket/origami.html"
+        },
+        {
+          "slug": "malzeme",
+          "label": "malzeme",
+          "url": "etiket/malzeme.html"
+        },
+        {
+          "slug": "muhendislik",
+          "label": "muhendislik",
+          "url": "etiket/muhendislik.html"
+        },
+        {
+          "slug": "miknatis",
+          "label": "miknatis",
+          "url": "etiket/miknatis.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2615316123"
+        }
+      ],
+      "image_credits": [
+        "Tangopaso, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "RE1s5hR3o9c"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/RE1s5hR3o9c"
+        }
+      ]
+    },
+    {
+      "id": "proj_4e601557c1",
+      "slug": "2026-11-15-ultrasesle-havada-duvarsiz-sekiz-santimetrelik-tasima-yolu-o",
+      "url": "yazi/2026-11-15-ultrasesle-havada-duvarsiz-sekiz-santimetrelik-tasima-yolu-o.html",
+      "date": "2026-11-15T03:00:00+00:00",
+      "date_text": "15 Kasım 2026",
+      "publish_at": "2026-11-15T03:00:00Z",
+      "draft": false,
+      "title": "Ultrasesle havada duvarsız sekiz santimetrelik taşıma yolu oluşturuldu",
+      "standfirst": "256 ultrases kaynağıyla havada 8 cm uzunluğunda, değiştirilebilir bir taşıma alanı kuruldu.",
+      "paragraphs": [
+        "Ses dalgaları nesnelere kuvvet uygulayabilir. Bu özellik küçük parçacıkları havada tutmak için kullanılmıştı; daha sürekli bir akış yolu oluşturmak ise ayrı bir mühendislik problemiydi.",
+        "Helsinki Üniversitesi ve ortakları yaklaşık 40 kHz ultrases üreten 256 küçük hoparlörü bir araya getirdi. Hoparlörlerin faz ve şiddet düzeni, havada uzatılmış bir ses alanı oluşturdu. Farklı madde türlerine uygun alanlar seçilerek akış denendi.",
+        "Sıvı, gaz, sis ve katı parçacıklar yüzeye değmeden yaklaşık sekiz santimetrelik yolda yönlendirilebildi. Ses alanı değiştirilerek yolun biçimi akış sırasında da ayarlandı.",
+        "Bu yalnızca laboratuvar prototipi. Modüllerin birleştirilip uzun hat oluşturması henüz gösterilmiş değil. Söz konusu yöntem ışınlanma veya yerçekiminin ortadan kaldırılması anlamına gelmiyor.",
+        "Kirlenmenin önlenmesi gereken veya yüzeylere zarar verebilen maddelerin taşınmasında böyle temassız akışların işe yarayıp yaramayacağı gelecekte sınanabilir."
+      ],
+      "takeaway": "Araştırmacılar 256 küçük hoparlörün ultrasesiyle havada duvarları olmayan, 8 santimetrelik bir boru oluşturdu.",
+      "impact": null,
+      "category": {
+        "slug": "fizik",
+        "label": "Fizik",
+        "url": "kategori/fizik.html"
+      },
+      "tags": [
+        {
+          "slug": "fizik",
+          "label": "fizik",
+          "url": "etiket/fizik.html"
+        },
+        {
+          "slug": "ses",
+          "label": "ses",
+          "url": "etiket/ses.html"
+        },
+        {
+          "slug": "teknoloji",
+          "label": "teknoloji",
+          "url": "etiket/teknoloji.html"
+        },
+        {
+          "slug": "ultrases",
+          "label": "ultrases",
+          "url": "etiket/ultrases.html"
+        },
+        {
+          "slug": "muhendislik",
+          "label": "muhendislik",
+          "url": "etiket/muhendislik.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2614959123"
+        }
+      ],
+      "image_credits": [
+        "ENERGY.GOV, Wikimedia Commons (Public domain)",
+        "Tatsuki Fushimi, Wikimedia Commons (CC BY-SA 4.0)",
+        "Richard Haberkern, Wikimedia Commons (CC BY-SA 4.0)"
+      ],
+      "video": {
+        "youtube": "j5A3Jh4Bn8k"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/j5A3Jh4Bn8k"
+        }
+      ]
+    },
+    {
+      "id": "proj_f1512a775c",
+      "slug": "2026-11-14-kavunda-tek-bir-gen-nektari-ve-tozlayici-sinyallerini-birlik",
+      "url": "yazi/2026-11-14-kavunda-tek-bir-gen-nektari-ve-tozlayici-sinyallerini-birlik.html",
+      "date": "2026-11-14T13:00:00+00:00",
+      "date_text": "14 Kasım 2026",
+      "publish_at": "2026-11-14T13:00:00Z",
+      "draft": false,
+      "title": "Kavunda tek bir gen nektarı ve tozlayıcı sinyallerini birlikte ayarlıyor",
+      "standfirst": "Kavunda YAB5 geni nektar bezinin oluşumunu, nektar metabolizmasını ve çiçeğin tozlayıcı çekme sinyallerini birlikte düzenliyor.",
+      "paragraphs": [
+        "Bir çiçek tozlayıcıya nektar ödülü sunar; renk, koku ve morötesi desenlerle bu ödülün yerini belli edebilir. Ödül ile sinyalin birlikte çalışması için genetik düzeyde eşgüdüm gerekir.",
+        "Paris-Saclay ekibi kavundaki genetik farklılıkları ve çiçek özelliklerini karşılaştırdı. YAB5 adlı düzenleyicinin erken dönemde nektar bezini biçimlendirdiğini, olgun çiçekte ise DPE2 ve MYB111 gibi genlerle farklı süreçleri etkilediğini inceledi.",
+        "YAB5 nektarın üretildiği dokunun kimliğini ve nektar metabolizmasını etkiliyor. Taç yaprakların morötesi desenlerinde ve kokularda da rol oynuyor. YAB5 veya ilgili genler bozulduğunda tozlayıcı ziyaretleri azalıyor.",
+        "Çalışma bir kavun çeşidinin yeni ürün olarak geliştirildiğini ya da yalnız arıların etkilendiğini göstermiyor.",
+        "Tek düzenleyicinin bir çiçeğin ödülünü ve çekici sinyallerini nasıl birleştirdiğini anlamak, bitki-tozlayıcı ilişkilerinin genetik temelini çözmeye yardım edebilir."
+      ],
+      "takeaway": "Kavunda tek bir gen (YAB5), çiçeğin nektarını da tozlayıcıları çeken sinyallerini de birlikte yönetiyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "bitki",
+          "label": "bitki",
+          "url": "etiket/bitki.html"
+        },
+        {
+          "slug": "genetik",
+          "label": "genetik",
+          "url": "etiket/genetik.html"
+        },
+        {
+          "slug": "tarim",
+          "label": "tarim",
+          "url": "etiket/tarim.html"
+        },
+        {
+          "slug": "cicek",
+          "label": "cicek",
+          "url": "etiket/cicek.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Cell (2026)",
+          "url": "https://doi.org/10.1016/j.cell.2026.10.005"
+        }
+      ],
+      "image_credits": [
+        "Photo by David J. Stang, Wikimedia Commons (CC BY-SA 4.0)",
+        "USDA photo by Scott Bauer. Image Number K7355-11., Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "F5KHbwFOhHk"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/F5KHbwFOhHk"
+        }
+      ]
+    },
+    {
+      "id": "proj_9292f98379",
+      "slug": "2026-11-14-meyve-sineginde-yaslanan-hafiza-proteini-yeniden-genc-bicimi",
+      "url": "yazi/2026-11-14-meyve-sineginde-yaslanan-hafiza-proteini-yeniden-genc-bicimi.html",
+      "date": "2026-11-14T03:00:00+00:00",
+      "date_text": "14 Kasım 2026",
+      "publish_at": "2026-11-14T03:00:00Z",
+      "draft": false,
+      "title": "Meyve sineğinde yaşlanan hafıza proteini yeniden genç biçimine yönlendirildi",
+      "standfirst": "Meyve sineğinde Orb2’nin amiloid biçimi yaşla değişti.",
+      "paragraphs": [
+        "Amiloid yapılar çoğu zaman hastalıklarla anılır. Ancak bazı amiloidler normal hücre işlevleri için gereklidir. Meyve sineğindeki Orb2 proteini, uzun süreli hafızayla ilişkili işlevsel bir amiloiddir.",
+        "Hong Kong Üniversitesi ekibi farklı yaştaki sineklerde Orb2’nin yapısal biçimlerini karşılaştırdı. Ardından proteinlerin katlanmasına yardımcı molekülleri değiştirerek Orb2’nin hangi yapılara yöneldiğini ve hafıza davranışını inceledi.",
+        "Yaş ilerledikçe Orb2 daha dayanıklı ama işlev bakımından daha zayıf bir yapıya kaydı. Funes adlı yardımcı proteinin artırılması, daha genç yapıların oranını ve hafıza performansını yükseltti.",
+        "Sonuçlar meyve sineğine ait. Orb2’nin hastalık yapan zararlı amiloid olduğu iddia edilmiyor. Aynı yaşlanma mekanizmasının insandaki ilgili proteinlerde gerçekleşip gerçekleşmediği henüz bilinmiyor.",
+        "Normal yaşlanmada hafızanın zayıflamasını protein yapısı üzerinden araştırmak, yeni deneysel hedefler oluşturabilir."
+      ],
+      "takeaway": "Meyve sineklerinde uzun süreli hafıza için gereken Orb2 proteini yaşlandıkça biçim değiştirip daha az işlevli bir yapıya geçiyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "hafiza",
+          "label": "hafiza",
+          "url": "etiket/hafiza.html"
+        },
+        {
+          "slug": "yaslanma",
+          "label": "yaslanma",
+          "url": "etiket/yaslanma.html"
+        },
+        {
+          "slug": "protein",
+          "label": "protein",
+          "url": "etiket/protein.html"
+        },
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Cell (2026)",
+          "url": "https://doi.org/10.1016/j.cell.2026.10.009"
+        }
+      ],
+      "image_credits": [
+        "Sanjay Acharya, Wikimedia Commons (CC BY-SA 4.0)",
+        "André Karwath aka Aka, Wikimedia Commons (CC BY-SA 2.5)",
+        "Gerit Linneweber, Wikimedia Commons (CC BY 2.0)",
+        "Jenett A, Schindelin JE, Heisenberg M., Wikimedia Commons (CC BY 2.0)",
+        "Amb4541, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "PUxTiYmTaxM"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/PUxTiYmTaxM"
+        }
+      ]
+    },
+    {
+      "id": "proj_872eefc36f",
+      "slug": "2026-11-13-meyve-sineginin-yuruyus-ritmi-simulasyonda-uc-norona-indiril",
+      "url": "yazi/2026-11-13-meyve-sineginin-yuruyus-ritmi-simulasyonda-uc-norona-indiril.html",
+      "date": "2026-11-13T13:00:00+00:00",
+      "date_text": "13 Kasım 2026",
+      "publish_at": "2026-11-13T13:00:00Z",
+      "draft": false,
+      "title": "Meyve sineğinin yürüyüş ritmi simülasyonda üç nörona indirildi",
+      "standfirst": "Konektom temelli simülasyonda sineğin altı bacağı için ritim üreten en küçük çekirdek iki uyarıcı, bir baskılayıcı nörondan oluşuyordu.",
+      "paragraphs": [
+        "Hayvanlar yürürken her kas kasılmasının zamanını ayrı ayrı hesaplamaz. Merkezi ritim üreteçleri denen sinir ağları, sürekli girdiden tekrarlayan hareket düzenleri üretebilir. Bu devreleri hücre düzeyinde bulmak zordur.",
+        "Washington Üniversitesi ekibi meyve sineğinin bağlantıları ayrıntılı olarak haritalanmış sinir kordonunu bilgisayarda canlandırdı. Ritmi başlatan nöronları aradı ve sanal ağdan nöronları aşamalı olarak çıkarıp ritmi koruyan en küçük çekirdeği belirledi.",
+        "Simülasyonda iki uyarıcı ve bir baskılayıcı nöron altı bacakta ritim için yeterliydi. Model, daha önce bilinen komut nöronlarını da buldu; başka bir komut yoluyla ilgili tahmin canlı sinek deneylerinde sınandı.",
+        "Üç nöronlu çekirdek henüz canlı sinekte doğrudan test edilmiş değil. Yürümek yalnızca ritimden ibaret değil; duyusal geri bildirim ve başka ağlar da gerekiyor. Makale çekirdeği olası ritim üreteci olarak adlandırıyor.",
+        "Sinir bağlantı haritalarıyla çalışan simülasyonlar gerçek deneylerden önce devre adayları çıkarabilirse, hareketin temel mekanizmasını anlamak hızlanabilir."
+      ],
+      "takeaway": "Meyve sineğinin sinir ağının bilgisayar simülasyonu, bacaklardaki yürüyüş ritmini başlatmaya yeten devreyi yalnızca 3 nörona indirdi.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        },
+        {
+          "slug": "noron",
+          "label": "noron",
+          "url": "etiket/noron.html"
+        },
+        {
+          "slug": "sinek",
+          "label": "sinek",
+          "url": "etiket/sinek.html"
+        },
+        {
+          "slug": "simulasyon",
+          "label": "simulasyon",
+          "url": "etiket/simulasyon.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-11195-y"
+        }
+      ],
+      "image_credits": [
+        "Alexis, Wikimedia Commons (CC BY 4.0)",
+        "michael, Wikimedia Commons (CC BY 2.0)",
+        "gailhampshire from Cradley, Malvern, U.K, Wikimedia Commons (CC BY 2.0)"
+      ],
+      "video": {
+        "youtube": "JPGhvftzfuU"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/JPGhvftzfuU"
+        }
+      ]
+    },
+    {
+      "id": "proj_1157a06192",
+      "slug": "2026-11-13-hastane-kanalizasyonunda-direncli-bakterileri-secen-kimyasal",
+      "url": "yazi/2026-11-13-hastane-kanalizasyonunda-direncli-bakterileri-secen-kimyasal.html",
+      "date": "2026-11-13T03:00:00+00:00",
+      "date_text": "13 Kasım 2026",
+      "publish_at": "2026-11-13T03:00:00Z",
+      "draft": false,
+      "title": "Hastane kanalizasyonunda dirençli bakterileri seçen kimyasal baskı bulundu",
+      "standfirst": "İsveç’te 10 hastanenin atık suyunda dirençli E. coli lehine seçilim gözlendi.",
+      "paragraphs": [
+        "Hastanelerde kullanılan antibiyotiklerin bir bölümü atık suya karışır. Bu durum kanalizasyon sisteminde bazı bakteri türlerinin diğerlerinden daha avantajlı büyümesine yol açabilir.",
+        "Göteborg Üniversitesi ekibi sekiz şehirde on hastane ve belediye arıtma sistemlerinden su örnekleri topladı. Bakterilerden arındırılmış bu sulara karışık bakteri toplulukları ekleyerek 72 saatlik seçilim testleri yaptı. Boru içi tabakasını taklit eden biyofilmleri de karşılaştırdı.",
+        "Hastane örnekleri siprofloksasine dirençli E. coli için belirgin avantaj sağladı. Belediye atık suyunda aynı sonuç görülmedi. Hastane biyofilmlerinde dirençli E. coli oranı su örneklerindekinin yaklaşık üç katıydı.",
+        "Bu çalışma İsveç’teki seçilmiş örneklerde direnç seçilimini inceliyor. Hastalara kanalizasyondan bakteri bulaştığı gösterilmedi. Laboratuvar testi, gerçek kanalizasyon ekolojisinin tam kopyası değil.",
+        "Hangi ilaçların hangi noktada seçilim baskısı yarattığını belirlemek, hastane kanalizasyonunda hedefli arıtma stratejilerini geliştirmeye yardım edebilir."
+      ],
+      "takeaway": "İsveç'te 10 hastanenin atık suyunun tamamı antibiyotiğe dirençli bağırsak bakterisi E. coli'yi kayırdı, belediye atık suları ise kayırmadı.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "antibiyotik",
+          "label": "antibiyotik",
+          "url": "etiket/antibiyotik.html"
+        },
+        {
+          "slug": "bakteri",
+          "label": "bakteri",
+          "url": "etiket/bakteri.html"
+        },
+        {
+          "slug": "hastane",
+          "label": "hastane",
+          "url": "etiket/hastane.html"
+        },
+        {
+          "slug": "direnc",
+          "label": "direnc",
+          "url": "etiket/direnc.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-78836-8"
+        }
+      ],
+      "image_credits": [
+        "Gray DA ve ark., Nature Communications 2026 (10.1038/s41467-026-78836-8), CC BY 4.0"
+      ],
+      "video": {
+        "youtube": "OhYEYPHfKQU"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/OhYEYPHfKQU"
+        }
+      ]
+    },
+    {
+      "id": "proj_eed27530f6",
+      "slug": "2026-11-12-erken-dogum-beynin-hizli-gelistigi-donemde-beyincigin-buyume",
+      "url": "yazi/2026-11-12-erken-dogum-beynin-hizli-gelistigi-donemde-beyincigin-buyume.html",
+      "date": "2026-11-12T13:00:00+00:00",
+      "date_text": "12 Kasım 2026",
+      "publish_at": "2026-11-12T13:00:00Z",
+      "draft": false,
+      "title": "Erken doğum beynin hızlı geliştiği dönemde beyinciğin büyümesiyle ilişkili",
+      "standfirst": "Prematüre doğumun her erken haftası beyincik hacminde yaklaşık 230 mm³ farkla ilişkiliydi.",
+      "paragraphs": [
+        "Gebeliğin son bölümünde beyincik çok hızlı büyür. Beynin bu bölümü yalnızca hareketi değil, dil ve düşünme becerileriyle ilişkili ağları da destekler. Erken doğum bu hassas gelişim döneminin koşullarını değiştirebilir.",
+        "Çalışmada 176 bebeğin gelişim ve görüntüleme verileri ile 83 bebeğe ait bağışlanmış beyin dokusu örnekleri birlikte değerlendirildi. Beyincik hacmi, çocukluk gelişimi ve nöron olgunlaşması arasında ilişkiler arandı.",
+        "Erken geçen her hafta daha küçük beyincik hacmiyle ilişkili bulundu. Granül hücrelerinin olgunlaşma düzeyi ve Purkinje hücrelerinin bağlantı düzenindeki değişiklikler, olası hücresel açıklamalar sunuyor.",
+        "Bu bir grup düzeyindeki ilişkidir; her prematüre bebekte gecikme veya kalıcı hasar var demek değildir. Eşlik eden iltihap ya da oksijen sorunları gibi etkenler ayrılamamış olabilir. Çalışma tek bir tedavinin etkisini sınamadı.",
+        "Gelişimsel olgunluğu daha iyi ölçmek, prematüre bebeklerin izlenmesini ve gelecekteki müdahaleleri daha kişiselleştirilmiş hale getirebilir."
+      ],
+      "takeaway": "Prematüre doğan bebeklerde, doğumun normal zamanından önce anne karnı dışında geçen her hafta, beyinciğin yaklaşık 230 milimetreküp, yani kabaca bir bezelye kadar daha küçük olmasıyla ilişkili…",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "bebek",
+          "label": "bebek",
+          "url": "etiket/bebek.html"
+        },
+        {
+          "slug": "beyin",
+          "label": "beyin",
+          "url": "etiket/beyin.html"
+        },
+        {
+          "slug": "prematur",
+          "label": "prematur",
+          "url": "etiket/prematur.html"
+        },
+        {
+          "slug": "gelisim",
+          "label": "gelisim",
+          "url": "etiket/gelisim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science (2026)",
+          "url": "https://doi.org/10.1126/science.aeb9095"
+        }
+      ],
+      "image_credits": [
+        "Paul Wilkinson from London, United Kingdom, Wikimedia Commons (CC BY 2.0)",
+        "BodyParts3D is generated by DBCLS, Wikimedia Commons (CC BY-SA 2.1 jp)",
+        "Lennart Rikk, Wikimedia Commons (CC0)",
+        "Caldwbr, Wikimedia Commons (CC0)"
+      ],
+      "video": {
+        "youtube": "4B5OQ6yM5Ng"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/4B5OQ6yM5Ng"
+        }
+      ]
+    },
+    {
+      "id": "proj_9c58a4ec71",
+      "slug": "2026-11-12-guney-balinalari-cogaldikca-kiyida-belli-noktalarda-toplaniy",
+      "url": "yazi/2026-11-12-guney-balinalari-cogaldikca-kiyida-belli-noktalarda-toplaniy.html",
+      "date": "2026-11-12T03:00:00+00:00",
+      "date_text": "12 Kasım 2026",
+      "publish_at": "2026-11-12T03:00:00Z",
+      "draft": false,
+      "title": "Güney balinaları çoğaldıkça kıyıda belli noktalarda toplanıyor",
+      "standfirst": "1976–2023 sayımlarında güney balinalarının sayısı artarken kıyıdaki dağılımı dağınıktan kümeli hale geldi.",
+      "paragraphs": [
+        "Aşırı avlanma sonrası toparlanan hayvan nüfuslarında yalnız birey sayısı değil, bireylerin nerede toplandığı da değişebilir. Geçmişte balinaların sürekli aynı doğum koylarına bağlı kaldığı düşünülüyordu.",
+        "Tazmanya Üniversitesi ve işbirlikçileri Avustralya kıyılarında 1976–2023 arasında her yıl yapılan hava sayımlarını analiz etti. Balina sayılarının ve kıyı boyunca yoğunlaşmanın yıllar içindeki değişimini inceledi.",
+        "Bireyler önce kıyıda daha dağınık görünürken nüfus yükseldikçe belli noktalarda kümelendi. Araştırmacılar diğer balinaların varlığının yer tercihinde rol oynayabileceğini düşünüyor.",
+        "Bu mekanizma doğrudan gösterilmedi; balinaların haberleşerek buluştuğu söylenemez. Avustralya’da tür hala tehlike altında ve avcılık öncesi düzeylere dönmüş değil. Kümelenmenin tam eşiği de kaynakta belirtilmiyor.",
+        "Nüfus toparlanırken habitat tercihinin değişebileceğini hesaba katmak, deniz koruma planlarının gelecekteki dağılımlara uyum sağlamasını kolaylaştırabilir."
+      ],
+      "takeaway": "Avustralya'da 1976-2023 arasındaki hava sayımları, güney balinalarının sayısı birkaç bireyden birkaç yüze çıkarken kıyıya dağınık yerleşmeyi bırakıp belirli noktalarda kümelendiğini gösterdi.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "balina",
+          "label": "balina",
+          "url": "etiket/balina.html"
+        },
+        {
+          "slug": "deniz",
+          "label": "deniz",
+          "url": "etiket/deniz.html"
+        },
+        {
+          "slug": "avustralya",
+          "label": "avustralya",
+          "url": "etiket/avustralya.html"
+        },
+        {
+          "slug": "koruma",
+          "label": "koruma",
+          "url": "etiket/koruma.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (2026)",
+          "url": "https://doi.org/10.1073/pnas.2602745123"
+        }
+      ],
+      "image_credits": [
+        "Hugo Hulsberg, Wikimedia Commons (CC0)",
+        "steve b, Wikimedia Commons (CC0)",
+        "Michaël CATANZARITI, Wikimedia Commons (Public domain)",
+        "gailhampshire, Wikimedia Commons (CC BY 2.0)"
+      ],
+      "video": {
+        "youtube": "aVGOJZy7ykA"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/aVGOJZy7ykA"
+        }
+      ]
+    },
+    {
+      "id": "proj_14805fb54d",
+      "slug": "2026-11-11-palyaco-baliklari-sosyal-siraya-gore-farkli-hizlarda-buyuyor",
+      "url": "yazi/2026-11-11-palyaco-baliklari-sosyal-siraya-gore-farkli-hizlarda-buyuyor.html",
+      "date": "2026-11-11T13:00:00+00:00",
+      "date_text": "11 Kasım 2026",
+      "publish_at": "2026-11-11T13:00:00Z",
+      "draft": false,
+      "title": "Palyaço balıkları sosyal sıraya göre farklı hızlarda büyüyor",
+      "standfirst": "Beş haftalık laboratuvar deneyinde baskın palyaço balıkları ortalama 4,3 mm, diğerleri 1,9 mm uzadı.",
+      "paragraphs": [
+        "Palyaço balıklarının grubunda boy, sosyal sırayla yakından ilişkilidir. En büyük balık dişi, ardından üreyen erkek ve daha küçük bireyler gelir. Bu düzen yalnızca davranışla değil, büyüme hızıyla da korunuyor olabilir.",
+        "Boston Üniversitesi ekibi aynı büyüklükte yavru palyaço balıklarını çiftler halinde veya yalnız tuttu. Beş hafta boyunca boy değişimini ve çiftlerde hangi balığın baskın çıktığını izledi.",
+        "Baskın balıklar ortalama 4,3 mm büyürken boyun eğenler 1,9 mm, yalnız yaşayanlar 2,4 mm uzadı. Yalnız bireylerin daha yavaş büyümesi, farkın yalnız baskılanan balığın geri kalmasından ibaret olmayabileceğini düşündürüyor.",
+        "Deney tek türün genç bireyleriyle, kontrollü laboratuvar ortamında yapıldı. Doğada aynı sayıların ortaya çıkıp çıkmayacağı henüz sınanmadı. Çalışma her sosyal türün bu biçimde büyüdüğünü iddia etmiyor.",
+        "Sosyal omurgalılarda beden büyüklüğünün çevredeki bireylerle nasıl ayarlandığını anlamak, gelişim ve grup yaşamı arasındaki bağı açıklayabilir."
+      ],
+      "takeaway": "Aynı boyda iki yavru palyaço balığı 5 hafta birlikte tutulunca baskın çıkan balık ortalama 4,3 milimetre uzadı, rakibi ise 1,9 milimetre.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "balik",
+          "label": "balik",
+          "url": "etiket/balik.html"
+        },
+        {
+          "slug": "deniz",
+          "label": "deniz",
+          "url": "etiket/deniz.html"
+        },
+        {
+          "slug": "hayvandavranisi",
+          "label": "hayvandavranisi",
+          "url": "etiket/hayvandavranisi.html"
+        },
+        {
+          "slug": "sosyal",
+          "label": "sosyal",
+          "url": "etiket/sosyal.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "eLife (2026)",
+          "url": "https://doi.org/10.7554/elife.109871"
+        }
+      ],
+      "image_credits": [
+        "Vizer LF ve ark., eLife 2026 (10.7554/elife.109871), CC BY 4.0 (Sekil 1C)",
+        "Vizer LF ve ark., eLife 2026 (10.7554/elife.109871), CC BY 4.0 (Sekil 2A)",
+        "Vizer LF ve ark., eLife 2026 (10.7554/elife.109871), CC BY 4.0 (Sekil 1A)"
+      ],
+      "video": {
+        "youtube": "L32cKK_H194"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/L32cKK_H194"
+        }
+      ]
+    },
+    {
+      "id": "proj_4bcac19e14",
+      "slug": "2026-11-11-orumceklerin-cesitlenmesi-yapiskan-ipek-bezleriyle-baglantil",
+      "url": "yazi/2026-11-11-orumceklerin-cesitlenmesi-yapiskan-ipek-bezleriyle-baglantil.html",
+      "date": "2026-11-11T03:00:00+00:00",
+      "date_text": "11 Kasım 2026",
+      "publish_at": "2026-11-11T03:00:00Z",
+      "draft": false,
+      "title": "Örümceklerin çeşitlenmesi yapışkan ipek bezleriyle bağlantılı bulundu",
+      "standfirst": "Genom ve ipek proteinlerini birlikte karşılaştıran analiz, agrega bezinin varlığını daha yüksek çeşitlenme hızıyla ilişkilendirdi.",
+      "paragraphs": [
+        "Örümceklerin ipeği ağ kurma, yuva yapma ve av yakalama gibi çok farklı görevlerde kullanılır. Ancak hangi ipek özelliğinin evrimde daha çok tür oluşmasıyla ilişkili olduğu açık değildi.",
+        "Ekip genom ve gen kopyalarından örümceklerin soy ağacını yeniden kurup tarihlendirdi. İpek protein ailesi olan spidroinleri tarayarak dört yeni tür tanımladı; ardından ipek bezlerinin varlığını ve protein sayısını çeşitlenme modelleriyle karşılaştırdı.",
+        "Var-yok biçiminde sınanan özelliklerden yalnız yapışkan ipek üreten agrega bezinin varlığı daha yüksek tür çeşitlenmesiyle istatistiksel ilişki gösterdi. Bazı ipek protein sayıları da çeşitlenme hızlarıyla bağlantılı çıktı.",
+        "Sonuç korelasyon gösteriyor; bezin türleşmeye doğrudan neden olduğu kanıtlanmadı. Yeni proteinlerin ipeği daha güçlü yaptığı da ölçülmedi.",
+        "Bulgular, ipek biyolojisinin örümcek çeşitliliğine nasıl eşlik ettiğini açıklamak ve hangi mekanik özelliklerin gelecekte denenmesi gerektiğini seçmek için yeni sorular açıyor."
+      ],
+      "takeaway": "Bilim insanları örümceklerin soy ağacını tarihlendirip ipek genlerini taradı ve dört yeni ipek proteini türü buldu.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "orumcek",
+          "label": "orumcek",
+          "url": "etiket/orumcek.html"
+        },
+        {
+          "slug": "ipek",
+          "label": "ipek",
+          "url": "etiket/ipek.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        },
+        {
+          "slug": "genetik",
+          "label": "genetik",
+          "url": "etiket/genetik.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Current Biology (2026)",
+          "url": "https://doi.org/10.1016/j.cub.2026.10.011"
+        }
+      ],
+      "image_credits": [
+        "Tero Karppinen from Finland, Wikimedia Commons (CC BY 2.0)",
+        "Martemmedia, Wikimedia Commons (CC BY 4.0)"
+      ],
+      "video": {
+        "youtube": "BsU6ALiXGA0"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/BsU6ALiXGA0"
+        }
+      ]
+    },
+    {
+      "id": "proj_51d29ccc5c",
+      "slug": "2026-11-10-jura-doneminden-dinozor-yumurtasi-kabugunun-yumusak-oldugu-a",
+      "url": "yazi/2026-11-10-jura-doneminden-dinozor-yumurtasi-kabugunun-yumusak-oldugu-a.html",
+      "date": "2026-11-10T13:00:00+00:00",
+      "date_text": "10 Kasım 2026",
+      "publish_at": "2026-11-10T13:00:00Z",
+      "draft": false,
+      "title": "Jura döneminden dinozor yumurtası kabuğunun yumuşak olduğu anlaşıldı",
+      "standfirst": "İki embriyo arasındaki erken Jura kabuğunda kireçli tabaka toplamın en çok yüzde 41’iydi.",
+      "paragraphs": [
+        "Bugün kuşların kabuğu sert, birçok sürüngenin yumurtası ise deri gibi esnektir. Dinozor soyunda bu iki uç arasında hangi yapılar bulunduğu uzun süredir tartışılıyor.",
+        "Çin’deki ekip iki embriyonun arasındaki fosilleşmiş kabuk parçalarını mikro tomografi, elektron mikroskobu ve mineral analizleriyle inceledi. Kabuğun katmanları ve bükülme biçimi ayrıntılı olarak karşılaştırıldı.",
+        "Kireçli katman toplam kalınlığın en fazla yüzde 41’ini oluşturuyordu. Seyrek dizilmiş mineral birimleri ve korunmuş kıvrımlar, kabuğun fosilleşmeden önce esnek olduğunu destekledi.",
+        "Bu, eksiksiz bir yumurta değil; iki embriyo arasında kalmış kabuk parçaları. Tür tanısı geçici ve tarihleme katman sırasına dayanıyor. Bütün dinozor yumurtalarını temsil ettiği söylenemez.",
+        "Farklı sertlikte yumurta kabuklarının ne zaman ve nasıl ortaya çıktığını anlamak, dinozorların üreme evrimine dair eksik halkaları tamamlayabilir."
+      ],
+      "takeaway": "Çin'in Yunnan bölgesinde erken Jura katmanlarında, iki dinozor embriyosunun arasında kalmış bir yumurta kabuğu bulundu.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "paleontoloji",
+          "label": "paleontoloji",
+          "url": "etiket/paleontoloji.html"
+        },
+        {
+          "slug": "dinozor",
+          "label": "dinozor",
+          "url": "etiket/dinozor.html"
+        },
+        {
+          "slug": "yumurta",
+          "label": "yumurta",
+          "url": "etiket/yumurta.html"
+        },
+        {
+          "slug": "fosil",
+          "label": "fosil",
+          "url": "etiket/fosil.html"
+        },
+        {
+          "slug": "evrim",
+          "label": "evrim",
+          "url": "etiket/evrim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature Communications (2026)",
+          "url": "https://doi.org/10.1038/s41467-026-78709-0"
+        }
+      ],
+      "image_credits": [
+        "Jidanni, Wikimedia Commons (CC0)",
+        "U. S. Fish and Wildlife Service - Northeast Region, Wikimedia Commons (Public domain)",
+        "F. Han, Y. Yu, S. Zhang, R. Zeng, X. Wang, H. Cai, T. Wu, Y. Wen, S. Cai, C. Li,, Wikimedia Commons (CC BY 4.0)",
+        "Gary Todd, Wikimedia Commons (CC0)",
+        "Gary Todd from Xinzheng, China, Wikimedia Commons (CC0)"
+      ],
+      "video": {
+        "youtube": "1hkr8JI5URo"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/1hkr8JI5URo"
+        }
+      ]
+    },
+    {
+      "id": "proj_7d90f3b992",
+      "slug": "2026-11-10-boris-firtinasinda-iklimin-sele-etkisi-yagistan-daha-buyuktu",
+      "url": "yazi/2026-11-10-boris-firtinasinda-iklimin-sele-etkisi-yagistan-daha-buyuktu.html",
+      "date": "2026-11-10T03:00:00+00:00",
+      "date_text": "10 Kasım 2026",
+      "publish_at": "2026-11-10T03:00:00Z",
+      "draft": false,
+      "title": "Boris fırtınasında iklimin sele etkisi yağıştan daha büyüktü",
+      "standfirst": "2024 Boris fırtınasını modelleyen çalışma, iklim etkisinin yağışta yüzde 6–9, sel zirvelerinde yüzde 14–22 düzeyinde olduğunu hesapladı.",
+      "paragraphs": [
+        "Bir yağmur fırtınası güçlendiğinde nehrin aynı oranda yükselmesini beklemek yanıltıcı olabilir. Toprak bir süre suyu depolar, sonra doygunluğa ulaşınca ilave yağış doğrudan yüzey akışına dönüşür.",
+        "Araştırmacılar 2024 Boris fırtınasının rüzgar düzenini gözlemlere sabitledi ve sera gazlarının daha düşük olduğu karşıt bir iklim koşulunda yeniden modelledi. Yağış sonuçlarını nehir havzası modellerine aktardı.",
+        "Karşıt senaryoda yağış yüzde 6–9 daha az çıkarken taşkın zirveleri yüzde 14–22 daha düşük hesaplandı. Toprağın emme ve depolama kapasitesindeki eşik davranışı, iki oran arasındaki farkı açıklamaya yardımcı oluyor.",
+        "Bunlar doğrudan ölçülmüş alternatif tarih değil, model sonuçları. Fırtınanın iklim değişikliğinden kaynaklandığı veya bu tür sellerin ne kadar sıklaşacağı çalışmadan çıkarılamıyor.",
+        "Sel riskini yağıştan nehir akışına kadar bütün süreçle değerlendirmek, altyapı ve erken uyarı planlarını daha doğru kılabilir."
+      ],
+      "takeaway": "2024'te Orta Avrupa'yı vuran Boris fırtınasında iklim değişikliği olmasaydı yağış yüzde 6 ile 9 arasında daha az olacaktı.",
+      "impact": null,
+      "category": {
+        "slug": "yer-bilimleri",
+        "label": "Yer Bilimleri",
+        "url": "kategori/yer-bilimleri.html"
+      },
+      "tags": [
+        {
+          "slug": "iklim",
+          "label": "iklim",
+          "url": "etiket/iklim.html"
+        },
+        {
+          "slug": "sel",
+          "label": "sel",
+          "url": "etiket/sel.html"
+        },
+        {
+          "slug": "firtina",
+          "label": "firtina",
+          "url": "etiket/firtina.html"
+        },
+        {
+          "slug": "avrupa",
+          "label": "avrupa",
+          "url": "etiket/avrupa.html"
+        },
+        {
+          "slug": "yagis",
+          "label": "yagis",
+          "url": "etiket/yagis.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aef7703"
+        }
+      ],
+      "image_credits": [
+        "Doronenko, Wikimedia Commons (CC0)",
+        "NASA, Wikimedia Commons (Public domain)",
+        "Miersch P ve ark., Science Advances 2026 (10.1126/sciadv.aef7703), CC BY 4.0",
+        "Herbert Ortner, Wikimedia Commons (CC BY 4.0)",
+        "NASA Earth Observatory images by Michala Garrison, using Landsat data from the U, Wikimedia Commons (Public domain)",
+        "Naoag, Wikimedia Commons (CC0)"
+      ],
+      "video": {
+        "youtube": "PUhj9ToA3Wk"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/PUhj9ToA3Wk"
+        }
+      ]
+    },
+    {
+      "id": "proj_7ae575bca9",
+      "slug": "2026-11-09-yaygin-gorunen-62-otucu-kus-turunun-genetik-cesitliligi-azal",
+      "url": "yazi/2026-11-09-yaygin-gorunen-62-otucu-kus-turunun-genetik-cesitliligi-azal.html",
+      "date": "2026-11-09T13:00:00+00:00",
+      "date_text": "9 Kasım 2026",
+      "publish_at": "2026-11-09T13:00:00Z",
+      "draft": false,
+      "title": "Yaygın görünen 62 ötücü kuş türünün genetik çeşitliliği azaldı",
+      "standfirst": "Gaoligong Dağları’nda tehlikede sayılmayan 62 ötücü kuş türünün tamamında 50 yıl içinde genetik çeşitlilik azaldı.",
+      "paragraphs": [
+        "Koruma çalışmalarında genellikle türün toplam birey sayısına ve yayılış alanına bakılır. Oysa genetik çeşitlilikteki sessiz kayıplar, sayılar azalmadan önce de ortaya çıkabilir.",
+        "Çin’deki ekip 1960–1970’lerden 294 müze örneğiyle yakın dönemden 294 örneğin genomunu karşılaştırdı. Örnekler aynı dağ bölgesindeki 62 ötücü kuş türünü temsil ediyordu. Türlerin hepsi tehlike kategorisinin dışındaydı.",
+        "Tüm türlerde genetik çeşitlilik geriledi; ortalama kayıp yaklaşık yüzde 43–49 aralığındaydı. Bölgenin yaşam alanlarının parçalanması ve kuşların yayılma yeteneği, farklı kayıp düzeylerini açıklayabilecek etkenler arasında değerlendirildi.",
+        "Ölçülen şey nüfusun yüzde 43 azalması değil, genetik çeşitliliktir. Nedensellik doğrudan bir deneyle gösterilmedi. Sonuçlar dünyanın tüm kuş türlerine değil, belirli bir Çin dağ bölgesindeki ötücülere ait.",
+        "Yaygın türler için de genomik izleme yapılması ve parçalanmış yaşam alanlarının bağlantısının korunması, riskleri daha erken fark etmeye yardım edebilir."
+      ],
+      "takeaway": "Ortalama kayıp yüzde 43 ile 49 arasında.",
+      "impact": null,
+      "category": {
+        "slug": "cevre",
+        "label": "Çevre",
+        "url": "kategori/cevre.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "kus",
+          "label": "kus",
+          "url": "etiket/kus.html"
+        },
+        {
+          "slug": "genetik",
+          "label": "genetik",
+          "url": "etiket/genetik.html"
+        },
+        {
+          "slug": "koruma",
+          "label": "koruma",
+          "url": "etiket/koruma.html"
+        },
+        {
+          "slug": "cin",
+          "label": "cin",
+          "url": "etiket/cin.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science (2026)",
+          "url": "https://doi.org/10.1126/science.aef3063"
+        }
+      ],
+      "image_credits": [
+        "Shiv's fotografia, Wikimedia Commons (CC BY 4.0)",
+        "Mildeep, Wikimedia Commons (CC BY-SA 4.0)",
+        "Ogilvie-Grant, 1906, Wikimedia Commons (CC0)",
+        "https://www.flickr.com/photos/finlap/, Wikimedia Commons (CC BY 2.0)",
+        "Savithri Singh, Wikimedia Commons (CC BY-SA 4.0)",
+        "Knautzen 04:22, 23. Okt. 2006 (CEST), Wikimedia Commons (CC BY 2.0 de)",
+        "瑞丽江的河水, Wikimedia Commons (CC BY-SA 4.0)"
+      ],
+      "video": {
+        "youtube": "sEX2F_Y-wvs"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/sEX2F_Y-wvs"
+        }
+      ]
+    },
+    {
+      "id": "proj_5b752bc0b5",
+      "slug": "2026-11-09-los-angeles-sehir-yangininda-dumanin-kursun-icerigi-cok-yuks",
+      "url": "yazi/2026-11-09-los-angeles-sehir-yangininda-dumanin-kursun-icerigi-cok-yuks.html",
+      "date": "2026-11-09T03:00:00+00:00",
+      "date_text": "9 Kasım 2026",
+      "publish_at": "2026-11-09T03:00:00Z",
+      "draft": false,
+      "title": "Los Angeles şehir yangınında dumanın kurşun içeriği çok yükseldi",
+      "standfirst": "Eaton yangınında ölçülen duman, karşılaştırılan bitki örtüsü yangınına göre 50 kattan fazla kurşun içeriyordu.",
+      "paragraphs": [
+        "Orman yangını dumanının kimyasıyla evlerin ve otomobillerin de yandığı şehir yangınının kimyası aynı değil. Şehirdeki metal, boya, plastik ve yapı malzemeleri dumana farklı maddeler katabilir.",
+        "Caltech ekibi 2025’teki Eaton yangınında hava ölçüm ağının saatlik element verilerini inceledi. Bunları daha önceki bir bitki örtüsü yangınıyla karşılaştırdı ve dumanın nerelere ulaştığını modelledi.",
+        "Kurşun içeriği karşılaştırma yangınından 50 kattan fazla yüksekti. Klor, brom ve bazı diğer metallerde de artış görüldü. Ölçüm ve model birleşimi, büyük bir nüfusun kısa süreli yüksek derişimlerle karşılaşmış olabileceğine işaret ediyor.",
+        "Bu karşılaştırma iki yangın örneğine dayanıyor. Nüfus maruziyeti bireylerin vücudunda ölçülmedi; model tahmini. Zehirlenme, hastalık veya uzun vadeli sağlık etkileri bu çalışmada belirlenmedi.",
+        "Şehir yangınlarında anlık kimyasal ölçümlerin yayılması, hangi mahallelerin hangi kirleticilerle karşılaştığını anlamaya ve temizlik çalışmalarını önceliklendirmeye yarayabilir."
+      ],
+      "takeaway": "Los Angeles'ta evlerin yandığı Eaton yangınının dumanında kurşun, bitki örtüsünün yandığı normal bir orman yangını dumanına göre 50 kattan fazla yüksek çıktı.",
+      "impact": null,
+      "category": {
+        "slug": "cevre",
+        "label": "Çevre",
+        "url": "kategori/cevre.html"
+      },
+      "tags": [
+        {
+          "slug": "cevre",
+          "label": "cevre",
+          "url": "etiket/cevre.html"
+        },
+        {
+          "slug": "yangin",
+          "label": "yangin",
+          "url": "etiket/yangin.html"
+        },
+        {
+          "slug": "kursun",
+          "label": "kursun",
+          "url": "etiket/kursun.html"
+        },
+        {
+          "slug": "hava",
+          "label": "hava",
+          "url": "etiket/hava.html"
+        },
+        {
+          "slug": "losangeles",
+          "label": "losangeles",
+          "url": "etiket/losangeles.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science Advances (2026)",
+          "url": "https://doi.org/10.1126/sciadv.aei4455"
+        }
+      ],
+      "image_credits": [
+        "Baliaka HD ve ark., Science Advances 2026 (10.1126/sciadv.aei4455), CC BY 4.0",
+        "Christopher Rosario, Wikimedia Commons (Public domain)",
+        "unspecified, made via public record request of CA State, Wikimedia Commons (Public domain)",
+        "Pacific Southwest Forest Service, USDA from USA, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "-dWY18Wtr0o"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/-dWY18Wtr0o"
+        }
+      ]
+    },
+    {
+      "id": "proj_6dde2f0514",
+      "slug": "2026-11-08-memeli-virus-taramasinda-insanla-iliskili-viruslerde-etoburl",
+      "url": "yazi/2026-11-08-memeli-virus-taramasinda-insanla-iliskili-viruslerde-etoburl.html",
+      "date": "2026-11-08T13:00:00+00:00",
+      "date_text": "8 Kasım 2026",
+      "publish_at": "2026-11-08T13:00:00Z",
+      "draft": false,
+      "title": "Memeli virüs taramasında insanla ilişkili virüslerde etoburlar öne çıktı",
+      "standfirst": "296 memeli türüne ait 4.685 metagenom veri kümesinin analizinde insanla ilişkili virüsleri taşıma eğiliminde etobur memeliler öne çıktı.",
+      "paragraphs": [
+        "Bir memeli grubunda çok virüs raporlanması, o grubun doğada mutlaka daha tehlikeli olduğu anlamına gelmez. Bazı hayvanlar salgınlardan sonra diğerlerinden çok daha fazla örneklenmiş olabilir.",
+        "Çin’deki ekip, yayımlanmış konak-virüs listeleri yerine arşivlenmiş 4.685 metagenom veri kümesini ortak bir yöntemle yeniden değerlendirdi. Veri 14 memeli takımına ve 296 türe yayılıyordu. Virüs paylaşımı için gruplar arası ağ da oluşturuldu.",
+        "İnsanla ilişkili virüslerin saptanması ve paylaşım örüntülerinde etobur memeliler dikkat çekti. Etoburlar ile çift parmaklı memeliler arasında da paylaşım sinyali görüldü. Sonuç, yalnızca yarasalara odaklanan basit bir izleme yaklaşımını sorgulatıyor.",
+        "Bu çalışma yeni bulaş olayı gözlemedi. Kedi, köpek veya başka belirli bir türün insana virüs bulaştırdığını kanıtlamıyor. Arşivlerdeki örnekleme eşitsizliği tamamen ortadan kalkmış değil.",
+        "Öncelikli izleme gruplarının daha dengeli verilerle belirlenmesi, yeni salgın risklerinin erken taranmasına yardım edebilir."
+      ],
+      "takeaway": "Yarasalar uzun süredir insana virüs bulaştıran baş şüpheli sayılıyordu.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "virus",
+          "label": "virus",
+          "url": "etiket/virus.html"
+        },
+        {
+          "slug": "salgin",
+          "label": "salgin",
+          "url": "etiket/salgin.html"
+        },
+        {
+          "slug": "memeli",
+          "label": "memeli",
+          "url": "etiket/memeli.html"
+        },
+        {
+          "slug": "yarasa",
+          "label": "yarasa",
+          "url": "etiket/yarasa.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Proceedings of the National Academy of Sciences (PNAS) (2026)",
+          "url": "https://doi.org/10.1073/pnas.2610672123"
+        }
+      ],
+      "image_credits": [],
+      "video": {
+        "youtube": "HFycfU3_tj8"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/HFycfU3_tj8"
+        }
+      ]
+    },
+    {
+      "id": "proj_81dba2842f",
+      "slug": "2026-11-08-farelerde-dort-gunluk-yagli-beslenme-deri-iltihabinin-gidisi",
+      "url": "yazi/2026-11-08-farelerde-dort-gunluk-yagli-beslenme-deri-iltihabinin-gidisi.html",
+      "date": "2026-11-08T03:00:00+00:00",
+      "date_text": "8 Kasım 2026",
+      "publish_at": "2026-11-08T03:00:00Z",
+      "draft": false,
+      "title": "Farelerde dört günlük yağlı beslenme deri iltihabının gidişini değiştirdi",
+      "standfirst": "Erkek farelerde sedef benzeri iltihabın başındaki dört günlük yüksek yağlı yem, hastalığın şiddetini ve sonraki tekrarını etkiledi.",
+      "paragraphs": [
+        "Uzun süreli obezitenin bağışıklığı değiştirebildiği biliniyor. Ancak hastalık başlangıcına denk gelen birkaç günlük beslenme değişikliğinin tek başına önem taşıyıp taşımadığı açık değildi.",
+        "UCSF öncülüğündeki ekip farelerde deri iltihabını kremle başlatarak hastalığın ilk günlerini belirledi. Yüzde 60 enerjisi yağdan gelen laboratuvar yemini farklı dönemlerde verdi; kulak kalınlığını ve sonraki alevlenmeleri karşılaştırdı.",
+        "Dört günlük yağlı yem yalnızca iltihabın başına denk geldiğinde tabloyu ağırlaştırdı. İltihap sakinleştikten sonra tekrar başlatıldığında da önceki kısa beslenmenin etkisi görüldü. Bu, bağışıklık sisteminin hastalığın başlangıcında oluşan çevresel koşullardan etkilenebileceğini düşündürüyor.",
+        "Deney yalnızca erkek farelerde, yapay olarak başlatılan bir sedef benzeri iltihap modelinde yapıldı. İnsanların dört günlük beslenmesinden hastalık veya tedavi sonucu çıkarmak doğru değil. Kullanılan yem günlük insan beslenmesinin birebir karşılığı değil.",
+        "Hastalık alevlenmesindeki hassas zaman pencerelerini anlamak, gelecekte beslenme ve bağışıklık araştırmalarını daha hedefli kurmaya yardımcı olabilir."
+      ],
+      "takeaway": "Farelerde deri iltihabı başlarken verilen yalnızca 4 günlük yağlı yem, iltihabı aylarca süren obezite kadar şiddetlendirdi.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "saglik",
+          "label": "saglik",
+          "url": "etiket/saglik.html"
+        },
+        {
+          "slug": "beslenme",
+          "label": "beslenme",
+          "url": "etiket/beslenme.html"
+        },
+        {
+          "slug": "iltihap",
+          "label": "iltihap",
+          "url": "etiket/iltihap.html"
+        },
+        {
+          "slug": "deri",
+          "label": "deri",
+          "url": "etiket/deri.html"
+        },
+        {
+          "slug": "bagisiklik",
+          "label": "bagisiklik",
+          "url": "etiket/bagisiklik.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-11181-4"
+        }
+      ],
+      "image_credits": [
+        "Commissioned by Understanding Animal Research, Wikimedia Commons (CC BY-SA 4.0)",
+        "Jiang Z ve ark., Nature 2026 (10.1038/s41586-026-11181-4), CC BY 4.0",
+        "Rama, Wikimedia Commons (CC BY-SA 2.0 fr)"
+      ],
+      "video": {
+        "youtube": "8ZOAMwjNCF0"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/8ZOAMwjNCF0"
+        }
+      ]
+    },
+    {
+      "id": "proj_9ecfbe550e",
+      "slug": "2026-11-07-bilimsel-makalelerde-var-olmayan-kaynaklar-daha-sik-goruluyo",
+      "url": "yazi/2026-11-07-bilimsel-makalelerde-var-olmayan-kaynaklar-daha-sik-goruluyo.html",
+      "date": "2026-11-07T13:00:00+00:00",
+      "date_text": "7 Kasım 2026",
+      "publish_at": "2026-11-07T13:00:00Z",
+      "draft": false,
+      "title": "Bilimsel makalelerde var olmayan kaynaklar daha sık görülüyor",
+      "standfirst": "2023–2026 arasında 500 bin makalenin kaynakçası tarandı.",
+      "paragraphs": [
+        "Bilimsel bir iddianın güvenilirliği yalnızca metindeki açıklamaya değil, okurun izleyebileceği kaynaklara da dayanır. Fakat bir atıf başlığı gerçekten var olan bir çalışmaya çıkmayabilir.",
+        "Columbia Üniversitesi ekibi 2023 başı ile Mart 2026 sonu arasında beş bilim alanından 500 bin hakemli makale seçti. Kaynak başlıklarını yedi ayrı veri kaynağında taradı. İşaretlenen kayıtların bir bölümünü uzmanlar bağımsız olarak değerlendirdi.",
+        "619 makalede toplam 1.135 atıf var olmayan kaynak olarak sınıflandırıldı. İşaretlenen örneklerin yüzde 85,8’i uzman değerlendirmesinde doğrulandı. 2023’te yaklaşık 1.600 makalede bir olan oran, 2026’nın ilk çeyreğinde 435 makalede bire çıktı.",
+        "Buradaki teknik etiket “yedi kaynakta bulunamayan başlık” anlamında. Yanlış yazılmış veya eksik kaydedilmiş gerçek çalışmalar olabilir. Çalışma bu durumun yapay zekadan kaynaklandığını ya da yazarların bilerek sahte atıf oluşturduğunu göstermedi. Toplam oran hala binde birin altında.",
+        "Gönderim aşamasında otomatik kaynakça denetimi ve eski yayınları yeniden taramak, bilimsel kaydın doğrulanabilirliğini artırabilir."
+      ],
+      "takeaway": "Beş alanda yayımlanmış 500 bin bilimsel makalenin kaynakçası taranınca, var olmayan çalışmalara yapılan atıflar bulundu.",
+      "impact": null,
+      "category": {
+        "slug": "teknoloji",
+        "label": "Teknoloji",
+        "url": "kategori/teknoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "yapayzeka",
+          "label": "yapayzeka",
+          "url": "etiket/yapayzeka.html"
+        },
+        {
+          "slug": "bilim",
+          "label": "bilim",
+          "url": "etiket/bilim.html"
+        },
+        {
+          "slug": "dogruluk",
+          "label": "dogruluk",
+          "url": "etiket/dogruluk.html"
+        },
+        {
+          "slug": "makale",
+          "label": "makale",
+          "url": "etiket/makale.html"
+        },
+        {
+          "slug": "arastirma",
+          "label": "arastirma",
+          "url": "etiket/arastirma.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (Proceedings of the National Academy of Sciences), cilt 123, sayı 44 (2026)",
+          "url": "https://doi.org/10.1073/pnas.2623869123"
+        }
+      ],
+      "image_credits": [],
+      "video": {
+        "youtube": "k3iGY3J4NYE"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/k3iGY3J4NYE"
+        }
+      ]
+    },
+    {
+      "id": "proj_4cc88805d7",
+      "slug": "2026-11-07-anadolu-agac-halkalari-mezopotamya-takvimini-daraltti",
+      "url": "yazi/2026-11-07-anadolu-agac-halkalari-mezopotamya-takvimini-daraltti.html",
+      "date": "2026-11-07T03:00:00+00:00",
+      "date_text": "7 Kasım 2026",
+      "publish_at": "2026-11-07T03:00:00Z",
+      "draft": false,
+      "title": "Anadolu ağaç halkaları Mezopotamya takvimini daralttı",
+      "standfirst": "Anadolu’daki ahşap kalıntılarının yıllık karbon-14 desenleri MÖ 2072–744 arasına sabitlendi.",
+      "paragraphs": [
+        "Mezopotamya’nın kral listeleri ve ticaret belgeleri olayların sırasını anlatır, fakat her olayı bugünkü takvimde kesin bir yıla yerleştirmek zordur. Aynı tarihsel olay için farklı kronolojiler geliştirilmiştir.",
+        "Araştırmacılar Anadolu’daki eski yapılardan bilinen kerestelerin tek tek yıllık halkalarındaki karbon-14 değişimini ölçtü. Desenleri yılı bilinen referans ağaç dizileriyle eşleştirdi. Buz karotlarında kaydedilmiş eski yanardağ izlerini de bağımsız zaman işareti olarak kullandı.",
+        "Birleşik Anadolu dizisi MÖ 2072 ile MÖ 744 yılları arasına oturdu. Böylece MÖ 2000–1500 arasındaki yarışan tarih şemaları içinde orta-alçak kronoloji güçlü destek kazandı.",
+        "Bu, eski bir sarayın veya yeni bir tabletin keşfi değil, önceden bilinen kerestelerin tarihlenmesi. Ağaç halkaları tek başına orta kronolojinin sekiz yıllık iki sürümünü ayıramıyor; tartışmanın bütün dönemlerde kapandığı söylenemez.",
+        "Takvime bağlanmış halka dizisi, gelecekteki arkeolojik ahşap örnekler için ortak bir referans ve aynı zamanda yıl yıl okunabilen geçmiş iklim kaydı sağlayabilir."
+      ],
+      "takeaway": "Anadolu'daki arkeolojik yapılardan çıkan kerestelerin tek tek yıllık halkalarındaki radyokarbon deseni ölçülerek, birleşik ağaç halkası dizisi MÖ 2072 ile MÖ 744 arasına takvim olarak oturtuldu.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "arkeoloji",
+          "label": "arkeoloji",
+          "url": "etiket/arkeoloji.html"
+        },
+        {
+          "slug": "anadolu",
+          "label": "anadolu",
+          "url": "etiket/anadolu.html"
+        },
+        {
+          "slug": "tarih",
+          "label": "tarih",
+          "url": "etiket/tarih.html"
+        },
+        {
+          "slug": "mezopotamya",
+          "label": "mezopotamya",
+          "url": "etiket/mezopotamya.html"
+        },
+        {
+          "slug": "agachalkasi",
+          "label": "agachalkasi",
+          "url": "etiket/agachalkasi.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (Proceedings of the National Academy of Sciences) (2026)",
+          "url": "https://doi.org/10.1073/pnas.2615871123"
+        }
+      ],
+      "image_credits": [
+        "Michael Gäbler, Wikimedia Commons (CC BY 3.0)",
+        "Mark Landon, Wikimedia Commons (CC BY 4.0)",
+        "Arnoldius, Wikimedia Commons (CC BY-SA 2.5)",
+        "Biswarup Ganguly, Wikimedia Commons (CC BY 3.0)",
+        "Helle Astrid Kjær (Wikimedia Commons), CC BY 4.0",
+        "NOAA, GISP2 buz karotu (Wikimedia Commons), kamu malı",
+        "Fred Romero from Paris, France, Wikimedia Commons (CC BY 2.0)",
+        "Wikimedia Commons, Wikimedia Commons (CC0)"
+      ],
+      "video": {
+        "youtube": "qFnLtlYpO90"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/qFnLtlYpO90"
+        }
+      ]
+    },
+    {
+      "id": "proj_efeefa0d7d",
+      "slug": "2026-11-06-zarar-gormeyen-misir-bitkisi-savunma-kokusunu-once-saldi",
+      "url": "yazi/2026-11-06-zarar-gormeyen-misir-bitkisi-savunma-kokusunu-once-saldi.html",
+      "date": "2026-11-06T13:00:00+00:00",
+      "date_text": "6 Kasım 2026",
+      "publish_at": "2026-11-06T13:00:00Z",
+      "draft": false,
+      "title": "Zarar görmeyen mısır bitkisi savunma kokusunu önce saldı",
+      "standfirst": "Cam odadaki deneyde sağlam mısır bitkisi, savunma kokularını yaralı komşusundan 15–80 dakika önce saldı.",
+      "paragraphs": [
+        "Bitkiler zarar gördüğünde havaya uçucu bileşikler bırakır. Komşu bitkiler bu maddelere yanıt verebilir. Sorun, yanıtın hangi bitkide daha erken ortaya çıktığıydı.",
+        "Bern Üniversitesi ekibi mısır yapraklarını kontrollü biçimde çizdi ve tırtıl ağız salgısı ekledi. Yaralı ve sağlam komşuyu ayrı cam odalarda temiz hava akışı altında izledi. Savunma maddeleri her 15 dakikada bir ölçüldü; belirli koku maddelerini üretemeyen bitkiler de karşılaştırıldı.",
+        "Sağlam komşu birçok savunma kokusunu 15–80 dakika erken saldı. İlk alarmın yaradan hemen çıkan taze çim kokuları olduğu anlaşıldı. Yaralanan bitkinin yaprak gözenekleri hızla kapanırken sağlam komşunun gözenekleri daha uzun süre açık kaldı.",
+        "Yaralı ve sağlam bitkinin gözeneklerinin farklı davranması, erken koku salımına dair güçlü bir açıklama adayı. Ama nedensellik doğrudan doğrulanmadı. Gerçek tırtıl saldırısı, tarla rüzgarı, ürün verimi ve böceklerin doğal düşmanlarının tepkisi henüz sınanmadı.",
+        "Bu koku zincirinin zamanlaması anlaşılırsa, bitkilerin doğal düşmanları çekme sisteminin biyolojik mücadelede kullanılıp kullanılamayacağı daha iyi test edilebilir."
+      ],
+      "takeaway": "Komşusu saldırıya uğrayan mısır bitkisi, kendisi hiç zarar görmediği halde savunma kokularını saldırıya uğrayan bitkiden 15 ile 80 dakika daha önce salmaya başlıyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "bitki",
+          "label": "bitki",
+          "url": "etiket/bitki.html"
+        },
+        {
+          "slug": "koku",
+          "label": "koku",
+          "url": "etiket/koku.html"
+        },
+        {
+          "slug": "misir",
+          "label": "misir",
+          "url": "etiket/misir.html"
+        },
+        {
+          "slug": "tarim",
+          "label": "tarim",
+          "url": "etiket/tarim.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (Proceedings of the National Academy of Sciences) (2026)",
+          "url": "https://doi.org/10.1073/pnas.2604047123"
+        }
+      ],
+      "image_credits": [
+        "Trương Minh Khải, Wikimedia Commons (CC BY 4.0)"
+      ],
+      "video": {
+        "youtube": "gL0m3fz3BJY"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/gL0m3fz3BJY"
+        }
+      ]
+    },
+    {
+      "id": "proj_b7d50725b0",
+      "slug": "2026-11-06-yesil-arabistan-da-su-vardi-ama-tas-alet-izi-yoktu",
+      "url": "yazi/2026-11-06-yesil-arabistan-da-su-vardi-ama-tas-alet-izi-yoktu.html",
+      "date": "2026-11-06T03:00:00+00:00",
+      "date_text": "6 Kasım 2026",
+      "publish_at": "2026-11-06T03:00:00Z",
+      "draft": false,
+      "title": "Yeşil Arabistan'da su vardı ama taş alet izi yoktu",
+      "standfirst": "Rub el Hali’de 125 noktanın 55’inde eski göl izleri görüldü; taranan hat boyunca taş alet bulunmadı.",
+      "paragraphs": [
+        "“Yeşil Arabistan” dönemlerinde bugünkü çölün içinde göller ve otlaklar oluşabiliyordu. Ancak bir bölgede su bulunması, taş alete dayalı tarih öncesi toplulukların orayı uzun süre kullanabildiği anlamına gelmeyebilir.",
+        "Sekiz araştırmacı üç araçla 2023’te Rub el Hali boyunca yaklaşık 1.500 kilometrelik güzergahı taradı. 125 noktada yüzey görüntüleri ve GPS kayıtları toplandı. Ardından Umman’daki onlarca önceki saha çalışmasının sonuçlarını su ve yontulabilir taş haritalarıyla birleştirdiler.",
+        "55 noktada tatlı su göllerinin kalıntıları bulundu, ama taş alet yoktu. Eski yerleşimler genellikle hem suyun hem de yontulabilir kayanın bulunduğu kuşaklarda toplanıyordu. Suya erişilebilen alanların önemli kısmı taş sağlayan jeolojiden yoksundu.",
+        "Bu çalışma kazı değil yüzey taraması. Çölün tamamı incelenmedi; dolayısıyla hiçbir insanın oradan geçmediği sonucu çıkmaz. Göl tarihlemesi de yakındaki bağımsız tarihlenmiş tortulara yapılan eşleştirmeye dayanıyor.",
+        "İnsanların eski yayılımını modelleyen araştırmaların su kadar alet hammaddesini de hesaba katması, gerçekten kullanılabilir yaşam alanlarını daha doğru belirlemeye yardım edebilir."
+      ],
+      "takeaway": "Arabistan'daki Rub el Hali kum denizinin tam ortasından geçen yaklaşık 1500 kilometrelik bir yüzey taraması yapıldı.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "arkeoloji",
+          "label": "arkeoloji",
+          "url": "etiket/arkeoloji.html"
+        },
+        {
+          "slug": "arabistan",
+          "label": "arabistan",
+          "url": "etiket/arabistan.html"
+        },
+        {
+          "slug": "col",
+          "label": "col",
+          "url": "etiket/col.html"
+        },
+        {
+          "slug": "insan",
+          "label": "insan",
+          "url": "etiket/insan.html"
+        },
+        {
+          "slug": "tarih",
+          "label": "tarih",
+          "url": "etiket/tarih.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Nature (2026)",
+          "url": "https://doi.org/10.1038/s41586-026-11180-5"
+        }
+      ],
+      "image_credits": [
+        "MODIS Land Rapid Response Team, NASA GSFC, Wikimedia Commons (Public domain)",
+        "Dellmour RW ve ark., Nature 2026 (10.1038/s41586-026-11180-5), CC BY 4.0",
+        "Winchester Museum Service, Laura McLean, 2006-11-25 08:58:13, Wikimedia Commons (CC BY-SA 2.0)"
+      ],
+      "video": {
+        "youtube": "E0x4C-CDcoo"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/E0x4C-CDcoo"
+        }
+      ]
+    },
+    {
+      "id": "proj_eee7784581",
+      "slug": "2026-11-05-atlantik-yelkovanlari-uzun-ucusta-gunes-pusulasini-sasirabil",
+      "url": "yazi/2026-11-05-atlantik-yelkovanlari-uzun-ucusta-gunes-pusulasini-sasirabil.html",
+      "date": "2026-11-05T13:00:00+00:00",
+      "date_text": "5 Kasım 2026",
+      "publish_at": "2026-11-05T13:00:00Z",
+      "draft": false,
+      "title": "Atlantik yelkovanları uzun uçuşta güneş pusulasını şaşırabiliyor",
+      "standfirst": "20 yıllık GPS izleri, Manx yelkovanlarının doğuya dönüş uçuşlarında yaklaşık yedi derecelik güneş pusulası hatasıyla uyumlu sapmalar gösterdi.",
+      "paragraphs": [
+        "Güneşi pusula olarak kullanan bir hayvan yalnızca Güneş’in konumunu değil, günün saatini de bilmek zorunda. Uzun doğu-batı uçuşları iç saatle yerel güneş zamanını birbirinden ayırabilir.",
+        "Oxford Üniversitesi ekibi 1.045 Manx yelkovanının 3.688 beslenme yolculuğunu kapsayan yirmi yıllık GPS kayıtlarını inceledi. Doğuya dönüşteki sapmaları güneş pusulası hatası ve Dünya’nın manyetik alanı gibi olasılıklarla karşılaştırdı.",
+        "Rotadaki yaklaşık yedi derecelik sapmalar, yerel zamanın bir saate kadar gerisinde kalan iç saat hipoteziyle uyumluydu. Kıyı görünür olduğunda da örüntü sürüyordu. Yetişkin kuşlar rotayı tekrar tekrar düzeltebildiğinden ek uçuş mesafesinin küçük olması bekleniyor.",
+        "İç saat doğrudan ölçülmedi. Yön hatasının tam büyüklüğü haber kaynaklarında farklı aktarılmış; güvenli değer yaklaşık yedi derece. Bulgular bu türün kuluçka dönemi uçuşlarından geliyor, uykusuzluk veya sağlık zararı gösterilmiyor.",
+        "Çalışma, zaman biyolojisiyle navigasyon arasındaki ilişkiyi gerçek doğa koşullarında test etmenin ve uzun uçuşların davranışa etkilerini araştırmanın yolunu açıyor."
+      ],
+      "takeaway": "Deniz kuşları da jet lag oluyor: Atlantik'te doğuya, yuvasına hızla uçan Manx yelkovanlarının iç saati yerel zamandan bir saate kadar geri kalıyor, bu da güneş pusulasını ortalama 7 derece şaşırtıyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "kus",
+          "label": "kus",
+          "url": "etiket/kus.html"
+        },
+        {
+          "slug": "jetlag",
+          "label": "jetlag",
+          "url": "etiket/jetlag.html"
+        },
+        {
+          "slug": "denizkusu",
+          "label": "denizkusu",
+          "url": "etiket/denizkusu.html"
+        },
+        {
+          "slug": "gunes",
+          "label": "gunes",
+          "url": "etiket/gunes.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science (2026)",
+          "url": "https://doi.org/10.1126/science.adz2542"
+        }
+      ],
+      "image_credits": [
+        "Hobbyfotowiki, Wikimedia Commons (CC0)",
+        "Ómar Runólfsson, Wikimedia Commons (CC BY 2.0)",
+        "Martin Reith, Wikimedia Commons (CC BY-SA 3.0)",
+        "Skomerphoto, Wikimedia Commons (CC BY-SA 4.0)",
+        "Hugh Venables, Wikimedia Commons (CC BY-SA 2.0)",
+        "Cornelius Nozeman / Christiaan Andreas Sepp / Jan Christiaan Sepp / Martinus Hou, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "MskF6BIkk_8"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/MskF6BIkk_8"
+        }
+      ]
+    },
+    {
+      "id": "proj_4f4a8b8d62",
+      "slug": "2026-11-05-kus-sakimasi-insan-konusmasiyla-ortak-ses-duzenleri-tasiyor",
+      "url": "yazi/2026-11-05-kus-sakimasi-insan-konusmasiyla-ortak-ses-duzenleri-tasiyor.html",
+      "date": "2026-11-05T03:00:00+00:00",
+      "date_text": "5 Kasım 2026",
+      "publish_at": "2026-11-05T03:00:00Z",
+      "draft": false,
+      "title": "Kuş şakıması insan konuşmasıyla ortak ses düzenleri taşıyor",
+      "standfirst": "367 kuş türünün şakıması 52 insan diliyle karşılaştırıldı.",
+      "paragraphs": [
+        "İnsan konuşmasında olduğu gibi kuş şakımalarında da notaların süreleri ve yükseklikleri gelişigüzel dağılmaz. Bazı kuşlar seslerini öğrenirken, bazıları öğrenmeden benzer örüntüler üretir.",
+        "McGill Üniversitesi öncülüğündeki ekip 367 türden yaklaşık 5.900 şakıma ve 74.500’ü aşkın kuş ses öğesi inceledi. Bu örnekleri 52 insan dilindeki konuşma ve şarkı dizileriyle karşılaştırdı. Öğrenen ve öğrenmeyen kuş gruplarını ayrıca değerlendirdi.",
+        "Küçük ses yüksekliği aralıklarının tercih edilmesi, ritmin düzenli olması ve dizinin son sesinin uzaması üç ortak eğilimdi. Üstelik ses öğrenen kuşların bu bakımdan sistematik bir üstünlüğü yoktu.",
+        "Bu akustik bir benzerlik; anlam, dilbilgisi veya kuşların insan konuşmasını anlaması gösterilmedi. Ortaklığın ses üretimindeki fiziksel sınırlardan kaynaklanabileceği önerisi de henüz deneyle sınanmadı.",
+        "Bu karşılaştırma, ses üretme ve algılama sistemlerinde farklı hayvanların hangi temel düzenlerle karşılaştığını anlamaya ve daha az çalışılan kuş gruplarını incelemeye yardım edebilir."
+      ],
+      "takeaway": "367 kuş türünün şakıması 52 insan diliyle karşılaştırıldı: kuşlar da insanlar gibi küçük perde aralıkları, düzenli ritim ve cümle sonunda uzayan sesler kullanıyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "kus",
+          "label": "kus",
+          "url": "etiket/kus.html"
+        },
+        {
+          "slug": "ses",
+          "label": "ses",
+          "url": "etiket/ses.html"
+        },
+        {
+          "slug": "dil",
+          "label": "dil",
+          "url": "etiket/dil.html"
+        },
+        {
+          "slug": "konusma",
+          "label": "konusma",
+          "url": "etiket/konusma.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science (2026)",
+          "url": "https://doi.org/10.1126/science.adr9983"
+        }
+      ],
+      "image_credits": [
+        "Александр Чегодаев, Wikimedia Commons (CC0)",
+        "Andrew Bazdyrev, Wikimedia Commons (CC BY 4.0)"
+      ],
+      "video": {
+        "youtube": "z5H0ycU7oT4"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/z5H0ycU7oT4"
+        }
+      ]
+    },
+    {
+      "id": "proj_cef078f2dc",
+      "slug": "2026-11-04-sahra-da-bulunan-goktasi-mars-in-en-eski-kabuguna-acilan-pen",
+      "url": "yazi/2026-11-04-sahra-da-bulunan-goktasi-mars-in-en-eski-kabuguna-acilan-pen.html",
+      "date": "2026-11-04T13:00:00+00:00",
+      "date_text": "4 Kasım 2026",
+      "publish_at": "2026-11-04T13:00:00Z",
+      "draft": false,
+      "title": "Sahra'da bulunan göktaşı Mars'ın en eski kabuğuna açılan pencere",
+      "standfirst": "Teghaza 001 göktaşının yaşı en az 4,1 milyar yıl.",
+      "paragraphs": [
+        "Mars yüzeyinin büyük bölümü çok eski olsa da Dünya’ya düşen Mars göktaşlarının çoğu jeolojik açıdan daha genç. Gezegenin oluşumundan hemen sonraki kabuğa ait doğrudan örnekler çok az.",
+        "2022’de Mali’de bulunan Teghaza 001, bir magma kayası. Araştırmacılar küçük zirkon kristallerinde uranyum-kurşun tarihlemesi yaptı. Feldspat ve piroksen minerallerini, kaya dokusunu ve oksijen izotoplarını da inceledi.",
+        "Tarihleme en az 4,1 milyar yıllık bir oluşumu destekliyor. Kaya, Mars’ın eski kabuğuna ve farklı bir ilkel manto kaynağına işaret ediyor. Suyla değişmiş mineraller ve oksijen izotopları, uzaya fırlatılmadan önce oksijen-18 bakımından zengin sıvılarla etkileştiğini düşündürüyor.",
+        "4,1 milyar yıl kesin tarih değil, bir alt sınır. Taş daha yaşlı olabilir. Mars’ta yaşam, okyanus veya ılıman iklim gösterilmiş değil. Mars üzerinde tam olarak nereden geldiği de henüz öneri düzeyinde.",
+        "Böyle eski doğal örnekler, Mars’ın ilk kabuğunun ve su geçmişinin nasıl oluştuğunu genç göktaşlarının veremediği ayrıntılarla sınamayı sağlayabilir."
+      ],
+      "takeaway": "Sahra'da bulunan Teghaza 001 adlı Mars göktaşı en az 4,1 milyar yıl önce oluştu.",
+      "impact": null,
+      "category": {
+        "slug": "uzay",
+        "label": "Astronomi",
+        "url": "kategori/uzay.html"
+      },
+      "tags": [
+        {
+          "slug": "uzay",
+          "label": "uzay",
+          "url": "etiket/uzay.html"
+        },
+        {
+          "slug": "mars",
+          "label": "mars",
+          "url": "etiket/mars.html"
+        },
+        {
+          "slug": "goktasi",
+          "label": "goktasi",
+          "url": "etiket/goktasi.html"
+        },
+        {
+          "slug": "jeoloji",
+          "label": "jeoloji",
+          "url": "etiket/jeoloji.html"
+        },
+        {
+          "slug": "gezegen",
+          "label": "gezegen",
+          "url": "etiket/gezegen.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Science (2026)",
+          "url": "https://doi.org/10.1126/science.adz5646"
+        }
+      ],
+      "image_credits": [
+        "NASA/JPL/University of Arizona, Wikimedia Commons (Public domain)",
+        "Emmanuel Roquette, Wikimedia Commons (CC BY-SA 4.0)",
+        "Boris Lobastov, Wikimedia Commons (CC BY 4.0)",
+        "Carles Millan, Wikimedia Commons (CC BY 3.0)",
+        "Shannon Heinle, Wikimedia Commons (CC0)",
+        "NASA/JPL/JHU-APL/MSSS/Brown University, Wikimedia Commons (Public domain)",
+        "NASA, Wikimedia Commons (Public domain)"
+      ],
+      "video": {
+        "youtube": "PRWVdkzdQto"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/PRWVdkzdQto"
+        }
+      ]
+    },
+    {
+      "id": "proj_41779f05ea",
+      "slug": "2026-11-04-ziplayan-orumcekler-uykularini-rem-benzeri-evreyle-telafi-ed",
+      "url": "yazi/2026-11-04-ziplayan-orumcekler-uykularini-rem-benzeri-evreyle-telafi-ed.html",
+      "date": "2026-11-04T03:00:00+00:00",
+      "date_text": "4 Kasım 2026",
+      "publish_at": "2026-11-04T03:00:00Z",
+      "draft": false,
+      "title": "Zıplayan örümcekler uykularını REM benzeri evreyle telafi ediyor",
+      "standfirst": "Bir gecelik uyku bölünmesinden sonra zıplayan örümcekler REM benzeri evreye yaklaşık yüzde 80 daha fazla zaman ayırdı.",
+      "paragraphs": [
+        "Uyku yalnızca insanlara ya da memelilere özgü değil. Ama omurgasızlarda uyku evrelerini tanımak zordur; insanlarda kullanılan beyin dalgası ölçütleri her hayvanda doğrudan karşılaştırılamaz.",
+        "Bonn Üniversitesi ekibi küçük saçaklı zıplayan örümcekleri geceleri kızılötesi kameralarla izledi. Sabit uyku duruşu, hareketsizlik ve uyandırılma güçlüğünü test etti. Daha sonra bir gece kaplara canlı meyve sinekleri koyarak uykularını böldü.",
+        "Örümcekler ertesi gece REM benzeri bir davranış evresine yaklaşık yüzde 80 daha fazla zaman ayırdı. Artışın nedeni evrelerin uzaması değil, daha sık görülmesiydi. Sese en geç tepki de bu evrede alındı. Bu, yalnızca dinlenme değil, telafi edilen bir uyku düzeni bulunduğunu destekliyor.",
+        "Beyin etkinliği ölçülmediği için doğru terim “REM benzeri”. Örümceklerin rüya görüp görmediği bilinmiyor. Veriler tek bir türden ve sınırlı bir örneklemden geliyor; bütün örümceklere genellenemiyor.",
+        "Bu tür karşılaştırmalar, uykunun evrimsel kökenlerini ve yapay ışık ya da çevresel değişimlerin eklembacaklı uykusuna nasıl etki edebileceğini araştırmaya zemin hazırlıyor."
+      ],
+      "takeaway": "Saçaklı zıplayan örümcek (Portia fimbriata) gerçekten uyuyor ve uykusu iki evreli; bunlardan biri REM uykusuna benziyor.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "biyoloji",
+          "label": "biyoloji",
+          "url": "etiket/biyoloji.html"
+        },
+        {
+          "slug": "orumcek",
+          "label": "orumcek",
+          "url": "etiket/orumcek.html"
+        },
+        {
+          "slug": "uyku",
+          "label": "uyku",
+          "url": "etiket/uyku.html"
+        },
+        {
+          "slug": "rem",
+          "label": "rem",
+          "url": "etiket/rem.html"
+        },
+        {
+          "slug": "hayvandavranisi",
+          "label": "hayvandavranisi",
+          "url": "etiket/hayvandavranisi.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (Proceedings of the National Academy of Sciences) (2026)",
+          "url": "https://doi.org/10.1073/pnas.2618030123"
+        }
+      ],
+      "image_credits": [
+        "sunnyjosef, Wikimedia Commons (CC BY 4.0)",
+        "Alexis, Wikimedia Commons (CC BY 4.0)"
+      ],
+      "video": {
+        "youtube": "vHDf4ptMcQg"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/vHDf4ptMcQg"
+        }
+      ]
+    },
+    {
+      "id": "proj_4abfe35ab8",
+      "slug": "2026-11-03-mumya-ilaclarinda-aloe-izleri-ilk-kez-molekullerle-gosterild",
+      "url": "yazi/2026-11-03-mumya-ilaclarinda-aloe-izleri-ilk-kez-molekullerle-gosterild.html",
+      "date": "2026-11-03T13:00:00+00:00",
+      "date_text": "3 Kasım 2026",
+      "publish_at": "2026-11-03T13:00:00Z",
+      "draft": false,
+      "title": "Mumya ilaçlarında aloe izleri ilk kez moleküllerle gösterildi",
+      "standfirst": "24 tarihsel nesnenin ikisinde aloe ile ilişkili moleküller saptandı.",
+      "paragraphs": [
+        "Antik Mısır mumyalarından elde edildiği söylenen tozlar, yüzyıllarca eczanelerde “mumia” adıyla satıldı. Fakat bu tarihi malzemelerin içerikleri her zaman belgelendirilmemişti. Aynı isimle satılan iki ürünün aynı şey olması gerekmiyordu.",
+        "Marburg Üniversitesi öncülüğündeki ekip 41 yazılı kaynağı inceledi, müze koleksiyonlarından gelen 24 nesneye molekül analizi uyguladı. Nesneler arasında mumyalama kalıntıları, sargılar, mumyalanmış parçalar ve eski eczane ürünleri vardı. Aloe ile ilişkili bileşikler yalnızca iki örnekte çıktı.",
+        "Bu iki örnekten biri MÖ sekizinci yüzyıla tarihlenen bir kafatası, diğeri 18. yüzyıl eczane ürünüydü. Birkaç örnekte yaşlanmış iğne yapraklı ağaç reçinelerinin izleri de görüldü. Ayrı bir mumya ilacı özü köpek böbreği hücreleriyle yapılan grip deneyinde orta düzeyde koruyucu etki gösterdi; en bol bileşen tek başına etkili değildi.",
+        "Aloe bitkisinin hangi türü olduğu belirlenmedi. İki örnek, aloe kullanımının bütün mumyalarda yaygın olduğunu göstermez. Grip deneyi başka bir örnekle ve hücre kültüründe yapıldı; insan tedavisine ilişkin bir sonuç çıkarmak için henüz erken.",
+        "Yazılı kayıt, nesne kökeni ve molekül izlerini bir araya getirmek, müzelerdeki kimliği belirsiz eşyaların geçmişini daha güvenilir biçimde çözmeye yardım edebilir."
+      ],
+      "takeaway": "Yüzyıllarca ilaç diye satılan mumya tozu ve mumyalama kalıntıları molekül düzeyinde incelendi.",
+      "impact": null,
+      "category": {
+        "slug": "biyoloji",
+        "label": "Biyoloji",
+        "url": "kategori/biyoloji.html"
+      },
+      "tags": [
+        {
+          "slug": "arkeoloji",
+          "label": "arkeoloji",
+          "url": "etiket/arkeoloji.html"
+        },
+        {
+          "slug": "mumya",
+          "label": "mumya",
+          "url": "etiket/mumya.html"
+        },
+        {
+          "slug": "tarih",
+          "label": "tarih",
+          "url": "etiket/tarih.html"
+        },
+        {
+          "slug": "misir",
+          "label": "misir",
+          "url": "etiket/misir.html"
+        },
+        {
+          "slug": "aloe",
+          "label": "aloe",
+          "url": "etiket/aloe.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "PNAS (Proceedings of the National Academy of Sciences) (2026)",
+          "url": "https://doi.org/10.1073/pnas.2624362123"
+        }
+      ],
+      "image_credits": [
+        "J. Paul Getty Museum, Wikimedia Commons (CC0)",
+        "Reise-Line, Wikimedia Commons (CC0)",
+        "Wikimedia Commons, Wikimedia Commons (CC0)"
+      ],
+      "video": {
+        "youtube": "nrbhToC-BbE"
+      },
+      "watch": [
+        {
+          "label": "YouTube'da izle",
+          "url": "https://www.youtube.com/shorts/nrbhToC-BbE"
+        }
+      ]
+    },
     {
       "id": "proj_df7ce15b01",
       "slug": "2026-11-01-ayni-enzim-biyoplastigi-ve-penisilini-nasil-parcalayabiliyor",
@@ -1636,12 +4534,17 @@
         "Ben Mills, Wikimedia Commons (Public domain)"
       ],
       "video": {
-        "youtube": "Q0DfaolFWJk"
+        "youtube": "Q0DfaolFWJk",
+        "instagram": "https://www.instagram.com/reel/DfQ7oGMk7Nm/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/Q0DfaolFWJk"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfQ7oGMk7Nm/"
         }
       ]
     },
@@ -1714,12 +4617,17 @@
         "Understanding Animal Research, Wikimedia Commons (CC BY 2.0)"
       ],
       "video": {
-        "youtube": "_fIuqrnQK2Q"
+        "youtube": "_fIuqrnQK2Q",
+        "instagram": "https://www.instagram.com/reel/DfQ5QFgE8eQ/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/_fIuqrnQK2Q"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfQ5QFgE8eQ/"
         }
       ]
     },
@@ -1789,12 +4697,17 @@
         "NASA, ESA, H. Bond (STScI), and M. Barstow (University of Leicester); modified b, Wikimedia Commons (Public domain)"
       ],
       "video": {
-        "youtube": "k2H8Ql0C93k"
+        "youtube": "k2H8Ql0C93k",
+        "instagram": "https://www.instagram.com/reel/DfQxV7Lk_BX/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/k2H8Ql0C93k"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfQxV7Lk_BX/"
         }
       ]
     },
@@ -1862,12 +4775,17 @@
         "either Billy or Grace Tao, Wikimedia Commons (CC BY-SA 2.0)"
       ],
       "video": {
-        "youtube": "om4nS1S6Dpo"
+        "youtube": "om4nS1S6Dpo",
+        "instagram": "https://www.instagram.com/reel/DfQsqn-E5Qm/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/om4nS1S6Dpo"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfQsqn-E5Qm/"
         }
       ]
     },
@@ -1931,12 +4849,17 @@
       ],
       "image_credits": [],
       "video": {
-        "youtube": "fiq21YlBRDQ"
+        "youtube": "fiq21YlBRDQ",
+        "instagram": "https://www.instagram.com/reel/DfQ0er3k_4C/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/fiq21YlBRDQ"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfQ0er3k_4C/"
         }
       ]
     },
@@ -2011,12 +4934,17 @@
         "National Park Service, Alaska Region, Wikimedia Commons (Public domain)"
       ],
       "video": {
-        "youtube": "tvnz5xP9OxM"
+        "youtube": "tvnz5xP9OxM",
+        "instagram": "https://www.instagram.com/reel/DfQioQ5k9q9/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/tvnz5xP9OxM"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfQioQ5k9q9/"
         }
       ]
     },
@@ -2160,12 +5088,17 @@
         "AFADadcADSasd, Wikimedia Commons (CC BY 4.0)"
       ],
       "video": {
-        "youtube": "LGJJ9sr5kBE"
+        "youtube": "LGJJ9sr5kBE",
+        "instagram": "https://www.instagram.com/reel/DfQYY-Jk2dg/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/LGJJ9sr5kBE"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfQYY-Jk2dg/"
         }
       ]
     },
@@ -2237,12 +5170,17 @@
         "fred_pnd, Wikimedia Commons (CC BY 2.0)"
       ],
       "video": {
-        "youtube": "WiciBE1GOfY"
+        "youtube": "WiciBE1GOfY",
+        "instagram": "https://www.instagram.com/reel/DfQqOGSk6_H/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/WiciBE1GOfY"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfQqOGSk6_H/"
         }
       ]
     },
@@ -2310,12 +5248,17 @@
         "Shannon Heinle, Wikimedia Commons (CC0)"
       ],
       "video": {
-        "youtube": "s6zSChavZN0"
+        "youtube": "s6zSChavZN0",
+        "instagram": "https://www.instagram.com/reel/DfQOPALEyIT/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/s6zSChavZN0"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfQOPALEyIT/"
         }
       ]
     },
@@ -2385,12 +5328,17 @@
         "Sean McGrath, Wikimedia Commons (CC BY 2.0)"
       ],
       "video": {
-        "youtube": "QG32ppyL5WA"
+        "youtube": "QG32ppyL5WA",
+        "instagram": "https://www.instagram.com/reel/DfQIzzrk0Tw/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/QG32ppyL5WA"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfQIzzrk0Tw/"
         }
       ]
     },
@@ -2542,12 +5490,17 @@
         "Eric A. Lazo-Wasem, Wikimedia Commons (CC0)"
       ],
       "video": {
-        "youtube": "ksQ8yQsMNn4"
+        "youtube": "ksQ8yQsMNn4",
+        "instagram": "https://www.instagram.com/reel/DfQ-CNgk23D/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/ksQ8yQsMNn4"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfQ-CNgk23D/"
         }
       ]
     },
@@ -3646,12 +6599,17 @@
         "Levine AT ve ark., Proceedings of the National Academy of Sciences of the United States of America 2026 (10.1073/pnas.2532413123), CC BY 4.0"
       ],
       "video": {
-        "youtube": "abOS5t0dtes"
+        "youtube": "abOS5t0dtes",
+        "instagram": "https://www.instagram.com/reel/DfRBWr-E94p/"
       },
       "watch": [
         {
           "label": "YouTube'da izle",
           "url": "https://www.youtube.com/shorts/abOS5t0dtes"
+        },
+        {
+          "label": "Instagram'da izle",
+          "url": "https://www.instagram.com/reel/DfRBWr-E94p/"
         }
       ]
     },
