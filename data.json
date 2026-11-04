@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T07:46:06+00:00",
+  "generated_at": "2026-11-04T18:06:53+00:00",
   "site": {
     "name": "Kutudaki Kedi",
     "tagline": "Sorgula. Gözlemle. Keşfet.",
@@ -30,13 +30,13 @@
     {
       "slug": "uzay",
       "label": "Astronomi",
-      "count": 9,
+      "count": 10,
       "url": "kategori/uzay.html"
     },
     {
       "slug": "biyoloji",
       "label": "Biyoloji",
-      "count": 48,
+      "count": 50,
       "url": "kategori/biyoloji.html"
     },
     {
@@ -80,7 +80,7 @@
     {
       "slug": "biyoloji",
       "label": "biyoloji",
-      "count": 22,
+      "count": 23,
       "url": "etiket/biyoloji.html"
     },
     {
@@ -104,8 +104,14 @@
     {
       "slug": "uzay",
       "label": "uzay",
-      "count": 8,
+      "count": 9,
       "url": "etiket/uzay.html"
+    },
+    {
+      "slug": "arkeoloji",
+      "label": "arkeoloji",
+      "count": 7,
+      "url": "etiket/arkeoloji.html"
     },
     {
       "slug": "cevre",
@@ -120,22 +126,16 @@
       "url": "etiket/genetik.html"
     },
     {
-      "slug": "arkeoloji",
-      "label": "arkeoloji",
-      "count": 6,
-      "url": "etiket/arkeoloji.html"
+      "slug": "tarih",
+      "label": "tarih",
+      "count": 7,
+      "url": "etiket/tarih.html"
     },
     {
       "slug": "saglik",
       "label": "saglik",
       "count": 6,
       "url": "etiket/saglik.html"
-    },
-    {
-      "slug": "tarih",
-      "label": "tarih",
-      "count": 6,
-      "url": "etiket/tarih.html"
     },
     {
       "slug": "teknoloji",
@@ -156,6 +156,12 @@
       "url": "etiket/fosil.html"
     },
     {
+      "slug": "gezegen",
+      "label": "gezegen",
+      "count": 5,
+      "url": "etiket/gezegen.html"
+    },
+    {
       "slug": "yapayzeka",
       "label": "yapayzeka",
       "count": 5,
@@ -174,12 +180,6 @@
       "url": "etiket/deniz.html"
     },
     {
-      "slug": "gezegen",
-      "label": "gezegen",
-      "count": 4,
-      "url": "etiket/gezegen.html"
-    },
-    {
       "slug": "malzeme",
       "label": "malzeme",
       "count": 4,
@@ -190,6 +190,12 @@
       "label": "paleontoloji",
       "count": 4,
       "url": "etiket/paleontoloji.html"
+    },
+    {
+      "slug": "uyku",
+      "label": "uyku",
+      "count": 4,
+      "url": "etiket/uyku.html"
     },
     {
       "slug": "buzul",
@@ -234,6 +240,12 @@
       "url": "etiket/kuantum.html"
     },
     {
+      "slug": "mars",
+      "label": "mars",
+      "count": 3,
+      "url": "etiket/mars.html"
+    },
+    {
       "slug": "nobel-2026",
       "label": "nobel 2026",
       "count": 3,
@@ -250,12 +262,6 @@
       "label": "resif",
       "count": 3,
       "url": "etiket/resif.html"
-    },
-    {
-      "slug": "uyku",
-      "label": "uyku",
-      "count": 3,
-      "url": "etiket/uyku.html"
     },
     {
       "slug": "yapay-zeka",
@@ -324,6 +330,18 @@
       "url": "etiket/elektrik.html"
     },
     {
+      "slug": "goktasi",
+      "label": "goktasi",
+      "count": 2,
+      "url": "etiket/goktasi.html"
+    },
+    {
+      "slug": "hayvandavranisi",
+      "label": "hayvandavranisi",
+      "count": 2,
+      "url": "etiket/hayvandavranisi.html"
+    },
+    {
       "slug": "isitme",
       "label": "isitme",
       "count": 2,
@@ -346,12 +364,6 @@
       "label": "kus",
       "count": 2,
       "url": "etiket/kus.html"
-    },
-    {
-      "slug": "mars",
-      "label": "mars",
-      "count": 2,
-      "url": "etiket/mars.html"
     },
     {
       "slug": "matematik",
@@ -496,6 +508,12 @@
       "label": "alaska",
       "count": 1,
       "url": "etiket/alaska.html"
+    },
+    {
+      "slug": "aloe",
+      "label": "aloe",
+      "count": 1,
+      "url": "etiket/aloe.html"
     },
     {
       "slug": "amerika",
@@ -876,12 +894,6 @@
       "url": "etiket/giyilebilir.html"
     },
     {
-      "slug": "goktasi",
-      "label": "goktasi",
-      "count": 1,
-      "url": "etiket/goktasi.html"
-    },
-    {
       "slug": "gronland",
       "label": "grönland",
       "count": 1,
@@ -904,12 +916,6 @@
       "label": "hayvan",
       "count": 1,
       "url": "etiket/hayvan.html"
-    },
-    {
-      "slug": "hayvandavranisi",
-      "label": "hayvandavranisi",
-      "count": 1,
-      "url": "etiket/hayvandavranisi.html"
     },
     {
       "slug": "hayvanlar",
@@ -946,6 +952,12 @@
       "label": "izotop",
       "count": 1,
       "url": "etiket/izotop.html"
+    },
+    {
+      "slug": "jeoloji",
+      "label": "jeoloji",
+      "count": 1,
+      "url": "etiket/jeoloji.html"
     },
     {
       "slug": "jet",
@@ -1146,6 +1158,12 @@
       "url": "etiket/mikroskop.html"
     },
     {
+      "slug": "misir",
+      "label": "misir",
+      "count": 1,
+      "url": "etiket/misir.html"
+    },
+    {
       "slug": "modernlesme",
       "label": "modernlesme",
       "count": 1,
@@ -1156,6 +1174,12 @@
       "label": "muhendislik",
       "count": 1,
       "url": "etiket/muhendislik.html"
+    },
+    {
+      "slug": "mumya",
+      "label": "mumya",
+      "count": 1,
+      "url": "etiket/mumya.html"
     },
     {
       "slug": "naegleria",
@@ -1230,6 +1254,12 @@
       "url": "etiket/ortacag.html"
     },
     {
+      "slug": "orumcek",
+      "label": "orumcek",
+      "count": 1,
+      "url": "etiket/orumcek.html"
+    },
+    {
       "slug": "otlak",
       "label": "otlak",
       "count": 1,
@@ -1264,6 +1294,12 @@
       "label": "protein",
       "count": 1,
       "url": "etiket/protein.html"
+    },
+    {
+      "slug": "rem",
+      "label": "rem",
+      "count": 1,
+      "url": "etiket/rem.html"
     },
     {
       "slug": "rem-uykusu",
@@ -4258,7 +4294,7 @@
       "url": "yazi/2026-11-04-sahra-da-bulunan-goktasi-mars-in-en-eski-kabuguna-acilan-pen.html",
       "date": "2026-11-04T13:00:00+00:00",
       "date_text": "4 Kasım 2026",
-      "publish_at": "2026-11-04T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Sahra'da bulunan göktaşı Mars'ın en eski kabuğuna açılan pencere",
       "standfirst": "Teghaza 001 göktaşının yaşı en az 4,1 milyar yıl.",
@@ -4334,7 +4370,7 @@
       "url": "yazi/2026-11-04-ziplayan-orumcekler-uykularini-rem-benzeri-evreyle-telafi-ed.html",
       "date": "2026-11-04T03:00:00+00:00",
       "date_text": "4 Kasım 2026",
-      "publish_at": "2026-11-04T03:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Zıplayan örümcekler uykularını REM benzeri evreyle telafi ediyor",
       "standfirst": "Bir gecelik uyku bölünmesinden sonra zıplayan örümcekler REM benzeri evreye yaklaşık yüzde 80 daha fazla zaman ayırdı.",
@@ -4405,7 +4441,7 @@
       "url": "yazi/2026-11-03-mumya-ilaclarinda-aloe-izleri-ilk-kez-molekullerle-gosterild.html",
       "date": "2026-11-03T13:00:00+00:00",
       "date_text": "3 Kasım 2026",
-      "publish_at": "2026-11-03T13:00:00Z",
+      "publish_at": null,
       "draft": false,
       "title": "Mumya ilaçlarında aloe izleri ilk kez moleküllerle gösterildi",
       "standfirst": "24 tarihsel nesnenin ikisinde aloe ile ilişkili moleküller saptandı.",
